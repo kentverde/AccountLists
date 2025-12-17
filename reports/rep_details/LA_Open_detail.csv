@@ -1,0 +1,31 @@
+Rep Detail Report: LA Open
+Generated: 2025-12-17 17:41:13
+
+================================================================================
+SUMMARY METRICS
+================================================================================
+Total Accounts (after alignment): 1
+Total 2024 Revenue: $1,725.00
+Total 2025 Revenue: $1,310.00
+
+Accounts Removed (Floor): 1
+Revenue Removed (Floor): $1,310.00
+
+Final Accounts (Keeping): 0
+Final Revenue (Keeping): $0.00
+
+Zero Revenue Accounts: 0
+Zero Revenue New 2025 Accounts: 0
+
+================================================================================
+BREAKDOWN BY SEGMENT
+================================================================================
+Group 3 Medium Potential: 1 accounts, $1,310.00 revenue, 1 removed
+
+================================================================================
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts, $1,310.00
+(DESIGN segment + Not new in 2025)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1020674,Studio Keros,DESIGN,ARCHITECT_BUILDER,1725.0,1310.0,2.0,1.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,7/10/2024,False,STABLE_GROWTH,40.8,True
+

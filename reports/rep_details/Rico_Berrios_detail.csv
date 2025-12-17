@@ -1,0 +1,53 @@
+Rep Detail Report: Rico Berrios
+Generated: 2025-12-17 17:41:12
+
+================================================================================
+SUMMARY METRICS
+================================================================================
+Total Accounts (after alignment): 3
+Total 2024 Revenue: $516.00
+Total 2025 Revenue: $8,564.00
+
+Accounts Removed (Floor): 1
+Revenue Removed (Floor): $0.00
+
+Final Accounts (Keeping): 2
+Final Revenue (Keeping): $8,564.00
+
+Zero Revenue Accounts: 2
+Zero Revenue New 2025 Accounts: 1
+
+================================================================================
+BREAKDOWN BY SEGMENT
+================================================================================
+Group 2 High Potential: 1 accounts, $8,564.00 revenue, 0 removed
+Group 3 High Potential: 1 accounts, $0.00 revenue, 0 removed
+Group 3 Low Potential: 1 accounts, $0.00 revenue, 1 removed
+
+================================================================================
+GROUP 2 (MID REVENUE) - KEEPING: 1 accounts, $8,564.00
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1000640,Designer Rug Warehouse,RETAIL,MULTIPLE_LOCATIONS,516.0,8564.0,2.0,4.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/20/2020,False,STABLE_GROWTH,72.9,False
+
+================================================================================
+GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts, $0.00
+(Non-DESIGN accounts or New 2025 customers - protected from floor)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1038010,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/11/2025,True,STABLE_GROWTH,23.0,False
+
+================================================================================
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts, $0.00
+(DESIGN segment + Not new in 2025)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1017439,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/21/2021,False,STABLE_GROWTH,0.0,True
+
+================================================================================
+ZERO REVENUE ACCOUNTS: 2 total (1 keeping, 1 removed)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1038010,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/11/2025,True,STABLE_GROWTH,23.0,False
+1017439,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/21/2021,False,STABLE_GROWTH,0.0,True
+

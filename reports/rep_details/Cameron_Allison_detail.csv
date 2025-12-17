@@ -1,0 +1,75 @@
+Rep Detail Report: Cameron Allison
+Generated: 2025-12-17 17:41:12
+
+================================================================================
+SUMMARY METRICS
+================================================================================
+Total Accounts (after alignment): 24
+Total 2024 Revenue: $11,120,642.92
+Total 2025 Revenue: $8,828,535.41
+
+Accounts Removed (Floor): 0
+Revenue Removed (Floor): $0.00
+
+Final Accounts (Keeping): 24
+Final Revenue (Keeping): $8,828,535.41
+
+Zero Revenue Accounts: 2
+Zero Revenue New 2025 Accounts: 0
+
+================================================================================
+BREAKDOWN BY SEGMENT
+================================================================================
+Group 1 High Potential: 9 accounts, $7,338,519.03 revenue, 0 removed
+Group 1 Medium Potential: 6 accounts, $1,441,245.95 revenue, 0 removed
+Group 2 Medium Potential: 3 accounts, $32,927.13 revenue, 0 removed
+Group 2 High Potential: 2 accounts, $12,467.30 revenue, 0 removed
+Group 3 Low Potential: 4 accounts, $3,376.00 revenue, 0 removed
+
+================================================================================
+GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts, $8,779,764.98
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1000734,"Wayfair, LLC",E-TAILER,MASS,4940008.32,4420455.54,50258.0,44381.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,9/17/2019,False,STABLE_GROWTH,70.0,False
+1003732,Rugsdirect.com,E-TAILER,NICHE,2208645.85,1968133.09,9622.0,9240.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,8/22/2019,False,STABLE_GROWTH,71.2,False
+1003738,Overstock.Com,E-TAILER,MASS,1074716.78,437526.97,9975.0,4858.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,12/29/2019,False,STABLE_GROWTH,63.2,False
+1003800,Lulu and Georgia,E-TAILER,SPECIALTY,689446.39,417340.64,2708.0,1396.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,9/2/2019,False,STABLE_GROWTH,65.6,False
+1012850,"Lowe's Home Centers, LLC",E-TAILER,SPECIALTY,460406.8,274324.42,2165.0,1303.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/20/2020,False,STABLE_GROWTH,64.0,False
+1007839,Homedepot.com,E-TAILER,MASS,391602.23,270061.83,2090.0,2075.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/2/2020,False,STABLE_GROWTH,65.0,False
+1003747,Payless Rugs,E-TAILER,NICHE,125701.2,217686.25,248.0,418.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,8/21/2019,False,STABLE_GROWTH,76.9,False
+1012814,Incredible Rugs and Decor,RETAIL,SINGLE_LOCATION,343470.59,191662.25,576.0,388.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,3/12/2020,False,HIGH_GROWTH,71.7,False
+1009866,Kathykuohome.com,E-TAILER,SPECIALTY,98009.95,131664.1,402.0,509.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/29/2019,False,STABLE_GROWTH,71.7,False
+1005889,"Havenly, Inc.",E-TAILER,SPECIALTY,116288.3,113991.9,654.0,688.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,8/4/2019,False,STABLE_GROWTH,71.4,False
+1026773,Amazon 3P,E-TAILER,SPECIALTY,0.0,103523.86,0.0,373.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,2/28/2025,True,STABLE_GROWTH,77.2,False
+1008800,"Houzz, Inc.",E-TAILER,MASS,95421.26,98374.95,313.0,388.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/2/2020,False,STABLE_GROWTH,70.5,False
+1003750,Plushrugs.Com,E-TAILER,NICHE,57103.3,93027.09,193.0,304.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/5/2019,False,STABLE_GROWTH,74.8,False
+1001889,One Kings Lane,E-TAILER,SPECIALTY,23663.08,21423.71,141.0,129.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,11/28/2019,False,STABLE_GROWTH,65.5,False
+1005713,"DecoratorsBest, LLC",E-TAILER,SPECIALTY,29283.8,20568.38,189.0,88.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,3/17/2023,False,STABLE_GROWTH,63.5,False
+
+================================================================================
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts, $45,394.43
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1013801,"Wayfair, LLC - CASTLEGATE",E-TAILER,MASS,332759.29,14869.98,5815.0,277.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/1/2019,False,STABLE_GROWTH,58.4,False
+1007664,Target Corporation,E-TAILER,MASS,86458.18,13254.15,1310.0,585.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,12/31/2019,False,STABLE_GROWTH,55.5,False
+1037540,Dev Rugs Collection,INTERNAL,EMPLOYEEFRIENDFAMILY,0.0,7372.8,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,9/10/2025,True,STABLE_GROWTH,34.9,False
+1012640,"Paynes Gray, Inc.",E-TAILER,SPECIALTY,2687.8,5094.5,15.0,21.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/14/2020,False,STABLE_GROWTH,72.9,False
+1008298,"YDesign Group, LLC and lumens.com",E-TAILER,SPECIALTY,6708.6,4803.0,48.0,33.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/3/2020,False,STABLE_GROWTH,59.5,False
+
+================================================================================
+GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts, $3,376.00
+(Non-DESIGN accounts or New 2025 customers - protected from floor)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1005353,"Urban Outfitters, Inc.",E-TAILER,SPECIALTY,9697.0,2221.0,134.0,34.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/27/2019,False,STABLE_GROWTH,0.0,False
+1003952,Cost Plus World Market,E-TAILER,MASS,10219.5,1155.0,76.0,7.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/27/2019,False,STABLE_GROWTH,30.5,False
+1002158,Modernrugs.Com,E-TAILER,NICHE,480.3,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2020,False,STABLE_GROWTH,0.0,False
+1003769,Burkedecor.Com,E-TAILER,SPECIALTY,17864.4,0.0,404.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/19/2019,False,STABLE_GROWTH,0.0,False
+
+================================================================================
+ZERO REVENUE ACCOUNTS: 2 total (2 keeping, 0 removed)
+================================================================================
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
+1002158,Modernrugs.Com,E-TAILER,NICHE,480.3,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2020,False,STABLE_GROWTH,0.0,False
+1003769,Burkedecor.Com,E-TAILER,SPECIALTY,17864.4,0.0,404.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/19/2019,False,STABLE_GROWTH,0.0,False
+
