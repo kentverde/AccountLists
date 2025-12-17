@@ -1,18 +1,18 @@
 Rep Detail Report: Glen Giordano
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 41
-Total 2024 Revenue: $8,506,168.79
-Total 2025 Revenue: $8,864,631.59
+Total 2024 Revenue: 8506168.79
+Total 2025 Revenue: 8864631.59
 
 Accounts Removed (Floor): 1
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 40
-Final Revenue (Keeping): $8,864,631.59
+Final Revenue (Keeping): 8864631.59
 
 Zero Revenue Accounts: 20
 Zero Revenue New 2025 Accounts: 0
@@ -20,14 +20,14 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 Medium Potential: 9 accounts, $6,692,727.97 revenue, 0 removed
-Group 1 High Potential: 7 accounts, $2,126,102.46 revenue, 0 removed
-Group 1 Low Potential: 1 accounts, $42,979.00 revenue, 0 removed
-Group 2 Medium Potential: 3 accounts, $16,704.86 revenue, 0 removed
-Group 3 Low Potential: 21 accounts, $-13,882.70 revenue, 1 removed
+Group 1 Medium Potential: 9 accounts | 6692727.97 revenue | 0 removed
+Group 1 High Potential: 7 accounts | 2126102.46 revenue | 0 removed
+Group 1 Low Potential: 1 accounts | 42979.00 revenue | 0 removed
+Group 2 Medium Potential: 3 accounts | 16704.86 revenue | 0 removed
+Group 3 Low Potential: 21 accounts | -13882.70 revenue | 1 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts, $8,861,809.43
+GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | 8861809.43 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003922,Home Goods DI,RETAIL,OFF-PRICE,3729019.6,3119737.03,397.0,289.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,10/9/2019,False,STABLE_GROWTH,49.0,False
@@ -49,7 +49,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1006400,Al Tayer Insignia LLC,RETAIL,NATIONAL,14532.0,42979.0,3.0,2.0,HIGH_REVENUE,LOW_POTENTIAL,Group 1 Low Potential,2/19/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 3 accounts, $16,704.86
+GROUP 2 (MID REVENUE) - KEEPING: 3 accounts | 16704.86 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1009275,Kelaty Rugs Isreal (515007284),RETAIL,SINGLE_LOCATION,392.5,7895.0,1.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,12/23/2019,False,STABLE_GROWTH,65.0,False
@@ -57,7 +57,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1007779,Rooms To Go Outdoor,RETAIL,NATIONAL,0.0,4138.2,0.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/15/2019,False,STABLE_GROWTH,52.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts, $-13,882.70
+GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts | -13882.70 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -83,14 +83,14 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001691,Tj Maxx-Marshalls,RETAIL,OFF-PRICE,0.0,-13882.7,0.0,2.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/27/2023,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1018117,Starwood Capital,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/3/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 20 total (19 keeping, 1 removed)
+ZERO REVENUE ACCOUNTS: 20 total | 19 keeping | 1 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000429,Tuesday Morning,RETAIL,OFF-PRICE,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/11/2019,False,HIGH_GROWTH,0.0,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Betsy Goslin
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 152
-Total 2024 Revenue: $2,652,431.28
-Total 2025 Revenue: $2,540,597.42
+Total 2024 Revenue: 2652431.28
+Total 2025 Revenue: 2540597.42
 
 Accounts Removed (Floor): 12
-Revenue Removed (Floor): $13,136.00
+Revenue Removed (Floor): 13136.00
 
 Final Accounts (Keeping): 140
-Final Revenue (Keeping): $2,527,461.42
+Final Revenue (Keeping): 2527461.42
 
 Zero Revenue Accounts: 9
 Zero Revenue New 2025 Accounts: 0
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 23 accounts, $1,140,722.78 revenue, 0 removed
-Group 1 Medium Potential: 20 accounts, $643,701.10 revenue, 0 removed
-Group 2 Medium Potential: 51 accounts, $400,198.43 revenue, 0 removed
-Group 2 High Potential: 28 accounts, $328,451.75 revenue, 0 removed
-Group 3 Medium Potential: 11 accounts, $16,510.00 revenue, 6 removed
-Group 3 High Potential: 2 accounts, $4,030.10 revenue, 1 removed
-Group 3 Low Potential: 16 accounts, $3,997.60 revenue, 5 removed
-Group 2 Low Potential: 1 accounts, $2,985.66 revenue, 0 removed
+Group 1 High Potential: 23 accounts | 1140722.78 revenue | 0 removed
+Group 1 Medium Potential: 20 accounts | 643701.10 revenue | 0 removed
+Group 2 Medium Potential: 51 accounts | 400198.43 revenue | 0 removed
+Group 2 High Potential: 28 accounts | 328451.75 revenue | 0 removed
+Group 3 Medium Potential: 11 accounts | 16510.00 revenue | 6 removed
+Group 3 High Potential: 2 accounts | 4030.10 revenue | 1 removed
+Group 3 Low Potential: 16 accounts | 3997.60 revenue | 5 removed
+Group 2 Low Potential: 1 accounts | 2985.66 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 43 accounts, $1,784,423.88
+GROUP 1 (HIGH REVENUE) - KEEPING: 43 accounts | 1784423.88 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000127,Outrageous Interiors,RETAIL,MULTIPLE_LOCATIONS,141981.6,162114.67,136.0,145.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/12/2019,False,STABLE_GROWTH,71.6,False
@@ -78,7 +78,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1000031,Oriental Designer Rugs,RETAIL,SINGLE_LOCATION,3700.0,18046.15,5.0,15.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/6/2020,False,STABLE_GROWTH,80.8,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 80 accounts, $731,635.84
+GROUP 2 (MID REVENUE) - KEEPING: 80 accounts | 731635.84 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014599,"Accessorize It! Designs, LLC",RETAIL,SINGLE_LOCATION,5180.0,17842.4,10.0,18.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/14/2020,False,STABLE_GROWTH,84.0,False
@@ -163,7 +163,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1004351,Urban Cottage,RETAIL,SINGLE_LOCATION,2856.5,2612.97,4.0,10.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/28/2020,False,STABLE_GROWTH,55.5,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts, $11,401.70
+GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts | 11401.70 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -186,7 +186,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1034947,Off 85 LLC,RETAIL,SINGLE_LOCATION,8074.5,-324.0,2.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/14/2024,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 12 accounts, $13,136.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 12 accounts | 13136.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -204,7 +204,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1018788,Curry & Co. LLC,DESIGN,DESIGN_FIRM,1035.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/29/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 9 total (6 keeping, 3 removed)
+ZERO REVENUE ACCOUNTS: 9 total | 6 keeping | 3 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1017972,Hawthorne House Inc,RETAIL,SINGLE_LOCATION,644.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/24/2020,False,STABLE_GROWTH,0.0,False

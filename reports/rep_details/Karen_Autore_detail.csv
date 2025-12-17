@@ -1,18 +1,18 @@
 Rep Detail Report: Karen Autore
-Generated: 2025-12-17 17:41:11
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 207
-Total 2024 Revenue: $2,997,019.25
-Total 2025 Revenue: $2,884,935.27
+Total 2024 Revenue: 2997019.25
+Total 2025 Revenue: 2884935.27
 
 Accounts Removed (Floor): 33
-Revenue Removed (Floor): $24,553.18
+Revenue Removed (Floor): 24553.18
 
 Final Accounts (Keeping): 174
-Final Revenue (Keeping): $2,860,382.09
+Final Revenue (Keeping): 2860382.09
 
 Zero Revenue Accounts: 31
 Zero Revenue New 2025 Accounts: 0
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 36 accounts, $1,634,043.12 revenue, 0 removed
-Group 1 Medium Potential: 17 accounts, $529,316.40 revenue, 0 removed
-Group 2 Medium Potential: 52 accounts, $364,392.54 revenue, 0 removed
-Group 2 High Potential: 32 accounts, $302,671.83 revenue, 0 removed
-Group 3 Medium Potential: 27 accounts, $31,247.48 revenue, 18 removed
-Group 2 Low Potential: 2 accounts, $14,156.00 revenue, 0 removed
-Group 3 Low Potential: 38 accounts, $7,086.50 revenue, 15 removed
-Group 3 High Potential: 3 accounts, $2,021.40 revenue, 0 removed
+Group 1 High Potential: 36 accounts | 1634043.12 revenue | 0 removed
+Group 1 Medium Potential: 17 accounts | 529316.40 revenue | 0 removed
+Group 2 Medium Potential: 52 accounts | 364392.54 revenue | 0 removed
+Group 2 High Potential: 32 accounts | 302671.83 revenue | 0 removed
+Group 3 Medium Potential: 27 accounts | 31247.48 revenue | 18 removed
+Group 2 Low Potential: 2 accounts | 14156.00 revenue | 0 removed
+Group 3 Low Potential: 38 accounts | 7086.50 revenue | 15 removed
+Group 3 High Potential: 3 accounts | 2021.40 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 53 accounts, $2,163,359.52
+GROUP 1 (HIGH REVENUE) - KEEPING: 53 accounts | 2163359.52 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1009837,Tribus Design Studio LLC,DESIGN,DESIGN_FIRM,146265.31,183591.61,67.0,79.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/13/2019,False,STABLE_GROWTH,71.5,False
@@ -88,7 +88,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1015061,Smith Gsell Design Studio,DESIGN,DESIGN_FIRM,6505.0,18664.8,2.0,6.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/20/2019,False,STABLE_GROWTH,70.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 86 accounts, $681,220.37
+GROUP 2 (MID REVENUE) - KEEPING: 86 accounts | 681220.37 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007658,Casual Furniture World,RETAIL,MULTIPLE_LOCATIONS,17480.73,16985.01,36.0,36.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,9/23/2019,False,STABLE_GROWTH,73.2,False
@@ -179,7 +179,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016713,Magnolia & Vine,RETAIL,SINGLE_LOCATION,0.0,2620.0,0.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/16/2020,False,STABLE_GROWTH,65.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 35 accounts, $15,802.20
+GROUP 3 (LOW REVENUE) - KEEPING: 35 accounts | 15802.20 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -220,7 +220,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1000005,"Carpet One By Henry, Inc.",RETAIL,SINGLE_LOCATION,1515.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/18/2022,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 33 accounts, $24,553.18
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 33 accounts | 24553.18 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -259,7 +259,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1010909,"JSF Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,3498.0,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/30/2019,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 31 total (18 keeping, 13 removed)
+ZERO REVENUE ACCOUNTS: 31 total | 18 keeping | 13 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000005,"Carpet One By Henry, Inc.",RETAIL,SINGLE_LOCATION,1515.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/18/2022,False,STABLE_GROWTH,0.0,False

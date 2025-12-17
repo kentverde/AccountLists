@@ -1,18 +1,18 @@
 Rep Detail Report: Steve Goldfeder
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 160
-Total 2024 Revenue: $142,579.72
-Total 2025 Revenue: $212,981.42
+Total 2024 Revenue: 142579.72
+Total 2025 Revenue: 212981.42
 
 Accounts Removed (Floor): 85
-Revenue Removed (Floor): $14,013.22
+Revenue Removed (Floor): 14013.22
 
 Final Accounts (Keeping): 75
-Final Revenue (Keeping): $198,968.20
+Final Revenue (Keeping): 198968.20
 
 Zero Revenue Accounts: 100
 Zero Revenue New 2025 Accounts: 30
@@ -20,23 +20,23 @@ Zero Revenue New 2025 Accounts: 30
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 High Potential: 11 accounts, $81,591.78 revenue, 0 removed
-Group 2 Medium Potential: 13 accounts, $57,553.91 revenue, 0 removed
-Group 1 High Potential: 1 accounts, $29,991.97 revenue, 0 removed
-Group 1 Medium Potential: 1 accounts, $19,638.00 revenue, 0 removed
-Group 3 Medium Potential: 9 accounts, $11,425.82 revenue, 8 removed
-Group 3 High Potential: 46 accounts, $8,700.54 revenue, 0 removed
-Group 3 Low Potential: 79 accounts, $4,079.40 revenue, 77 removed
+Group 2 High Potential: 11 accounts | 81591.78 revenue | 0 removed
+Group 2 Medium Potential: 13 accounts | 57553.91 revenue | 0 removed
+Group 1 High Potential: 1 accounts | 29991.97 revenue | 0 removed
+Group 1 Medium Potential: 1 accounts | 19638.00 revenue | 0 removed
+Group 3 Medium Potential: 9 accounts | 11425.82 revenue | 8 removed
+Group 3 High Potential: 46 accounts | 8700.54 revenue | 0 removed
+Group 3 Low Potential: 79 accounts | 4079.40 revenue | 77 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 2 accounts, $49,629.97
+GROUP 1 (HIGH REVENUE) - KEEPING: 2 accounts | 49629.97 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036656,The Farrell Companies,DESIGN,DESIGN_FIRM,0.0,29991.97,0.0,5.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,4/10/2025,True,STABLE_GROWTH,63.6,False
 1027240,The Beechwood Organization,DESIGN,DESIGN_FIRM,3920.0,19638.0,1.0,11.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,5/9/2024,False,STABLE_GROWTH,68.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 24 accounts, $139,145.69
+GROUP 2 (MID REVENUE) - KEEPING: 24 accounts | 139145.69 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1010911,Devorah Friedman Decor,DESIGN,DESIGN_FIRM,0.0,16754.26,0.0,12.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,2/3/2025,True,STABLE_GROWTH,72.5,False
@@ -65,7 +65,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021932,Connors Contract Furniture,DESIGN,HOSPITALITY,0.0,2655.0,0.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,5/27/2022,False,STABLE_GROWTH,46.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 49 accounts, $10,192.54
+GROUP 3 (LOW REVENUE) - KEEPING: 49 accounts | 10192.54 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -120,7 +120,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036451,Create Architectural Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,-27.2,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/21/2025,True,STABLE_GROWTH,21.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 85 accounts, $14,013.22
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 85 accounts | 14013.22 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -211,7 +211,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1010322,III View Design and Construction,DESIGN,DESIGN_FIRM,345.0,-20.4,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/17/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 100 total (32 keeping, 68 removed)
+ZERO REVENUE ACCOUNTS: 100 total | 32 keeping | 68 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1035561,Belso Design and Build,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,2/5/2025,True,STABLE_GROWTH,20.6,False

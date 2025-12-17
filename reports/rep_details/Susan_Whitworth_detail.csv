@@ -1,18 +1,18 @@
 Rep Detail Report: Susan Whitworth
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 148
-Total 2024 Revenue: $1,418,968.01
-Total 2025 Revenue: $1,585,036.97
+Total 2024 Revenue: 1418968.01
+Total 2025 Revenue: 1585036.97
 
 Accounts Removed (Floor): 53
-Revenue Removed (Floor): $18,851.50
+Revenue Removed (Floor): 18851.50
 
 Final Accounts (Keeping): 95
-Final Revenue (Keeping): $1,566,185.47
+Final Revenue (Keeping): 1566185.47
 
 Zero Revenue Accounts: 61
 Zero Revenue New 2025 Accounts: 5
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 5
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 19 accounts, $1,189,901.65 revenue, 0 removed
-Group 2 High Potential: 18 accounts, $184,346.10 revenue, 0 removed
-Group 2 Medium Potential: 21 accounts, $140,620.76 revenue, 0 removed
-Group 1 Medium Potential: 2 accounts, $40,605.36 revenue, 0 removed
-Group 3 Medium Potential: 19 accounts, $22,775.10 revenue, 13 removed
-Group 3 High Potential: 11 accounts, $5,859.00 revenue, 0 removed
-Group 3 Low Potential: 58 accounts, $929.00 revenue, 40 removed
+Group 1 High Potential: 19 accounts | 1189901.65 revenue | 0 removed
+Group 2 High Potential: 18 accounts | 184346.10 revenue | 0 removed
+Group 2 Medium Potential: 21 accounts | 140620.76 revenue | 0 removed
+Group 1 Medium Potential: 2 accounts | 40605.36 revenue | 0 removed
+Group 3 Medium Potential: 19 accounts | 22775.10 revenue | 13 removed
+Group 3 High Potential: 11 accounts | 5859.00 revenue | 0 removed
+Group 3 Low Potential: 58 accounts | 929.00 revenue | 40 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 21 accounts, $1,230,507.01
+GROUP 1 (HIGH REVENUE) - KEEPING: 21 accounts | 1230507.01 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1004228,Rug Studio,RETAIL,SINGLE_LOCATION,249632.1,287764.33,498.0,524.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/4/2019,False,HIGH_GROWTH,77.9,False
@@ -55,7 +55,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011096,Liz MacPhail Interiors,DESIGN,DESIGNER_INDEPENDENT,2845.0,18225.0,2.0,8.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,6/24/2020,False,HIGH_GROWTH,73.3,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 39 accounts, $324,966.86
+GROUP 2 (MID REVENUE) - KEEPING: 39 accounts | 324966.86 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011136,"UpMarket, LLC",RETAIL,SINGLE_LOCATION,15023.9,17425.48,18.0,15.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,11/27/2018,False,HIGH_GROWTH,74.8,False
@@ -99,7 +99,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1002845,Interior Trade Cartel,DESIGN,DESIGN_FIRM,0.0,2615.0,0.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/10/2020,False,HIGH_GROWTH,56.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 35 accounts, $10,711.60
+GROUP 3 (LOW REVENUE) - KEEPING: 35 accounts | 10711.60 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -140,7 +140,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001100,Collectic Home,RETAIL,SINGLE_LOCATION,860.0,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/15/2020,False,HIGH_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 53 accounts, $18,851.50
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 53 accounts | 18851.50 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -199,7 +199,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1034944,Titus Muncy Interiors,DESIGN,DESIGNER_INDEPENDENT,915.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/5/2024,False,HIGH_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 61 total (22 keeping, 39 removed)
+ZERO REVENUE ACCOUNTS: 61 total | 22 keeping | 39 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1027661,CF Designs,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/17/2025,True,HIGH_GROWTH,24.2,False

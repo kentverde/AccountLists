@@ -1,18 +1,18 @@
 Rep Detail Report: Chapel Conley
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 174
-Total 2024 Revenue: $1,421,694.73
-Total 2025 Revenue: $1,617,986.54
+Total 2024 Revenue: 1421694.73
+Total 2025 Revenue: 1617986.54
 
 Accounts Removed (Floor): 53
-Revenue Removed (Floor): $28,271.98
+Revenue Removed (Floor): 28271.98
 
 Final Accounts (Keeping): 121
-Final Revenue (Keeping): $1,589,714.56
+Final Revenue (Keeping): 1589714.56
 
 Zero Revenue Accounts: 40
 Zero Revenue New 2025 Accounts: 3
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 3
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 21 accounts, $823,323.67 revenue, 0 removed
-Group 2 Medium Potential: 42 accounts, $303,203.64 revenue, 0 removed
-Group 2 High Potential: 29 accounts, $275,157.10 revenue, 0 removed
-Group 1 Medium Potential: 7 accounts, $173,836.85 revenue, 0 removed
-Group 3 Medium Potential: 24 accounts, $31,623.98 revenue, 16 removed
-Group 3 High Potential: 6 accounts, $4,441.00 revenue, 1 removed
-Group 2 Low Potential: 1 accounts, $3,402.00 revenue, 0 removed
-Group 3 Low Potential: 44 accounts, $2,998.30 revenue, 36 removed
+Group 1 High Potential: 21 accounts | 823323.67 revenue | 0 removed
+Group 2 Medium Potential: 42 accounts | 303203.64 revenue | 0 removed
+Group 2 High Potential: 29 accounts | 275157.10 revenue | 0 removed
+Group 1 Medium Potential: 7 accounts | 173836.85 revenue | 0 removed
+Group 3 Medium Potential: 24 accounts | 31623.98 revenue | 16 removed
+Group 3 High Potential: 6 accounts | 4441.00 revenue | 1 removed
+Group 2 Low Potential: 1 accounts | 3402.00 revenue | 0 removed
+Group 3 Low Potential: 44 accounts | 2998.30 revenue | 36 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 28 accounts, $997,160.52
+GROUP 1 (HIGH REVENUE) - KEEPING: 28 accounts | 997160.52 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1012295,Moxie Design Studio,DESIGN,DESIGN_FIRM,45706.26,89069.53,33.0,49.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,3/18/2020,False,STABLE_GROWTH,82.2,False
@@ -63,7 +63,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011386,Shop the Studio at Design Mart,DESIGN,DESIGN_FIRM,22295.57,18037.0,15.0,14.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,9/18/2019,False,STABLE_GROWTH,67.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 72 accounts, $581,762.74
+GROUP 2 (MID REVENUE) - KEEPING: 72 accounts | 581762.74 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014340,Ambiance Interiors  Carmel,RETAIL,SINGLE_LOCATION,20737.6,17651.68,5.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,12/8/2020,False,STABLE_GROWTH,60.2,False
@@ -140,7 +140,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017631,Hills Home Design Studio,DESIGN,DESIGN_FIRM,6032.04,2723.0,3.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/25/2020,False,STABLE_GROWTH,49.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 21 accounts, $10,791.30
+GROUP 3 (LOW REVENUE) - KEEPING: 21 accounts | 10791.30 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -167,7 +167,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/6/2025,True,STABLE_GROWTH,24.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 53 accounts, $28,271.98
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 53 accounts | 28271.98 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -226,7 +226,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005700,"TRG Architects, Inc.",DESIGN,ARCHITECT_BUILDER,6428.7,-34.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/6/2019,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 40 total (9 keeping, 31 removed)
+ZERO REVENUE ACCOUNTS: 40 total | 9 keeping | 31 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/26/2025,True,STABLE_GROWTH,17.0,False

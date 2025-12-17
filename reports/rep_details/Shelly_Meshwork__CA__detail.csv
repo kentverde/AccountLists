@@ -1,18 +1,18 @@
 Rep Detail Report: Shelly Meshwork (CA)
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 475
-Total 2024 Revenue: $2,237,042.31
-Total 2025 Revenue: $2,118,559.28
+Total 2024 Revenue: 2237042.31
+Total 2025 Revenue: 2118559.28
 
 Accounts Removed (Floor): 217
-Revenue Removed (Floor): $21,821.92
+Revenue Removed (Floor): 21821.92
 
 Final Accounts (Keeping): 258
-Final Revenue (Keeping): $2,096,737.36
+Final Revenue (Keeping): 2096737.36
 
 Zero Revenue Accounts: 271
 Zero Revenue New 2025 Accounts: 10
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 10
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 21 accounts, $1,029,927.27 revenue, 0 removed
-Group 2 Medium Potential: 64 accounts, $468,550.51 revenue, 0 removed
-Group 1 Medium Potential: 9 accounts, $278,223.59 revenue, 0 removed
-Group 2 High Potential: 31 accounts, $266,004.25 revenue, 0 removed
-Group 3 Medium Potential: 34 accounts, $31,594.67 revenue, 15 removed
-Group 3 Low Potential: 289 accounts, $15,527.06 revenue, 202 removed
-Group 2 Low Potential: 3 accounts, $14,429.18 revenue, 0 removed
-Group 3 High Potential: 24 accounts, $14,302.75 revenue, 0 removed
+Group 1 High Potential: 21 accounts | 1029927.27 revenue | 0 removed
+Group 2 Medium Potential: 64 accounts | 468550.51 revenue | 0 removed
+Group 1 Medium Potential: 9 accounts | 278223.59 revenue | 0 removed
+Group 2 High Potential: 31 accounts | 266004.25 revenue | 0 removed
+Group 3 Medium Potential: 34 accounts | 31594.67 revenue | 15 removed
+Group 3 Low Potential: 289 accounts | 15527.06 revenue | 202 removed
+Group 2 Low Potential: 3 accounts | 14429.18 revenue | 0 removed
+Group 3 High Potential: 24 accounts | 14302.75 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 30 accounts, $1,308,150.86
+GROUP 1 (HIGH REVENUE) - KEEPING: 30 accounts | 1308150.86 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008030,Canadian Heritage Designs,RETAIL,MULTIPLE_LOCATIONS,220446.82,197147.04,268.0,323.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/18/2019,False,STABLE_GROWTH,70.3,False
@@ -65,7 +65,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009393,Jenny Martin Design,DESIGN,DESIGNER_INDEPENDENT,46729.03,18090.8,14.0,12.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/27/2020,False,STABLE_GROWTH,64.5,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 98 accounts, $748,983.94
+GROUP 2 (MID REVENUE) - KEEPING: 98 accounts | 748983.94 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019447,Arcadia Modern Home Inc.,RETAIL,SINGLE_LOCATION,22370.0,17074.7,31.0,27.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/17/2022,False,STABLE_GROWTH,65.6,False
@@ -168,7 +168,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1015037,Harbour Home Interiors.com,RETAIL,SINGLE_LOCATION,9813.0,2552.8,4.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/29/2020,False,STABLE_GROWTH,43.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 130 accounts, $39,602.56
+GROUP 3 (LOW REVENUE) - KEEPING: 130 accounts | 39602.56 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -304,7 +304,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003856,SS Shelly Meshwork (Canada),INTERNAL,SALES_REP,0.0,-47.44,1.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/25/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 217 accounts, $21,821.92
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 217 accounts | 21821.92 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -527,7 +527,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021434,Amanda Evans Interiors,DESIGN,DESIGN_FIRM,50.0,-136.75,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/31/2022,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 271 total (84 keeping, 187 removed)
+ZERO REVENUE ACCOUNTS: 271 total | 84 keeping | 187 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/25/2025,True,STABLE_GROWTH,16.8,False

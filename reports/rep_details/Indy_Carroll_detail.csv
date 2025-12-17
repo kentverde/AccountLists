@@ -1,18 +1,18 @@
 Rep Detail Report: Indy Carroll
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 168
-Total 2024 Revenue: $0.00
-Total 2025 Revenue: $55,101.10
+Total 2024 Revenue: 0.00
+Total 2025 Revenue: 55101.10
 
 Accounts Removed (Floor): 7
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 161
-Final Revenue (Keeping): $55,101.10
+Final Revenue (Keeping): 55101.10
 
 Zero Revenue Accounts: 108
 Zero Revenue New 2025 Accounts: 101
@@ -20,12 +20,12 @@ Zero Revenue New 2025 Accounts: 101
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 3 High Potential: 156 accounts, $36,528.60 revenue, 0 removed
-Group 2 High Potential: 5 accounts, $18,572.50 revenue, 0 removed
-Group 3 Low Potential: 7 accounts, $0.00 revenue, 7 removed
+Group 3 High Potential: 156 accounts | 36528.60 revenue | 0 removed
+Group 2 High Potential: 5 accounts | 18572.50 revenue | 0 removed
+Group 3 Low Potential: 7 accounts | 0.00 revenue | 7 removed
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 5 accounts, $18,572.50
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts | 18572.50 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037715,"Carol Ann Falso Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,0.0,4498.0,0.0,3.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,8/21/2025,True,STABLE_GROWTH,57.2,False
@@ -35,7 +35,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037649,Emilie Pires LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,3158.5,0.0,6.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,8/6/2025,True,STABLE_GROWTH,60.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 156 accounts, $36,528.60
+GROUP 3 (LOW REVENUE) - KEEPING: 156 accounts | 36528.60 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -197,7 +197,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037499,Caltrology,RETAIL,SINGLE_LOCATION,0.0,-47.0,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,7/11/2025,True,STABLE_GROWTH,30.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 7 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 7 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -210,7 +210,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038560,Mae Miller Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 108 total (101 keeping, 7 removed)
+ZERO REVENUE ACCOUNTS: 108 total | 101 keeping | 7 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037145,Mclaughlin & Co Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/14/2025,True,STABLE_GROWTH,18.5,False

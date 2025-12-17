@@ -1,18 +1,18 @@
 Rep Detail Report: Maggie McCoy
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 88
-Total 2024 Revenue: $118,676.80
-Total 2025 Revenue: $326,398.22
+Total 2024 Revenue: 118676.80
+Total 2025 Revenue: 326398.22
 
 Accounts Removed (Floor): 55
-Revenue Removed (Floor): $12,150.78
+Revenue Removed (Floor): 12150.78
 
 Final Accounts (Keeping): 33
-Final Revenue (Keeping): $314,247.44
+Final Revenue (Keeping): 314247.44
 
 Zero Revenue Accounts: 54
 Zero Revenue New 2025 Accounts: 7
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 7
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 2 accounts, $143,867.65 revenue, 0 removed
-Group 1 Medium Potential: 2 accounts, $58,748.00 revenue, 0 removed
-Group 2 Medium Potential: 8 accounts, $57,366.28 revenue, 0 removed
-Group 2 High Potential: 5 accounts, $48,004.62 revenue, 0 removed
-Group 3 Medium Potential: 9 accounts, $10,793.48 revenue, 8 removed
-Group 3 High Potential: 12 accounts, $4,954.29 revenue, 0 removed
-Group 3 Low Potential: 50 accounts, $2,663.90 revenue, 47 removed
+Group 1 High Potential: 2 accounts | 143867.65 revenue | 0 removed
+Group 1 Medium Potential: 2 accounts | 58748.00 revenue | 0 removed
+Group 2 Medium Potential: 8 accounts | 57366.28 revenue | 0 removed
+Group 2 High Potential: 5 accounts | 48004.62 revenue | 0 removed
+Group 3 Medium Potential: 9 accounts | 10793.48 revenue | 8 removed
+Group 3 High Potential: 12 accounts | 4954.29 revenue | 0 removed
+Group 3 Low Potential: 50 accounts | 2663.90 revenue | 47 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts, $202,615.65
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | 202615.65 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1034825,SLATE PROCUREMENT,DESIGN,HOSPITALITY,0.0,123547.5,0.0,2.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,4/23/2025,True,STABLE_GROWTH,46.8,False
@@ -38,7 +38,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1027055,"Sketch Blue, LLC",DESIGN,DESIGN_FIRM,2450.0,20320.15,4.0,7.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,4/19/2024,False,STABLE_GROWTH,74.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 13 accounts, $105,370.90
+GROUP 2 (MID REVENUE) - KEEPING: 13 accounts | 105370.90 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1012508,Centaur Interiors,DESIGN,DESIGN_FIRM,8845.0,13280.16,10.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,9/28/2020,False,STABLE_GROWTH,60.9,False
@@ -56,7 +56,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1034760,Vector Design Group,DESIGN,DESIGN_FIRM,1926.0,3670.0,1.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,9/12/2024,False,STABLE_GROWTH,48.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts, $6,260.89
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | 6260.89 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -78,7 +78,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038752,Mcintosh Poris Architects,DESIGN,ARCHITECT_BUILDER,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,12/10/2025,True,STABLE_GROWTH,22.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 55 accounts, $12,150.78
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 55 accounts | 12150.78 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -139,7 +139,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1022488,Perkins&Will,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/4/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 54 total (10 keeping, 44 removed)
+ZERO REVENUE ACCOUNTS: 54 total | 10 keeping | 44 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1013938,Henricksen & Co Inc,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/4/2025,True,STABLE_GROWTH,18.3,False

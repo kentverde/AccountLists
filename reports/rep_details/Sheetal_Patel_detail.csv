@@ -1,18 +1,18 @@
 Rep Detail Report: Sheetal Patel
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 188
-Total 2024 Revenue: $1,262,360.52
-Total 2025 Revenue: $1,090,121.99
+Total 2024 Revenue: 1262360.52
+Total 2025 Revenue: 1090121.99
 
 Accounts Removed (Floor): 71
-Revenue Removed (Floor): $28,352.44
+Revenue Removed (Floor): 28352.44
 
 Final Accounts (Keeping): 117
-Final Revenue (Keeping): $1,061,769.55
+Final Revenue (Keeping): 1061769.55
 
 Zero Revenue Accounts: 68
 Zero Revenue New 2025 Accounts: 7
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 7
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 11 accounts, $425,181.32 revenue, 0 removed
-Group 2 Medium Potential: 42 accounts, $282,392.69 revenue, 0 removed
-Group 2 High Potential: 19 accounts, $186,108.90 revenue, 0 removed
-Group 1 Medium Potential: 4 accounts, $150,251.19 revenue, 0 removed
-Group 3 Medium Potential: 32 accounts, $35,580.29 revenue, 22 removed
-Group 3 Low Potential: 66 accounts, $4,592.15 revenue, 49 removed
-Group 2 Low Potential: 1 accounts, $3,101.00 revenue, 0 removed
-Group 3 High Potential: 13 accounts, $2,914.45 revenue, 0 removed
+Group 1 High Potential: 11 accounts | 425181.32 revenue | 0 removed
+Group 2 Medium Potential: 42 accounts | 282392.69 revenue | 0 removed
+Group 2 High Potential: 19 accounts | 186108.90 revenue | 0 removed
+Group 1 Medium Potential: 4 accounts | 150251.19 revenue | 0 removed
+Group 3 Medium Potential: 32 accounts | 35580.29 revenue | 22 removed
+Group 3 Low Potential: 66 accounts | 4592.15 revenue | 49 removed
+Group 2 Low Potential: 1 accounts | 3101.00 revenue | 0 removed
+Group 3 High Potential: 13 accounts | 2914.45 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts, $575,432.51
+GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts | 575432.51 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1015310,Dan Rak Design,DESIGN,DESIGN_FIRM,46083.6,74923.02,29.0,43.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/29/2020,False,STABLE_GROWTH,81.7,False
@@ -50,7 +50,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1014271,Anecdote Home Inc,RETAIL,SINGLE_LOCATION,9918.0,18250.7,8.0,10.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/7/2019,False,STABLE_GROWTH,82.9,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 62 accounts, $471,602.59
+GROUP 2 (MID REVENUE) - KEEPING: 62 accounts | 471602.59 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1006649,Morgante Wilson Architects,DESIGN,ARCHITECT_BUILDER,33928.96,17983.62,6.0,11.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,4/16/2020,False,STABLE_GROWTH,72.0,False
@@ -117,7 +117,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016221,Rein and Co Design Inc,DESIGN,DESIGN_FIRM,5617.0,2720.0,1.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,5/15/2020,False,STABLE_GROWTH,46.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 40 accounts, $14,734.45
+GROUP 3 (LOW REVENUE) - KEEPING: 40 accounts | 14734.45 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -163,7 +163,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036035,SS Sheetal Patel,DESIGN,DESIGNER_INDEPENDENT,0.0,-58.35,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,2/10/2025,True,STABLE_GROWTH,34.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 71 accounts, $28,352.44
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 71 accounts | 28352.44 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -240,7 +240,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1025175,Kim Scodro Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/10/2023,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 68 total (21 keeping, 47 removed)
+ZERO REVENUE ACCOUNTS: 68 total | 21 keeping | 47 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014472,Sasha Adler Design,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/24/2025,True,STABLE_GROWTH,17.4,False

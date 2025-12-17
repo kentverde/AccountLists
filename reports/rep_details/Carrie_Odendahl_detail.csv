@@ -1,18 +1,18 @@
 Rep Detail Report: Carrie Odendahl
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 834
-Total 2024 Revenue: $2,274,952.66
-Total 2025 Revenue: $2,151,355.25
+Total 2024 Revenue: 2274952.66
+Total 2025 Revenue: 2151355.25
 
 Accounts Removed (Floor): 482
-Revenue Removed (Floor): $126,048.46
+Revenue Removed (Floor): 126048.46
 
 Final Accounts (Keeping): 352
-Final Revenue (Keeping): $2,025,306.79
+Final Revenue (Keeping): 2025306.79
 
 Zero Revenue Accounts: 393
 Zero Revenue New 2025 Accounts: 35
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 35
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 144 accounts, $895,087.08 revenue, 0 removed
-Group 1 High Potential: 16 accounts, $438,574.22 revenue, 0 removed
-Group 2 High Potential: 59 accounts, $421,942.89 revenue, 0 removed
-Group 1 Medium Potential: 8 accounts, $190,135.77 revenue, 0 removed
-Group 3 Medium Potential: 111 accounts, $127,086.22 revenue, 92 removed
-Group 3 High Potential: 77 accounts, $47,254.87 revenue, 1 removed
-Group 3 Low Potential: 415 accounts, $16,356.15 revenue, 389 removed
-Group 2 Low Potential: 4 accounts, $14,918.05 revenue, 0 removed
+Group 2 Medium Potential: 144 accounts | 895087.08 revenue | 0 removed
+Group 1 High Potential: 16 accounts | 438574.22 revenue | 0 removed
+Group 2 High Potential: 59 accounts | 421942.89 revenue | 0 removed
+Group 1 Medium Potential: 8 accounts | 190135.77 revenue | 0 removed
+Group 3 Medium Potential: 111 accounts | 127086.22 revenue | 92 removed
+Group 3 High Potential: 77 accounts | 47254.87 revenue | 1 removed
+Group 3 Low Potential: 415 accounts | 16356.15 revenue | 389 removed
+Group 2 Low Potential: 4 accounts | 14918.05 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 24 accounts, $628,709.99
+GROUP 1 (HIGH REVENUE) - KEEPING: 24 accounts | 628709.99 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014899,Annabode,DESIGN,DESIGN_FIRM,19053.24,46565.66,12.0,6.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,2/24/2020,False,STABLE_GROWTH,70.6,False
@@ -59,7 +59,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1019467,House West Design LLC,DESIGN,DESIGN_FIRM,24194.0,18020.1,13.0,11.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,7/9/2021,False,STABLE_GROWTH,69.2,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 207 accounts, $1,331,948.02
+GROUP 2 (MID REVENUE) - KEEPING: 207 accounts | 1331948.02 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1013846,Courtney Morris Interior Design,DESIGN,DESIGNER_INDEPENDENT,10491.0,16756.43,7.0,11.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/17/2020,False,STABLE_GROWTH,80.8,False
@@ -271,7 +271,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1026489,Hilary Gabso Interior Design,DESIGN,DESIGNER_INDEPENDENT,350.0,2611.3,1.0,6.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/22/2024,False,STABLE_GROWTH,68.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 121 accounts, $64,648.78
+GROUP 3 (LOW REVENUE) - KEEPING: 121 accounts | 64648.78 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -398,7 +398,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1004610,"HB Workplaces, LLC",RETAIL,SINGLE_LOCATION,1143.75,-1269.04,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/1/2022,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 482 accounts, $126,048.46
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 482 accounts | 126048.46 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -886,7 +886,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1015071,Plum Tree Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,1387.7,-10901.5,3.0,3.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/18/2019,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 393 total (57 keeping, 336 removed)
+ZERO REVENUE ACCOUNTS: 393 total | 57 keeping | 336 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1001099,"Mary Washer Designs, Inc",DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/19/2025,True,STABLE_GROWTH,18.3,False

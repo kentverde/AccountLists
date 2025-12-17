@@ -1,18 +1,18 @@
 Rep Detail Report: David Glassman
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 817
-Total 2024 Revenue: $4,457,476.65
-Total 2025 Revenue: $4,275,853.54
+Total 2024 Revenue: 4457476.65
+Total 2025 Revenue: 4275853.54
 
 Accounts Removed (Floor): 413
-Revenue Removed (Floor): $149,806.14
+Revenue Removed (Floor): 149806.14
 
 Final Accounts (Keeping): 404
-Final Revenue (Keeping): $4,126,047.40
+Final Revenue (Keeping): 4126047.40
 
 Zero Revenue Accounts: 344
 Zero Revenue New 2025 Accounts: 9
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 9
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 43 accounts, $2,027,078.55 revenue, 0 removed
-Group 2 Medium Potential: 175 accounts, $1,160,826.42 revenue, 0 removed
-Group 2 High Potential: 54 accounts, $494,281.33 revenue, 0 removed
-Group 1 Medium Potential: 12 accounts, $373,005.51 revenue, 0 removed
-Group 3 Medium Potential: 130 accounts, $156,008.28 revenue, 103 removed
-Group 3 Low Potential: 370 accounts, $30,435.15 revenue, 308 removed
-Group 3 High Potential: 30 accounts, $22,840.30 revenue, 2 removed
-Group 2 Low Potential: 3 accounts, $11,378.00 revenue, 0 removed
+Group 1 High Potential: 43 accounts | 2027078.55 revenue | 0 removed
+Group 2 Medium Potential: 175 accounts | 1160826.42 revenue | 0 removed
+Group 2 High Potential: 54 accounts | 494281.33 revenue | 0 removed
+Group 1 Medium Potential: 12 accounts | 373005.51 revenue | 0 removed
+Group 3 Medium Potential: 130 accounts | 156008.28 revenue | 103 removed
+Group 3 Low Potential: 370 accounts | 30435.15 revenue | 308 removed
+Group 3 High Potential: 30 accounts | 22840.30 revenue | 2 removed
+Group 2 Low Potential: 3 accounts | 11378.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 55 accounts, $2,400,084.06
+GROUP 1 (HIGH REVENUE) - KEEPING: 55 accounts | 2400084.06 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000721,Baer's Furniture Company Inc.,RETAIL,MULTIPLE_LOCATIONS,240785.61,252060.06,355.0,452.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,8/19/2019,False,STABLE_GROWTH,70.9,False
@@ -90,7 +90,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012773,CRT Studio,DESIGN,DESIGNER_INDEPENDENT,19509.0,18306.5,8.0,6.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,2/18/2020,False,STABLE_GROWTH,50.0,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 232 accounts, $1,666,485.75
+GROUP 2 (MID REVENUE) - KEEPING: 232 accounts | 1666485.75 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1006824,Retreats of Florida Design,DESIGN,DESIGN_FIRM,16233.0,17734.0,18.0,23.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/11/2019,False,STABLE_GROWTH,66.6,False
@@ -327,7 +327,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017481,K&A Coastal,RETAIL,SINGLE_LOCATION,7272.0,2514.0,12.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/6/2020,False,STABLE_GROWTH,51.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 117 accounts, $59,477.59
+GROUP 3 (LOW REVENUE) - KEEPING: 117 accounts | 59477.59 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -450,7 +450,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038629,Bacon's Furniture,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,True,STABLE_GROWTH,24.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 413 accounts, $149,806.14
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 413 accounts | 149806.14 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -869,7 +869,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011679,Designer Resource Center,DESIGN,DESIGN_FIRM,610.0,-270.0,1.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/23/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 344 total (65 keeping, 279 removed)
+ZERO REVENUE ACCOUNTS: 344 total | 65 keeping | 279 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1024097,Wolfe Rizor Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,12/5/2025,True,STABLE_GROWTH,19.7,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Randall Schneck
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 155
-Total 2024 Revenue: $1,735,276.45
-Total 2025 Revenue: $1,512,559.56
+Total 2024 Revenue: 1735276.45
+Total 2025 Revenue: 1512559.56
 
 Accounts Removed (Floor): 25
-Revenue Removed (Floor): $12,547.45
+Revenue Removed (Floor): 12547.45
 
 Final Accounts (Keeping): 130
-Final Revenue (Keeping): $1,500,012.11
+Final Revenue (Keeping): 1500012.11
 
 Zero Revenue Accounts: 28
 Zero Revenue New 2025 Accounts: 5
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 5
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 19 accounts, $769,214.31 revenue, 0 removed
-Group 2 Medium Potential: 45 accounts, $316,538.75 revenue, 0 removed
-Group 2 High Potential: 28 accounts, $245,813.61 revenue, 0 removed
-Group 1 Medium Potential: 6 accounts, $151,331.79 revenue, 0 removed
-Group 3 Medium Potential: 21 accounts, $26,686.30 revenue, 10 removed
-Group 3 Low Potential: 29 accounts, $1,993.30 revenue, 15 removed
-Group 3 High Potential: 7 accounts, $981.50 revenue, 0 removed
+Group 1 High Potential: 19 accounts | 769214.31 revenue | 0 removed
+Group 2 Medium Potential: 45 accounts | 316538.75 revenue | 0 removed
+Group 2 High Potential: 28 accounts | 245813.61 revenue | 0 removed
+Group 1 Medium Potential: 6 accounts | 151331.79 revenue | 0 removed
+Group 3 Medium Potential: 21 accounts | 26686.30 revenue | 10 removed
+Group 3 Low Potential: 29 accounts | 1993.30 revenue | 15 removed
+Group 3 High Potential: 7 accounts | 981.50 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 25 accounts, $920,546.10
+GROUP 1 (HIGH REVENUE) - KEEPING: 25 accounts | 920546.10 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003198,Carol House Furniture Inc,RETAIL,MULTIPLE_LOCATIONS,69467.07,81734.86,192.0,202.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/7/2019,False,STABLE_GROWTH,74.0,False
@@ -59,7 +59,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016128,ML Designs,DESIGN,DESIGN_FIRM,24542.5,18272.41,19.0,20.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,7/7/2020,False,STABLE_GROWTH,74.8,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 73 accounts, $562,352.36
+GROUP 2 (MID REVENUE) - KEEPING: 73 accounts | 562352.36 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011312,Calla Enterprise dba Calla,RETAIL,SINGLE_LOCATION,18472.5,16407.0,17.0,20.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,9/9/2019,False,STABLE_GROWTH,66.8,False
@@ -137,7 +137,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009773,Noble Designs,DESIGN,DESIGN_FIRM,22440.4,2570.0,7.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/11/2020,False,STABLE_GROWTH,46.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 32 accounts, $17,113.65
+GROUP 3 (LOW REVENUE) - KEEPING: 32 accounts | 17113.65 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -175,7 +175,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038176,Southern Loft LLC,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/13/2025,True,STABLE_GROWTH,21.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 25 accounts, $12,547.45
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 25 accounts | 12547.45 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -206,7 +206,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037918,SHEPPARD'S BUSINESS INTERIORS,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 28 total (16 keeping, 12 removed)
+ZERO REVENUE ACCOUNTS: 28 total | 16 keeping | 12 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1023528,Kenilworth House,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,2/1/2025,True,STABLE_GROWTH,22.1,False

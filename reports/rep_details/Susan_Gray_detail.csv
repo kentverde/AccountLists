@@ -1,18 +1,18 @@
 Rep Detail Report: Susan Gray
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 123
-Total 2024 Revenue: $838,775.52
-Total 2025 Revenue: $833,953.04
+Total 2024 Revenue: 838775.52
+Total 2025 Revenue: 833953.04
 
 Accounts Removed (Floor): 58
-Revenue Removed (Floor): $16,680.60
+Revenue Removed (Floor): 16680.60
 
 Final Accounts (Keeping): 65
-Final Revenue (Keeping): $817,272.44
+Final Revenue (Keeping): 817272.44
 
 Zero Revenue Accounts: 50
 Zero Revenue New 2025 Accounts: 1
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 1
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 8 accounts, $279,258.40 revenue, 0 removed
-Group 1 Medium Potential: 2 accounts, $240,094.25 revenue, 0 removed
-Group 2 Medium Potential: 32 accounts, $225,055.56 revenue, 0 removed
-Group 2 High Potential: 9 accounts, $65,701.28 revenue, 0 removed
-Group 3 Medium Potential: 13 accounts, $15,620.25 revenue, 8 removed
-Group 3 Low Potential: 56 accounts, $6,308.30 revenue, 50 removed
-Group 3 High Potential: 3 accounts, $1,915.00 revenue, 0 removed
+Group 1 High Potential: 8 accounts | 279258.40 revenue | 0 removed
+Group 1 Medium Potential: 2 accounts | 240094.25 revenue | 0 removed
+Group 2 Medium Potential: 32 accounts | 225055.56 revenue | 0 removed
+Group 2 High Potential: 9 accounts | 65701.28 revenue | 0 removed
+Group 3 Medium Potential: 13 accounts | 15620.25 revenue | 8 removed
+Group 3 Low Potential: 56 accounts | 6308.30 revenue | 50 removed
+Group 3 High Potential: 3 accounts | 1915.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 10 accounts, $519,352.65
+GROUP 1 (HIGH REVENUE) - KEEPING: 10 accounts | 519352.65 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1021278,Daniel House Club,E-TAILER,SPECIALTY,197444.6,189000.3,289.0,314.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,5/5/2022,False,STABLE_GROWTH,68.7,False
@@ -44,7 +44,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016182,"Kevin Twitty Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,19905.0,18201.0,11.0,16.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,5/11/2020,False,STABLE_GROWTH,72.5,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 41 accounts, $290,756.84
+GROUP 2 (MID REVENUE) - KEEPING: 41 accounts | 290756.84 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1006555,Terra Firma Home,RETAIL,SINGLE_LOCATION,17349.8,17543.0,10.0,15.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/11/2020,False,STABLE_GROWTH,69.5,False
@@ -90,7 +90,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021559,Solstice Cottage Design Co.,DESIGN,DESIGNER_INDEPENDENT,0.0,2755.0,0.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,4/6/2022,False,STABLE_GROWTH,50.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 14 accounts, $7,162.95
+GROUP 3 (LOW REVENUE) - KEEPING: 14 accounts | 7162.95 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -110,7 +110,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036468,Sharon Hocking Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/31/2025,True,STABLE_GROWTH,17.4,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 58 accounts, $16,680.60
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 58 accounts | 16680.60 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -174,7 +174,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038069,Emily Jean Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 50 total (7 keeping, 43 removed)
+ZERO REVENUE ACCOUNTS: 50 total | 7 keeping | 43 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036468,Sharon Hocking Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/31/2025,True,STABLE_GROWTH,17.4,False

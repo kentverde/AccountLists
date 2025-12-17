@@ -1,35 +1,35 @@
 Rep Detail Report: Paul Baird
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
-Total Accounts (after alignment): 1,415
-Total 2024 Revenue: $426,488.14
-Total 2025 Revenue: $996,346.20
+Total Accounts (after alignment): 1415
+Total 2024 Revenue: 426488.14
+Total 2025 Revenue: 996346.20
 
-Accounts Removed (Floor): 1,089
-Revenue Removed (Floor): $13,373.60
+Accounts Removed (Floor): 1089
+Revenue Removed (Floor): 13373.60
 
 Final Accounts (Keeping): 326
-Final Revenue (Keeping): $982,972.60
+Final Revenue (Keeping): 982972.60
 
-Zero Revenue Accounts: 1,350
+Zero Revenue Accounts: 1350
 Zero Revenue New 2025 Accounts: 8
 
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 2 accounts, $766,772.86 revenue, 0 removed
-Group 1 Medium Potential: 2 accounts, $122,647.22 revenue, 0 removed
-Group 2 Medium Potential: 14 accounts, $75,547.61 revenue, 0 removed
-Group 3 Medium Potential: 29 accounts, $19,556.51 revenue, 20 removed
-Group 2 High Potential: 3 accounts, $18,649.00 revenue, 0 removed
-Group 3 Low Potential: 1,349 accounts, $2,392.60 revenue, 1,069 removed
-Group 3 High Potential: 16 accounts, $-9,219.60 revenue, 0 removed
+Group 1 High Potential: 2 accounts | 766772.86 revenue | 0 removed
+Group 1 Medium Potential: 2 accounts | 122647.22 revenue | 0 removed
+Group 2 Medium Potential: 14 accounts | 75547.61 revenue | 0 removed
+Group 3 Medium Potential: 29 accounts | 19556.51 revenue | 20 removed
+Group 2 High Potential: 3 accounts | 18649.00 revenue | 0 removed
+Group 3 Low Potential: 1349 accounts | 2392.60 revenue | 1069 removed
+Group 3 High Potential: 16 accounts | -9219.60 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts, $889,420.08
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | 889420.08 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 9999998,ENKAY InterCo,E-TAILER,SPECIALTY,0.0,669968.78,0.0,1689.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/1/2025,True,STABLE_GROWTH,64.9,False
@@ -38,7 +38,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003839,CASH,INTERNAL,EMPLOYEEFRIENDFAMILY,89306.8,27358.12,64.0,35.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,12/2/2019,False,STABLE_GROWTH,49.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 17 accounts, $94,196.61
+GROUP 2 (MID REVENUE) - KEEPING: 17 accounts | 94196.61 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019946,Customer Success Gifting,DESIGN,DESIGN_FIRM,445.75,9235.0,24.0,7.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,8/5/2021,False,STABLE_GROWTH,75.4,False
@@ -60,7 +60,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016365,JL Employee Account,INTERNAL,EMPLOYEEFRIENDFAMILY,79.95,2521.25,1.0,24.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,5/3/2021,False,STABLE_GROWTH,51.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 305 accounts, $-644.09
+GROUP 3 (LOW REVENUE) - KEEPING: 305 accounts | -644.09 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -371,7 +371,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024852,Furniture First,RETAIL,MULTIPLE_LOCATIONS,0.0,-15684.5,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/1/2025,True,STABLE_GROWTH,17.4,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1,089 accounts, $13,373.60
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1089 accounts | 13373.60 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -1466,7 +1466,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001782,Stark Carpet Corp,DESIGN,MULTIPLE_LOCATIONS,3750.8,-364.5,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/17/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 1,350 total (286 keeping, 1,064 removed)
+ZERO REVENUE ACCOUNTS: 1350 total | 286 keeping | 1064 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002198,Interior Innovations By Julie,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/13/2025,True,STABLE_GROWTH,17.5,False

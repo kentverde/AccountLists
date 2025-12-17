@@ -1,18 +1,18 @@
 Rep Detail Report: Cynthia Guthrie
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 72
-Total 2024 Revenue: $228,969.92
-Total 2025 Revenue: $166,075.99
+Total 2024 Revenue: 228969.92
+Total 2025 Revenue: 166075.99
 
 Accounts Removed (Floor): 36
-Revenue Removed (Floor): $6,522.05
+Revenue Removed (Floor): 6522.05
 
 Final Accounts (Keeping): 36
-Final Revenue (Keeping): $159,553.94
+Final Revenue (Keeping): 159553.94
 
 Zero Revenue Accounts: 39
 Zero Revenue New 2025 Accounts: 8
@@ -20,22 +20,22 @@ Zero Revenue New 2025 Accounts: 8
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 High Potential: 6 accounts, $60,852.40 revenue, 0 removed
-Group 2 Medium Potential: 11 accounts, $59,800.64 revenue, 0 removed
-Group 1 Medium Potential: 1 accounts, $26,266.00 revenue, 0 removed
-Group 3 High Potential: 16 accounts, $8,701.90 revenue, 0 removed
-Group 3 Medium Potential: 5 accounts, $6,372.05 revenue, 5 removed
-Group 2 Low Potential: 1 accounts, $3,933.00 revenue, 0 removed
-Group 3 Low Potential: 32 accounts, $150.00 revenue, 31 removed
+Group 2 High Potential: 6 accounts | 60852.40 revenue | 0 removed
+Group 2 Medium Potential: 11 accounts | 59800.64 revenue | 0 removed
+Group 1 Medium Potential: 1 accounts | 26266.00 revenue | 0 removed
+Group 3 High Potential: 16 accounts | 8701.90 revenue | 0 removed
+Group 3 Medium Potential: 5 accounts | 6372.05 revenue | 5 removed
+Group 2 Low Potential: 1 accounts | 3933.00 revenue | 0 removed
+Group 3 Low Potential: 32 accounts | 150.00 revenue | 31 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts, $26,266.00
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 26266.00 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000623,The Villages Commercial Design,DESIGN,HOSPITALITY,20689.0,26266.0,6.0,8.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,10/9/2019,False,STABLE_GROWTH,66.9,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 18 accounts, $124,586.04
+GROUP 2 (MID REVENUE) - KEEPING: 18 accounts | 124586.04 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002889,Mountainside Design,DESIGN,HOSPITALITY,7766.5,15902.2,7.0,6.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/24/2020,False,STABLE_GROWTH,74.1,False
@@ -58,7 +58,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1027105,A Squared Design Studio,DESIGN,HOSPITALITY,2075.0,2809.0,2.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/23/2024,False,STABLE_GROWTH,50.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts, $8,701.90
+GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts | 8701.90 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -81,7 +81,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,True,STABLE_GROWTH,18.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 36 accounts, $6,522.05
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 36 accounts | 6522.05 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -123,7 +123,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,0.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/22/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 39 total (9 keeping, 30 removed)
+ZERO REVENUE ACCOUNTS: 39 total | 9 keeping | 30 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1027443,The Cormia Group,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/2/2025,True,STABLE_GROWTH,18.8,False

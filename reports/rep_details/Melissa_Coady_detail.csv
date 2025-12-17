@@ -1,18 +1,18 @@
 Rep Detail Report: Melissa Coady
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 216
-Total 2024 Revenue: $1,684,730.14
-Total 2025 Revenue: $1,584,817.02
+Total 2024 Revenue: 1684730.14
+Total 2025 Revenue: 1584817.02
 
 Accounts Removed (Floor): 68
-Revenue Removed (Floor): $29,819.81
+Revenue Removed (Floor): 29819.81
 
 Final Accounts (Keeping): 148
-Final Revenue (Keeping): $1,554,997.21
+Final Revenue (Keeping): 1554997.21
 
 Zero Revenue Accounts: 55
 Zero Revenue New 2025 Accounts: 8
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 8
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 23 accounts, $745,183.51 revenue, 0 removed
-Group 2 Medium Potential: 59 accounts, $414,189.00 revenue, 0 removed
-Group 2 High Potential: 20 accounts, $199,424.42 revenue, 0 removed
-Group 1 Medium Potential: 6 accounts, $168,047.08 revenue, 0 removed
-Group 3 Medium Potential: 36 accounts, $43,665.95 revenue, 27 removed
-Group 2 Low Potential: 3 accounts, $14,654.00 revenue, 0 removed
-Group 3 High Potential: 10 accounts, $1,099.60 revenue, 0 removed
-Group 3 Low Potential: 59 accounts, $-1,446.54 revenue, 41 removed
+Group 1 High Potential: 23 accounts | 745183.51 revenue | 0 removed
+Group 2 Medium Potential: 59 accounts | 414189.00 revenue | 0 removed
+Group 2 High Potential: 20 accounts | 199424.42 revenue | 0 removed
+Group 1 Medium Potential: 6 accounts | 168047.08 revenue | 0 removed
+Group 3 Medium Potential: 36 accounts | 43665.95 revenue | 27 removed
+Group 2 Low Potential: 3 accounts | 14654.00 revenue | 0 removed
+Group 3 High Potential: 10 accounts | 1099.60 revenue | 0 removed
+Group 3 Low Potential: 59 accounts | -1446.54 revenue | 41 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts, $913,230.59
+GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | 913230.59 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003365,Echelon Interiors (DE),DESIGN,DESIGN_FIRM,37547.5,65445.2,53.0,68.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/25/2019,False,STABLE_GROWTH,79.1,False
@@ -64,7 +64,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1000733,"Karen Renee Interior Design, Inc.",DESIGN,DESIGN_FIRM,5122.3,18774.47,7.0,7.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/2/2020,False,STABLE_GROWTH,92.0,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 82 accounts, $628,267.42
+GROUP 2 (MID REVENUE) - KEEPING: 82 accounts | 628267.42 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007818,Antique Exchange,DESIGN,DESIGN_FIRM,7002.95,16932.9,5.0,7.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,11/2/2020,False,STABLE_GROWTH,72.7,False
@@ -151,7 +151,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005641,Akseizer Design Group,DESIGN,DESIGN_FIRM,12695.88,2520.0,3.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/26/2020,False,STABLE_GROWTH,45.8,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 37 accounts, $13,499.20
+GROUP 3 (LOW REVENUE) - KEEPING: 37 accounts | 13499.20 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -194,7 +194,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1007729,"Perfect Furnishings, Inc.",RETAIL,SINGLE_LOCATION,1332.0,-83.5,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/13/2019,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 68 accounts, $29,819.81
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 68 accounts | 29819.81 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -268,7 +268,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1002338,"Kirk Designs, Inc.",DESIGN,DESIGN_FIRM,11441.24,-3660.24,5.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/8/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 55 total (23 keeping, 32 removed)
+ZERO REVENUE ACCOUNTS: 55 total | 23 keeping | 32 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/1/2025,True,STABLE_GROWTH,19.0,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Angela Esposito
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 291
-Total 2024 Revenue: $541,609.43
-Total 2025 Revenue: $660,637.25
+Total 2024 Revenue: 541609.43
+Total 2025 Revenue: 660637.25
 
 Accounts Removed (Floor): 165
-Revenue Removed (Floor): $26,796.90
+Revenue Removed (Floor): 26796.90
 
 Final Accounts (Keeping): 126
-Final Revenue (Keeping): $633,840.35
+Final Revenue (Keeping): 633840.35
 
 Zero Revenue Accounts: 177
 Zero Revenue New 2025 Accounts: 38
@@ -20,13 +20,13 @@ Zero Revenue New 2025 Accounts: 38
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Low Potential: 55 accounts, $410,343.21 revenue, 0 removed
-Group 1 Low Potential: 7 accounts, $206,418.61 revenue, 0 removed
-Group 3 Low Potential: 169 accounts, $26,796.90 revenue, 165 removed
-Group 3 High Potential: 60 accounts, $17,078.53 revenue, 0 removed
+Group 2 Low Potential: 55 accounts | 410343.21 revenue | 0 removed
+Group 1 Low Potential: 7 accounts | 206418.61 revenue | 0 removed
+Group 3 Low Potential: 169 accounts | 26796.90 revenue | 165 removed
+Group 3 High Potential: 60 accounts | 17078.53 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 7 accounts, $206,418.61
+GROUP 1 (HIGH REVENUE) - KEEPING: 7 accounts | 206418.61 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1010977,Glave and Holmes Architecture,DESIGN,ARCHITECT_BUILDER,29038.0,57408.79,11.0,3.0,HIGH_REVENUE,LOW_POTENTIAL,Group 1 Low Potential,6/9/2021,False,STABLE_GROWTH,0.0,False
@@ -38,7 +38,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037127,Annali Interiors,DESIGN,DESIGN_FIRM,0.0,18060.4,0.0,8.0,HIGH_REVENUE,LOW_POTENTIAL,Group 1 Low Potential,8/2/2025,True,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 55 accounts, $410,343.21
+GROUP 2 (MID REVENUE) - KEEPING: 55 accounts | 410343.21 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1035672,OLT DESIGN,DESIGN,DESIGN_FIRM,0.0,17475.0,0.0,1.0,MID_REVENUE,LOW_POTENTIAL,Group 2 Low Potential,10/22/2025,True,STABLE_GROWTH,0.0,False
@@ -98,7 +98,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021548,Level 5 Designs,DESIGN,DESIGN_FIRM,2210.0,2505.0,5.0,5.0,MID_REVENUE,LOW_POTENTIAL,Group 2 Low Potential,6/20/2022,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 64 accounts, $17,078.53
+GROUP 3 (LOW REVENUE) - KEEPING: 64 accounts | 17078.53 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -168,7 +168,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037673,Lodging and Leisure,DESIGN,HOSPITALITY,0.0,-23.8,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/19/2025,True,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 165 accounts, $26,796.90
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 165 accounts | 26796.90 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -339,7 +339,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035486,Tom Pulk Design,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/5/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 177 total (42 keeping, 135 removed)
+ZERO REVENUE ACCOUNTS: 177 total | 42 keeping | 135 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014131,Project Plan-It Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/24/2025,True,STABLE_GROWTH,0.0,False

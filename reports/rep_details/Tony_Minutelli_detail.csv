@@ -1,18 +1,18 @@
 Rep Detail Report: Tony Minutelli
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 91
-Total 2024 Revenue: $118,591.04
-Total 2025 Revenue: $108,830.14
+Total 2024 Revenue: 118591.04
+Total 2025 Revenue: 108830.14
 
 Accounts Removed (Floor): 54
-Revenue Removed (Floor): $9,068.75
+Revenue Removed (Floor): 9068.75
 
 Final Accounts (Keeping): 37
-Final Revenue (Keeping): $99,761.39
+Final Revenue (Keeping): 99761.39
 
 Zero Revenue Accounts: 60
 Zero Revenue New 2025 Accounts: 13
@@ -20,14 +20,14 @@ Zero Revenue New 2025 Accounts: 13
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 9 accounts, $58,786.22 revenue, 0 removed
-Group 2 High Potential: 5 accounts, $34,216.55 revenue, 0 removed
-Group 3 High Potential: 21 accounts, $7,180.62 revenue, 1 removed
-Group 3 Low Potential: 52 accounts, $4,935.75 revenue, 49 removed
-Group 3 Medium Potential: 4 accounts, $3,711.00 revenue, 4 removed
+Group 2 Medium Potential: 9 accounts | 58786.22 revenue | 0 removed
+Group 2 High Potential: 5 accounts | 34216.55 revenue | 0 removed
+Group 3 High Potential: 21 accounts | 7180.62 revenue | 1 removed
+Group 3 Low Potential: 52 accounts | 4935.75 revenue | 49 removed
+Group 3 Medium Potential: 4 accounts | 3711.00 revenue | 4 removed
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 14 accounts, $93,002.77
+GROUP 2 (MID REVENUE) - KEEPING: 14 accounts | 93002.77 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003296,Janelle Interiors,DESIGN,DESIGNER_INDEPENDENT,11621.0,15197.0,5.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/17/2019,False,STABLE_GROWTH,53.8,False
@@ -46,7 +46,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035204,Design 360 Unlimited,DESIGN,HOSPITALITY,0.0,2720.0,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/16/2025,True,STABLE_GROWTH,39.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 23 accounts, $6,758.62
+GROUP 3 (LOW REVENUE) - KEEPING: 23 accounts | 6758.62 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -75,7 +75,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037957,Level 3,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/9/2025,True,STABLE_GROWTH,17.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 54 accounts, $9,068.75
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 54 accounts | 9068.75 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -135,7 +135,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035361,Irongate,DESIGN,ARCHITECT_BUILDER,124.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/19/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 60 total (16 keeping, 44 removed)
+ZERO REVENUE ACCOUNTS: 60 total | 16 keeping | 44 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008668,"Preen, Inc.",DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/22/2025,True,STABLE_GROWTH,18.5,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Emily Cardassi
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 129
-Total 2024 Revenue: $1,310,464.53
-Total 2025 Revenue: $1,238,417.29
+Total 2024 Revenue: 1310464.53
+Total 2025 Revenue: 1238417.29
 
 Accounts Removed (Floor): 28
-Revenue Removed (Floor): $11,024.80
+Revenue Removed (Floor): 11024.80
 
 Final Accounts (Keeping): 101
-Final Revenue (Keeping): $1,227,392.49
+Final Revenue (Keeping): 1227392.49
 
 Zero Revenue Accounts: 32
 Zero Revenue New 2025 Accounts: 4
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 4
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 12 accounts, $509,069.80 revenue, 0 removed
-Group 1 Medium Potential: 10 accounts, $295,739.32 revenue, 0 removed
-Group 2 Medium Potential: 36 accounts, $255,277.29 revenue, 0 removed
-Group 2 High Potential: 19 accounts, $152,880.12 revenue, 0 removed
-Group 3 Medium Potential: 14 accounts, $19,850.70 revenue, 8 removed
-Group 2 Low Potential: 1 accounts, $3,734.66 revenue, 0 removed
-Group 3 Low Potential: 31 accounts, $949.40 revenue, 20 removed
-Group 3 High Potential: 6 accounts, $916.00 revenue, 0 removed
+Group 1 High Potential: 12 accounts | 509069.80 revenue | 0 removed
+Group 1 Medium Potential: 10 accounts | 295739.32 revenue | 0 removed
+Group 2 Medium Potential: 36 accounts | 255277.29 revenue | 0 removed
+Group 2 High Potential: 19 accounts | 152880.12 revenue | 0 removed
+Group 3 Medium Potential: 14 accounts | 19850.70 revenue | 8 removed
+Group 2 Low Potential: 1 accounts | 3734.66 revenue | 0 removed
+Group 3 Low Potential: 31 accounts | 949.40 revenue | 20 removed
+Group 3 High Potential: 6 accounts | 916.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 22 accounts, $804,809.12
+GROUP 1 (HIGH REVENUE) - KEEPING: 22 accounts | 804809.12 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008363,Warren Barnett Interiors,RETAIL,SINGLE_LOCATION,96307.5,93124.04,60.0,72.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/6/2019,False,STABLE_GROWTH,77.2,False
@@ -57,7 +57,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1008098,Silver Leaf Interiors,DESIGN,DESIGN_FIRM,2031.0,18055.4,2.0,7.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/31/2020,False,STABLE_GROWTH,79.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 56 accounts, $411,892.07
+GROUP 2 (MID REVENUE) - KEEPING: 56 accounts | 411892.07 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1021525,DesignWell Interiors,RETAIL,SINGLE_LOCATION,18289.0,17123.6,20.0,18.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,4/22/2022,False,STABLE_GROWTH,71.2,False
@@ -118,7 +118,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1000821,Camelot Interiors,DESIGN,DESIGN_FIRM,10616.3,2520.0,18.0,12.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,12/16/2019,False,STABLE_GROWTH,73.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 23 accounts, $10,691.30
+GROUP 3 (LOW REVENUE) - KEEPING: 23 accounts | 10691.30 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -147,7 +147,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037389,Wray Design Co.,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,7/2/2025,True,STABLE_GROWTH,20.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 28 accounts, $11,024.80
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 28 accounts | 11024.80 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -181,7 +181,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021918,"Studio Vesta Interior Design, LLC",DESIGN,DESIGN_FIRM,0.0,-47.6,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/7/2022,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 32 total (14 keeping, 18 removed)
+ZERO REVENUE ACCOUNTS: 32 total | 14 keeping | 18 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036300,Studio Grey,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/7/2025,True,STABLE_GROWTH,21.6,False

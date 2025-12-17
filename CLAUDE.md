@@ -2,9 +2,20 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project Overview
+## Project Status
 
-Account segmentation report generator for the "Set the Floor" initiative. Processes account data to apply territory alignment and floor removal rules, then generates summary and detail reports.
+**COMPLETED** - Core functionality working. Script generates validated reports.
+
+Last session completed:
+- Built `generate_reports.py` with territory alignment and floor removal logic
+- Summary report matching Power BI format (63 reps)
+- Individual rep detail reports with account listings
+- Data type validation for numeric columns
+- Fixed CSV formatting (removed comma thousand-separators to avoid column splitting)
+
+Open items for future sessions:
+- `Final_Rep_Name` column is blank (reserved for future use)
+- Any additional report formatting or metrics as needed
 
 ## Commands
 
@@ -28,11 +39,13 @@ Single-file Python script with modular functions:
 
 3. **Floor Logic** (`apply_floor_logic`): Marks accounts for removal if: `LOW_REVENUE` + `DESIGN` segment + not new in 2025
 
-4. **Summary Report** (`generate_summary_report`): One row per rep with before/after metrics
+4. **Data Type Validation** (`validate_and_enforce_dtypes`): Ensures numeric columns are proper float64/int64 before CSV export
 
-5. **Rep Detail Reports** (`generate_all_rep_detail_reports`): Individual CSV per rep with account listings by group
+5. **Summary Report** (`generate_summary_report`): One row per rep with before/after metrics
 
-6. **Validation** (`validate_totals`): Ensures total revenue matches across input, summary, and detail reports
+6. **Rep Detail Reports** (`generate_all_rep_detail_reports`): Individual CSV per rep with account listings by group
+
+7. **Validation** (`validate_totals`): Ensures total revenue matches across input, summary, and detail reports
 
 ### Output Structure
 
@@ -42,26 +55,29 @@ reports/
 └── rep_details/
     ├── Aaron_Kirsch_detail.csv
     ├── Adam_Paurowski_detail.csv
-    └── ... (one per rep)
+    └── ... (63 rep files total)
 ```
 
 ## Key Business Rules
 
 - **Revenue Groups**: HIGH_REVENUE=Group 1, MID_REVENUE=Group 2, LOW_REVENUE=Group 3
+- **Potential Tiers**: HIGH_POTENTIAL, MID_POTENTIAL, LOW_POTENTIAL (9 total segments)
 - **Floor Removal**: Group 3 + DESIGN + non-2025 customer = removed from rep
 - **Protected**: Non-DESIGN accounts and new 2025 customers are never removed
 - **Alignment**: Only `Rep_Type = "Inside Sales"` accounts are reassigned
+- **Account Counts**: Include ALL accounts (differs from Power BI which excluded $0 revenue)
 
 ## Data File
 
-**Account_Segmentation_V3_3_Final.csv** (~17,000 records)
+**Account_Segmentation_V3_3_Final.csv** (~17,332 records)
 
 Key columns:
 - `Assigned_Rep_Name` / `Re-Assigned_Rep_Name`: Current and realigned rep
 - `Rep_Type`: Inside Sales, Account Managers, Independent rep, Others, UNKNOWN
 - `Revenue_Tier`: HIGH_REVENUE, MID_REVENUE, LOW_REVENUE
+- `Potential_Tier`: HIGH_POTENTIAL, MID_POTENTIAL, LOW_POTENTIAL
 - `Segment`: DESIGN, RETAIL, E-TAILER, INTERNAL, MASS
-- `Customer_Since_Date`: M/D/YYYY format
+- `Customer_Since_Date`: M/D/YYYY format (year 2025 = new customer, protected)
 - `Total_Rev_2024` / `Total_Rev_2025`: Revenue figures
 - `Final_Rep_Name`: Reserved for future use (currently blank)
 
@@ -71,3 +87,7 @@ Total Rev 2025 must equal $84,760,387.57 across:
 - Input file sum
 - Summary report sum
 - Sum of all rep detail reports
+
+## Reference Files
+
+- `Rep Level Impacts - 2025.csv`: Power BI export used as reference for summary report format

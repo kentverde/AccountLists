@@ -1,18 +1,18 @@
 Rep Detail Report: Kimberly Myers
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 850
-Total 2024 Revenue: $2,215,597.81
-Total 2025 Revenue: $2,196,666.24
+Total 2024 Revenue: 2215597.81
+Total 2025 Revenue: 2196666.24
 
 Accounts Removed (Floor): 485
-Revenue Removed (Floor): $156,360.33
+Revenue Removed (Floor): 156360.33
 
 Final Accounts (Keeping): 365
-Final Revenue (Keeping): $2,040,305.91
+Final Revenue (Keeping): 2040305.91
 
 Zero Revenue Accounts: 383
 Zero Revenue New 2025 Accounts: 33
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 33
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 137 accounts, $882,657.82 revenue, 0 removed
-Group 2 High Potential: 82 accounts, $579,891.50 revenue, 0 removed
-Group 1 High Potential: 11 accounts, $330,667.26 revenue, 0 removed
-Group 1 Medium Potential: 6 accounts, $158,075.23 revenue, 0 removed
-Group 3 Medium Potential: 127 accounts, $141,074.45 revenue, 114 removed
-Group 3 High Potential: 72 accounts, $42,397.00 revenue, 0 removed
-Group 3 Low Potential: 410 accounts, $34,443.58 revenue, 371 removed
-Group 2 Low Potential: 5 accounts, $27,459.40 revenue, 0 removed
+Group 2 Medium Potential: 137 accounts | 882657.82 revenue | 0 removed
+Group 2 High Potential: 82 accounts | 579891.50 revenue | 0 removed
+Group 1 High Potential: 11 accounts | 330667.26 revenue | 0 removed
+Group 1 Medium Potential: 6 accounts | 158075.23 revenue | 0 removed
+Group 3 Medium Potential: 127 accounts | 141074.45 revenue | 114 removed
+Group 3 High Potential: 72 accounts | 42397.00 revenue | 0 removed
+Group 3 Low Potential: 410 accounts | 34443.58 revenue | 371 removed
+Group 2 Low Potential: 5 accounts | 27459.40 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts, $488,742.49
+GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | 488742.49 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019227,Lauren Tilley Interiors,RETAIL,SINGLE_LOCATION,33626.58,44616.4,22.0,17.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,4/25/2021,False,STABLE_GROWTH,70.9,False
@@ -52,7 +52,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024633,Great Design 4 U,DESIGN,DESIGNER_INDEPENDENT,6302.9,18436.9,10.0,18.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,6/8/2023,False,STABLE_GROWTH,80.9,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 224 accounts, $1,490,008.72
+GROUP 2 (MID REVENUE) - KEEPING: 224 accounts | 1490008.72 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1010014,Artistic Interior Design,DESIGN,DESIGNER_INDEPENDENT,22700.72,17743.02,26.0,12.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/16/2020,False,STABLE_GROWTH,70.3,False
@@ -281,7 +281,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035316,Brick and Willow Design,DESIGN,DESIGNER_INDEPENDENT,0.0,2504.64,0.0,5.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,4/15/2025,True,STABLE_GROWTH,58.5,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 124 accounts, $61,554.70
+GROUP 3 (LOW REVENUE) - KEEPING: 124 accounts | 61554.70 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -411,7 +411,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035262,Studio Gaston LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,-15.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/26/2025,True,STABLE_GROWTH,24.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 485 accounts, $156,360.33
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 485 accounts | 156360.33 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -902,7 +902,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017086,DESIGN INKREDIBLE LLC,DESIGN,DESIGN_FIRM,3410.0,-2480.0,2.0,2.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/11/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 383 total (67 keeping, 316 removed)
+ZERO REVENUE ACCOUNTS: 383 total | 67 keeping | 316 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011625,Charleston Luxury Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/4/2025,True,STABLE_GROWTH,17.5,False

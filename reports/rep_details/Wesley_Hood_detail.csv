@@ -1,18 +1,18 @@
 Rep Detail Report: Wesley Hood
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 753
-Total 2024 Revenue: $1,671,283.12
-Total 2025 Revenue: $1,708,395.73
+Total 2024 Revenue: 1671283.12
+Total 2025 Revenue: 1708395.73
 
 Accounts Removed (Floor): 475
-Revenue Removed (Floor): $155,907.36
+Revenue Removed (Floor): 155907.36
 
 Final Accounts (Keeping): 278
-Final Revenue (Keeping): $1,552,488.37
+Final Revenue (Keeping): 1552488.37
 
 Zero Revenue Accounts: 360
 Zero Revenue New 2025 Accounts: 29
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 29
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 121 accounts, $768,846.68 revenue, 0 removed
-Group 2 High Potential: 56 accounts, $407,977.12 revenue, 0 removed
-Group 1 High Potential: 8 accounts, $223,304.21 revenue, 0 removed
-Group 3 Medium Potential: 115 accounts, $135,827.93 revenue, 112 removed
-Group 1 Medium Potential: 4 accounts, $95,711.18 revenue, 0 removed
-Group 3 High Potential: 66 accounts, $42,053.10 revenue, 3 removed
-Group 3 Low Potential: 378 accounts, $19,328.36 revenue, 360 removed
-Group 2 Low Potential: 5 accounts, $15,347.15 revenue, 0 removed
+Group 2 Medium Potential: 121 accounts | 768846.68 revenue | 0 removed
+Group 2 High Potential: 56 accounts | 407977.12 revenue | 0 removed
+Group 1 High Potential: 8 accounts | 223304.21 revenue | 0 removed
+Group 3 Medium Potential: 115 accounts | 135827.93 revenue | 112 removed
+Group 1 Medium Potential: 4 accounts | 95711.18 revenue | 0 removed
+Group 3 High Potential: 66 accounts | 42053.10 revenue | 3 removed
+Group 3 Low Potential: 378 accounts | 19328.36 revenue | 360 removed
+Group 2 Low Potential: 5 accounts | 15347.15 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 12 accounts, $319,015.39
+GROUP 1 (HIGH REVENUE) - KEEPING: 12 accounts | 319015.39 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1017278,Winsome Interior Design,DESIGN,DESIGN_FIRM,3815.0,34924.36,2.0,6.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,9/11/2020,False,STABLE_GROWTH,77.6,False
@@ -47,7 +47,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1014823,SUSAN BROWN INTERIORS,DESIGN,DESIGNER_INDEPENDENT,12110.0,19171.66,11.0,9.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/18/2020,False,STABLE_GROWTH,66.3,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 182 accounts, $1,192,170.95
+GROUP 2 (MID REVENUE) - KEEPING: 182 accounts | 1192170.95 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014002,Alexis Dattoli Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,16975.0,0.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/13/2020,False,STABLE_GROWTH,53.2,False
@@ -234,7 +234,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035747,Frank Botello Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,2545.0,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/14/2025,True,STABLE_GROWTH,50.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 84 accounts, $41,302.03
+GROUP 3 (LOW REVENUE) - KEEPING: 84 accounts | 41302.03 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -324,7 +324,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1008519,St John's Antiques and Design,RETAIL,SINGLE_LOCATION,12320.0,-2560.0,2.0,6.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/4/2024,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 475 accounts, $155,907.36
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 475 accounts | 155907.36 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -805,7 +805,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003320,Anthony Michael Interior Design,DESIGN,DESIGNER_INDEPENDENT,2390.0,-1836.86,1.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/24/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 360 total (43 keeping, 317 removed)
+ZERO REVENUE ACCOUNTS: 360 total | 43 keeping | 317 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007940,Gander Design and Consulting,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,2/20/2025,True,STABLE_GROWTH,20.5,False

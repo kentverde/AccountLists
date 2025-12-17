@@ -1,18 +1,18 @@
 Rep Detail Report: Marti Hovater
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 159
-Total 2024 Revenue: $1,910,383.70
-Total 2025 Revenue: $1,805,917.18
+Total 2024 Revenue: 1910383.70
+Total 2025 Revenue: 1805917.18
 
 Accounts Removed (Floor): 39
-Revenue Removed (Floor): $25,650.35
+Revenue Removed (Floor): 25650.35
 
 Final Accounts (Keeping): 120
-Final Revenue (Keeping): $1,780,266.83
+Final Revenue (Keeping): 1780266.83
 
 Zero Revenue Accounts: 47
 Zero Revenue New 2025 Accounts: 2
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 2
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 24 accounts, $1,287,370.11 revenue, 0 removed
-Group 2 Medium Potential: 29 accounts, $196,829.59 revenue, 0 removed
-Group 2 High Potential: 16 accounts, $142,092.52 revenue, 0 removed
-Group 1 Medium Potential: 5 accounts, $134,877.58 revenue, 0 removed
-Group 3 Medium Potential: 26 accounts, $37,170.28 revenue, 14 removed
-Group 3 High Potential: 9 accounts, $5,730.10 revenue, 2 removed
-Group 3 Low Potential: 50 accounts, $1,847.00 revenue, 23 removed
+Group 1 High Potential: 24 accounts | 1287370.11 revenue | 0 removed
+Group 2 Medium Potential: 29 accounts | 196829.59 revenue | 0 removed
+Group 2 High Potential: 16 accounts | 142092.52 revenue | 0 removed
+Group 1 Medium Potential: 5 accounts | 134877.58 revenue | 0 removed
+Group 3 Medium Potential: 26 accounts | 37170.28 revenue | 14 removed
+Group 3 High Potential: 9 accounts | 5730.10 revenue | 2 removed
+Group 3 Low Potential: 50 accounts | 1847.00 revenue | 23 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts, $1,422,247.69
+GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | 1422247.69 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011216,Cantoni LP,RETAIL,MULTIPLE_LOCATIONS,325207.71,242105.2,150.0,136.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/4/2019,False,HIGH_GROWTH,72.1,False
@@ -63,7 +63,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001143,By Design Interiors (TX),DESIGN,DESIGN_FIRM,8545.0,18275.0,11.0,14.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,7/8/2019,False,HIGH_GROWTH,79.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 45 accounts, $338,922.11
+GROUP 2 (MID REVENUE) - KEEPING: 45 accounts | 338922.11 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1009590,Nikole Starr Interiors - TX,DESIGN,DESIGN_FIRM,5614.0,15847.87,3.0,6.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,5/25/2020,False,HIGH_GROWTH,76.7,False
@@ -113,7 +113,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011926,Kay Genua Designs,DESIGN,DESIGN_FIRM,4944.0,2618.0,7.0,5.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/3/2020,False,HIGH_GROWTH,62.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 46 accounts, $19,097.03
+GROUP 3 (LOW REVENUE) - KEEPING: 46 accounts | 19097.03 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -165,7 +165,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1014094,SS Marti Hovater,INTERNAL,SALES_REP,53.95,-123.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/29/2019,False,HIGH_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 39 accounts, $25,650.35
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 39 accounts | 25650.35 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -210,7 +210,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037149,Callie Blanks Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,HIGH_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 47 total (26 keeping, 21 removed)
+ZERO REVENUE ACCOUNTS: 47 total | 26 keeping | 21 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003458,"Meredith O'Donnell, Inc.",RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,12/4/2025,True,HIGH_GROWTH,20.7,False

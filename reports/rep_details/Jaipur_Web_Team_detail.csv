@@ -1,18 +1,18 @@
 Rep Detail Report: Jaipur Web Team
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 86
-Total 2024 Revenue: $308,444.60
-Total 2025 Revenue: $166,600.23
+Total 2024 Revenue: 308444.60
+Total 2025 Revenue: 166600.23
 
 Accounts Removed (Floor): 1
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 85
-Final Revenue (Keeping): $166,600.23
+Final Revenue (Keeping): 166600.23
 
 Zero Revenue Accounts: 61
 Zero Revenue New 2025 Accounts: 0
@@ -20,22 +20,22 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 11 accounts, $78,632.20 revenue, 0 removed
-Group 1 High Potential: 2 accounts, $64,706.94 revenue, 0 removed
-Group 2 High Potential: 2 accounts, $13,087.50 revenue, 0 removed
-Group 3 Medium Potential: 4 accounts, $5,843.00 revenue, 0 removed
-Group 3 High Potential: 2 accounts, $2,424.00 revenue, 0 removed
-Group 3 Low Potential: 65 accounts, $1,906.59 revenue, 1 removed
+Group 2 Medium Potential: 11 accounts | 78632.20 revenue | 0 removed
+Group 1 High Potential: 2 accounts | 64706.94 revenue | 0 removed
+Group 2 High Potential: 2 accounts | 13087.50 revenue | 0 removed
+Group 3 Medium Potential: 4 accounts | 5843.00 revenue | 0 removed
+Group 3 High Potential: 2 accounts | 2424.00 revenue | 0 removed
+Group 3 Low Potential: 65 accounts | 1906.59 revenue | 1 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 2 accounts, $64,706.94
+GROUP 1 (HIGH REVENUE) - KEEPING: 2 accounts | 64706.94 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036475,Anthropologie,E-TAILER,SPECIALTY,0.0,43992.0,0.0,150.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,3/25/2025,True,STABLE_GROWTH,69.6,False
 1036173,Montreal Lighting & Hardware DBA The Rug District,E-TAILER,SPECIALTY,0.0,20714.94,0.0,39.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,2/19/2025,True,STABLE_GROWTH,67.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 13 accounts, $91,719.70
+GROUP 2 (MID REVENUE) - KEEPING: 13 accounts | 91719.70 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1015795,Overstock.com - SOFS Programs,E-TAILER,MASS,17214.3,11429.78,304.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,5/26/2020,False,STABLE_GROWTH,47.5,False
@@ -53,7 +53,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037019,Rugman.com,E-TAILER,SPECIALTY,0.0,3322.5,0.0,8.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,5/14/2025,True,STABLE_GROWTH,64.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 70 accounts, $10,173.59
+GROUP 3 (LOW REVENUE) - KEEPING: 70 accounts | 10173.59 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -129,14 +129,14 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011788,Belle and June,E-TAILER,SPECIALTY,75.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/17/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019743,Lucille Buell Interior Design,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/1/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 61 total (60 keeping, 1 removed)
+ZERO REVENUE ACCOUNTS: 61 total | 60 keeping | 1 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000311,Rugs Galore,E-TAILER,NICHE,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2020,False,STABLE_GROWTH,0.0,False

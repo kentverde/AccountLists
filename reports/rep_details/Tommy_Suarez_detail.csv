@@ -1,18 +1,18 @@
 Rep Detail Report: Tommy Suarez
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 5
-Total 2024 Revenue: $0.00
-Total 2025 Revenue: $0.00
+Total 2024 Revenue: 0.00
+Total 2025 Revenue: 0.00
 
 Accounts Removed (Floor): 1
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 4
-Final Revenue (Keeping): $0.00
+Final Revenue (Keeping): 0.00
 
 Zero Revenue Accounts: 5
 Zero Revenue New 2025 Accounts: 0
@@ -20,10 +20,10 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 3 Low Potential: 5 accounts, $0.00 revenue, 1 removed
+Group 3 Low Potential: 5 accounts | 0.00 revenue | 1 removed
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts, $0.00
+GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts | 0.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -33,14 +33,14 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011462,Ss Wesley Hood,INTERNAL,SALES_REP,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/2/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1004082,Changes Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/17/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 5 total (4 keeping, 1 removed)
+ZERO REVENUE ACCOUNTS: 5 total | 4 keeping | 1 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000545,Rustic Elegance,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/9/2020,False,HIGH_GROWTH,0.0,False

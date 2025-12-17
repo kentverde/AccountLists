@@ -1,18 +1,18 @@
 Rep Detail Report: Lisa Lowder
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 321
-Total 2024 Revenue: $3,362,816.28
-Total 2025 Revenue: $3,089,300.76
+Total 2024 Revenue: 3362816.28
+Total 2025 Revenue: 3089300.76
 
 Accounts Removed (Floor): 117
-Revenue Removed (Floor): $45,970.22
+Revenue Removed (Floor): 45970.22
 
 Final Accounts (Keeping): 204
-Final Revenue (Keeping): $3,043,330.54
+Final Revenue (Keeping): 3043330.54
 
 Zero Revenue Accounts: 91
 Zero Revenue New 2025 Accounts: 3
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 3
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 30 accounts, $1,526,455.36 revenue, 0 removed
-Group 2 Medium Potential: 95 accounts, $714,377.35 revenue, 0 removed
-Group 1 Medium Potential: 13 accounts, $537,441.68 revenue, 0 removed
-Group 2 High Potential: 27 accounts, $227,470.88 revenue, 0 removed
-Group 3 Medium Potential: 37 accounts, $46,458.20 revenue, 32 removed
-Group 2 Low Potential: 3 accounts, $17,341.97 revenue, 0 removed
-Group 3 High Potential: 13 accounts, $10,007.60 revenue, 0 removed
-Group 3 Low Potential: 103 accounts, $9,747.72 revenue, 85 removed
+Group 1 High Potential: 30 accounts | 1526455.36 revenue | 0 removed
+Group 2 Medium Potential: 95 accounts | 714377.35 revenue | 0 removed
+Group 1 Medium Potential: 13 accounts | 537441.68 revenue | 0 removed
+Group 2 High Potential: 27 accounts | 227470.88 revenue | 0 removed
+Group 3 Medium Potential: 37 accounts | 46458.20 revenue | 32 removed
+Group 2 Low Potential: 3 accounts | 17341.97 revenue | 0 removed
+Group 3 High Potential: 13 accounts | 10007.60 revenue | 0 removed
+Group 3 Low Potential: 103 accounts | 9747.72 revenue | 85 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 43 accounts, $2,063,897.04
+GROUP 1 (HIGH REVENUE) - KEEPING: 43 accounts | 2063897.04 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1017394,Thingz,RETAIL,MULTIPLE_LOCATIONS,161863.7,173435.61,88.0,105.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,9/22/2020,False,STABLE_GROWTH,70.3,False
@@ -78,7 +78,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035124,Sutton Staging LLC,DESIGN,DESIGN_FIRM,0.0,18095.0,0.0,5.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,9/3/2025,True,STABLE_GROWTH,52.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 125 accounts, $959,190.20
+GROUP 2 (MID REVENUE) - KEEPING: 125 accounts | 959190.20 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1004953,Duet Design Group,DESIGN,DESIGN_FIRM,3559.0,17462.75,7.0,0.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/16/2020,False,STABLE_GROWTH,58.7,False
@@ -208,7 +208,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012019,Kristin Dittmar Design,DESIGN,DESIGN_FIRM,2498.1,2694.0,3.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/20/2019,False,STABLE_GROWTH,59.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 36 accounts, $20,243.30
+GROUP 3 (LOW REVENUE) - KEEPING: 36 accounts | 20243.30 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -250,7 +250,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038530,Discount Carpet Brokers,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 117 accounts, $45,970.22
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 117 accounts | 45970.22 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -373,7 +373,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009475,Tribe Interior Design,DESIGN,DESIGNER_INDEPENDENT,28996.0,-2015.0,8.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/11/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 91 total (19 keeping, 72 removed)
+ZERO REVENUE ACCOUNTS: 91 total | 19 keeping | 72 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036787,Huron Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/9/2025,True,STABLE_GROWTH,17.3,False

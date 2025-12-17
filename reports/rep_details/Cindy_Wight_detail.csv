@@ -1,18 +1,18 @@
 Rep Detail Report: Cindy Wight
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 168
-Total 2024 Revenue: $2,007,370.07
-Total 2025 Revenue: $2,140,844.62
+Total 2024 Revenue: 2007370.07
+Total 2025 Revenue: 2140844.62
 
 Accounts Removed (Floor): 26
-Revenue Removed (Floor): $22,175.34
+Revenue Removed (Floor): 22175.34
 
 Final Accounts (Keeping): 142
-Final Revenue (Keeping): $2,118,669.28
+Final Revenue (Keeping): 2118669.28
 
 Zero Revenue Accounts: 17
 Zero Revenue New 2025 Accounts: 4
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 4
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 27 accounts, $1,098,647.67 revenue, 0 removed
-Group 2 Medium Potential: 58 accounts, $401,399.21 revenue, 0 removed
-Group 1 Medium Potential: 10 accounts, $313,693.86 revenue, 0 removed
-Group 2 High Potential: 30 accounts, $293,922.04 revenue, 0 removed
-Group 3 Medium Potential: 17 accounts, $23,717.34 revenue, 14 removed
-Group 3 High Potential: 9 accounts, $5,477.50 revenue, 0 removed
-Group 2 Low Potential: 1 accounts, $2,590.00 revenue, 0 removed
-Group 3 Low Potential: 16 accounts, $1,397.00 revenue, 12 removed
+Group 1 High Potential: 27 accounts | 1098647.67 revenue | 0 removed
+Group 2 Medium Potential: 58 accounts | 401399.21 revenue | 0 removed
+Group 1 Medium Potential: 10 accounts | 313693.86 revenue | 0 removed
+Group 2 High Potential: 30 accounts | 293922.04 revenue | 0 removed
+Group 3 Medium Potential: 17 accounts | 23717.34 revenue | 14 removed
+Group 3 High Potential: 9 accounts | 5477.50 revenue | 0 removed
+Group 2 Low Potential: 1 accounts | 2590.00 revenue | 0 removed
+Group 3 Low Potential: 16 accounts | 1397.00 revenue | 12 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 37 accounts, $1,412,341.53
+GROUP 1 (HIGH REVENUE) - KEEPING: 37 accounts | 1412341.53 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000888,Designer's Resource Collection,RETAIL,MULTIPLE_LOCATIONS,110341.45,110638.92,97.0,115.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/23/2019,False,STABLE_GROWTH,72.1,False
@@ -72,7 +72,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001193,Kern and Co,RETAIL,SINGLE_LOCATION,10625.8,18015.5,10.0,11.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,8/15/2023,False,STABLE_GROWTH,63.1,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 89 accounts, $697,911.25
+GROUP 2 (MID REVENUE) - KEEPING: 89 accounts | 697911.25 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002616,Ambrosia Interior Design,DESIGN,DESIGN_FIRM,6300.0,17327.1,21.0,40.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/28/2020,False,STABLE_GROWTH,75.7,False
@@ -166,7 +166,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016663,Mark Design Company,DESIGN,DESIGNER_INDEPENDENT,15810.0,2590.0,7.0,1.0,MID_REVENUE,LOW_POTENTIAL,Group 2 Low Potential,7/9/2020,False,STABLE_GROWTH,39.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts, $8,416.50
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | 8416.50 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -188,7 +188,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038166,R&R FURNITURE GALLERY,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,10/16/2025,True,STABLE_GROWTH,19.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 26 accounts, $22,175.34
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 26 accounts | 22175.34 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -220,7 +220,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1034993,MHD Studio Inc,DESIGN,DESIGN_FIRM,1644.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/17/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 17 total (7 keeping, 10 removed)
+ZERO REVENUE ACCOUNTS: 17 total | 7 keeping | 10 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1026070,California Cushion and Carpet,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/19/2025,True,STABLE_GROWTH,25.0,False

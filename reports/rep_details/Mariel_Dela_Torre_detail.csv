@@ -1,18 +1,18 @@
 Rep Detail Report: Mariel Dela Torre
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 1
-Total 2024 Revenue: $0.00
-Total 2025 Revenue: $0.00
+Total 2024 Revenue: 0.00
+Total 2025 Revenue: 0.00
 
 Accounts Removed (Floor): 0
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 1
-Final Revenue (Keeping): $0.00
+Final Revenue (Keeping): 0.00
 
 Zero Revenue Accounts: 1
 Zero Revenue New 2025 Accounts: 0
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 3 Low Potential: 1 accounts, $0.00 revenue, 0 removed
+Group 3 Low Potential: 1 accounts | 0.00 revenue | 0 removed
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts, $0.00
+GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | 0.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000245,Landry & Arcari Oriental Rugs,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/20/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 1 total (1 keeping, 0 removed)
+ZERO REVENUE ACCOUNTS: 1 total | 1 keeping | 0 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000245,Landry & Arcari Oriental Rugs,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/20/2021,False,STABLE_GROWTH,0.0,False

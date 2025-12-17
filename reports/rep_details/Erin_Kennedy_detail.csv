@@ -1,18 +1,18 @@
 Rep Detail Report: Erin Kennedy
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 61
-Total 2024 Revenue: $233,747.99
-Total 2025 Revenue: $258,135.61
+Total 2024 Revenue: 233747.99
+Total 2025 Revenue: 258135.61
 
 Accounts Removed (Floor): 28
-Revenue Removed (Floor): $4,340.20
+Revenue Removed (Floor): 4340.20
 
 Final Accounts (Keeping): 33
-Final Revenue (Keeping): $253,795.41
+Final Revenue (Keeping): 253795.41
 
 Zero Revenue Accounts: 33
 Zero Revenue New 2025 Accounts: 9
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 9
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 Medium Potential: 2 accounts, $108,664.50 revenue, 0 removed
-Group 1 High Potential: 2 accounts, $59,978.18 revenue, 0 removed
-Group 2 High Potential: 5 accounts, $42,145.90 revenue, 0 removed
-Group 2 Medium Potential: 4 accounts, $33,802.82 revenue, 0 removed
-Group 3 High Potential: 19 accounts, $9,204.01 revenue, 0 removed
-Group 3 Medium Potential: 4 accounts, $4,298.80 revenue, 4 removed
-Group 3 Low Potential: 25 accounts, $41.40 revenue, 24 removed
+Group 1 Medium Potential: 2 accounts | 108664.50 revenue | 0 removed
+Group 1 High Potential: 2 accounts | 59978.18 revenue | 0 removed
+Group 2 High Potential: 5 accounts | 42145.90 revenue | 0 removed
+Group 2 Medium Potential: 4 accounts | 33802.82 revenue | 0 removed
+Group 3 High Potential: 19 accounts | 9204.01 revenue | 0 removed
+Group 3 Medium Potential: 4 accounts | 4298.80 revenue | 4 removed
+Group 3 Low Potential: 25 accounts | 41.40 revenue | 24 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts, $168,642.68
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | 168642.68 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007999,"Vida Design, LLC",DESIGN,DESIGN_FIRM,139084.72,71125.5,57.0,49.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,9/17/2019,False,STABLE_GROWTH,66.6,False
@@ -38,7 +38,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021531,DAHLIN Group,DESIGN,ARCHITECT_BUILDER,0.0,25351.0,0.0,20.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/24/2025,True,STABLE_GROWTH,77.3,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 9 accounts, $75,948.72
+GROUP 2 (MID REVENUE) - KEEPING: 9 accounts | 75948.72 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037481,"MJS Commercial Properties, LLC",DESIGN,ARCHITECT_BUILDER,0.0,17009.0,0.0,3.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,7/9/2025,True,STABLE_GROWTH,55.8,False
@@ -52,7 +52,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038679,Steinhauer Properties SoDo Builders,DESIGN,HOSPITALITY,0.0,3662.0,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,12/1/2025,True,STABLE_GROWTH,47.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts, $9,204.01
+GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts | 9204.01 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -78,7 +78,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038131,Gensler,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/25/2025,True,STABLE_GROWTH,18.4,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 28 accounts, $4,340.20
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 28 accounts | 4340.20 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -112,7 +112,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024237,URBAN PATTERNS,DESIGN,ARCHITECT_BUILDER,2105.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/16/2023,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 33 total (10 keeping, 23 removed)
+ZERO REVENUE ACCOUNTS: 33 total | 10 keeping | 23 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1012910,"The Inside Source, Inc",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,7/14/2025,True,STABLE_GROWTH,18.6,False

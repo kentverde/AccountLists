@@ -1,18 +1,18 @@
 Rep Detail Report: Lorne Gardner
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 268
-Total 2024 Revenue: $737,046.94
-Total 2025 Revenue: $856,235.45
+Total 2024 Revenue: 737046.94
+Total 2025 Revenue: 856235.45
 
 Accounts Removed (Floor): 148
-Revenue Removed (Floor): $46,446.80
+Revenue Removed (Floor): 46446.80
 
 Final Accounts (Keeping): 120
-Final Revenue (Keeping): $809,788.65
+Final Revenue (Keeping): 809788.65
 
 Zero Revenue Accounts: 140
 Zero Revenue New 2025 Accounts: 11
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 11
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 10 accounts, $327,172.61 revenue, 0 removed
-Group 2 Medium Potential: 38 accounts, $268,521.12 revenue, 0 removed
-Group 2 High Potential: 15 accounts, $126,517.05 revenue, 0 removed
-Group 1 Medium Potential: 3 accounts, $63,310.93 revenue, 0 removed
-Group 3 Medium Potential: 44 accounts, $46,999.15 revenue, 36 removed
-Group 2 Low Potential: 2 accounts, $10,276.00 revenue, 0 removed
-Group 3 High Potential: 17 accounts, $9,322.04 revenue, 2 removed
-Group 3 Low Potential: 139 accounts, $4,116.55 revenue, 110 removed
+Group 1 High Potential: 10 accounts | 327172.61 revenue | 0 removed
+Group 2 Medium Potential: 38 accounts | 268521.12 revenue | 0 removed
+Group 2 High Potential: 15 accounts | 126517.05 revenue | 0 removed
+Group 1 Medium Potential: 3 accounts | 63310.93 revenue | 0 removed
+Group 3 Medium Potential: 44 accounts | 46999.15 revenue | 36 removed
+Group 2 Low Potential: 2 accounts | 10276.00 revenue | 0 removed
+Group 3 High Potential: 17 accounts | 9322.04 revenue | 2 removed
+Group 3 Low Potential: 139 accounts | 4116.55 revenue | 110 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 13 accounts, $390,483.54
+GROUP 1 (HIGH REVENUE) - KEEPING: 13 accounts | 390483.54 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002255,Designers Library,DESIGN,DESIGN_FIRM,6508.44,51635.56,9.0,4.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/22/2019,False,STABLE_GROWTH,84.4,False
@@ -48,7 +48,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016657,DMB Design Studio,DESIGN,DESIGN_FIRM,5853.5,19233.42,4.0,7.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,6/5/2021,False,STABLE_GROWTH,76.5,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 55 accounts, $405,314.17
+GROUP 2 (MID REVENUE) - KEEPING: 55 accounts | 405314.17 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003683,Plum and Crimson Fine Interior Design,DESIGN,DESIGN_FIRM,6933.5,17380.0,5.0,13.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,12/30/2019,False,STABLE_GROWTH,80.0,False
@@ -108,7 +108,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024796,bowerbirds inc.,DESIGN,DESIGN_FIRM,1919.0,2560.0,3.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/21/2023,False,STABLE_GROWTH,51.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 52 accounts, $13,990.94
+GROUP 3 (LOW REVENUE) - KEEPING: 52 accounts | 13990.94 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -166,7 +166,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1010218,SS Lorne Gardner,INTERNAL,SALES_REP,0.0,-33.8,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/28/2019,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 148 accounts, $46,446.80
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 148 accounts | 46446.80 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -320,7 +320,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012399,Spectrum Design Group,DESIGN,DESIGN_FIRM,2626.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/7/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 140 total (36 keeping, 104 removed)
+ZERO REVENUE ACCOUNTS: 140 total | 36 keeping | 104 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007062,Carpet and Design Emporium,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/19/2025,True,STABLE_GROWTH,23.2,False

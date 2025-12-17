@@ -1,18 +1,18 @@
 Rep Detail Report: Ted Fall
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 230
-Total 2024 Revenue: $1,747,291.31
-Total 2025 Revenue: $1,711,828.84
+Total 2024 Revenue: 1747291.31
+Total 2025 Revenue: 1711828.84
 
 Accounts Removed (Floor): 86
-Revenue Removed (Floor): $38,538.22
+Revenue Removed (Floor): 38538.22
 
 Final Accounts (Keeping): 144
-Final Revenue (Keeping): $1,673,290.62
+Final Revenue (Keeping): 1673290.62
 
 Zero Revenue Accounts: 82
 Zero Revenue New 2025 Accounts: 7
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 7
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 18 accounts, $776,057.66 revenue, 0 removed
-Group 1 Medium Potential: 11 accounts, $325,049.67 revenue, 0 removed
-Group 2 Medium Potential: 44 accounts, $285,248.95 revenue, 0 removed
-Group 2 High Potential: 24 accounts, $254,696.50 revenue, 0 removed
-Group 3 Medium Potential: 33 accounts, $41,317.72 revenue, 29 removed
-Group 2 Low Potential: 3 accounts, $20,814.50 revenue, 0 removed
-Group 3 High Potential: 16 accounts, $7,579.14 revenue, 0 removed
-Group 3 Low Potential: 81 accounts, $1,064.70 revenue, 57 removed
+Group 1 High Potential: 18 accounts | 776057.66 revenue | 0 removed
+Group 1 Medium Potential: 11 accounts | 325049.67 revenue | 0 removed
+Group 2 Medium Potential: 44 accounts | 285248.95 revenue | 0 removed
+Group 2 High Potential: 24 accounts | 254696.50 revenue | 0 removed
+Group 3 Medium Potential: 33 accounts | 41317.72 revenue | 29 removed
+Group 2 Low Potential: 3 accounts | 20814.50 revenue | 0 removed
+Group 3 High Potential: 16 accounts | 7579.14 revenue | 0 removed
+Group 3 Low Potential: 81 accounts | 1064.70 revenue | 57 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts, $1,101,107.33
+GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | 1101107.33 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003541,Hillsdale Home-Alder and Tweed,DESIGN,DESIGN_FIRM,85117.79,134759.77,92.0,86.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/15/2020,False,STABLE_GROWTH,75.5,False
@@ -64,7 +64,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1013122,Simons Design Studio,DESIGN,DESIGN_FIRM,294.0,20771.3,1.0,6.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,11/26/2019,False,STABLE_GROWTH,66.6,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 71 accounts, $560,759.95
+GROUP 2 (MID REVENUE) - KEEPING: 71 accounts | 560759.95 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011553,CopperHAUS,DESIGN,DESIGNER_INDEPENDENT,8877.0,17869.0,10.0,7.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,2/10/2020,False,STABLE_GROWTH,74.9,False
@@ -140,7 +140,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035352,Eryn Lambert Design,DESIGN,DESIGNER_INDEPENDENT,0.0,2544.0,0.0,2.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/13/2025,True,STABLE_GROWTH,44.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts, $11,423.34
+GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts | 11423.34 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -190,7 +190,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012068,SS Ted Fall,INTERNAL,SALES_REP,2005.1,-411.3,4.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/8/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 86 accounts, $38,538.22
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 86 accounts | 38538.22 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -282,7 +282,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035198,T Haus,DESIGN,DESIGN_FIRM,1019.0,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/1/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 82 total (29 keeping, 53 removed)
+ZERO REVENUE ACCOUNTS: 82 total | 29 keeping | 53 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1034844,Twisted Lemon Designs,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,7/11/2025,True,STABLE_GROWTH,20.1,False

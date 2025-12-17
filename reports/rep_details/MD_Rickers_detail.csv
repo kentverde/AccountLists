@@ -1,18 +1,18 @@
 Rep Detail Report: MD Rickers
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 124
-Total 2024 Revenue: $602,852.37
-Total 2025 Revenue: $541,001.96
+Total 2024 Revenue: 602852.37
+Total 2025 Revenue: 541001.96
 
 Accounts Removed (Floor): 64
-Revenue Removed (Floor): $26,481.39
+Revenue Removed (Floor): 26481.39
 
 Final Accounts (Keeping): 60
-Final Revenue (Keeping): $514,520.57
+Final Revenue (Keeping): 514520.57
 
 Zero Revenue Accounts: 48
 Zero Revenue New 2025 Accounts: 2
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 2
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 29 accounts, $216,508.20 revenue, 0 removed
-Group 1 High Potential: 7 accounts, $205,202.23 revenue, 0 removed
-Group 2 High Potential: 7 accounts, $68,088.94 revenue, 0 removed
-Group 3 Medium Potential: 22 accounts, $23,108.95 revenue, 22 removed
-Group 1 Medium Potential: 1 accounts, $22,163.40 revenue, 0 removed
-Group 3 Low Potential: 51 accounts, $3,363.94 revenue, 42 removed
-Group 3 High Potential: 7 accounts, $2,566.30 revenue, 0 removed
+Group 2 Medium Potential: 29 accounts | 216508.20 revenue | 0 removed
+Group 1 High Potential: 7 accounts | 205202.23 revenue | 0 removed
+Group 2 High Potential: 7 accounts | 68088.94 revenue | 0 removed
+Group 3 Medium Potential: 22 accounts | 23108.95 revenue | 22 removed
+Group 1 Medium Potential: 1 accounts | 22163.40 revenue | 0 removed
+Group 3 Low Potential: 51 accounts | 3363.94 revenue | 42 removed
+Group 3 High Potential: 7 accounts | 2566.30 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 8 accounts, $227,365.63
+GROUP 1 (HIGH REVENUE) - KEEPING: 8 accounts | 227365.63 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1013347,NCM Design,DESIGN,DESIGNER_INDEPENDENT,24053.0,51334.0,14.0,28.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/23/2020,False,STABLE_GROWTH,79.1,False
@@ -42,7 +42,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012586,"C Randolph Trainor, LLC",DESIGN,DESIGNER_INDEPENDENT,22343.5,22163.4,8.0,11.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,12/16/2019,False,STABLE_GROWTH,60.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 36 accounts, $284,597.14
+GROUP 2 (MID REVENUE) - KEEPING: 36 accounts | 284597.14 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1001217,Simply Home (ME),RETAIL,SINGLE_LOCATION,35346.0,16906.1,20.0,14.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,3/12/2020,False,STABLE_GROWTH,72.0,False
@@ -83,7 +83,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017388,Lauren Milligan DesignDBABackdrop Interior Design,DESIGN,DESIGN_FIRM,4690.0,2634.0,4.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/19/2022,False,STABLE_GROWTH,50.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts, $2,557.80
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | 2557.80 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -105,7 +105,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035756,MAO Design,DESIGN,DESIGN_FIRM,0.0,-27.2,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/4/2025,True,STABLE_GROWTH,22.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 64 accounts, $26,481.39
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 64 accounts | 26481.39 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -175,7 +175,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035034,Knickerbocker Group,DESIGN,DESIGN_FIRM,0.0,-74.8,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/18/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 48 total (10 keeping, 38 removed)
+ZERO REVENUE ACCOUNTS: 48 total | 10 keeping | 38 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037141,Cushman Design Group,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/29/2025,True,STABLE_GROWTH,21.8,False

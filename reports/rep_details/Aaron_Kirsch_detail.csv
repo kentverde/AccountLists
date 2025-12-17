@@ -1,18 +1,18 @@
 Rep Detail Report: Aaron Kirsch
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 115
-Total 2024 Revenue: $795,662.50
-Total 2025 Revenue: $512,684.85
+Total 2024 Revenue: 795662.50
+Total 2025 Revenue: 512684.85
 
 Accounts Removed (Floor): 40
-Revenue Removed (Floor): $7,454.40
+Revenue Removed (Floor): 7454.40
 
 Final Accounts (Keeping): 75
-Final Revenue (Keeping): $505,230.45
+Final Revenue (Keeping): 505230.45
 
 Zero Revenue Accounts: 67
 Zero Revenue New 2025 Accounts: 0
@@ -20,18 +20,18 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 Medium Potential: 5 accounts, $130,948.35 revenue, 0 removed
-Group 1 High Potential: 3 accounts, $124,072.38 revenue, 0 removed
-Group 2 Medium Potential: 13 accounts, $87,475.12 revenue, 0 removed
-Group 1 Low Potential: 2 accounts, $72,918.10 revenue, 0 removed
-Group 2 High Potential: 5 accounts, $56,080.90 revenue, 0 removed
-Group 2 Low Potential: 2 accounts, $27,184.60 revenue, 0 removed
-Group 3 Medium Potential: 9 accounts, $9,694.00 revenue, 7 removed
-Group 3 High Potential: 4 accounts, $2,597.00 revenue, 0 removed
-Group 3 Low Potential: 72 accounts, $1,714.40 revenue, 33 removed
+Group 1 Medium Potential: 5 accounts | 130948.35 revenue | 0 removed
+Group 1 High Potential: 3 accounts | 124072.38 revenue | 0 removed
+Group 2 Medium Potential: 13 accounts | 87475.12 revenue | 0 removed
+Group 1 Low Potential: 2 accounts | 72918.10 revenue | 0 removed
+Group 2 High Potential: 5 accounts | 56080.90 revenue | 0 removed
+Group 2 Low Potential: 2 accounts | 27184.60 revenue | 0 removed
+Group 3 Medium Potential: 9 accounts | 9694.00 revenue | 7 removed
+Group 3 High Potential: 4 accounts | 2597.00 revenue | 0 removed
+Group 3 Low Potential: 72 accounts | 1714.40 revenue | 33 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 10 accounts, $327,938.83
+GROUP 1 (HIGH REVENUE) - KEEPING: 10 accounts | 327938.83 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1012604,"Hislop Windows and Doors, Ltd",RETAIL,DESIGNER_INDEPENDENT,88047.9,82038.55,18.0,18.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,2/26/2020,False,STABLE_GROWTH,75.4,False
@@ -46,7 +46,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1019217,IDG - International Design Group,RETAIL,SINGLE_LOCATION,13683.5,18007.64,4.0,10.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,8/24/2021,False,STABLE_GROWTH,70.8,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 20 accounts, $170,740.62
+GROUP 2 (MID REVENUE) - KEEPING: 20 accounts | 170740.62 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019432,Hana Waxman Design,DESIGN,SINGLE_LOCATION,3680.0,16475.92,1.0,16.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,5/21/2021,False,STABLE_GROWTH,60.6,False
@@ -71,7 +71,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005116,Guillermo Gerzabek,RETAIL,SINGLE_LOCATION,25370.0,2508.5,8.0,5.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/7/2020,False,STABLE_GROWTH,53.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 45 accounts, $6,551.00
+GROUP 3 (LOW REVENUE) - KEEPING: 45 accounts | 6551.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -122,7 +122,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1011070,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/16/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 40 accounts, $7,454.40
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 40 accounts | 7454.40 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -168,7 +168,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037608,A2 DESIGN,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 67 total (38 keeping, 29 removed)
+ZERO REVENUE ACCOUNTS: 67 total | 38 keeping | 29 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000570,Epocas,RETAIL,SINGLE_LOCATION,1280.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/15/2024,False,STABLE_GROWTH,0.0,False

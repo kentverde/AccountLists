@@ -1,18 +1,18 @@
 Rep Detail Report: Hana Nassri
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 957
-Total 2024 Revenue: $2,061,665.50
-Total 2025 Revenue: $2,094,988.12
+Total 2024 Revenue: 2061665.50
+Total 2025 Revenue: 2094988.12
 
 Accounts Removed (Floor): 606
-Revenue Removed (Floor): $212,383.53
+Revenue Removed (Floor): 212383.53
 
 Final Accounts (Keeping): 351
-Final Revenue (Keeping): $1,882,604.59
+Final Revenue (Keeping): 1882604.59
 
 Zero Revenue Accounts: 458
 Zero Revenue New 2025 Accounts: 48
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 48
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 129 accounts, $819,596.66 revenue, 0 removed
-Group 2 High Potential: 69 accounts, $505,115.30 revenue, 0 removed
-Group 1 High Potential: 13 accounts, $386,698.10 revenue, 0 removed
-Group 3 Medium Potential: 177 accounts, $201,810.93 revenue, 166 removed
-Group 1 Medium Potential: 4 accounts, $93,307.62 revenue, 0 removed
-Group 3 High Potential: 100 accounts, $52,031.81 revenue, 3 removed
-Group 3 Low Potential: 461 accounts, $21,633.70 revenue, 437 removed
-Group 2 Low Potential: 4 accounts, $14,794.00 revenue, 0 removed
+Group 2 Medium Potential: 129 accounts | 819596.66 revenue | 0 removed
+Group 2 High Potential: 69 accounts | 505115.30 revenue | 0 removed
+Group 1 High Potential: 13 accounts | 386698.10 revenue | 0 removed
+Group 3 Medium Potential: 177 accounts | 201810.93 revenue | 166 removed
+Group 1 Medium Potential: 4 accounts | 93307.62 revenue | 0 removed
+Group 3 High Potential: 100 accounts | 52031.81 revenue | 3 removed
+Group 3 Low Potential: 461 accounts | 21633.70 revenue | 437 removed
+Group 2 Low Potential: 4 accounts | 14794.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts, $480,005.72
+GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | 480005.72 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1024565,Domaine,DESIGN,DESIGNER_INDEPENDENT,3055.0,44073.0,2.0,20.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,6/26/2023,False,STABLE_GROWTH,80.9,False
@@ -52,7 +52,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1013401,J Lynn Design Group,DESIGN,DESIGN_FIRM,8270.0,18592.49,8.0,13.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/9/2019,False,STABLE_GROWTH,80.8,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 202 accounts, $1,339,505.96
+GROUP 2 (MID REVENUE) - KEEPING: 202 accounts | 1339505.96 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1022293,"Marni Joy Hamptons Interiors + Design, LLC",DESIGN,DESIGNER_INDEPENDENT,11433.0,17882.0,8.0,9.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/28/2022,False,STABLE_GROWTH,55.9,False
@@ -259,7 +259,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035996,Caroline Chao,DESIGN,ARCHITECT_BUILDER,0.0,2524.5,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,2/7/2025,True,STABLE_GROWTH,41.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 132 accounts, $63,092.91
+GROUP 3 (LOW REVENUE) - KEEPING: 132 accounts | 63092.91 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -397,7 +397,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009566,"Pavilion Floors, Inc",RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 606 accounts, $212,383.53
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 606 accounts | 212383.53 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -1009,7 +1009,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1020308,Rushda Hakim Design,DESIGN,DESIGNER_INDEPENDENT,8054.0,-1799.0,2.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/3/2022,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 458 total (69 keeping, 389 removed)
+ZERO REVENUE ACCOUNTS: 458 total | 69 keeping | 389 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000385,Lucille Lichtenberg Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/9/2025,True,STABLE_GROWTH,20.4,False

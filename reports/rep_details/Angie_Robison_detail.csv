@@ -1,18 +1,18 @@
 Rep Detail Report: Angie Robison
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 255
-Total 2024 Revenue: $4,425,393.30
-Total 2025 Revenue: $4,079,564.13
+Total 2024 Revenue: 4425393.30
+Total 2025 Revenue: 4079564.13
 
 Accounts Removed (Floor): 22
-Revenue Removed (Floor): $15,119.90
+Revenue Removed (Floor): 15119.90
 
 Final Accounts (Keeping): 233
-Final Revenue (Keeping): $4,064,444.23
+Final Revenue (Keeping): 4064444.23
 
 Zero Revenue Accounts: 31
 Zero Revenue New 2025 Accounts: 2
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 2
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 43 accounts, $1,918,271.01 revenue, 0 removed
-Group 1 Medium Potential: 30 accounts, $1,248,988.78 revenue, 0 removed
-Group 2 Medium Potential: 75 accounts, $593,824.56 revenue, 0 removed
-Group 2 High Potential: 26 accounts, $259,171.13 revenue, 0 removed
-Group 3 Medium Potential: 33 accounts, $40,931.80 revenue, 9 removed
-Group 2 Low Potential: 3 accounts, $11,982.00 revenue, 0 removed
-Group 3 High Potential: 6 accounts, $4,488.00 revenue, 0 removed
-Group 3 Low Potential: 39 accounts, $1,906.85 revenue, 13 removed
+Group 1 High Potential: 43 accounts | 1918271.01 revenue | 0 removed
+Group 1 Medium Potential: 30 accounts | 1248988.78 revenue | 0 removed
+Group 2 Medium Potential: 75 accounts | 593824.56 revenue | 0 removed
+Group 2 High Potential: 26 accounts | 259171.13 revenue | 0 removed
+Group 3 Medium Potential: 33 accounts | 40931.80 revenue | 9 removed
+Group 2 Low Potential: 3 accounts | 11982.00 revenue | 0 removed
+Group 3 High Potential: 6 accounts | 4488.00 revenue | 0 removed
+Group 3 Low Potential: 39 accounts | 1906.85 revenue | 13 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 73 accounts, $3,167,259.79
+GROUP 1 (HIGH REVENUE) - KEEPING: 73 accounts | 3167259.79 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011419,J Allans LLC,RETAIL,MULTIPLE_LOCATIONS,108521.6,154195.33,77.0,96.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/2/2020,False,STABLE_GROWTH,74.7,False
@@ -108,7 +108,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017804,"Spatial, LLC",DESIGN,DESIGN_FIRM,6687.0,18390.0,7.0,16.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/2/2021,False,STABLE_GROWTH,75.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 104 accounts, $864,977.69
+GROUP 2 (MID REVENUE) - KEEPING: 104 accounts | 864977.69 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011606,"Set to Sell, LLC",DESIGN,DESIGN_FIRM,196.2,17045.2,1.0,8.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,10/29/2019,False,STABLE_GROWTH,76.1,False
@@ -217,7 +217,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037346,Hathaway Atelier LLC,DESIGN,DESIGN_FIRM,0.0,2595.0,0.0,3.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,7/16/2025,True,STABLE_GROWTH,51.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 56 accounts, $32,206.75
+GROUP 3 (LOW REVENUE) - KEEPING: 56 accounts | 32206.75 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -279,7 +279,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1015126,SS Angie G Robison,INTERNAL,SALES_REP,0.0,-147.9,6.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/7/2020,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 22 accounts, $15,119.90
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 22 accounts | 15119.90 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -307,7 +307,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1018640,L. Allison Interior Design,DESIGN,DESIGNER_INDEPENDENT,14804.0,-545.0,8.0,3.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/9/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 31 total (22 keeping, 9 removed)
+ZERO REVENUE ACCOUNTS: 31 total | 22 keeping | 9 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1035810,Mary McBride Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/27/2025,True,STABLE_GROWTH,19.1,False

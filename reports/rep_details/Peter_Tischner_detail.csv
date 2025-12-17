@@ -1,18 +1,18 @@
 Rep Detail Report: Peter Tischner
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 30
-Total 2024 Revenue: $6,248,721.39
-Total 2025 Revenue: $3,909,234.27
+Total 2024 Revenue: 6248721.39
+Total 2025 Revenue: 3909234.27
 
 Accounts Removed (Floor): 0
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 30
-Final Revenue (Keeping): $3,909,234.27
+Final Revenue (Keeping): 3909234.27
 
 Zero Revenue Accounts: 14
 Zero Revenue New 2025 Accounts: 0
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 Medium Potential: 6 accounts, $3,667,718.91 revenue, 0 removed
-Group 1 High Potential: 2 accounts, $103,928.12 revenue, 0 removed
-Group 1 Low Potential: 1 accounts, $81,401.75 revenue, 0 removed
-Group 2 Medium Potential: 4 accounts, $51,804.16 revenue, 0 removed
-Group 2 Low Potential: 1 accounts, $7,549.33 revenue, 0 removed
-Group 3 Medium Potential: 1 accounts, $803.40 revenue, 0 removed
-Group 3 Low Potential: 15 accounts, $-3,971.40 revenue, 0 removed
+Group 1 Medium Potential: 6 accounts | 3667718.91 revenue | 0 removed
+Group 1 High Potential: 2 accounts | 103928.12 revenue | 0 removed
+Group 1 Low Potential: 1 accounts | 81401.75 revenue | 0 removed
+Group 2 Medium Potential: 4 accounts | 51804.16 revenue | 0 removed
+Group 2 Low Potential: 1 accounts | 7549.33 revenue | 0 removed
+Group 3 Medium Potential: 1 accounts | 803.40 revenue | 0 removed
+Group 3 Low Potential: 15 accounts | -3971.40 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 9 accounts, $3,853,048.78
+GROUP 1 (HIGH REVENUE) - KEEPING: 9 accounts | 3853048.78 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1023007,Lowe's Brick and Mortar,RETAIL,MULTIPLE_LOCATIONS,5247070.2,3140494.29,955.0,754.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,11/2/2022,False,STABLE_GROWTH,49.7,False
@@ -43,7 +43,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1000019,Rug and Home (Gaffney),RETAIL,MULTIPLE_LOCATIONS,23159.28,23438.31,20.0,22.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/6/2020,False,STABLE_GROWTH,61.2,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 5 accounts, $59,353.49
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts | 59353.49 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000018,Rug and Home (Asheville),RETAIL,MULTIPLE_LOCATIONS,27111.66,16753.26,20.0,16.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/2/2020,False,STABLE_GROWTH,64.6,False
@@ -53,7 +53,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001490,Rug and Home (Kannapolis),RETAIL,MULTIPLE_LOCATIONS,17955.84,5829.76,10.0,9.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/14/2020,False,STABLE_GROWTH,60.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts, $-3,168.00
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | -3168.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -75,7 +75,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003907,Rug and Home,RETAIL,MULTIPLE_LOCATIONS,0.0,-3971.4,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/18/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 14 total (14 keeping, 0 removed)
+ZERO REVENUE ACCOUNTS: 14 total | 14 keeping | 0 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1001250,"Kenneth L Mink and Sons, Inc",RETAIL,NATIONAL,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/1/2021,False,STABLE_GROWTH,0.0,False

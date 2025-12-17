@@ -1,40 +1,40 @@
 Rep Detail Report: Enricus Coone
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
-Total Accounts (after alignment): 1,733
-Total 2024 Revenue: $69,873.41
-Total 2025 Revenue: $449,181.01
+Total Accounts (after alignment): 1733
+Total 2024 Revenue: 69873.41
+Total 2025 Revenue: 449181.01
 
-Accounts Removed (Floor): 1,441
-Revenue Removed (Floor): $74,772.87
+Accounts Removed (Floor): 1441
+Revenue Removed (Floor): 74772.87
 
 Final Accounts (Keeping): 292
-Final Revenue (Keeping): $374,408.14
+Final Revenue (Keeping): 374408.14
 
-Zero Revenue Accounts: 1,548
+Zero Revenue Accounts: 1548
 Zero Revenue New 2025 Accounts: 31
 
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 34 accounts, $167,343.61 revenue, 0 removed
-Group 2 High Potential: 23 accounts, $142,508.01 revenue, 0 removed
-Group 3 Medium Potential: 81 accounts, $73,584.77 revenue, 76 removed
-Group 1 High Potential: 1 accounts, $41,333.20 revenue, 0 removed
-Group 3 High Potential: 65 accounts, $22,230.42 revenue, 2 removed
-Group 3 Low Potential: 1,529 accounts, $2,181.00 revenue, 1,363 removed
+Group 2 Medium Potential: 34 accounts | 167343.61 revenue | 0 removed
+Group 2 High Potential: 23 accounts | 142508.01 revenue | 0 removed
+Group 3 Medium Potential: 81 accounts | 73584.77 revenue | 76 removed
+Group 1 High Potential: 1 accounts | 41333.20 revenue | 0 removed
+Group 3 High Potential: 65 accounts | 22230.42 revenue | 2 removed
+Group 3 Low Potential: 1529 accounts | 2181.00 revenue | 1363 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts, $41,333.20
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 41333.20 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1021781,Boyden Design & Consulting LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,41333.2,0.0,11.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/1/2022,False,STABLE_GROWTH,70.2,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 57 accounts, $309,851.62
+GROUP 2 (MID REVENUE) - KEEPING: 57 accounts | 309851.62 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1015691,kishani perera inc,DESIGN,DESIGN_FIRM,0.0,13984.8,0.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/10/2020,False,STABLE_GROWTH,61.1,False
@@ -96,7 +96,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001434,Anne Markstein Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,2508.0,0.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/31/2020,False,STABLE_GROWTH,55.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 234 accounts, $23,223.32
+GROUP 3 (LOW REVENUE) - KEEPING: 234 accounts | 23223.32 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -336,7 +336,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1018999,"Todd Bennett Design, LLC.",RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/28/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1,441 accounts, $74,772.87
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 1441 accounts | 74772.87 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -1783,7 +1783,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016622,Distinctive Interiors - TN,DESIGN,DESIGNER_INDEPENDENT,0.0,-28.0,0.0,2.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/29/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 1,548 total (196 keeping, 1,352 removed)
+ZERO REVENUE ACCOUNTS: 1548 total | 196 keeping | 1352 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1015662,A Styled Home Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/5/2025,True,STABLE_GROWTH,18.6,False

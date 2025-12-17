@@ -1,18 +1,18 @@
 Rep Detail Report: Vandana Kaku
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 531
-Total 2024 Revenue: $1,805,577.45
-Total 2025 Revenue: $1,765,701.31
+Total 2024 Revenue: 1805577.45
+Total 2025 Revenue: 1765701.31
 
 Accounts Removed (Floor): 304
-Revenue Removed (Floor): $90,626.27
+Revenue Removed (Floor): 90626.27
 
 Final Accounts (Keeping): 227
-Final Revenue (Keeping): $1,675,075.04
+Final Revenue (Keeping): 1675075.04
 
 Zero Revenue Accounts: 244
 Zero Revenue New 2025 Accounts: 19
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 19
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 96 accounts, $595,973.33 revenue, 0 removed
-Group 1 High Potential: 11 accounts, $552,177.84 revenue, 0 removed
-Group 2 High Potential: 43 accounts, $313,740.15 revenue, 0 removed
-Group 1 Medium Potential: 7 accounts, $172,800.42 revenue, 0 removed
-Group 3 Medium Potential: 79 accounts, $88,412.99 revenue, 74 removed
-Group 3 High Potential: 35 accounts, $15,283.60 revenue, 0 removed
-Group 2 Low Potential: 2 accounts, $15,204.00 revenue, 0 removed
-Group 3 Low Potential: 258 accounts, $12,108.98 revenue, 230 removed
+Group 2 Medium Potential: 96 accounts | 595973.33 revenue | 0 removed
+Group 1 High Potential: 11 accounts | 552177.84 revenue | 0 removed
+Group 2 High Potential: 43 accounts | 313740.15 revenue | 0 removed
+Group 1 Medium Potential: 7 accounts | 172800.42 revenue | 0 removed
+Group 3 Medium Potential: 79 accounts | 88412.99 revenue | 74 removed
+Group 3 High Potential: 35 accounts | 15283.60 revenue | 0 removed
+Group 2 Low Potential: 2 accounts | 15204.00 revenue | 0 removed
+Group 3 Low Potential: 258 accounts | 12108.98 revenue | 230 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 18 accounts, $724,978.26
+GROUP 1 (HIGH REVENUE) - KEEPING: 18 accounts | 724978.26 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000248,Island Imports Dba Vineyard Decorators,RETAIL,SINGLE_LOCATION,111843.81,154584.73,65.0,59.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/18/2019,False,STABLE_GROWTH,71.4,False
@@ -53,7 +53,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009351,Susan Stacy Design,DESIGN,DESIGNER_INDEPENDENT,14834.0,18374.0,6.0,7.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,2/21/2020,False,STABLE_GROWTH,68.6,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 141 accounts, $924,917.48
+GROUP 2 (MID REVENUE) - KEEPING: 141 accounts | 924917.48 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011461,Hilderbrand Interiors,DESIGN,DESIGN_FIRM,17428.0,17340.0,3.0,6.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/8/2020,False,STABLE_GROWTH,65.5,False
@@ -199,7 +199,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1027739,EWP Interiors,DESIGN,DESIGNER_INDEPENDENT,805.0,2502.5,1.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/2/2024,False,STABLE_GROWTH,65.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 68 accounts, $25,179.30
+GROUP 3 (LOW REVENUE) - KEEPING: 68 accounts | 25179.30 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -273,7 +273,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038354,Liz Anderson Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,10/27/2025,True,STABLE_GROWTH,19.8,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 304 accounts, $90,626.27
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 304 accounts | 90626.27 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -583,7 +583,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1018584,Liz Miller Interiors,DESIGN,DESIGN_FIRM,4527.0,-3464.92,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/2/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 244 total (43 keeping, 201 removed)
+ZERO REVENUE ACCOUNTS: 244 total | 43 keeping | 201 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1013859,Acanthus Event Design,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,10/27/2025,True,STABLE_GROWTH,19.8,False

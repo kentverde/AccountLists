@@ -1,18 +1,18 @@
 Rep Detail Report: Teresa Roberts
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 310
-Total 2024 Revenue: $23,678.92
-Total 2025 Revenue: $-304,071.99
+Total 2024 Revenue: 23678.92
+Total 2025 Revenue: -304071.99
 
 Accounts Removed (Floor): 193
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 117
-Final Revenue (Keeping): $-304,071.99
+Final Revenue (Keeping): -304071.99
 
 Zero Revenue Accounts: 308
 Zero Revenue New 2025 Accounts: 0
@@ -20,18 +20,18 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 1 accounts, $10,469.75 revenue, 0 removed
-Group 3 Low Potential: 308 accounts, $0.00 revenue, 193 removed
-Group 3 High Potential: 1 accounts, $-314,541.74 revenue, 0 removed
+Group 2 Medium Potential: 1 accounts | 10469.75 revenue | 0 removed
+Group 3 Low Potential: 308 accounts | 0.00 revenue | 193 removed
+Group 3 High Potential: 1 accounts | -314541.74 revenue | 0 removed
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 1 accounts, $10,469.75
+GROUP 2 (MID REVENUE) - KEEPING: 1 accounts | 10469.75 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1017909,HUIS Cayman,RETAIL,SINGLE_LOCATION,16848.92,10469.75,11.0,12.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/19/2020,False,STABLE_GROWTH,57.5,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 116 accounts, $-314,541.74
+GROUP 3 (LOW REVENUE) - KEEPING: 116 accounts | -314541.74 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -153,7 +153,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1006014,Unidentified Customer,INTERNAL,SALES_REP,-3407.0,-314541.74,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/4/2025,True,STABLE_GROWTH,30.7,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 193 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 193 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -352,7 +352,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1026594,J Patryce Design-DUPL. PLEASE USE 1010838,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/28/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 308 total (115 keeping, 193 removed)
+ZERO REVENUE ACCOUNTS: 308 total | 115 keeping | 193 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000148,Carpet Exchange,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/31/2019,False,STABLE_GROWTH,0.0,False

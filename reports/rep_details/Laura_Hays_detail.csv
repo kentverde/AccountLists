@@ -1,18 +1,18 @@
 Rep Detail Report: Laura Hays
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 100
-Total 2024 Revenue: $199,987.48
-Total 2025 Revenue: $234,117.19
+Total 2024 Revenue: 199987.48
+Total 2025 Revenue: 234117.19
 
 Accounts Removed (Floor): 49
-Revenue Removed (Floor): $3,793.00
+Revenue Removed (Floor): 3793.00
 
 Final Accounts (Keeping): 51
-Final Revenue (Keeping): $230,324.19
+Final Revenue (Keeping): 230324.19
 
 Zero Revenue Accounts: 59
 Zero Revenue New 2025 Accounts: 12
@@ -20,21 +20,21 @@ Zero Revenue New 2025 Accounts: 12
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 19 accounts, $119,541.87 revenue, 0 removed
-Group 2 High Potential: 11 accounts, $81,758.14 revenue, 0 removed
-Group 1 High Potential: 1 accounts, $20,033.83 revenue, 0 removed
-Group 3 High Potential: 19 accounts, $8,990.35 revenue, 0 removed
-Group 3 Medium Potential: 3 accounts, $3,793.00 revenue, 3 removed
-Group 3 Low Potential: 47 accounts, $0.00 revenue, 46 removed
+Group 2 Medium Potential: 19 accounts | 119541.87 revenue | 0 removed
+Group 2 High Potential: 11 accounts | 81758.14 revenue | 0 removed
+Group 1 High Potential: 1 accounts | 20033.83 revenue | 0 removed
+Group 3 High Potential: 19 accounts | 8990.35 revenue | 0 removed
+Group 3 Medium Potential: 3 accounts | 3793.00 revenue | 3 removed
+Group 3 Low Potential: 47 accounts | 0.00 revenue | 46 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts, $20,033.83
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 20033.83 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008485,SJL Design Group,DESIGN,DESIGN_FIRM,13650.15,20033.83,6.0,12.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/22/2020,False,HIGH_GROWTH,76.5,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 30 accounts, $201,300.01
+GROUP 2 (MID REVENUE) - KEEPING: 30 accounts | 201300.01 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1016990,"Workplace Solutions, Inc.",DESIGN,DESIGN_FIRM,1350.0,15634.08,1.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/3/2021,False,HIGH_GROWTH,56.7,False
@@ -69,7 +69,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1016571,Inspire Studios LLC,DESIGN,DESIGN_FIRM,3843.0,2520.0,4.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/21/2021,False,HIGH_GROWTH,49.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts, $8,990.35
+GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts | 8990.35 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -95,7 +95,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038237,S. Tipton Studio,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,10/8/2025,True,HIGH_GROWTH,20.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 49 accounts, $3,793.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 49 accounts | 3793.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -150,7 +150,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1034998,Polaris Procurement,DESIGN,HOSPITALITY,1638.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/11/2024,False,HIGH_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 59 total (13 keeping, 46 removed)
+ZERO REVENUE ACCOUNTS: 59 total | 13 keeping | 46 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1010099,"Waldrop+Nichols Studio, LLC",DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/31/2025,True,HIGH_GROWTH,24.4,False

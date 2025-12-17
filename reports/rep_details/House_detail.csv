@@ -1,18 +1,18 @@
 Rep Detail Report: House
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 18
-Total 2024 Revenue: $339,997.99
-Total 2025 Revenue: $182,465.20
+Total 2024 Revenue: 339997.99
+Total 2025 Revenue: 182465.20
 
 Accounts Removed (Floor): 7
-Revenue Removed (Floor): $1,185.00
+Revenue Removed (Floor): 1185.00
 
 Final Accounts (Keeping): 11
-Final Revenue (Keeping): $181,280.20
+Final Revenue (Keeping): 181280.20
 
 Zero Revenue Accounts: 6
 Zero Revenue New 2025 Accounts: 0
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 Medium Potential: 2 accounts, $90,060.37 revenue, 0 removed
-Group 1 High Potential: 2 accounts, $56,222.40 revenue, 0 removed
-Group 2 Medium Potential: 3 accounts, $27,983.43 revenue, 0 removed
-Group 2 High Potential: 1 accounts, $4,539.00 revenue, 0 removed
-Group 3 Low Potential: 7 accounts, $1,352.00 revenue, 6 removed
-Group 3 Medium Potential: 1 accounts, $1,185.00 revenue, 1 removed
-Group 3 High Potential: 2 accounts, $1,123.00 revenue, 0 removed
+Group 1 Medium Potential: 2 accounts | 90060.37 revenue | 0 removed
+Group 1 High Potential: 2 accounts | 56222.40 revenue | 0 removed
+Group 2 Medium Potential: 3 accounts | 27983.43 revenue | 0 removed
+Group 2 High Potential: 1 accounts | 4539.00 revenue | 0 removed
+Group 3 Low Potential: 7 accounts | 1352.00 revenue | 6 removed
+Group 3 Medium Potential: 1 accounts | 1185.00 revenue | 1 removed
+Group 3 High Potential: 2 accounts | 1123.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts, $146,282.77
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | 146282.77 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1004791,Ileana Palacios Corp.,RETAIL,SINGLE_LOCATION,103854.0,64615.05,69.0,32.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,11/1/2019,False,STABLE_GROWTH,66.3,False
@@ -38,7 +38,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1015614,Juliette Calaf Interiors,DESIGN,DESIGN_FIRM,59340.82,24347.4,18.0,14.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,3/16/2020,False,STABLE_GROWTH,71.7,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 4 accounts, $32,522.43
+GROUP 2 (MID REVENUE) - KEEPING: 4 accounts | 32522.43 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002295,Viva Carpets,RETAIL,SINGLE_LOCATION,40535.5,12595.0,8.0,7.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/13/2020,False,STABLE_GROWTH,69.0,False
@@ -47,7 +47,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035002,"JS Design and Build,LLC dba Detail Theory",RETAIL,SINGLE_LOCATION,180.0,3765.0,1.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,11/19/2024,False,STABLE_GROWTH,61.4,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 3 accounts, $2,475.00
+GROUP 3 (LOW REVENUE) - KEEPING: 3 accounts | 2475.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -56,7 +56,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036325,Importadora Espanola,RETAIL,SINGLE_LOCATION,0.0,25.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/3/2025,True,STABLE_GROWTH,39.2,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 7 accounts, $1,185.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 7 accounts | 1185.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -69,7 +69,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1020541,Casa Bohème,DESIGN,DESIGNER_INDEPENDENT,4102.0,0.0,4.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/3/2021,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 6 total (0 keeping, 6 removed)
+ZERO REVENUE ACCOUNTS: 6 total | 0 keeping | 6 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1009821,Fernando Rodriquez Studio,DESIGN,DESIGN_FIRM,1975.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/18/2020,False,STABLE_GROWTH,0.0,True

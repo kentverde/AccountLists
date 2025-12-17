@@ -1,18 +1,18 @@
 Rep Detail Report: Logan Karr
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 142
-Total 2024 Revenue: $0.00
-Total 2025 Revenue: $55,119.60
+Total 2024 Revenue: 0.00
+Total 2025 Revenue: 55119.60
 
 Accounts Removed (Floor): 3
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 139
-Final Revenue (Keeping): $55,119.60
+Final Revenue (Keeping): 55119.60
 
 Zero Revenue Accounts: 90
 Zero Revenue New 2025 Accounts: 87
@@ -20,12 +20,12 @@ Zero Revenue New 2025 Accounts: 87
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 3 High Potential: 135 accounts, $38,105.20 revenue, 0 removed
-Group 2 High Potential: 4 accounts, $17,014.40 revenue, 0 removed
-Group 3 Low Potential: 3 accounts, $0.00 revenue, 3 removed
+Group 3 High Potential: 135 accounts | 38105.20 revenue | 0 removed
+Group 2 High Potential: 4 accounts | 17014.40 revenue | 0 removed
+Group 3 Low Potential: 3 accounts | 0.00 revenue | 3 removed
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 4 accounts, $17,014.40
+GROUP 2 (MID REVENUE) - KEEPING: 4 accounts | 17014.40 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1037755,Studio Moncrief,DESIGN,DESIGNER_INDEPENDENT,0.0,4667.0,0.0,5.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,8/18/2025,True,STABLE_GROWTH,64.7,False
@@ -34,7 +34,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036975,Finishing Touch Designs,DESIGN,DESIGN_FIRM,0.0,3717.0,0.0,2.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,5/9/2025,True,HIGH_GROWTH,51.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 135 accounts, $38,105.20
+GROUP 3 (LOW REVENUE) - KEEPING: 135 accounts | 38105.20 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -175,7 +175,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1037449,Designed for Life,DESIGN,DESIGNER_INDEPENDENT,0.0,-157.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,7/9/2025,True,HIGH_GROWTH,24.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 3 accounts, $0.00
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 3 accounts | 0.00 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -184,7 +184,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038677,Sun Valley Staging,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 90 total (87 keeping, 3 removed)
+ZERO REVENUE ACCOUNTS: 90 total | 87 keeping | 3 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1036366,NTR Designs LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/14/2025,True,STABLE_GROWTH,17.5,False

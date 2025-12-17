@@ -1,18 +1,18 @@
 Rep Detail Report: Madison Wolpe
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 834
-Total 2024 Revenue: $1,906,463.61
-Total 2025 Revenue: $2,065,215.47
+Total 2024 Revenue: 1906463.61
+Total 2025 Revenue: 2065215.47
 
 Accounts Removed (Floor): 491
-Revenue Removed (Floor): $114,786.33
+Revenue Removed (Floor): 114786.33
 
 Final Accounts (Keeping): 343
-Final Revenue (Keeping): $1,950,429.14
+Final Revenue (Keeping): 1950429.14
 
 Zero Revenue Accounts: 426
 Zero Revenue New 2025 Accounts: 40
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 40
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 116 accounts, $744,490.30 revenue, 0 removed
-Group 2 High Potential: 72 accounts, $574,587.33 revenue, 0 removed
-Group 1 High Potential: 14 accounts, $459,163.82 revenue, 0 removed
-Group 3 Medium Potential: 111 accounts, $118,760.48 revenue, 101 removed
-Group 1 Medium Potential: 4 accounts, $90,696.88 revenue, 0 removed
-Group 3 High Potential: 94 accounts, $52,703.06 revenue, 1 removed
-Group 2 Low Potential: 4 accounts, $17,326.00 revenue, 0 removed
-Group 3 Low Potential: 419 accounts, $7,487.60 revenue, 389 removed
+Group 2 Medium Potential: 116 accounts | 744490.30 revenue | 0 removed
+Group 2 High Potential: 72 accounts | 574587.33 revenue | 0 removed
+Group 1 High Potential: 14 accounts | 459163.82 revenue | 0 removed
+Group 3 Medium Potential: 111 accounts | 118760.48 revenue | 101 removed
+Group 1 Medium Potential: 4 accounts | 90696.88 revenue | 0 removed
+Group 3 High Potential: 94 accounts | 52703.06 revenue | 1 removed
+Group 2 Low Potential: 4 accounts | 17326.00 revenue | 0 removed
+Group 3 Low Potential: 419 accounts | 7487.60 revenue | 389 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 18 accounts, $549,860.70
+GROUP 1 (HIGH REVENUE) - KEEPING: 18 accounts | 549860.70 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014941,Angeline Guido Design,DESIGN,DESIGN_FIRM,45777.0,75303.14,17.0,24.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/15/2020,False,HIGH_GROWTH,86.9,False
@@ -53,7 +53,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1012591,"JHR Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,16323.5,18562.0,10.0,15.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,1/19/2020,False,HIGH_GROWTH,64.9,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 192 accounts, $1,336,403.63
+GROUP 2 (MID REVENUE) - KEEPING: 192 accounts | 1336403.63 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1021934,Donna Mark Designs,DESIGN,DESIGN_FIRM,676.0,17422.0,1.0,6.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/22/2022,False,HIGH_GROWTH,67.9,False
@@ -250,7 +250,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1025028,Kristen Sweek Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,2590.0,0.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/18/2023,False,HIGH_GROWTH,51.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 133 accounts, $64,164.81
+GROUP 3 (LOW REVENUE) - KEEPING: 133 accounts | 64164.81 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -389,7 +389,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1036784,Toon Co Design,DESIGN,DESIGN_FIRM,0.0,-34.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/6/2025,True,STABLE_GROWTH,20.3,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 491 accounts, $114,786.33
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 491 accounts | 114786.33 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -886,7 +886,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1021100,Madewell Interiors,DESIGN,ARCHITECT_BUILDER,10306.0,-2112.0,5.0,2.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/23/2022,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 426 total (68 keeping, 358 removed)
+ZERO REVENUE ACCOUNTS: 426 total | 68 keeping | 358 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1009118,Hyde Park Interiors,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/7/2025,True,STABLE_GROWTH,16.8,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Lauren Smith
-Generated: 2025-12-17 17:41:11
+Generated: 2025-12-17 18:06:24
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 214
-Total 2024 Revenue: $1,678,063.50
-Total 2025 Revenue: $1,623,756.33
+Total 2024 Revenue: 1678063.50
+Total 2025 Revenue: 1623756.33
 
 Accounts Removed (Floor): 69
-Revenue Removed (Floor): $32,013.52
+Revenue Removed (Floor): 32013.52
 
 Final Accounts (Keeping): 145
-Final Revenue (Keeping): $1,591,742.81
+Final Revenue (Keeping): 1591742.81
 
 Zero Revenue Accounts: 58
 Zero Revenue New 2025 Accounts: 0
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 22 accounts, $847,817.29 revenue, 0 removed
-Group 2 Medium Potential: 50 accounts, $362,619.77 revenue, 0 removed
-Group 2 High Potential: 22 accounts, $191,065.00 revenue, 0 removed
-Group 1 Medium Potential: 7 accounts, $167,257.06 revenue, 0 removed
-Group 3 Medium Potential: 38 accounts, $43,782.96 revenue, 27 removed
-Group 3 High Potential: 7 accounts, $6,727.05 revenue, 1 removed
-Group 3 Low Potential: 68 accounts, $4,487.20 revenue, 41 removed
+Group 1 High Potential: 22 accounts | 847817.29 revenue | 0 removed
+Group 2 Medium Potential: 50 accounts | 362619.77 revenue | 0 removed
+Group 2 High Potential: 22 accounts | 191065.00 revenue | 0 removed
+Group 1 Medium Potential: 7 accounts | 167257.06 revenue | 0 removed
+Group 3 Medium Potential: 38 accounts | 43782.96 revenue | 27 removed
+Group 3 High Potential: 7 accounts | 6727.05 revenue | 1 removed
+Group 3 Low Potential: 68 accounts | 4487.20 revenue | 41 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts, $1,015,074.35
+GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | 1015074.35 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1011232,Nancy Hefner Interiors,DESIGN,DESIGN_FIRM,194601.72,110033.94,139.0,83.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/29/2019,False,STABLE_GROWTH,71.2,False
@@ -63,7 +63,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009970,Room Service 360,RETAIL,SINGLE_LOCATION,27941.28,18113.5,32.0,25.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,10/22/2019,False,STABLE_GROWTH,67.6,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 72 accounts, $553,684.77
+GROUP 2 (MID REVENUE) - KEEPING: 72 accounts | 553684.77 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1014130,Rittenhouse Home,DESIGN,DESIGN_FIRM,13230.0,17356.15,12.0,22.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,4/25/2024,False,STABLE_GROWTH,66.4,False
@@ -140,7 +140,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005494,Holland Floor Covering-Newton Store,RETAIL,SINGLE_LOCATION,5867.28,2522.5,8.0,6.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/9/2022,False,STABLE_GROWTH,52.4,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts, $22,983.69
+GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts | 22983.69 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -190,7 +190,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1017731,Gracylane,RETAIL,SINGLE_LOCATION,3422.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/25/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 69 accounts, $32,013.52
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 69 accounts | 32013.52 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -265,7 +265,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005530,Hughes Design Gallery,DESIGN,DESIGN_FIRM,3030.0,-635.0,2.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/9/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 58 total (22 keeping, 36 removed)
+ZERO REVENUE ACCOUNTS: 58 total | 22 keeping | 36 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/23/2023,False,STABLE_GROWTH,0.0,False

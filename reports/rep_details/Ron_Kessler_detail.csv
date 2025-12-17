@@ -1,18 +1,18 @@
 Rep Detail Report: Ron Kessler
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 180
-Total 2024 Revenue: $1,241,834.71
-Total 2025 Revenue: $1,134,956.40
+Total 2024 Revenue: 1241834.71
+Total 2025 Revenue: 1134956.40
 
 Accounts Removed (Floor): 65
-Revenue Removed (Floor): $30,724.38
+Revenue Removed (Floor): 30724.38
 
 Final Accounts (Keeping): 115
-Final Revenue (Keeping): $1,104,232.02
+Final Revenue (Keeping): 1104232.02
 
 Zero Revenue Accounts: 51
 Zero Revenue New 2025 Accounts: 3
@@ -20,16 +20,16 @@ Zero Revenue New 2025 Accounts: 3
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 11 accounts, $354,822.74 revenue, 0 removed
-Group 2 Medium Potential: 44 accounts, $339,257.57 revenue, 0 removed
-Group 1 Medium Potential: 9 accounts, $257,862.31 revenue, 0 removed
-Group 2 High Potential: 15 accounts, $133,234.04 revenue, 0 removed
-Group 3 Medium Potential: 33 accounts, $35,998.44 revenue, 22 removed
-Group 3 High Potential: 9 accounts, $6,953.80 revenue, 1 removed
-Group 3 Low Potential: 59 accounts, $6,827.50 revenue, 42 removed
+Group 1 High Potential: 11 accounts | 354822.74 revenue | 0 removed
+Group 2 Medium Potential: 44 accounts | 339257.57 revenue | 0 removed
+Group 1 Medium Potential: 9 accounts | 257862.31 revenue | 0 removed
+Group 2 High Potential: 15 accounts | 133234.04 revenue | 0 removed
+Group 3 Medium Potential: 33 accounts | 35998.44 revenue | 22 removed
+Group 3 High Potential: 9 accounts | 6953.80 revenue | 1 removed
+Group 3 Low Potential: 59 accounts | 6827.50 revenue | 42 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 20 accounts, $612,685.05
+GROUP 1 (HIGH REVENUE) - KEEPING: 20 accounts | 612685.05 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008203,Designs on Madison,DESIGN,DESIGN_FIRM,48861.74,54047.38,27.0,39.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,12/12/2019,False,STABLE_GROWTH,72.8,False
@@ -54,7 +54,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1001920,The Home Studio,RETAIL,SINGLE_LOCATION,5495.0,19010.6,3.0,19.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,11/18/2019,False,STABLE_GROWTH,92.1,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 59 accounts, $472,491.61
+GROUP 2 (MID REVENUE) - KEEPING: 59 accounts | 472491.61 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1021640,Gardella Furniture,RETAIL,SINGLE_LOCATION,17095.34,17568.5,9.0,11.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,4/19/2022,False,STABLE_GROWTH,76.6,False
@@ -118,7 +118,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1022841,i.Kahn Bespoke Interiors,DESIGN,DESIGN_FIRM,0.0,2555.0,0.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/2/2023,False,STABLE_GROWTH,52.8,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 36 accounts, $19,055.36
+GROUP 3 (LOW REVENUE) - KEEPING: 36 accounts | 19055.36 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -160,7 +160,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1002020,Space Expressions Inc,RETAIL,SINGLE_LOCATION,1315.0,-394.5,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/17/2021,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 65 accounts, $30,724.38
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 65 accounts | 30724.38 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -231,7 +231,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1027794,Basic Construction INC,DESIGN,ARCHITECT_BUILDER,100.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/19/2024,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 51 total (16 keeping, 35 removed)
+ZERO REVENUE ACCOUNTS: 51 total | 16 keeping | 35 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/19/2025,True,STABLE_GROWTH,18.5,False

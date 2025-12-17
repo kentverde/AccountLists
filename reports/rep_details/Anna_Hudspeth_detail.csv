@@ -1,18 +1,18 @@
 Rep Detail Report: Anna Hudspeth
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 979
-Total 2024 Revenue: $2,612,661.77
-Total 2025 Revenue: $2,455,807.92
+Total 2024 Revenue: 2612661.77
+Total 2025 Revenue: 2455807.92
 
 Accounts Removed (Floor): 588
-Revenue Removed (Floor): $195,895.45
+Revenue Removed (Floor): 195895.45
 
 Final Accounts (Keeping): 391
-Final Revenue (Keeping): $2,259,912.47
+Final Revenue (Keeping): 2259912.47
 
 Zero Revenue Accounts: 491
 Zero Revenue New 2025 Accounts: 29
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 29
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 141 accounts, $893,929.42 revenue, 0 removed
-Group 1 High Potential: 17 accounts, $656,064.10 revenue, 0 removed
-Group 2 High Potential: 66 accounts, $495,053.25 revenue, 0 removed
-Group 3 Medium Potential: 161 accounts, $183,872.80 revenue, 140 removed
-Group 1 Medium Potential: 6 accounts, $125,070.69 revenue, 0 removed
-Group 3 High Potential: 79 accounts, $61,458.92 revenue, 5 removed
-Group 3 Low Potential: 505 accounts, $23,946.34 revenue, 443 removed
-Group 2 Low Potential: 4 accounts, $16,412.40 revenue, 0 removed
+Group 2 Medium Potential: 141 accounts | 893929.42 revenue | 0 removed
+Group 1 High Potential: 17 accounts | 656064.10 revenue | 0 removed
+Group 2 High Potential: 66 accounts | 495053.25 revenue | 0 removed
+Group 3 Medium Potential: 161 accounts | 183872.80 revenue | 140 removed
+Group 1 Medium Potential: 6 accounts | 125070.69 revenue | 0 removed
+Group 3 High Potential: 79 accounts | 61458.92 revenue | 5 removed
+Group 3 Low Potential: 505 accounts | 23946.34 revenue | 443 removed
+Group 2 Low Potential: 4 accounts | 16412.40 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 23 accounts, $781,134.79
+GROUP 1 (HIGH REVENUE) - KEEPING: 23 accounts | 781134.79 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1019956,Felber Home Furnishings & Decor,RETAIL,SINGLE_LOCATION,43869.7,225234.39,13.0,189.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,6/29/2023,False,STABLE_GROWTH,73.4,False
@@ -58,7 +58,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1018963,Bend The Trend,RETAIL,SINGLE_LOCATION,6237.2,18203.0,5.0,17.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,5/21/2021,False,STABLE_GROWTH,80.3,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 211 accounts, $1,405,395.07
+GROUP 2 (MID REVENUE) - KEEPING: 211 accounts | 1405395.07 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1008572,Rite at Home,RETAIL,SINGLE_LOCATION,7452.0,17845.5,13.0,22.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,7/19/2019,False,STABLE_GROWTH,77.6,False
@@ -274,7 +274,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1009440,J Jarrett Designs,DESIGN,DESIGNER_INDEPENDENT,3040.0,2536.0,3.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/15/2021,False,STABLE_GROWTH,56.9,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 157 accounts, $73,382.61
+GROUP 3 (LOW REVENUE) - KEEPING: 157 accounts | 73382.61 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -437,7 +437,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024665,"Been There Done That, Inc.",DESIGN,DESIGN_FIRM,0.0,-50.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/6/2025,True,STABLE_GROWTH,18.6,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 588 accounts, $195,895.45
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 588 accounts | 195895.45 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -1031,7 +1031,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1024758,Zephyr Edelman Interior Design,DESIGN,DESIGNER_INDEPENDENT,6618.0,-1571.56,3.0,2.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/19/2023,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 491 total (90 keeping, 401 removed)
+ZERO REVENUE ACCOUNTS: 491 total | 90 keeping | 401 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002959,Pillow Tree Interiors,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,2/28/2025,True,STABLE_GROWTH,19.0,False

@@ -1,18 +1,18 @@
 Rep Detail Report: Cameron Allison
-Generated: 2025-12-17 17:41:12
+Generated: 2025-12-17 18:06:25
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
 Total Accounts (after alignment): 24
-Total 2024 Revenue: $11,120,642.92
-Total 2025 Revenue: $8,828,535.41
+Total 2024 Revenue: 11120642.92
+Total 2025 Revenue: 8828535.41
 
 Accounts Removed (Floor): 0
-Revenue Removed (Floor): $0.00
+Revenue Removed (Floor): 0.00
 
 Final Accounts (Keeping): 24
-Final Revenue (Keeping): $8,828,535.41
+Final Revenue (Keeping): 8828535.41
 
 Zero Revenue Accounts: 2
 Zero Revenue New 2025 Accounts: 0
@@ -20,14 +20,14 @@ Zero Revenue New 2025 Accounts: 0
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 1 High Potential: 9 accounts, $7,338,519.03 revenue, 0 removed
-Group 1 Medium Potential: 6 accounts, $1,441,245.95 revenue, 0 removed
-Group 2 Medium Potential: 3 accounts, $32,927.13 revenue, 0 removed
-Group 2 High Potential: 2 accounts, $12,467.30 revenue, 0 removed
-Group 3 Low Potential: 4 accounts, $3,376.00 revenue, 0 removed
+Group 1 High Potential: 9 accounts | 7338519.03 revenue | 0 removed
+Group 1 Medium Potential: 6 accounts | 1441245.95 revenue | 0 removed
+Group 2 Medium Potential: 3 accounts | 32927.13 revenue | 0 removed
+Group 2 High Potential: 2 accounts | 12467.30 revenue | 0 removed
+Group 3 Low Potential: 4 accounts | 3376.00 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts, $8,779,764.98
+GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts | 8779764.98 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1000734,"Wayfair, LLC",E-TAILER,MASS,4940008.32,4420455.54,50258.0,44381.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,9/17/2019,False,STABLE_GROWTH,70.0,False
@@ -47,7 +47,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1005713,"DecoratorsBest, LLC",E-TAILER,SPECIALTY,29283.8,20568.38,189.0,88.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,3/17/2023,False,STABLE_GROWTH,63.5,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 5 accounts, $45,394.43
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts | 45394.43 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1013801,"Wayfair, LLC - CASTLEGATE",E-TAILER,MASS,332759.29,14869.98,5815.0,277.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/1/2019,False,STABLE_GROWTH,58.4,False
@@ -57,7 +57,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1008298,"YDesign Group, LLC and lumens.com",E-TAILER,SPECIALTY,6708.6,4803.0,48.0,33.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/3/2020,False,STABLE_GROWTH,59.5,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts, $3,376.00
+GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts | 3376.00 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -67,7 +67,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003769,Burkedecor.Com,E-TAILER,SPECIALTY,17864.4,0.0,404.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/19/2019,False,STABLE_GROWTH,0.0,False
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 2 total (2 keeping, 0 removed)
+ZERO REVENUE ACCOUNTS: 2 total | 2 keeping | 0 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1002158,Modernrugs.Com,E-TAILER,NICHE,480.3,0.0,3.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2020,False,STABLE_GROWTH,0.0,False

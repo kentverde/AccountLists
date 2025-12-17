@@ -189,6 +189,82 @@ def apply_floor_logic(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # =============================================================================
+# DATA TYPE VALIDATION
+# =============================================================================
+
+# Define expected data types for summary report columns
+SUMMARY_COLUMN_TYPES = {
+    # String columns
+    'Assigned_Rep_Name': 'string',
+    'Rep_Type': 'string',
+    # Float columns (currency/revenue)
+    '2024 Revenue': 'float',
+    '2025 Revenue': 'float',
+    '2025 Revenue (after Re-Assignment)': 'float',
+    'Revenue Change (after Re-Assignment)': 'float',
+    '2025 Revenue for The Floor (Design Only, Non New)': 'float',
+    '2025 Final Revenue All Accounts (Floor Removed)': 'float',
+    'Revenue Diff Between Start and Final 2025': 'float',
+    # Integer columns (counts)
+    '2025 Count of Accounts': 'int',
+    'Account Changes due to Alignment': 'int',
+    'Count of Accounts after Alignment': 'int',
+    'The Floor (All Group 3 Accounts)': 'int',
+    'The Floor (Design Only, Non New Accounts)': 'int',
+    '2025 Final Count of Accounts (Floor Removed)': 'int',
+    'Overall Count of Account Difference': 'int',
+    'Count of 2025 Zero Rev New Accounts (Re-Assigned)': 'int',
+}
+
+
+def validate_and_enforce_dtypes(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Validate and enforce data types for the summary report.
+    Ensures numeric columns are properly typed before CSV export.
+    """
+    df = df.copy()
+    errors = []
+
+    for col, expected_type in SUMMARY_COLUMN_TYPES.items():
+        if col not in df.columns:
+            continue
+
+        try:
+            if expected_type == 'float':
+                # Convert to numeric, coercing errors to NaN
+                df[col] = pd.to_numeric(df[col], errors='coerce').astype(float)
+                # Check for any values that couldn't be converted
+                null_count = df[col].isna().sum()
+                if null_count > 0:
+                    errors.append(f"Column '{col}': {null_count} values could not be converted to float")
+
+            elif expected_type == 'int':
+                # Convert to numeric first, then to int
+                df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
+
+            elif expected_type == 'string':
+                df[col] = df[col].astype(str)
+
+        except Exception as e:
+            errors.append(f"Column '{col}': Error converting to {expected_type} - {str(e)}")
+
+    if errors:
+        print("\nDATA TYPE VALIDATION WARNINGS:")
+        for error in errors:
+            print(f"  - {error}")
+    else:
+        print("Data type validation passed.")
+
+    # Final verification - print dtypes for numeric columns
+    print("\nColumn data types:")
+    for col in df.columns:
+        if col in SUMMARY_COLUMN_TYPES:
+            print(f"  {col}: {df[col].dtype}")
+
+    return df
+
+
+# =============================================================================
 # SUMMARY REPORT GENERATION
 # =============================================================================
 
@@ -326,6 +402,9 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
     # Sort by rep name
     summary_df = summary_df.sort_values('Assigned_Rep_Name')
 
+    # Validate and enforce data types before saving
+    summary_df = validate_and_enforce_dtypes(summary_df)
+
     # Save to CSV
     summary_df.to_csv(output_file, index=False)
     print(f"Summary report saved to: {output_file}")
@@ -390,18 +469,18 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         f.write("=" * 80 + "\n")
         f.write("SUMMARY METRICS\n")
         f.write("=" * 80 + "\n")
-        f.write(f"Total Accounts (after alignment): {total_accounts:,}\n")
-        f.write(f"Total 2024 Revenue: ${total_rev_2024:,.2f}\n")
-        f.write(f"Total 2025 Revenue: ${total_rev_2025:,.2f}\n")
+        f.write(f"Total Accounts (after alignment): {total_accounts}\n")
+        f.write(f"Total 2024 Revenue: {total_rev_2024:.2f}\n")
+        f.write(f"Total 2025 Revenue: {total_rev_2025:.2f}\n")
         f.write("\n")
-        f.write(f"Accounts Removed (Floor): {accounts_removed:,}\n")
-        f.write(f"Revenue Removed (Floor): ${revenue_removed:,.2f}\n")
+        f.write(f"Accounts Removed (Floor): {accounts_removed}\n")
+        f.write(f"Revenue Removed (Floor): {revenue_removed:.2f}\n")
         f.write("\n")
-        f.write(f"Final Accounts (Keeping): {accounts_keeping:,}\n")
-        f.write(f"Final Revenue (Keeping): ${revenue_keeping:,.2f}\n")
+        f.write(f"Final Accounts (Keeping): {accounts_keeping}\n")
+        f.write(f"Final Revenue (Keeping): {revenue_keeping:.2f}\n")
         f.write("\n")
-        f.write(f"Zero Revenue Accounts: {zero_rev_accounts:,}\n")
-        f.write(f"Zero Revenue New 2025 Accounts: {zero_rev_new_2025:,}\n")
+        f.write(f"Zero Revenue Accounts: {zero_rev_accounts}\n")
+        f.write(f"Zero Revenue New 2025 Accounts: {zero_rev_new_2025}\n")
         f.write("\n")
 
         # Breakdown by segment
@@ -418,14 +497,14 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         segment_summary = segment_summary.sort_values('Revenue 2025', ascending=False)
 
         for _, row in segment_summary.iterrows():
-            f.write(f"{row['Segment']}: {row['Accounts']:,} accounts, ${row['Revenue 2025']:,.2f} revenue, {int(row['Removed']):,} removed\n")
+            f.write(f"{row['Segment']}: {int(row['Accounts'])} accounts | {row['Revenue 2025']:.2f} revenue | {int(row['Removed'])} removed\n")
         f.write("\n")
 
         # Group 1 accounts (keeping)
         group1 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'HIGH_REVENUE'].copy()
         if len(group1) > 0:
             f.write("=" * 80 + "\n")
-            f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {len(group1):,} accounts, ${group1[COL_TOTAL_REV_2025].sum():,.2f}\n")
+            f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {len(group1)} accounts | {group1[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
             f.write("=" * 80 + "\n")
             group1_sorted = group1.sort_values(COL_TOTAL_REV_2025, ascending=False)
             group1_sorted[detail_columns].to_csv(f, index=False)
@@ -435,7 +514,7 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         group2 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'MID_REVENUE'].copy()
         if len(group2) > 0:
             f.write("=" * 80 + "\n")
-            f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {len(group2):,} accounts, ${group2[COL_TOTAL_REV_2025].sum():,.2f}\n")
+            f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {len(group2)} accounts | {group2[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
             f.write("=" * 80 + "\n")
             group2_sorted = group2.sort_values(COL_TOTAL_REV_2025, ascending=False)
             group2_sorted[detail_columns].to_csv(f, index=False)
@@ -448,7 +527,7 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         ].copy()
         if len(group3_keeping) > 0:
             f.write("=" * 80 + "\n")
-            f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {len(group3_keeping):,} accounts, ${group3_keeping[COL_TOTAL_REV_2025].sum():,.2f}\n")
+            f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {len(group3_keeping)} accounts | {group3_keeping[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
             f.write("(Non-DESIGN accounts or New 2025 customers - protected from floor)\n")
             f.write("=" * 80 + "\n")
             group3_keeping_sorted = group3_keeping.sort_values(COL_TOTAL_REV_2025, ascending=False)
@@ -459,7 +538,7 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         group3_losing = rep_accounts[rep_accounts['Floor_Removed']].copy()
         if len(group3_losing) > 0:
             f.write("=" * 80 + "\n")
-            f.write(f"GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): {len(group3_losing):,} accounts, ${group3_losing[COL_TOTAL_REV_2025].sum():,.2f}\n")
+            f.write(f"GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): {len(group3_losing)} accounts | {group3_losing[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
             f.write("(DESIGN segment + Not new in 2025)\n")
             f.write("=" * 80 + "\n")
             group3_losing_sorted = group3_losing.sort_values(COL_TOTAL_REV_2025, ascending=False)
@@ -472,7 +551,7 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
             zero_rev_removed = zero_rev['Floor_Removed'].sum()
             zero_rev_keeping = len(zero_rev) - zero_rev_removed
             f.write("=" * 80 + "\n")
-            f.write(f"ZERO REVENUE ACCOUNTS: {len(zero_rev):,} total ({zero_rev_keeping:,} keeping, {zero_rev_removed:,} removed)\n")
+            f.write(f"ZERO REVENUE ACCOUNTS: {len(zero_rev)} total | {int(zero_rev_keeping)} keeping | {int(zero_rev_removed)} removed\n")
             f.write("=" * 80 + "\n")
             zero_rev_sorted = zero_rev.sort_values(['Floor_Removed', 'Is_New_2025'], ascending=[True, False])
             zero_rev_sorted[detail_columns].to_csv(f, index=False)

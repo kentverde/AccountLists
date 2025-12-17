@@ -1,18 +1,18 @@
 Rep Detail Report: Kyra Williamson
-Generated: 2025-12-17 17:41:13
+Generated: 2025-12-17 18:06:26
 
 ================================================================================
 SUMMARY METRICS
 ================================================================================
-Total Accounts (after alignment): 1,331
-Total 2024 Revenue: $2,805,327.39
-Total 2025 Revenue: $2,949,797.28
+Total Accounts (after alignment): 1331
+Total 2024 Revenue: 2805327.39
+Total 2025 Revenue: 2949797.28
 
 Accounts Removed (Floor): 860
-Revenue Removed (Floor): $229,360.12
+Revenue Removed (Floor): 229360.12
 
 Final Accounts (Keeping): 471
-Final Revenue (Keeping): $2,720,437.16
+Final Revenue (Keeping): 2720437.16
 
 Zero Revenue Accounts: 713
 Zero Revenue New 2025 Accounts: 48
@@ -20,17 +20,17 @@ Zero Revenue New 2025 Accounts: 48
 ================================================================================
 BREAKDOWN BY SEGMENT
 ================================================================================
-Group 2 Medium Potential: 198 accounts, $1,249,846.72 revenue, 0 removed
-Group 2 High Potential: 84 accounts, $600,946.16 revenue, 0 removed
-Group 1 High Potential: 19 accounts, $560,180.66 revenue, 0 removed
-Group 1 Medium Potential: 8 accounts, $223,815.64 revenue, 0 removed
-Group 3 Medium Potential: 173 accounts, $189,576.86 revenue, 165 removed
-Group 3 High Potential: 108 accounts, $58,516.16 revenue, 5 removed
-Group 3 Low Potential: 735 accounts, $43,414.97 revenue, 690 removed
-Group 2 Low Potential: 6 accounts, $23,500.11 revenue, 0 removed
+Group 2 Medium Potential: 198 accounts | 1249846.72 revenue | 0 removed
+Group 2 High Potential: 84 accounts | 600946.16 revenue | 0 removed
+Group 1 High Potential: 19 accounts | 560180.66 revenue | 0 removed
+Group 1 Medium Potential: 8 accounts | 223815.64 revenue | 0 removed
+Group 3 Medium Potential: 173 accounts | 189576.86 revenue | 165 removed
+Group 3 High Potential: 108 accounts | 58516.16 revenue | 5 removed
+Group 3 Low Potential: 735 accounts | 43414.97 revenue | 690 removed
+Group 2 Low Potential: 6 accounts | 23500.11 revenue | 0 removed
 
 ================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 27 accounts, $783,996.30
+GROUP 1 (HIGH REVENUE) - KEEPING: 27 accounts | 783996.30 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1007552,Artistic Home Interiors,DESIGN,DESIGN_FIRM,35175.4,69291.64,23.0,23.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,1/16/2020,False,STABLE_GROWTH,85.1,False
@@ -62,7 +62,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1003720,Hue Interior Design,RETAIL,SINGLE_LOCATION,37664.42,18001.3,32.0,22.0,HIGH_REVENUE,HIGH_POTENTIAL,Group 1 High Potential,10/23/2019,False,STABLE_GROWTH,75.4,False
 
 ================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 288 accounts, $1,874,292.99
+GROUP 2 (MID REVENUE) - KEEPING: 288 accounts | 1874292.99 revenue
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1004218,Stafford Design,DESIGN,DESIGN_FIRM,16648.0,17717.22,8.0,6.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,3/17/2020,False,STABLE_GROWTH,62.6,False
@@ -355,7 +355,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1035568,MARISSA POST LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,2511.0,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/2/2025,True,STABLE_GROWTH,41.1,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 156 accounts, $62,147.87
+GROUP 3 (LOW REVENUE) - KEEPING: 156 accounts | 62147.87 revenue
 (Non-DESIGN accounts or New 2025 customers - protected from floor)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -517,7 +517,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1038517,Lauren Feiner,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/5/2025,True,STABLE_GROWTH,16.8,False
 
 ================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 860 accounts, $229,360.12
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 860 accounts | 229360.12 revenue
 (DESIGN segment + Not new in 2025)
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
@@ -1383,7 +1383,7 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1004908,Barondes Morris Design,DESIGN,DESIGNER_INDEPENDENT,4401.0,-1237.0,1.0,4.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/16/2020,False,STABLE_GROWTH,0.0,True
 
 ================================================================================
-ZERO REVENUE ACCOUNTS: 713 total (89 keeping, 624 removed)
+ZERO REVENUE ACCOUNTS: 713 total | 89 keeping | 624 removed
 ================================================================================
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
 1003151,Ekr Design Studios,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/7/2025,True,STABLE_GROWTH,18.8,False
