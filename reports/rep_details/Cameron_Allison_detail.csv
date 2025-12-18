@@ -1,5 +1,5 @@
-Rep Detail Report: Cameron Allison,,,,,,,,,,,,,,
-Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+﻿Rep Detail Report: Cameron Allison,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:57:19,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,
@@ -56,8 +56,8 @@ GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts | 3376.00 revenue,,,,,,,,,,,,,,
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
 1005353,"Urban Outfitters, Inc.",E-TAILER,SPECIALTY,9697.0,2221.0,134,34,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/27/2019,FALSE,0.0,FALSE
 1003952,Cost Plus World Market,E-TAILER,MASS,10219.5,1155.0,76,7,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/27/2019,FALSE,30.5,FALSE
-1002158,Modernrugs.Com,E-TAILER,NICHE,480.3,0.0,3,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2020,FALSE,0.0,FALSE
 1003769,Burkedecor.Com,E-TAILER,SPECIALTY,17864.4,0.0,404,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/19/2019,FALSE,0.0,FALSE
+1002158,Modernrugs.Com,E-TAILER,NICHE,480.3,0.0,3,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2020,FALSE,0.0,FALSE
 ,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 2 total | 2 keeping | 0 removed,,,,,,,,,,,,,,

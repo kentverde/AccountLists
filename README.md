@@ -26,6 +26,17 @@ python generate_reports.py [input_file] [output_directory]
 python generate_reports.py Account_Segmentation_V3_3_Final.csv ./reports
 ```
 
+## Notes
+
+- Encoding: All output CSV files are written with UTF-8 encoding including a
+  Byte Order Mark (BOM) using `utf-8-sig`. This preserves Unicode characters
+  and helps Excel on Windows detect the file as UTF-8 when opening.
+- Excel: If you open the CSV in Microsoft Excel and characters look garbled,
+  re-open the file using Excel's "From Text/CSV" import option and set the
+  file encoding to UTF-8.
+- Output location: The summary report is written to `reports/Rep_Level_Impacts_2025_Summary.csv`
+  and individual rep detail files are in `reports/rep_details/`.
+
 ## Output Files
 
 ### Summary Report

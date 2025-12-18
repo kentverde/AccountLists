@@ -1,5 +1,5 @@
-Rep Detail Report: House,,,,,,,,,,,,,,
-Generated: 2025-12-18 06:44:59,,,,,,,,,,,,,,
+﻿Rep Detail Report: House,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:57:19,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,
@@ -54,8 +54,8 @@ GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 7 accounts | 1185.00 revenue,,,,
 ================================================================================,,,,,,,,,,,,,,
 Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
 1022138,Basi Co,DESIGN,DESIGN_FIRM,0.0,1185.0,0,1,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,7/21/2022,FALSE,49.5,TRUE
-1009821,Fernando Rodriquez Studio,DESIGN,DESIGN_FIRM,1975.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/18/2020,FALSE,0.0,TRUE
 1014454,Metropolitan Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/22/2020,FALSE,0.0,TRUE
+1009821,Fernando Rodriquez Studio,DESIGN,DESIGN_FIRM,1975.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/18/2020,FALSE,0.0,TRUE
 1015111,Rainbow Development,DESIGN,DESIGN_FIRM,11970.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/12/2020,FALSE,0.0,TRUE
 1016920,Erin Myers Design LLC,DESIGN,DESIGNER_INDEPENDENT,4305.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/28/2020,FALSE,0.0,TRUE
 1020320,Villalon Interiors Inc,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/27/2022,FALSE,0.0,TRUE

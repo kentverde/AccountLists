@@ -1,5 +1,5 @@
-Rep Detail Report: Betsy Goslin,,,,,,,,,,,,,,
-Generated: 2025-12-18 06:44:57,,,,,,,,,,,,,,
+﻿Rep Detail Report: Betsy Goslin,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:57:18,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,
@@ -171,8 +171,8 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1014835,In The Garden,RETAIL,SINGLE_LOCATION,2144.0,91.0,2,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/6/2019,FALSE,30.2,FALSE
 1000125,Myer's Carpet,RETAIL,SINGLE_LOCATION,8750.0,88.0,6,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/27/2020,FALSE,33.2,FALSE
 1017972,Hawthorne House Inc,RETAIL,SINGLE_LOCATION,644.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/24/2020,FALSE,0.0,FALSE
-1019529,House + Hide,RETAIL,SINGLE_LOCATION,905.0,0.0,1,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/7/2021,FALSE,0.0,FALSE
 1021121,ReVisioned Interiors,RETAIL,SINGLE_LOCATION,2100.0,0.0,5,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/4/2022,FALSE,0.0,FALSE
+1019529,House + Hide,RETAIL,SINGLE_LOCATION,905.0,0.0,1,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/7/2021,FALSE,0.0,FALSE
 1021879,Haggard Home Group,RETAIL,SINGLE_LOCATION,3032.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/18/2022,FALSE,0.0,FALSE
 1024012,Signature Floors and Design,RETAIL,SINGLE_LOCATION,405.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/30/2023,FALSE,0.0,FALSE
 1025426,Home Furniture & Mattress Outlet,RETAIL,SINGLE_LOCATION,1258.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/21/2023,FALSE,0.0,FALSE
@@ -192,8 +192,8 @@ Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders
 1023510,"A. Wooten Interiors, LLC",DESIGN,DESIGN_FIRM,7511.0,760.0,4,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/17/2023,FALSE,34.9,TRUE
 1023281,KLO Interiors,DESIGN,DESIGN_FIRM,0.0,444.0,0,1,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,2/8/2023,FALSE,46.0,TRUE
 1013379,"TSD Studio, LLC",DESIGN,DESIGN_FIRM,16975.9,271.6,11,2,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/20/2020,FALSE,39.5,TRUE
-1008382,Crosby Design Group,DESIGN,DESIGN_FIRM,6503.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2020,FALSE,0.0,TRUE
 1012142,Nancy Duffy Interiors,DESIGN,DESIGN_FIRM,5467.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/7/2020,FALSE,0.0,TRUE
+1008382,Crosby Design Group,DESIGN,DESIGN_FIRM,6503.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2020,FALSE,0.0,TRUE
 1018788,Curry & Co. LLC,DESIGN,DESIGN_FIRM,1035.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/29/2021,FALSE,0.0,TRUE
 ,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,

@@ -11,11 +11,22 @@ This script processes account segmentation data to:
 5. Validate totals match input data
 
 Usage:
-    python generate_reports.py [input_file] [output_directory]
+        python generate_reports.py [input_file] [output_directory]
 
-    Defaults:
-        input_file: Account_Segmentation_V3_3_Final.csv
-        output_directory: ./reports
+        Defaults:
+                input_file: Account_Segmentation_V3_3_Final.csv
+                output_directory: ./reports
+
+Notes about encoding and Excel:
+- All generated CSV files are written using UTF-8 with a BOM (`utf-8-sig`).
+    This encoding preserves Unicode characters and helps Microsoft Excel
+    recognize UTF-8 files correctly when opening on Windows.
+- If you open the CSVs in other editors, they will also read UTF-8 correctly.
+
+The script is intentionally conservative with data handling:
+- Blank rep names are converted to "House" to keep counts consistent.
+- New 2025 customers are protected from the floor removal rule.
+
 """
 
 import pandas as pd
@@ -305,30 +316,50 @@ def validate_and_enforce_dtypes(df: pd.DataFrame) -> pd.DataFrame:
     Validate and enforce data types for the summary report.
     Ensures numeric columns are properly typed before CSV export.
     """
+    # CREATE A COPY TO AVOID MODIFYING THE ORIGINAL
     df = df.copy()
+    
+    # LIST TO COLLECT ANY ERRORS WE ENCOUNTER
     errors = []
 
+    # LOOP THROUGH EACH COLUMN AND ITS EXPECTED DATA TYPE
+    # SUMMARY_COLUMN_TYPES is a dictionary defined earlier that maps
+    # column names to their expected types: 'float', 'int', or 'string'
     for col, expected_type in SUMMARY_COLUMN_TYPES.items():
+        # SKIP THIS COLUMN IF IT DOESN'T EXIST IN THE DATAFRAME
+        # Some columns might be optional
         if col not in df.columns:
             continue
 
         try:
+            # HANDLE FLOAT COLUMNS (REVENUE, CURRENCY VALUES)
             if expected_type == 'float':
-                # Convert to numeric, coercing errors to NaN
+                # pd.to_numeric() converts values to numbers
+                # errors='coerce' means invalid values become NaN instead of crashing
+                # .astype(float) ensures the final data type is float
                 df[col] = pd.to_numeric(df[col], errors='coerce').astype(float)
-                # Check for any values that couldn't be converted
+                
+                # CHECK IF ANY VALUES FAILED TO CONVERT
+                # .isna() returns True for NaN values
+                # .sum() counts how many are True
                 null_count = df[col].isna().sum()
                 if null_count > 0:
                     errors.append(f"Column '{col}': {null_count} values could not be converted to float")
 
+            # HANDLE INTEGER COLUMNS (COUNTS, WHOLE NUMBERS)
             elif expected_type == 'int':
-                # Convert to numeric first, then to int
+                # First convert to numeric (handles various formats)
+                # Then fill NaN with 0 (can't have NaN in integer column)
+                # Finally convert to integer type
                 df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0).astype(int)
 
+            # HANDLE STRING COLUMNS (TEXT VALUES LIKE REP NAMES)
             elif expected_type == 'string':
+                # Convert everything to string type
                 df[col] = df[col].astype(str)
 
         except Exception as e:
+            # IF CONVERSION FAILS, RECORD THE ERROR
             errors.append(f"Column '{col}': Error converting to {expected_type} - {str(e)}")
 
     if errors:
@@ -576,8 +607,8 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
     # Validate and enforce data types before saving
     summary_df = validate_and_enforce_dtypes(summary_df)
 
-    # Save to CSV
-    summary_df.to_csv(output_file, index=False)
+    # Save to CSV using UTF-8 with BOM so Excel opens it correctly on Windows
+    summary_df.to_csv(output_file, index=False, encoding='utf-8-sig')
     print(f"Summary report saved to: {output_file}")
 
     return summary_df
@@ -597,24 +628,46 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
     - Breakdown by segment as matrix (row labels in col A, column headers in row 1)
     - Account details grouped by revenue tier
     """
-    # Get accounts aligned to this rep (after territory alignment)
+    # GET ALL ACCOUNTS FOR THIS SPECIFIC REP (AFTER ALIGNMENT)
+    # Filter the DataFrame to only rows where Aligned_Rep_Name matches this rep
+    # .copy() creates an independent copy we can work with
     rep_accounts = df[df['Aligned_Rep_Name'] == rep_name].copy()
 
+    # IF REP HAS NO ACCOUNTS, DON'T CREATE A REPORT
+    # This can happen if a rep lost all accounts during alignment
     if len(rep_accounts) == 0:
         return
 
-    # Calculate summary metrics
+    # CALCULATE SUMMARY METRICS FOR THIS REP
+    # These numbers will appear at the top of the detail report
+    
+    # Total number of accounts after alignment
     total_accounts = len(rep_accounts)
+    
+    # Sum up all 2025 revenue for this rep's accounts
     total_rev_2025 = rep_accounts[COL_TOTAL_REV_2025].sum()
+    
+    # Sum up all 2024 revenue (for comparison/context)
     total_rev_2024 = rep_accounts[COL_TOTAL_REV_2024].sum()
 
+    # Count accounts being removed by floor logic
+    # .sum() on True/False values counts the True values
     accounts_removed = int(rep_accounts['Floor_Removed'].sum())
+    
+    # Calculate total revenue from accounts being removed
+    # .loc[condition, column] selects rows where condition is True
     revenue_removed = rep_accounts.loc[rep_accounts['Floor_Removed'], COL_TOTAL_REV_2025].sum()
 
+    # Calculate what the rep will actually keep (final numbers)
     accounts_keeping = total_accounts - accounts_removed
     revenue_keeping = total_rev_2025 - revenue_removed
 
+    # Count accounts with zero revenue
+    # This helps identify accounts that need attention
     zero_rev_accounts = int((rep_accounts[COL_TOTAL_REV_2025] == 0).sum())
+    
+    # Count zero-revenue accounts that are also new in 2025
+    # These are new customers who haven't generated revenue yet
     zero_rev_new_2025 = int(((rep_accounts[COL_TOTAL_REV_2025] == 0) & (rep_accounts['Is_New_2025'])).sum())
 
     # Account detail columns (no Growth_Classification per template)
@@ -636,25 +689,43 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         'Floor_Removed'
     ]
 
-    # Format columns for clean CSV output
+    # DEFINE A HELPER FUNCTION TO FORMAT ACCOUNT DATA FOR CSV OUTPUT
+    # This ensures all accounts are displayed consistently
     def format_for_output(accounts_df):
         """Format dataframe columns for clean CSV output."""
+        # SELECT ONLY THE COLUMNS WE WANT IN THE OUTPUT
+        # detail_columns is a list defined above with all the fields we want to show
         out_df = accounts_df[detail_columns].copy()
-        # Revenue to 2 decimal places
+        
+        # FORMAT REVENUE TO 2 DECIMAL PLACES
+        # .round(2) rounds to 2 decimal places (dollars and cents)
         out_df[COL_TOTAL_REV_2024] = out_df[COL_TOTAL_REV_2024].round(2)
         out_df[COL_TOTAL_REV_2025] = out_df[COL_TOTAL_REV_2025].round(2)
-        # Orders as integers
+        
+        # FORMAT ORDER COUNTS AS WHOLE NUMBERS (INTEGERS)
+        # Orders should never have decimals (you can't have 2.5 orders)
+        # .fillna(0) replaces missing values with 0 first
         out_df[COL_ORDERS_2024] = out_df[COL_ORDERS_2024].fillna(0).astype(int)
         out_df[COL_ORDERS_2025] = out_df[COL_ORDERS_2025].fillna(0).astype(int)
-        # Booleans as uppercase TRUE/FALSE
+        
+        # FORMAT BOOLEAN (TRUE/FALSE) VALUES AS UPPERCASE TEXT
+        # Python's True/False need to be converted to 'TRUE'/'FALSE' strings
+        # .map() replaces values based on a dictionary mapping
         out_df['Is_New_2025'] = out_df['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
         out_df['Floor_Removed'] = out_df['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
         return out_df
 
-    # Number of empty columns to pad rows for consistent CSV structure
+    # CREATE PADDING FOR CSV ROWS
+    # The detail report has 15 columns total
+    # We need to pad shorter rows with empty columns for consistent formatting
+    # ',' * 14 creates a string with 14 commas: ',,,,,,,,,,,,,,'
     empty_cols = ',' * 14
 
-    with open(output_file, 'w') as f:
+    # OPEN FILE WITH UTF-8 ENCODING
+    # encoding='utf-8-sig' ensures special characters are handled properly
+    # 'utf-8-sig' adds a BOM (Byte Order Mark) so Excel opens it correctly
+    # newline='' prevents extra blank lines in the CSV on Windows
+    with open(output_file, 'w', encoding='utf-8-sig', newline='') as f:
         # Write header section
         f.write(f"Rep Detail Report: {rep_name}{empty_cols}\n")
         f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}{empty_cols}\n")
@@ -698,54 +769,91 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         f.write(f"{empty_cols}\n")
         f.write(f"{empty_cols}\n")
 
-        # Breakdown by segment section
+        # WRITE BREAKDOWN BY SEGMENT SECTION
+        # This shows a summary table of how accounts are distributed across segments
         f.write(f"================================================================================{empty_cols}\n")
         f.write(f"BREAKDOWN BY SEGMENT{empty_cols}\n")
         f.write(f"================================================================================{empty_cols}\n")
 
-        # Calculate segment summary
+        # CALCULATE SEGMENT-LEVEL STATISTICS
+        # Group accounts by their Segment_Label (e.g., "Group 1 High Potential")
+        # For each segment, calculate:
+        # - Count of accounts
+        # - Total 2025 revenue
+        # - Count being removed (sum of True values in Floor_Removed)
         segment_summary = rep_accounts.groupby('Segment_Label').agg({
             COL_ACCOUNT_ID: 'count',
             COL_TOTAL_REV_2025: 'sum',
             'Floor_Removed': 'sum'
         }).reset_index()
+        
+        # RENAME COLUMNS FOR READABILITY
         segment_summary.columns = ['Segment', 'Accounts', 'Revenue', 'Removed']
+        
+        # SORT BY REVENUE (HIGHEST FIRST)
+        # ascending=False means sort from largest to smallest
+        # This puts the most important segments at the top
         segment_summary = segment_summary.sort_values('Revenue', ascending=False)
 
-        # Matrix header row (empty first cell, then column headers)
+        # WRITE HEADER ROW FOR THE SEGMENT TABLE
+        # First cell is empty (for segment names), then column headers
         f.write(f",Accounts,Revenue,Removed{','.join([''] * 11)}\n")
 
-        # Data rows (segment label in col A, values in cols B, C, D)
+        # WRITE DATA ROWS (ONE FOR EACH SEGMENT)
+        # .iterrows() loops through each row of the segment_summary DataFrame
+        # _ is the index (we don't need it), row contains the data
         for _, row in segment_summary.iterrows():
             f.write(f"{row['Segment']}: ,{int(row['Accounts'])},{round(row['Revenue'], 2)},{int(row['Removed'])}{','.join([''] * 11)}\n")
 
-        # Totals row
+        # WRITE TOTALS ROW
+        # Sum up all the columns to show grand totals
         f.write(f"Totals,{total_accounts},{round(total_rev_2025, 2)},{accounts_removed}{','.join([''] * 11)}\n")
 
         # Blank row
         f.write(f"{empty_cols}\n")
 
-        # Group 1 accounts (keeping)
+        # WRITE GROUP 1 ACCOUNTS (HIGH REVENUE - ALL KEEPING)
+        # Filter to only HIGH_REVENUE tier accounts
+        # These are the most valuable accounts - they're never removed
         group1 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'HIGH_REVENUE'].copy()
         if len(group1) > 0:
             f.write(f"================================================================================{empty_cols}\n")
             f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {len(group1)} accounts | {group1[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
+            # SORT BY REVENUE (HIGHEST FIRST)
+            # ascending=False means largest revenue at the top
             group1_sorted = group1.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            format_for_output(group1_sorted).to_csv(f, index=False)
+            # FORMAT AND WRITE ACCOUNT DETAILS TO CSV
+            # index=False means don't write row numbers
+            # encoding is inherited from the file object
+            format_for_output(group1_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
 
-        # Group 2 accounts (keeping)
+        # WRITE GROUP 2 ACCOUNTS (MEDIUM REVENUE - ALL KEEPING)
+        # Filter to only MID_REVENUE tier accounts
+        # These accounts are also protected from floor removal
         group2 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'MID_REVENUE'].copy()
         if len(group2) > 0:
             f.write(f"================================================================================{empty_cols}\n")
             f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {len(group2)} accounts | {group2[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
+            # SORT BY REVENUE (HIGHEST FIRST)
             group2_sorted = group2.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            format_for_output(group2_sorted).to_csv(f, index=False)
+            # FORMAT AND WRITE ACCOUNT DETAILS TO CSV
+            # lineterminator='\n' ensures consistent line endings
+            format_for_output(group2_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
 
-        # Group 3 accounts - KEEPING (non-DESIGN, or new 2025, protected from floor)
+        # WRITE GROUP 3 ACCOUNTS - KEEPING
+        # Group 3 (LOW_REVENUE) is special - it's split into keeping and losing
+        # 
+        # KEEPING criteria (must be LOW_REVENUE AND not removed):
+        # - Either NOT in DESIGN segment (BUILD accounts are protected)
+        # - OR new in 2025 (new customers get protection)
+        # 
+        # Filter logic:
+        # - Low revenue tier AND
+        # - NOT Floor_Removed (the ~ means NOT)
         group3_keeping = rep_accounts[
             (rep_accounts[COL_REVENUE_TIER] == 'LOW_REVENUE') &
             (~rep_accounts['Floor_Removed'])
@@ -755,31 +863,62 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
             f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {len(group3_keeping)} accounts | {group3_keeping[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
             f.write(f"(Non-DESIGN accounts or New 2025 customers - protected from floor){empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
+            # SORT BY REVENUE (HIGHEST FIRST)
             group3_keeping_sorted = group3_keeping.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            format_for_output(group3_keeping_sorted).to_csv(f, index=False)
+            # FORMAT AND WRITE ACCOUNT DETAILS TO CSV
+            # lineterminator='\n' ensures consistent line endings
+            format_for_output(group3_keeping_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
 
-        # Group 3 accounts - LOSING (DESIGN + non-2025 = floor removed)
+        # WRITE GROUP 3 ACCOUNTS - LOSING (FLOOR REMOVED)
+        # These are the accounts being removed from the rep
+        # 
+        # LOSING criteria (all three must be true):
+        # - Low revenue tier (Group 3)
+        # - DESIGN segment
+        # - NOT new in 2025
+        # 
+        # This is the "floor" - the lowest-value accounts being removed
         group3_losing = rep_accounts[rep_accounts['Floor_Removed']].copy()
         if len(group3_losing) > 0:
             f.write(f"================================================================================{empty_cols}\n")
             f.write(f"GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): {len(group3_losing)} accounts | {group3_losing[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
             f.write(f"(DESIGN segment + Not new in 2025){empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
+            # SORT BY REVENUE (HIGHEST FIRST)
             group3_losing_sorted = group3_losing.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            format_for_output(group3_losing_sorted).to_csv(f, index=False)
+            # FORMAT AND WRITE ACCOUNT DETAILS TO CSV
+            # lineterminator='\n' ensures consistent line endings
+            format_for_output(group3_losing_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
 
-        # Zero Revenue accounts (separate visibility)
+        # WRITE ZERO REVENUE ACCOUNTS SECTION
+        # These accounts deserve special attention regardless of group
+        # Zero revenue could mean:
+        # - New customer who hasn't ordered yet
+        # - Inactive account
+        # - Account that needs nurturing
         zero_rev = rep_accounts[rep_accounts[COL_TOTAL_REV_2025] == 0].copy()
         if len(zero_rev) > 0:
+            # COUNT HOW MANY ARE REMOVED VS KEEPING
+            # Even zero-revenue accounts can be removed if they meet floor criteria
             zero_rev_removed = int(zero_rev['Floor_Removed'].sum())
             zero_rev_keeping = len(zero_rev) - zero_rev_removed
+            
             f.write(f"================================================================================{empty_cols}\n")
             f.write(f"ZERO REVENUE ACCOUNTS: {len(zero_rev)} total | {zero_rev_keeping} keeping | {zero_rev_removed} removed{empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
+            
+            # SORT BY FLOOR_REMOVED (KEEPING FIRST), THEN NEW 2025 (NEW FIRST)
+            # ascending=[True, False] means:
+            # - Floor_Removed: False (keeping) before True (removed)
+            # - Is_New_2025: True (new) before False (old)
+            # This groups accounts by priority: keeping new customers first
             zero_rev_sorted = zero_rev.sort_values(['Floor_Removed', 'Is_New_2025'], ascending=[True, False])
-            format_for_output(zero_rev_sorted).to_csv(f, index=False)
+            
+            # FORMAT AND WRITE ACCOUNT DETAILS TO CSV
+            # lineterminator='\n' ensures consistent line endings
+            format_for_output(zero_rev_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
 
 
@@ -790,29 +929,55 @@ def generate_all_rep_detail_reports(df: pd.DataFrame, output_dir: str) -> dict:
     """
     print("\nGenerating rep detail reports...")
 
-    # Create output directory for rep reports
+    # CREATE SUBDIRECTORY FOR REP DETAIL REPORTS
+    # This keeps the output organized - all rep reports go in one folder
+    # os.path.join() safely combines directory paths (works on Windows/Mac/Linux)
     rep_reports_dir = os.path.join(output_dir, 'rep_details')
     os.makedirs(rep_reports_dir, exist_ok=True)
 
-    # Get unique aligned reps
+    # GET LIST OF ALL UNIQUE REP NAMES (AFTER ALIGNMENT)
+    # .unique() returns an array with each rep name appearing only once
+    # This tells us which reps we need to create reports for
     reps = df['Aligned_Rep_Name'].unique()
 
+    # CREATE DICTIONARY TO TRACK TOTALS FOR VALIDATION
+    # Will be filled with: {rep_name: total_revenue}
+    # Used later to verify all revenue is accounted for
     rep_totals = {}
 
+    # LOOP THROUGH EACH REP AND CREATE THEIR DETAIL REPORT
     for rep in reps:
-        # Create safe filename
+        # CREATE A SAFE FILENAME FROM THE REP NAME
+        # Rep names might have special characters that aren't valid in filenames
+        # This loop keeps only alphanumeric and safe characters (' ', '-', '_')
+        # Everything else becomes an underscore
+        # Example: "John O'Brien" becomes "John_O_Brien"
         safe_name = "".join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in rep)
+        
+        # CLEAN UP THE FILENAME
+        # .strip() removes leading/trailing spaces
+        # .replace(' ', '_') converts spaces to underscores
+        # Example: " John Doe " becomes "John_Doe"
         safe_name = safe_name.strip().replace(' ', '_')
+        
+        # BUILD FULL OUTPUT FILE PATH
+        # Example: "./reports/rep_details/John_Doe_detail.csv"
         output_file = os.path.join(rep_reports_dir, f"{safe_name}_detail.csv")
 
+        # GENERATE THE ACTUAL REPORT FOR THIS REP
+        # This creates the CSV file with all account details
         generate_rep_detail_report(df, rep, output_file)
 
-        # Track total for validation
+        # CALCULATE AND STORE THIS REP'S TOTAL REVENUE FOR VALIDATION
+        # Filter to this rep's accounts and sum their 2025 revenue
+        # Store in dictionary so we can check totals later
         rep_accounts = df[df['Aligned_Rep_Name'] == rep]
         rep_totals[rep] = rep_accounts[COL_TOTAL_REV_2025].sum()
 
     print(f"Generated {len(reps)} rep detail reports in: {rep_reports_dir}")
 
+    # RETURN THE TOTALS DICTIONARY FOR VALIDATION
+    # This allows the main function to verify all revenue is accounted for
     return rep_totals
 
 
@@ -828,29 +993,45 @@ def validate_totals(df: pd.DataFrame, summary_df: pd.DataFrame, rep_totals: dict
     print("VALIDATION")
     print("=" * 80)
 
-    # Input total
+    # CALCULATE TOTAL 2025 REVENUE FROM INPUT DATA
+    # This is our baseline - the original data we started with
+    # Sum all 2025 revenue across all accounts in the input file
     input_total = df[COL_TOTAL_REV_2025].sum()
     print(f"Input Total Rev 2025: ${input_total:,.2f}")
 
-    # Summary report total (original 2025 revenue)
+    # CALCULATE TOTAL FROM SUMMARY REPORT
+    # Sum the '2025 Revenue' column (before alignment)
+    # This should equal the input total
     summary_total = summary_df['2025 Revenue'].sum()
     print(f"Summary Report Total (2025 Revenue): ${summary_total:,.2f}")
 
-    # Rep details total
+    # CALCULATE TOTAL FROM REP DETAIL REPORTS
+    # rep_totals is a dictionary: {rep_name: total_revenue}
+    # sum(dict.values()) adds up all the revenue values
+    # This should also equal the input total
     rep_details_total = sum(rep_totals.values())
     print(f"Rep Details Total: ${rep_details_total:,.2f}")
 
-    # Check for discrepancies
+    # CHECK FOR MISMATCHES BETWEEN THE THREE TOTALS
+    # All three should be exactly the same (accounting for rounding)
     errors = []
 
-    tolerance = 0.01  # Allow 1 cent tolerance for floating point
+    # ALLOW SMALL DIFFERENCES DUE TO FLOATING POINT ROUNDING
+    # Computers can't perfectly represent all decimal numbers
+    # 0.01 (1 cent) is a reasonable tolerance for currency
+    tolerance = 0.01
 
+    # CHECK IF INPUT MATCHES SUMMARY
+    # abs() gets absolute value (distance between numbers)
+    # If difference is more than 1 cent, something's wrong
     if abs(input_total - summary_total) > tolerance:
         errors.append(f"MISMATCH: Input ({input_total:,.2f}) != Summary ({summary_total:,.2f}), diff: {input_total - summary_total:,.2f}")
 
+    # CHECK IF INPUT MATCHES REP DETAILS
     if abs(input_total - rep_details_total) > tolerance:
         errors.append(f"MISMATCH: Input ({input_total:,.2f}) != Rep Details ({rep_details_total:,.2f}), diff: {input_total - rep_details_total:,.2f}")
 
+    # REPORT RESULTS
     if errors:
         print("\nVALIDATION ERRORS:")
         for error in errors:
@@ -866,25 +1047,40 @@ def validate_totals(df: pd.DataFrame, summary_df: pd.DataFrame, rep_totals: dict
 # =============================================================================
 
 def main():
-    # Parse command line arguments
+    # PARSE COMMAND LINE ARGUMENTS
+    # When you run this script, you can optionally provide:
+    # 1. Input file path
+    # 2. Output directory path
+    # 
+    # sys.argv is a list: [script_name, arg1, arg2, ...]
+    # sys.argv[0] is always the script name itself
+    # len(sys.argv) tells us how many arguments were provided
+    
+    # GET INPUT FILE (FIRST ARGUMENT OR DEFAULT)
     if len(sys.argv) > 1:
         input_file = sys.argv[1]
     else:
+        # DEFAULT: Look for file in current directory
         input_file = 'Account_Segmentation_V3_3_Final.csv'
 
+    # GET OUTPUT DIRECTORY (SECOND ARGUMENT OR DEFAULT)
     if len(sys.argv) > 2:
         output_dir = sys.argv[2]
     else:
+        # DEFAULT: Create 'reports' folder in current directory
         output_dir = './reports'
 
-    # Validate input file exists
+    # CHECK THAT INPUT FILE EXISTS
+    # os.path.exists() returns True if file is found, False otherwise
     if not os.path.exists(input_file):
         print(f"ERROR: Input file not found: {input_file}")
-        sys.exit(1)
+        sys.exit(1)  # Exit with error code 1 (indicates failure)
 
-    # Create output directory
+    # CREATE OUTPUT DIRECTORY IF IT DOESN'T EXIST
+    # exist_ok=True means don't error if directory already exists
     os.makedirs(output_dir, exist_ok=True)
 
+    # PRINT HEADER AND CONFIGURATION
     print("=" * 80)
     print("ACCOUNT SEGMENTATION REPORT GENERATOR")
     print("=" * 80)
@@ -892,32 +1088,86 @@ def main():
     print(f"Output directory: {output_dir}")
     print()
 
-    # Step 1: Load and preprocess data
+    # =========================================================================
+    # STEP 1: LOAD AND PREPROCESS DATA
+    # =========================================================================
+    # Read CSV file and prepare it for processing:
+    # - Add missing columns
+    # - Clean up blank values
+    # - Parse dates
+    # - Create helper columns for grouping
     df = load_and_preprocess_data(input_file)
 
-    # Step 2: Apply territory alignment
+    # =========================================================================
+    # STEP 2: APPLY TERRITORY ALIGNMENT
+    # =========================================================================
+    # Reassign accounts based on rep type:
+    # - Inside Sales accounts move to Re-Assigned_Rep_Name
+    # - All other accounts stay with Assigned_Rep_Name
+    # Result: 'Aligned_Rep_Name' column shows where each account ends up
     df = apply_territory_alignment(df)
 
-    # Step 3: Apply floor logic
+    # =========================================================================
+    # STEP 3: APPLY FLOOR LOGIC
+    # =========================================================================
+    # Identify accounts to remove ("setting the floor"):
+    # - Group 3 (low revenue)
+    # - DESIGN segment
+    # - Not new in 2025
+    # Result: 'Floor_Removed' column marks accounts being removed
     df = apply_floor_logic(df)
 
-    # Step 4: Generate summary report
+    # =========================================================================
+    # STEP 4: GENERATE SUMMARY REPORT
+    # =========================================================================
+    # Create one row per rep showing:
+    # - Starting accounts and revenue
+    # - Impact of alignment
+    # - Impact of floor removal
+    # - Final accounts and revenue
     summary_file = os.path.join(output_dir, 'Rep_Level_Impacts_2025_Summary.csv')
     summary_df = generate_summary_report(df, summary_file)
 
-    # Step 5: Generate rep detail reports
+    # =========================================================================
+    # STEP 5: GENERATE REP DETAIL REPORTS
+    # =========================================================================
+    # Create individual CSV file for each rep showing:
+    # - Summary statistics
+    # - Account breakdown by segment
+    # - Full account details grouped by revenue tier
+    # Returns dictionary of rep totals for validation
     rep_totals = generate_all_rep_detail_reports(df, output_dir)
 
-    # Step 6: Validate totals
+    # =========================================================================
+    # STEP 6: VALIDATE TOTALS
+    # =========================================================================
+    # Verify that revenue totals match across:
+    # - Input data
+    # - Summary report
+    # - Rep detail reports
+    # This ensures no accounts or revenue were lost/duplicated
     validation_passed = validate_totals(df, summary_df, rep_totals)
 
+    # PRINT COMPLETION MESSAGE
     print("\n" + "=" * 80)
     print("COMPLETE")
     print("=" * 80)
 
+    # EXIT WITH ERROR CODE IF VALIDATION FAILED
+    # This is important for automation - other scripts can detect failure
     if not validation_passed:
         sys.exit(1)
 
 
+# PYTHON IDIOM: ONLY RUN main() IF THIS FILE IS RUN DIRECTLY
+# This check prevents main() from running if this file is imported as a module
+# 
+# __name__ is a special variable:
+# - When file is run directly: __name__ == '__main__'
+# - When file is imported: __name__ == 'generate_reports'
+# 
+# This pattern allows the file to be both:
+# 1. A standalone script you can run
+# 2. A module other scripts can import functions from
 if __name__ == '__main__':
     main()
