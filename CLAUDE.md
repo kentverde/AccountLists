@@ -7,6 +7,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 **COMPLETED** - Core functionality working. Script generates validated reports.
 
 Last session completed:
+- Updated rep detail report format for spreadsheet-friendly output
+- Summary Metrics as horizontal table (labels row, values row) for easy calculations
+- Breakdown by Segment as matrix format (row labels in col A, column headers in row 1)
+- Revenue fields rounded to 2 decimal places
+- Order counts displayed as whole integers
+- Booleans as uppercase TRUE/FALSE
+- Removed Growth_Classification from detail output
+
+Previous sessions:
 - Built `generate_reports.py` with territory alignment and floor removal logic
 - Summary report matching Power BI format (63 reps)
 - Individual rep detail reports with account listings
@@ -15,7 +24,6 @@ Last session completed:
 
 Open items for future sessions:
 - `Final_Rep_Name` column is blank (reserved for future use)
-- Any additional report formatting or metrics as needed
 
 ## Commands
 
@@ -58,6 +66,34 @@ reports/
     └── ... (63 rep files total)
 ```
 
+### Rep Detail Report Format
+
+Each rep detail CSV is formatted for easy spreadsheet use with text/numbers separated:
+
+1. **Header**: Rep name and generated timestamp
+
+2. **Summary Metrics** (horizontal table):
+   - Row 1: Labels (Total Accounts, Total 2024 Revenue, Total 2025 Revenue, etc.)
+   - Row 2: Values directly below each label
+   - Allows selecting value row for calculations without text interference
+
+3. **Breakdown by Segment** (matrix):
+   - Column A: Segment labels (Group 1 High Potential, etc.)
+   - Row 1: Column headers (Accounts, Revenue, Removed)
+   - Data values at intersections
+   - Totals row at bottom
+
+4. **Account Sections** (grouped by revenue tier):
+   - GROUP 1 (HIGH REVENUE) - KEEPING
+   - GROUP 2 (MID REVENUE) - KEEPING
+   - GROUP 3 (LOW REVENUE) - KEEPING (protected accounts)
+   - GROUP 3 (LOW REVENUE) - LOSING (floor removed)
+   - ZERO REVENUE ACCOUNTS
+
+5. **Detail Columns**: Account_ID, Account_Name, Segment, Sub_Segment, Total_Rev_2024, Total_Rev_2025, Orders_2024, Orders_2025, Revenue_Tier, Potential_Tier, Segment_Label, Customer_Since_Date, Is_New_2025, Composite_Score, Floor_Removed
+
+Reference template: `Rep_detailFormatTemplate.csv`
+
 ## Key Business Rules
 
 - **Revenue Groups**: HIGH_REVENUE=Group 1, MID_REVENUE=Group 2, LOW_REVENUE=Group 3
@@ -91,3 +127,4 @@ Total Rev 2025 must equal $84,760,387.57 across:
 ## Reference Files
 
 - `Rep Level Impacts - 2025.csv`: Power BI export used as reference for summary report format
+- `Rep_detailFormatTemplate.csv`: Template showing desired rep detail report format (based on Angie Robison)
