@@ -81,48 +81,86 @@ def load_and_preprocess_data(input_file: str) -> pd.DataFrame:
     - Add computed columns for grouping
     """
     print(f"Loading data from: {input_file}")
+    
+    # READ THE CSV FILE
+    # This loads the account segmentation data into a pandas DataFrame
+    # A DataFrame is like a spreadsheet in memory - rows are accounts, columns are data fields
     df = pd.read_csv(input_file)
 
+    # COUNT HOW MANY ACCOUNTS WE LOADED
+    # len(df) gives us the number of rows (accounts) in the DataFrame
     original_count = len(df)
     print(f"Loaded {original_count:,} accounts")
 
-    # Add Final_Rep_Name column if not present
+    # ADD FINAL_REP_NAME COLUMN IF IT DOESN'T EXIST
+    # This column will eventually store the final rep assignment after all transformations
+    # We initialize it as empty strings for now
     if COL_FINAL_REP not in df.columns:
         df[COL_FINAL_REP] = ''
         print("Added Final_Rep_Name column")
 
-    # Handle blank/null Assigned_Rep_Name - replace with 'House'
+    # CLEAN UP BLANK/MISSING ASSIGNED REP NAMES
+    # Some accounts might not have an assigned rep (blank or null values)
+    # We replace these with 'House' which represents unassigned/house accounts
+    # .fillna() replaces null/NaN values
+    # .str.strip() removes leading/trailing spaces
     df[COL_ASSIGNED_REP] = df[COL_ASSIGNED_REP].fillna('House')
     df.loc[df[COL_ASSIGNED_REP].str.strip() == '', COL_ASSIGNED_REP] = 'House'
 
-    # Handle blank/null Re-Assigned_Rep_Name - replace with 'House'
+    # CLEAN UP BLANK/MISSING RE-ASSIGNED REP NAMES
+    # Same logic as above - replace blanks/nulls with 'House'
+    # Re-Assigned_Rep_Name is where Inside Sales accounts might be moving to
     df[COL_REASSIGNED_REP] = df[COL_REASSIGNED_REP].fillna('House')
     df.loc[df[COL_REASSIGNED_REP].str.strip() == '', COL_REASSIGNED_REP] = 'House'
 
-    # Parse Customer_Since_Date and extract year
+    # PARSE CUSTOMER START DATE AND EXTRACT THE YEAR
+    # Customer_Since_Date is stored as text like "01/15/2025"
+    # pd.to_datetime() converts text to a date object
+    # format='%m/%d/%Y' tells it the format is Month/Day/Year
+    # errors='coerce' means if date is invalid, set it to NaN instead of crashing
+    # .dt.year extracts just the year portion (e.g., 2025)
     df['Customer_Since_Year'] = pd.to_datetime(
         df[COL_CUSTOMER_SINCE], format='%m/%d/%Y', errors='coerce'
     ).dt.year
 
-    # Add is_new_2025 flag
+    # IDENTIFY NEW 2025 CUSTOMERS
+    # Create a True/False flag: True if customer started in 2025, False otherwise
+    # These accounts are "protected" from the floor removal later
+    # PROTECTED_YEAR is defined as 2025 in the configuration section
     df['Is_New_2025'] = df['Customer_Since_Year'] == PROTECTED_YEAR
 
-    # Add group label based on Revenue_Tier
+    # CREATE READABLE REVENUE GROUP LABELS
+    # Revenue_Tier contains codes like 'HIGH_REVENUE', 'MID_REVENUE', 'LOW_REVENUE'
+    # .map() converts these codes to readable labels: 'Group 1', 'Group 2', 'Group 3'
+    # The mapping is defined in REVENUE_TIER_TO_GROUP dictionary
+    # .fillna('Unknown') handles any unexpected values
     df['Revenue_Group'] = df[COL_REVENUE_TIER].map(REVENUE_TIER_TO_GROUP).fillna('Unknown')
 
-    # Add potential label
+    # CREATE READABLE POTENTIAL LABELS
+    # Similar to above, converts codes like 'HIGH_POTENTIAL' to 'High Potential'
+    # The mapping is defined in POTENTIAL_TIER_TO_LABEL dictionary
     df['Potential_Label'] = df[COL_POTENTIAL_TIER].map(POTENTIAL_TIER_TO_LABEL).fillna('Unknown')
 
-    # Add combined segment label (e.g., "Group 1 High Potential")
+    # CREATE COMBINED SEGMENT LABELS
+    # Concatenates the group and potential labels together
+    # Example: "Group 1" + " " + "High Potential" = "Group 1 High Potential"
+    # This makes it easier to group and display accounts by their full segment
     df['Segment_Label'] = df['Revenue_Group'] + ' ' + df['Potential_Label']
 
-    # Fill NaN revenue values with 0
+    # FILL MISSING REVENUE AND ORDER VALUES WITH ZERO
+    # Some accounts might have NaN (Not a Number) for revenue or orders
+    # NaN means the value is missing or undefined
+    # We replace NaN with 0 so calculations won't fail
+    # This is safer than leaving NaN which can cause errors in math operations
     df[COL_TOTAL_REV_2024] = df[COL_TOTAL_REV_2024].fillna(0)
     df[COL_TOTAL_REV_2025] = df[COL_TOTAL_REV_2025].fillna(0)
     df[COL_ORDERS_2024] = df[COL_ORDERS_2024].fillna(0)
     df[COL_ORDERS_2025] = df[COL_ORDERS_2025].fillna(0)
 
-    # Validate totals
+    # CALCULATE AND DISPLAY TOTAL 2025 REVENUE
+    # .sum() adds up all values in the column across all rows
+    # This gives us a baseline total to validate against later
+    # We'll check this matches the sum in our output reports
     total_rev_2025 = df[COL_TOTAL_REV_2025].sum()
     print(f"Total Rev 2025: ${total_rev_2025:,.2f}")
 
@@ -141,18 +179,38 @@ def apply_territory_alignment(df: pd.DataFrame) -> pd.DataFrame:
 
     Adds 'Aligned_Rep_Name' column with the post-alignment rep
     """
+    # CREATE A COPY TO AVOID MODIFYING THE ORIGINAL DATAFRAME
+    # .copy() creates a new independent DataFrame
+    # This is good practice to prevent unexpected side effects
     df = df.copy()
 
-    # Determine aligned rep based on Rep_Type
+    # DETERMINE THE ALIGNED REP FOR EACH ACCOUNT
+    # This is the first major transformation: Territory Alignment
+    # 
+    # BUSINESS RULE: Inside Sales reps are getting their territories reorganized
+    # - If Rep_Type is 'Inside Sales', the account moves to Re-Assigned_Rep_Name
+    # - For all other rep types, the account stays with Assigned_Rep_Name
+    # 
+    # np.where() is like an IF-THEN-ELSE for every row:
+    # - Condition: Is Rep_Type == 'Inside Sales'?
+    # - If True: use Re-Assigned_Rep_Name
+    # - If False: use Assigned_Rep_Name
     df['Aligned_Rep_Name'] = np.where(
         df[COL_REP_TYPE] == 'Inside Sales',
         df[COL_REASSIGNED_REP],
         df[COL_ASSIGNED_REP]
     )
 
-    # Track if account changed reps due to alignment
+    # TRACK WHICH ACCOUNTS CHANGED REPS
+    # Create a True/False flag for each account
+    # True = the account is moving to a different rep
+    # False = the account is staying with the same rep
+    # This helps us count and report on alignment impacts
     df['Alignment_Changed'] = df[COL_ASSIGNED_REP] != df['Aligned_Rep_Name']
 
+    # COUNT HOW MANY ACCOUNTS ARE CHANGING REPS
+    # .sum() on a True/False column counts the True values
+    # True is treated as 1, False as 0, so sum gives us the count
     alignment_changes = df['Alignment_Changed'].sum()
     print(f"Accounts affected by alignment: {alignment_changes:,}")
 
@@ -170,16 +228,41 @@ def apply_floor_logic(df: pd.DataFrame) -> pd.DataFrame:
 
     Adds 'Floor_Removed' column (True if account is removed)
     """
+    # CREATE A COPY TO AVOID MODIFYING THE ORIGINAL DATAFRAME
     df = df.copy()
 
-    # Floor criteria: Group 3 + DESIGN + not new in 2025
+    # IDENTIFY ACCOUNTS TO REMOVE ("SETTING THE FLOOR")
+    # This is the second major transformation: Floor Removal
+    # 
+    # BUSINESS RULE: Remove low-value DESIGN accounts that aren't brand new
+    # An account is removed if ALL THREE conditions are true:
+    # 
+    # 1. Revenue_Tier == 'LOW_REVENUE' (Group 3 accounts)
+    #    These are the smallest revenue accounts
+    # 
+    # 2. Segment == 'DESIGN' (FLOOR_SEGMENT)
+    #    Only DESIGN segment accounts are eligible for removal
+    #    Other segments like BUILD are protected
+    # 
+    # 3. NOT Is_New_2025 (~df['Is_New_2025'])
+    #    The ~ symbol means NOT (flips True to False and vice versa)
+    #    New 2025 customers are protected even if they're low revenue
+    #    This gives new customers time to grow
+    # 
+    # The & symbol means AND (all conditions must be true)
     df['Floor_Removed'] = (
         (df[COL_REVENUE_TIER] == FLOOR_REVENUE_TIER) &
         (df[COL_SEGMENT] == FLOOR_SEGMENT) &
         (~df['Is_New_2025'])
     )
 
+    # COUNT HOW MANY ACCOUNTS ARE BEING REMOVED
+    # .sum() on True/False counts the True values
     floor_removed_count = df['Floor_Removed'].sum()
+    
+    # CALCULATE TOTAL REVENUE BEING REMOVED
+    # df.loc[df['Floor_Removed'], COL_TOTAL_REV_2025] selects only rows where Floor_Removed is True
+    # Then .sum() adds up the 2025 revenue for those accounts
     floor_removed_revenue = df.loc[df['Floor_Removed'], COL_TOTAL_REV_2025].sum()
 
     print(f"Accounts removed by floor: {floor_removed_count:,}")
@@ -274,36 +357,76 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
     """
     print("\nGenerating summary report...")
 
-    # Get unique reps from original assignment
+    # CALCULATE STARTING METRICS FOR EACH REP (BEFORE ALIGNMENT)
+    # .groupby() groups all accounts by their original assigned rep
+    # .agg() performs aggregation functions on each group:
+    # 
+    # - COL_REP_TYPE: 'first' - take the first rep type value (they're all the same per rep)
+    # - COL_TOTAL_REV_2024: 'sum' - add up all 2024 revenue for this rep's accounts
+    # - COL_TOTAL_REV_2025: 'sum' - add up all 2025 revenue for this rep's accounts
+    # - COL_ACCOUNT_ID: 'count' - count how many accounts this rep has
+    # 
+    # .reset_index() converts the groupby result back to a regular DataFrame
+    # with Assigned_Rep_Name as a column instead of the index
     original_reps = df.groupby(COL_ASSIGNED_REP).agg({
         COL_REP_TYPE: 'first',
         COL_TOTAL_REV_2024: 'sum',
         COL_TOTAL_REV_2025: 'sum',
         COL_ACCOUNT_ID: 'count'
     }).reset_index()
+    
+    # RENAME COLUMNS TO MATCH OUTPUT FORMAT
+    # The .columns assignment renames the columns to more readable names
     original_reps.columns = [
         'Assigned_Rep_Name', 'Rep_Type', '2024 Revenue', '2025 Revenue', '2025 Count of Accounts'
     ]
 
-    # Calculate alignment changes per original rep
-    # Negative = accounts leaving, Positive = accounts arriving
+    # CALCULATE HOW MANY ACCOUNTS EACH REP IS GAINING/LOSING FROM ALIGNMENT
+    # This tracks the impact of the territory realignment
+    # 
+    # ACCOUNTS LEAVING: Filter to only accounts that changed reps, then count
+    # how many were originally assigned to each rep
+    # df[df['Alignment_Changed']] = only rows where Alignment_Changed is True
+    # .groupby(COL_ASSIGNED_REP).size() = count accounts by original rep
     accounts_leaving = df[df['Alignment_Changed']].groupby(COL_ASSIGNED_REP).size()
+    
+    # ACCOUNTS ARRIVING: Same filter, but count by where they're moving TO
+    # .groupby('Aligned_Rep_Name').size() = count accounts by new rep
     accounts_arriving = df[df['Alignment_Changed']].groupby('Aligned_Rep_Name').size()
 
-    # Build alignment change column
+    # MAP THE COUNTS TO EACH REP'S ROW
+    # .map() looks up each rep name in the accounts_leaving/arriving series
+    # .fillna(0) replaces NaN with 0 (for reps with no changes)
     original_reps['Accounts_Leaving'] = original_reps['Assigned_Rep_Name'].map(accounts_leaving).fillna(0)
     original_reps['Accounts_Arriving'] = original_reps['Assigned_Rep_Name'].map(accounts_arriving).fillna(0)
+    
+    # CALCULATE NET CHANGE
+    # Positive number = rep is gaining accounts overall
+    # Negative number = rep is losing accounts overall
+    # Zero = same number of accounts (but they might be different accounts!)
     original_reps['Account Changes due to Alignment'] = (
         original_reps['Accounts_Arriving'] - original_reps['Accounts_Leaving']
     ).astype(int)
 
-    # After alignment stats (based on Aligned_Rep_Name)
+    # CALCULATE STATS AFTER ALIGNMENT (WHO ACTUALLY HAS THE ACCOUNTS NOW)
+    # Now we group by Aligned_Rep_Name instead of Assigned_Rep_Name
+    # This shows the NEW reality after accounts have moved
+    # 
+    # For each rep's aligned accounts, calculate:
+    # - Total 2025 revenue they now have
+    # - Total count of accounts they now have
     after_alignment = df.groupby('Aligned_Rep_Name').agg({
         COL_TOTAL_REV_2025: 'sum',
         COL_ACCOUNT_ID: 'count'
     }).reset_index()
     after_alignment.columns = ['Rep_Name', '2025 Revenue (after Re-Assignment)', 'Count of Accounts after Alignment']
 
+    # MERGE THE AFTER-ALIGNMENT STATS WITH THE ORIGINAL REP DATA
+    # .merge() is like a SQL JOIN - it combines two DataFrames
+    # - left_on='Assigned_Rep_Name': match on this column from original_reps
+    # - right_on='Rep_Name': match on this column from after_alignment
+    # - how='left': keep all rows from original_reps even if no match
+    # This adds the after-alignment columns to our summary table
     original_reps = original_reps.merge(
         after_alignment,
         left_on='Assigned_Rep_Name',
@@ -311,26 +434,43 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
         how='left'
     )
 
-    # Handle reps that lost all accounts (no longer in after_alignment)
+    # HANDLE REPS WHO LOST ALL THEIR ACCOUNTS
+    # If a rep lost all accounts in alignment, they won't be in after_alignment
+    # The merge will create NaN values for them
+    # We replace NaN with 0 to show they have zero accounts and zero revenue
     original_reps['Count of Accounts after Alignment'] = original_reps['Count of Accounts after Alignment'].fillna(0).astype(int)
     original_reps['2025 Revenue (after Re-Assignment)'] = original_reps['2025 Revenue (after Re-Assignment)'].fillna(0)
 
-    # Revenue change due to alignment
+    # CALCULATE HOW MUCH REVENUE CHANGED DUE TO ALIGNMENT
+    # Subtract the before revenue from the after revenue
+    # Positive = rep gained revenue from alignment
+    # Negative = rep lost revenue from alignment
     original_reps['Revenue Change (after Re-Assignment)'] = (
         original_reps['2025 Revenue (after Re-Assignment)'] - original_reps['2025 Revenue']
     )
 
-    # Floor statistics - All Group 3 accounts (after alignment)
+    # COUNT ALL GROUP 3 (LOW REVENUE) ACCOUNTS AFTER ALIGNMENT
+    # This is a reference number showing all low-revenue accounts
+    # Filter to only LOW_REVENUE tier, then count by aligned rep
+    # Not all of these will be removed - only the DESIGN segment ones that aren't new
     all_group3 = df[df[COL_REVENUE_TIER] == FLOOR_REVENUE_TIER].groupby('Aligned_Rep_Name').size()
     original_reps['The Floor (All Group 3 Accounts)'] = original_reps['Assigned_Rep_Name'].map(all_group3).fillna(0).astype(int)
 
-    # Floor statistics - Design only, non-new accounts (the ones actually removed)
+    # COUNT AND CALCULATE REVENUE FOR ACCOUNTS ACTUALLY BEING REMOVED
+    # Filter to only accounts where Floor_Removed is True
+    # These are the DESIGN + Group 3 + non-2025 accounts
+    # For each aligned rep, calculate:
+    # - How many accounts are being removed from them
+    # - How much 2025 revenue is being removed from them
     floor_removed = df[df['Floor_Removed']].groupby('Aligned_Rep_Name').agg({
         COL_ACCOUNT_ID: 'count',
         COL_TOTAL_REV_2025: 'sum'
     }).reset_index()
     floor_removed.columns = ['Rep_Name', 'The Floor (Design Only, Non New Accounts)', '2025 Revenue for The Floor (Design Only, Non New)']
 
+    # MERGE FLOOR REMOVAL STATS INTO THE SUMMARY
+    # Add the floor removal columns to our summary table
+    # suffixes=('', '_floor') adds '_floor' to any duplicate column names
     original_reps = original_reps.merge(
         floor_removed,
         left_on='Assigned_Rep_Name',
@@ -339,16 +479,28 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
         suffixes=('', '_floor')
     )
 
+    # HANDLE REPS WITH NO ACCOUNTS BEING REMOVED
+    # If a rep has no floor removals, they won't be in floor_removed DataFrame
+    # Replace NaN with 0 to show they have zero accounts/revenue being removed
     original_reps['The Floor (Design Only, Non New Accounts)'] = original_reps['The Floor (Design Only, Non New Accounts)'].fillna(0).astype(int)
     original_reps['2025 Revenue for The Floor (Design Only, Non New)'] = original_reps['2025 Revenue for The Floor (Design Only, Non New)'].fillna(0)
 
-    # Final stats after floor removal
+    # CALCULATE FINAL STATS AFTER FLOOR REMOVAL
+    # This shows what each rep ends up with after BOTH transformations:
+    # 1. Territory alignment (accounts moving between reps)
+    # 2. Floor removal (low-value accounts being removed)
+    # 
+    # ~df['Floor_Removed'] means NOT Floor_Removed (the ~ flips True/False)
+    # So this filters to only accounts that are NOT being removed
+    # Then we group by aligned rep and calculate final counts and revenue
     final_stats = df[~df['Floor_Removed']].groupby('Aligned_Rep_Name').agg({
         COL_ACCOUNT_ID: 'count',
         COL_TOTAL_REV_2025: 'sum'
     }).reset_index()
     final_stats.columns = ['Rep_Name', '2025 Final Count of Accounts (Floor Removed)', '2025 Final Revenue All Accounts (Floor Removed)']
 
+    # MERGE FINAL STATS INTO THE SUMMARY
+    # Add the final account/revenue columns to our summary table
     original_reps = original_reps.merge(
         final_stats,
         left_on='Assigned_Rep_Name',
@@ -357,19 +509,38 @@ def generate_summary_report(df: pd.DataFrame, output_file: str) -> pd.DataFrame:
         suffixes=('', '_final')
     )
 
+    # HANDLE REPS WHO END UP WITH NO ACCOUNTS
+    # If a rep lost all accounts (through alignment or floor removal),
+    # they won't be in final_stats, so replace NaN with 0
     original_reps['2025 Final Count of Accounts (Floor Removed)'] = original_reps['2025 Final Count of Accounts (Floor Removed)'].fillna(0).astype(int)
     original_reps['2025 Final Revenue All Accounts (Floor Removed)'] = original_reps['2025 Final Revenue All Accounts (Floor Removed)'].fillna(0)
 
-    # Overall differences
+    # CALCULATE OVERALL DIFFERENCES FROM START TO FINISH
+    # This shows the TOTAL impact of both alignment and floor removal combined
+    # 
+    # Account difference: Final count minus original count
+    # Negative = rep lost accounts overall
+    # Positive = rep gained accounts overall (rare, since we're removing accounts)
     original_reps['Overall Count of Account Difference'] = (
         original_reps['2025 Final Count of Accounts (Floor Removed)'] - original_reps['2025 Count of Accounts']
     ).astype(int)
 
+    # Revenue difference: Final revenue minus original revenue
+    # Shows total revenue impact from both transformations
     original_reps['Revenue Diff Between Start and Final 2025'] = (
         original_reps['2025 Final Revenue All Accounts (Floor Removed)'] - original_reps['2025 Revenue']
     )
 
-    # Count of 2025 Zero Rev New Accounts (Re-Assigned)
+    # COUNT NEW 2025 ACCOUNTS WITH ZERO REVENUE
+    # These are brand new customers (started in 2025) who haven't generated revenue yet
+    # They're important to track because:
+    # 1. They're protected from floor removal (new customers get a grace period)
+    # 2. They represent future potential revenue
+    # 3. Reps need to know which accounts need nurturing
+    # 
+    # Filter criteria (both must be true with & symbol):
+    # - Total_Rev_2025 == 0: No revenue in 2025
+    # - Is_New_2025 == True: Started as a customer in 2025
     zero_rev_new_2025 = df[
         (df[COL_TOTAL_REV_2025] == 0) &
         (df['Is_New_2025'])
