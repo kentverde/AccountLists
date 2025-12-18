@@ -420,6 +420,11 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
     """
     Generate detailed report for a single rep.
     Shows accounts they are keeping and losing, grouped by revenue tier.
+
+    Output format is spreadsheet-friendly with:
+    - Summary metrics as horizontal table (labels row, values row)
+    - Breakdown by segment as matrix (row labels in col A, column headers in row 1)
+    - Account details grouped by revenue tier
     """
     # Get accounts aligned to this rep (after territory alignment)
     rep_accounts = df[df['Aligned_Rep_Name'] == rep_name].copy()
@@ -432,16 +437,16 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
     total_rev_2025 = rep_accounts[COL_TOTAL_REV_2025].sum()
     total_rev_2024 = rep_accounts[COL_TOTAL_REV_2024].sum()
 
-    accounts_removed = rep_accounts['Floor_Removed'].sum()
+    accounts_removed = int(rep_accounts['Floor_Removed'].sum())
     revenue_removed = rep_accounts.loc[rep_accounts['Floor_Removed'], COL_TOTAL_REV_2025].sum()
 
     accounts_keeping = total_accounts - accounts_removed
     revenue_keeping = total_rev_2025 - revenue_removed
 
-    zero_rev_accounts = (rep_accounts[COL_TOTAL_REV_2025] == 0).sum()
-    zero_rev_new_2025 = ((rep_accounts[COL_TOTAL_REV_2025] == 0) & (rep_accounts['Is_New_2025'])).sum()
+    zero_rev_accounts = int((rep_accounts[COL_TOTAL_REV_2025] == 0).sum())
+    zero_rev_new_2025 = int(((rep_accounts[COL_TOTAL_REV_2025] == 0) & (rep_accounts['Is_New_2025'])).sum())
 
-    # Account detail columns
+    # Account detail columns (no Growth_Classification per template)
     detail_columns = [
         COL_ACCOUNT_ID,
         COL_ACCOUNT_NAME,
@@ -456,69 +461,118 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
         'Segment_Label',
         COL_CUSTOMER_SINCE,
         'Is_New_2025',
-        COL_GROWTH_CLASS,
         COL_COMPOSITE_SCORE,
         'Floor_Removed'
     ]
 
+    # Format columns for clean CSV output
+    def format_for_output(accounts_df):
+        """Format dataframe columns for clean CSV output."""
+        out_df = accounts_df[detail_columns].copy()
+        # Revenue to 2 decimal places
+        out_df[COL_TOTAL_REV_2024] = out_df[COL_TOTAL_REV_2024].round(2)
+        out_df[COL_TOTAL_REV_2025] = out_df[COL_TOTAL_REV_2025].round(2)
+        # Orders as integers
+        out_df[COL_ORDERS_2024] = out_df[COL_ORDERS_2024].fillna(0).astype(int)
+        out_df[COL_ORDERS_2025] = out_df[COL_ORDERS_2025].fillna(0).astype(int)
+        # Booleans as uppercase TRUE/FALSE
+        out_df['Is_New_2025'] = out_df['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+        out_df['Floor_Removed'] = out_df['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
+        return out_df
+
+    # Number of empty columns to pad rows for consistent CSV structure
+    empty_cols = ',' * 14
+
     with open(output_file, 'w') as f:
         # Write header section
-        f.write(f"Rep Detail Report: {rep_name}\n")
-        f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write("\n")
-        f.write("=" * 80 + "\n")
-        f.write("SUMMARY METRICS\n")
-        f.write("=" * 80 + "\n")
-        f.write(f"Total Accounts (after alignment): {total_accounts}\n")
-        f.write(f"Total 2024 Revenue: {total_rev_2024:.2f}\n")
-        f.write(f"Total 2025 Revenue: {total_rev_2025:.2f}\n")
-        f.write("\n")
-        f.write(f"Accounts Removed (Floor): {accounts_removed}\n")
-        f.write(f"Revenue Removed (Floor): {revenue_removed:.2f}\n")
-        f.write("\n")
-        f.write(f"Final Accounts (Keeping): {accounts_keeping}\n")
-        f.write(f"Final Revenue (Keeping): {revenue_keeping:.2f}\n")
-        f.write("\n")
-        f.write(f"Zero Revenue Accounts: {zero_rev_accounts}\n")
-        f.write(f"Zero Revenue New 2025 Accounts: {zero_rev_new_2025}\n")
-        f.write("\n")
+        f.write(f"Rep Detail Report: {rep_name}{empty_cols}\n")
+        f.write(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}{empty_cols}\n")
+        f.write(f"{empty_cols}\n")
 
-        # Breakdown by segment
-        f.write("=" * 80 + "\n")
-        f.write("BREAKDOWN BY SEGMENT\n")
-        f.write("=" * 80 + "\n")
+        # Separator
+        f.write(f"================================================================================{empty_cols}\n")
+        f.write(f"SUMMARY METRICS{empty_cols}\n")
+        f.write(f"================================================================================{empty_cols}\n")
 
+        # Summary metrics as horizontal table - labels row then values row
+        summary_labels = [
+            "Total Accounts (after alignment):",
+            "Total 2024 Revenue: ",
+            "Total 2025 Revenue:",
+            "Accounts Removed (Floor):",
+            "Revenue Removed (Floor): ",
+            "Final Accounts (Keeping):",
+            "Final Revenue (Keeping):",
+            "Zero Revenue Accounts:",
+            "Zero Revenue New 2025 Accounts: "
+        ]
+        summary_values = [
+            total_accounts,
+            round(total_rev_2024, 2),
+            round(total_rev_2025, 2),
+            accounts_removed,
+            round(revenue_removed, 2),
+            accounts_keeping,
+            round(revenue_keeping, 2),
+            zero_rev_accounts,
+            zero_rev_new_2025
+        ]
+
+        # Write labels row (pad to 15 columns)
+        f.write(','.join(summary_labels) + ',' * (15 - len(summary_labels)) + '\n')
+        # Write values row (pad to 15 columns)
+        f.write(','.join(str(v) for v in summary_values) + ',' * (15 - len(summary_values)) + '\n')
+
+        # Blank rows
+        f.write(f"{empty_cols}\n")
+        f.write(f"{empty_cols}\n")
+
+        # Breakdown by segment section
+        f.write(f"================================================================================{empty_cols}\n")
+        f.write(f"BREAKDOWN BY SEGMENT{empty_cols}\n")
+        f.write(f"================================================================================{empty_cols}\n")
+
+        # Calculate segment summary
         segment_summary = rep_accounts.groupby('Segment_Label').agg({
             COL_ACCOUNT_ID: 'count',
             COL_TOTAL_REV_2025: 'sum',
             'Floor_Removed': 'sum'
         }).reset_index()
-        segment_summary.columns = ['Segment', 'Accounts', 'Revenue 2025', 'Removed']
-        segment_summary = segment_summary.sort_values('Revenue 2025', ascending=False)
+        segment_summary.columns = ['Segment', 'Accounts', 'Revenue', 'Removed']
+        segment_summary = segment_summary.sort_values('Revenue', ascending=False)
 
+        # Matrix header row (empty first cell, then column headers)
+        f.write(f",Accounts,Revenue,Removed{','.join([''] * 11)}\n")
+
+        # Data rows (segment label in col A, values in cols B, C, D)
         for _, row in segment_summary.iterrows():
-            f.write(f"{row['Segment']}: {int(row['Accounts'])} accounts | {row['Revenue 2025']:.2f} revenue | {int(row['Removed'])} removed\n")
-        f.write("\n")
+            f.write(f"{row['Segment']}: ,{int(row['Accounts'])},{round(row['Revenue'], 2)},{int(row['Removed'])}{','.join([''] * 11)}\n")
+
+        # Totals row
+        f.write(f"Totals,{total_accounts},{round(total_rev_2025, 2)},{accounts_removed}{','.join([''] * 11)}\n")
+
+        # Blank row
+        f.write(f"{empty_cols}\n")
 
         # Group 1 accounts (keeping)
         group1 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'HIGH_REVENUE'].copy()
         if len(group1) > 0:
-            f.write("=" * 80 + "\n")
-            f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {len(group1)} accounts | {group1[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
-            f.write("=" * 80 + "\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {len(group1)} accounts | {group1[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
             group1_sorted = group1.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            group1_sorted[detail_columns].to_csv(f, index=False)
-            f.write("\n")
+            format_for_output(group1_sorted).to_csv(f, index=False)
+            f.write(f"{empty_cols}\n")
 
         # Group 2 accounts (keeping)
         group2 = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'MID_REVENUE'].copy()
         if len(group2) > 0:
-            f.write("=" * 80 + "\n")
-            f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {len(group2)} accounts | {group2[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
-            f.write("=" * 80 + "\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {len(group2)} accounts | {group2[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
             group2_sorted = group2.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            group2_sorted[detail_columns].to_csv(f, index=False)
-            f.write("\n")
+            format_for_output(group2_sorted).to_csv(f, index=False)
+            f.write(f"{empty_cols}\n")
 
         # Group 3 accounts - KEEPING (non-DESIGN, or new 2025, protected from floor)
         group3_keeping = rep_accounts[
@@ -526,36 +580,36 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_file: str
             (~rep_accounts['Floor_Removed'])
         ].copy()
         if len(group3_keeping) > 0:
-            f.write("=" * 80 + "\n")
-            f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {len(group3_keeping)} accounts | {group3_keeping[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
-            f.write("(Non-DESIGN accounts or New 2025 customers - protected from floor)\n")
-            f.write("=" * 80 + "\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {len(group3_keeping)} accounts | {group3_keeping[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
+            f.write(f"(Non-DESIGN accounts or New 2025 customers - protected from floor){empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
             group3_keeping_sorted = group3_keeping.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            group3_keeping_sorted[detail_columns].to_csv(f, index=False)
-            f.write("\n")
+            format_for_output(group3_keeping_sorted).to_csv(f, index=False)
+            f.write(f"{empty_cols}\n")
 
         # Group 3 accounts - LOSING (DESIGN + non-2025 = floor removed)
         group3_losing = rep_accounts[rep_accounts['Floor_Removed']].copy()
         if len(group3_losing) > 0:
-            f.write("=" * 80 + "\n")
-            f.write(f"GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): {len(group3_losing)} accounts | {group3_losing[COL_TOTAL_REV_2025].sum():.2f} revenue\n")
-            f.write("(DESIGN segment + Not new in 2025)\n")
-            f.write("=" * 80 + "\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): {len(group3_losing)} accounts | {group3_losing[COL_TOTAL_REV_2025].sum():.2f} revenue{empty_cols}\n")
+            f.write(f"(DESIGN segment + Not new in 2025){empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
             group3_losing_sorted = group3_losing.sort_values(COL_TOTAL_REV_2025, ascending=False)
-            group3_losing_sorted[detail_columns].to_csv(f, index=False)
-            f.write("\n")
+            format_for_output(group3_losing_sorted).to_csv(f, index=False)
+            f.write(f"{empty_cols}\n")
 
         # Zero Revenue accounts (separate visibility)
         zero_rev = rep_accounts[rep_accounts[COL_TOTAL_REV_2025] == 0].copy()
         if len(zero_rev) > 0:
-            zero_rev_removed = zero_rev['Floor_Removed'].sum()
+            zero_rev_removed = int(zero_rev['Floor_Removed'].sum())
             zero_rev_keeping = len(zero_rev) - zero_rev_removed
-            f.write("=" * 80 + "\n")
-            f.write(f"ZERO REVENUE ACCOUNTS: {len(zero_rev)} total | {int(zero_rev_keeping)} keeping | {int(zero_rev_removed)} removed\n")
-            f.write("=" * 80 + "\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"ZERO REVENUE ACCOUNTS: {len(zero_rev)} total | {zero_rev_keeping} keeping | {zero_rev_removed} removed{empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
             zero_rev_sorted = zero_rev.sort_values(['Floor_Removed', 'Is_New_2025'], ascending=[True, False])
-            zero_rev_sorted[detail_columns].to_csv(f, index=False)
-            f.write("\n")
+            format_for_output(zero_rev_sorted).to_csv(f, index=False)
+            f.write(f"{empty_cols}\n")
 
 
 def generate_all_rep_detail_reports(df: pd.DataFrame, output_dir: str) -> dict:

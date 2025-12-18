@@ -1,45 +1,38 @@
-Rep Detail Report: Adam Paurowski
-Generated: 2025-12-17 18:06:25
-
-================================================================================
-SUMMARY METRICS
-================================================================================
-Total Accounts (after alignment): 3
-Total 2024 Revenue: 23659.00
-Total 2025 Revenue: 121755.02
-
-Accounts Removed (Floor): 0
-Revenue Removed (Floor): 0.00
-
-Final Accounts (Keeping): 3
-Final Revenue (Keeping): 121755.02
-
-Zero Revenue Accounts: 1
-Zero Revenue New 2025 Accounts: 1
-
-================================================================================
-BREAKDOWN BY SEGMENT
-================================================================================
-Group 1 Low Potential: 1 accounts | 123132.02 revenue | 0 removed
-Group 3 High Potential: 2 accounts | -1377.00 revenue | 0 removed
-
-================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 123132.02 revenue
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1035206,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,23659.0,123132.02,7.0,8.0,HIGH_REVENUE,LOW_POTENTIAL,Group 1 Low Potential,11/4/2024,False,STABLE_GROWTH,36.4,False
-
-================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 2 accounts | -1377.00 revenue
-(Non-DESIGN accounts or New 2025 customers - protected from floor)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/25/2025,True,STABLE_GROWTH,18.7,False
-1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,0.0,-1377.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,True,STABLE_GROWTH,23.3,False
-
-================================================================================
-ZERO REVENUE ACCOUNTS: 1 total | 1 keeping | 0 removed
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/25/2025,True,STABLE_GROWTH,18.7,False
-
+Rep Detail Report: Adam Paurowski,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Total Accounts (after alignment):,Total 2024 Revenue: ,Total 2025 Revenue:,Accounts Removed (Floor):,Revenue Removed (Floor): ,Final Accounts (Keeping):,Final Revenue (Keeping):,Zero Revenue Accounts:,Zero Revenue New 2025 Accounts: ,,,,,,
+3,23659.0,121755.02,0,0.0,3,121755.02,1,1,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+,Accounts,Revenue,Removed,,,,,,,,,,
+Group 1 Low Potential: ,1,123132.02,0,,,,,,,,,,
+Group 3 High Potential: ,2,-1377.0,0,,,,,,,,,,
+Totals,3,121755.02,0,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 123132.02 revenue,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1035206,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,23659.0,123132.02,7,8,HIGH_REVENUE,LOW_POTENTIAL,Group 1 Low Potential,11/4/2024,FALSE,36.4,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 2 accounts | -1377.00 revenue,,,,,,,,,,,,,,
+(Non-DESIGN accounts or New 2025 customers - protected from floor),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/25/2025,TRUE,18.7,FALSE
+1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,0.0,-1377.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,TRUE,23.3,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 1 total | 1 keeping | 0 removed,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/25/2025,TRUE,18.7,FALSE
+,,,,,,,,,,,,,,

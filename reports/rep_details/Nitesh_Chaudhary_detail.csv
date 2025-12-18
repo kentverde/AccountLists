@@ -1,37 +1,30 @@
-Rep Detail Report: Nitesh Chaudhary
-Generated: 2025-12-17 18:06:25
-
-================================================================================
-SUMMARY METRICS
-================================================================================
-Total Accounts (after alignment): 1
-Total 2024 Revenue: 0.00
-Total 2025 Revenue: 0.00
-
-Accounts Removed (Floor): 0
-Revenue Removed (Floor): 0.00
-
-Final Accounts (Keeping): 1
-Final Revenue (Keeping): 0.00
-
-Zero Revenue Accounts: 1
-Zero Revenue New 2025 Accounts: 0
-
-================================================================================
-BREAKDOWN BY SEGMENT
-================================================================================
-Group 3 Low Potential: 1 accounts | 0.00 revenue | 0 removed
-
-================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | 0.00 revenue
-(Non-DESIGN accounts or New 2025 customers - protected from floor)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1025914,MANU ENTERPRISES,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/30/2023,False,STABLE_GROWTH,0.0,False
-
-================================================================================
-ZERO REVENUE ACCOUNTS: 1 total | 1 keeping | 0 removed
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1025914,MANU ENTERPRISES,RETAIL,SINGLE_LOCATION,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/30/2023,False,STABLE_GROWTH,0.0,False
-
+Rep Detail Report: Nitesh Chaudhary,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Total Accounts (after alignment):,Total 2024 Revenue: ,Total 2025 Revenue:,Accounts Removed (Floor):,Revenue Removed (Floor): ,Final Accounts (Keeping):,Final Revenue (Keeping):,Zero Revenue Accounts:,Zero Revenue New 2025 Accounts: ,,,,,,
+1,0.0,0.0,0,0.0,1,0.0,1,0,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+,Accounts,Revenue,Removed,,,,,,,,,,
+Group 3 Low Potential: ,1,0.0,0,,,,,,,,,,
+Totals,1,0.0,0,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | 0.00 revenue,,,,,,,,,,,,,,
+(Non-DESIGN accounts or New 2025 customers - protected from floor),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1025914,MANU ENTERPRISES,RETAIL,SINGLE_LOCATION,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/30/2023,FALSE,0.0,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 1 total | 1 keeping | 0 removed,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1025914,MANU ENTERPRISES,RETAIL,SINGLE_LOCATION,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/30/2023,FALSE,0.0,FALSE
+,,,,,,,,,,,,,,

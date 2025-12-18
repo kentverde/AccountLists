@@ -1,58 +1,51 @@
-Rep Detail Report: Test SalesRep
-Generated: 2025-12-17 18:06:25
-
-================================================================================
-SUMMARY METRICS
-================================================================================
-Total Accounts (after alignment): 9
-Total 2024 Revenue: 12.33
-Total 2025 Revenue: -18.43
-
-Accounts Removed (Floor): 6
-Revenue Removed (Floor): -20.48
-
-Final Accounts (Keeping): 3
-Final Revenue (Keeping): 2.05
-
-Zero Revenue Accounts: 6
-Zero Revenue New 2025 Accounts: 1
-
-================================================================================
-BREAKDOWN BY SEGMENT
-================================================================================
-Group 3 Medium Potential: 1 accounts | 2.05 revenue | 0 removed
-Group 3 High Potential: 1 accounts | 0.00 revenue | 0 removed
-Group 3 Low Potential: 7 accounts | -20.48 revenue | 6 removed
-
-================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 3 accounts | 2.05 revenue
-(Non-DESIGN accounts or New 2025 customers - protected from floor)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,2.05,2.05,14.0,7.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,8/24/2021,False,STABLE_GROWTH,45.8,False
-1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/14/2022,False,STABLE_GROWTH,0.0,False
-1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/22/2025,True,STABLE_GROWTH,17.4,False
-
-================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 6 accounts | -20.48 revenue
-(DESIGN segment + Not new in 2025)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/27/2021,False,STABLE_GROWTH,0.0,True
-1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/11/2021,False,STABLE_GROWTH,0.0,True
-1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,0.0,0.0,1.0,5.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/22/2023,False,STABLE_GROWTH,0.0,True
-1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/14/2024,False,STABLE_GROWTH,0.0,True
-1022769,TestAccountDoNotUse 1022769,DESIGN,DESIGNER_INDEPENDENT,2.83,-4.83,61.0,11.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/7/2022,False,STABLE_GROWTH,0.0,True
-1026972,PreranaTestAccountApr14,DESIGN,DESIGNER_INDEPENDENT,7.45,-15.65,2.0,20.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/11/2024,False,STABLE_GROWTH,0.0,True
-
-================================================================================
-ZERO REVENUE ACCOUNTS: 6 total | 2 keeping | 4 removed
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/22/2025,True,STABLE_GROWTH,17.4,False
-1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/14/2022,False,STABLE_GROWTH,0.0,False
-1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/27/2021,False,STABLE_GROWTH,0.0,True
-1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/11/2021,False,STABLE_GROWTH,0.0,True
-1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,0.0,0.0,1.0,5.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/22/2023,False,STABLE_GROWTH,0.0,True
-1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/14/2024,False,STABLE_GROWTH,0.0,True
-
+Rep Detail Report: Test SalesRep,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Total Accounts (after alignment):,Total 2024 Revenue: ,Total 2025 Revenue:,Accounts Removed (Floor):,Revenue Removed (Floor): ,Final Accounts (Keeping):,Final Revenue (Keeping):,Zero Revenue Accounts:,Zero Revenue New 2025 Accounts: ,,,,,,
+9,12.33,-18.43,6,-20.48,3,2.05,6,1,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+,Accounts,Revenue,Removed,,,,,,,,,,
+Group 3 Medium Potential: ,1,2.05,0,,,,,,,,,,
+Group 3 High Potential: ,1,0.0,0,,,,,,,,,,
+Group 3 Low Potential: ,7,-20.48,6,,,,,,,,,,
+Totals,9,-18.43,6,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 3 accounts | 2.05 revenue,,,,,,,,,,,,,,
+(Non-DESIGN accounts or New 2025 customers - protected from floor),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,2.05,2.05,14,7,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,8/24/2021,FALSE,45.8,FALSE
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/14/2022,FALSE,0.0,FALSE
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/22/2025,TRUE,17.4,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 6 accounts | -20.48 revenue,,,,,,,,,,,,,,
+(DESIGN segment + Not new in 2025),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/27/2021,FALSE,0.0,TRUE
+1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/11/2021,FALSE,0.0,TRUE
+1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,0.0,0.0,1,5,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/22/2023,FALSE,0.0,TRUE
+1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/14/2024,FALSE,0.0,TRUE
+1022769,TestAccountDoNotUse 1022769,DESIGN,DESIGNER_INDEPENDENT,2.83,-4.83,61,11,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/7/2022,FALSE,0.0,TRUE
+1026972,PreranaTestAccountApr14,DESIGN,DESIGNER_INDEPENDENT,7.45,-15.65,2,20,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/11/2024,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 6 total | 2 keeping | 4 removed,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/22/2025,TRUE,17.4,FALSE
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/14/2022,FALSE,0.0,FALSE
+1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/27/2021,FALSE,0.0,TRUE
+1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/11/2021,FALSE,0.0,TRUE
+1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,0.0,0.0,1,5,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,5/22/2023,FALSE,0.0,TRUE
+1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/14/2024,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,

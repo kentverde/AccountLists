@@ -1,168 +1,161 @@
-Rep Detail Report: Cynthia Guthrie
-Generated: 2025-12-17 18:06:25
-
-================================================================================
-SUMMARY METRICS
-================================================================================
-Total Accounts (after alignment): 72
-Total 2024 Revenue: 228969.92
-Total 2025 Revenue: 166075.99
-
-Accounts Removed (Floor): 36
-Revenue Removed (Floor): 6522.05
-
-Final Accounts (Keeping): 36
-Final Revenue (Keeping): 159553.94
-
-Zero Revenue Accounts: 39
-Zero Revenue New 2025 Accounts: 8
-
-================================================================================
-BREAKDOWN BY SEGMENT
-================================================================================
-Group 2 High Potential: 6 accounts | 60852.40 revenue | 0 removed
-Group 2 Medium Potential: 11 accounts | 59800.64 revenue | 0 removed
-Group 1 Medium Potential: 1 accounts | 26266.00 revenue | 0 removed
-Group 3 High Potential: 16 accounts | 8701.90 revenue | 0 removed
-Group 3 Medium Potential: 5 accounts | 6372.05 revenue | 5 removed
-Group 2 Low Potential: 1 accounts | 3933.00 revenue | 0 removed
-Group 3 Low Potential: 32 accounts | 150.00 revenue | 31 removed
-
-================================================================================
-GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 26266.00 revenue
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1000623,The Villages Commercial Design,DESIGN,HOSPITALITY,20689.0,26266.0,6.0,8.0,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,10/9/2019,False,STABLE_GROWTH,66.9,False
-
-================================================================================
-GROUP 2 (MID REVENUE) - KEEPING: 18 accounts | 124586.04 revenue
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1002889,Mountainside Design,DESIGN,HOSPITALITY,7766.5,15902.2,7.0,6.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/24/2020,False,STABLE_GROWTH,74.1,False
-1036469,Travel + Leisure Operations Inc.,DESIGN,HOSPITALITY,0.0,14898.85,0.0,11.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/11/2025,True,STABLE_GROWTH,57.4,False
-1035393,H Supply,RETAIL,SINGLE_LOCATION,0.0,11982.35,0.0,4.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/29/2025,True,STABLE_GROWTH,56.5,False
-1026116,Gatlin Development Company Inc,DESIGN,ARCHITECT_BUILDER,6934.0,11335.0,3.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/8/2024,False,STABLE_GROWTH,51.9,False
-1037363,Vault Design Group,DESIGN,DESIGN_FIRM,0.0,10000.0,0.0,3.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/26/2025,True,STABLE_GROWTH,54.1,False
-1011376,"JKL Design Group, Inc.",DESIGN,DESIGN_FIRM,7660.5,8850.2,5.0,8.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,12/23/2019,False,STABLE_GROWTH,62.2,False
-1023702,Carroll Adams Group,DESIGN,HOSPITALITY,3615.0,8632.8,1.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/9/2023,False,STABLE_GROWTH,55.2,False
-1009794,The Design Resource Group,DESIGN,DESIGN_FIRM,7393.0,5280.0,9.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/5/2020,False,STABLE_GROWTH,46.1,False
-1027936,SkyCon Group LLC,DESIGN,ARCHITECT_BUILDER,2160.0,5030.0,2.0,3.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/6/2024,False,STABLE_GROWTH,52.2,False
-1026929,The Schimberg Group,DESIGN,ARCHITECT_BUILDER,0.0,4651.32,0.0,1.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,9/6/2024,False,STABLE_GROWTH,45.9,False
-1036951,Chris Rossi Studio,DESIGN,DESIGN_FIRM,0.0,4108.0,0.0,1.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/3/2025,True,STABLE_GROWTH,39.2,False
-1027451,HPA Design Group,DESIGN,DESIGN_FIRM,0.0,3961.0,0.0,5.0,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,5/2/2025,True,HIGH_GROWTH,67.2,False
-1035189,Gensler- Tampa,DESIGN,DESIGN_FIRM,0.0,3933.0,1.0,0.0,MID_REVENUE,LOW_POTENTIAL,Group 2 Low Potential,11/5/2024,False,STABLE_GROWTH,38.2,False
-1013402,Beasley and Henley Interior Design,DESIGN,DESIGN_FIRM,3028.0,3605.0,1.0,4.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/12/2022,False,STABLE_GROWTH,64.6,False
-1012422,Peacock + Lewis Architects Planners,DESIGN,ARCHITECT_BUILDER,2725.0,3414.32,3.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/21/2024,False,STABLE_GROWTH,49.8,False
-1019591,Beyer Brown & Associates LP,DESIGN,DESIGNER_INDEPENDENT,0.0,3333.0,1.0,0.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/28/2021,False,STABLE_GROWTH,44.6,False
-1024826,Circuit Florida Inc.,DESIGN,ARCHITECT_BUILDER,3140.0,2860.0,4.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/7/2023,False,STABLE_GROWTH,47.2,False
-1027105,A Squared Design Studio,DESIGN,HOSPITALITY,2075.0,2809.0,2.0,2.0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/23/2024,False,STABLE_GROWTH,50.7,False
-
-================================================================================
-GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts | 8701.90 revenue
-(Non-DESIGN accounts or New 2025 customers - protected from floor)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1038062,Asthetique,DESIGN,HOSPITALITY,0.0,2065.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/18/2025,True,STABLE_GROWTH,52.6,False
-1036179,ClearPH,DESIGN,HOSPITALITY,0.0,1856.4,0.0,2.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/14/2025,True,STABLE_GROWTH,40.9,False
-1037055,3101880050 P&L Sens Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,1780.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/14/2025,True,STABLE_GROWTH,46.5,False
-1037106,Elements of Design International,DESIGN,DESIGN_FIRM,0.0,1713.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,True,STABLE_GROWTH,45.2,False
-1036968,"Spectra Holdings, LLC (FL)",RETAIL,MULTIPLE_LOCATIONS,0.0,545.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/9/2025,True,STABLE_GROWTH,37.7,False
-1035668,"RPS Capital Investments, LLC",DESIGN,ARCHITECT_BUILDER,0.0,375.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/16/2025,True,STABLE_GROWTH,38.0,False
-1027441,Place Architecture,DESIGN,DESIGNER_INDEPENDENT,0.0,304.5,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/26/2025,True,STABLE_GROWTH,44.8,False
-1037139,Brooke J Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,63.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,True,STABLE_GROWTH,37.7,False
-1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/8/2025,True,STABLE_GROWTH,20.4,False
-1027443,The Cormia Group,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/2/2025,True,STABLE_GROWTH,18.8,False
-1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/5/2025,True,STABLE_GROWTH,20.4,False
-1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/9/2025,True,STABLE_GROWTH,17.6,False
-1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/20/2025,True,STABLE_GROWTH,18.7,False
-1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/15/2025,True,STABLE_GROWTH,17.0,False
-1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/17/2024,False,STABLE_GROWTH,0.0,False
-1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/25/2025,True,STABLE_GROWTH,18.4,False
-1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,True,STABLE_GROWTH,18.3,False
-
-================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 36 accounts | 6522.05 revenue
-(DESIGN segment + Not new in 2025)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1024380,Higney International LLC,DESIGN,HOSPITALITY,355.8,2185.0,1.0,3.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,5/11/2023,False,STABLE_GROWTH,65.9,True
-1019317,Sena Hospitality Design Inc.,DESIGN,DESIGN_FIRM,960.0,2160.0,1.0,1.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,6/14/2021,False,STABLE_GROWTH,46.3,True
-1004799,Patience Purchasing Agency LLC MIVASA,DESIGN,DESIGN_FIRM,14066.7,1657.5,6.0,3.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,11/29/2021,False,STABLE_GROWTH,46.0,True
-1026218,SS Cynthia Guthrie(FL),DESIGN,DESIGNER_INDEPENDENT,100.0,271.55,1.0,2.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,1/17/2024,False,STABLE_GROWTH,54.8,True
-1027432,GDP Designbuild,DESIGN,DESIGN_FIRM,200.0,150.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/20/2024,False,STABLE_GROWTH,23.0,True
-1014282,"The Nexus Luxury Collection US, LLC",DESIGN,DESIGN_FIRM,0.0,98.0,0.0,1.0,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,8/27/2021,False,STABLE_GROWTH,53.4,True
-1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/15/2024,False,STABLE_GROWTH,0.0,True
-1027430,Green Banana Ventures,DESIGN,HOSPITALITY,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2024,False,STABLE_GROWTH,0.0,True
-1027415,Shivam Propreties,DESIGN,HOSPITALITY,1600.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/30/2024,False,STABLE_GROWTH,0.0,True
-1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,243.8,0.0,2.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/25/2024,False,STABLE_GROWTH,0.0,True
-1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,8444.36,0.0,1.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/2/2024,False,STABLE_GROWTH,0.0,True
-1027084,Beach Blue,DESIGN,HOSPITALITY,5630.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/24/2024,False,STABLE_GROWTH,0.0,True
-1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,120.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/9/2024,False,STABLE_GROWTH,0.0,True
-1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,4868.0,0.0,4.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/11/2024,False,STABLE_GROWTH,0.0,True
-1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,734.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/13/2024,False,STABLE_GROWTH,0.0,True
-1026395,Peacock + Lewis,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2024,False,STABLE_GROWTH,0.0,True
-1026308,Redfern HRD,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/5/2024,False,STABLE_GROWTH,0.0,True
-1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,5200.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/19/2024,False,STABLE_GROWTH,0.0,True
-1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,7970.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/4/2024,False,STABLE_GROWTH,0.0,True
-1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/1/2023,False,STABLE_GROWTH,0.0,True
-1025764,RGR Design,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/3/2023,False,STABLE_GROWTH,0.0,True
-1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,5135.0,0.0,6.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/9/2020,False,STABLE_GROWTH,0.0,True
-1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/31/2023,False,STABLE_GROWTH,0.0,True
-1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,80960.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/22/2023,False,STABLE_GROWTH,0.0,True
-1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/24/2023,False,STABLE_GROWTH,0.0,True
-1023302,ITG Export & Design,DESIGN,HOSPITALITY,13745.26,0.0,5.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2022,False,STABLE_GROWTH,0.0,True
-1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,1892.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/10/2022,False,STABLE_GROWTH,0.0,True
-1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2022,False,STABLE_GROWTH,0.0,True
-1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2021,False,STABLE_GROWTH,0.0,True
-1017662,Empire Office,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/11/2020,False,STABLE_GROWTH,0.0,True
-1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/30/2021,False,STABLE_GROWTH,0.0,True
-1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/8/2020,False,STABLE_GROWTH,0.0,True
-1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/2/2021,False,STABLE_GROWTH,0.0,True
-1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/23/2020,False,STABLE_GROWTH,0.0,True
-1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,9559.0,0.0,7.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2020,False,STABLE_GROWTH,0.0,True
-1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,0.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/22/2024,False,STABLE_GROWTH,0.0,True
-
-================================================================================
-ZERO REVENUE ACCOUNTS: 39 total | 9 keeping | 30 removed
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1027443,The Cormia Group,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/2/2025,True,STABLE_GROWTH,18.8,False
-1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/9/2025,True,STABLE_GROWTH,17.6,False
-1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/5/2025,True,STABLE_GROWTH,20.4,False
-1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/8/2025,True,STABLE_GROWTH,20.4,False
-1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/20/2025,True,STABLE_GROWTH,18.7,False
-1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/15/2025,True,STABLE_GROWTH,17.0,False
-1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,0.0,0.0,0.0,1.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/25/2025,True,STABLE_GROWTH,18.4,False
-1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0.0,0.0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,True,STABLE_GROWTH,18.3,False
-1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/17/2024,False,STABLE_GROWTH,0.0,False
-1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,5135.0,0.0,6.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/9/2020,False,STABLE_GROWTH,0.0,True
-1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,9559.0,0.0,7.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2020,False,STABLE_GROWTH,0.0,True
-1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/23/2020,False,STABLE_GROWTH,0.0,True
-1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/2/2021,False,STABLE_GROWTH,0.0,True
-1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/8/2020,False,STABLE_GROWTH,0.0,True
-1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/30/2021,False,STABLE_GROWTH,0.0,True
-1017662,Empire Office,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/11/2020,False,STABLE_GROWTH,0.0,True
-1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2021,False,STABLE_GROWTH,0.0,True
-1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2022,False,STABLE_GROWTH,0.0,True
-1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,1892.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/10/2022,False,STABLE_GROWTH,0.0,True
-1023302,ITG Export & Design,DESIGN,HOSPITALITY,13745.26,0.0,5.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2022,False,STABLE_GROWTH,0.0,True
-1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/24/2023,False,STABLE_GROWTH,0.0,True
-1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,80960.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/22/2023,False,STABLE_GROWTH,0.0,True
-1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/31/2023,False,STABLE_GROWTH,0.0,True
-1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/1/2023,False,STABLE_GROWTH,0.0,True
-1025764,RGR Design,DESIGN,HOSPITALITY,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/3/2023,False,STABLE_GROWTH,0.0,True
-1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,8444.36,0.0,1.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/2/2024,False,STABLE_GROWTH,0.0,True
-1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,5200.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/19/2024,False,STABLE_GROWTH,0.0,True
-1026308,Redfern HRD,DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/5/2024,False,STABLE_GROWTH,0.0,True
-1026395,Peacock + Lewis,DESIGN,HOSPITALITY,0.0,0.0,0.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2024,False,STABLE_GROWTH,0.0,True
-1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,734.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/13/2024,False,STABLE_GROWTH,0.0,True
-1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,4868.0,0.0,4.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/11/2024,False,STABLE_GROWTH,0.0,True
-1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,120.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/9/2024,False,STABLE_GROWTH,0.0,True
-1027084,Beach Blue,DESIGN,HOSPITALITY,5630.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/24/2024,False,STABLE_GROWTH,0.0,True
-1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,243.8,0.0,2.0,1.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/25/2024,False,STABLE_GROWTH,0.0,True
-1027415,Shivam Propreties,DESIGN,HOSPITALITY,1600.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/30/2024,False,STABLE_GROWTH,0.0,True
-1027430,Green Banana Ventures,DESIGN,HOSPITALITY,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2024,False,STABLE_GROWTH,0.0,True
-1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,0.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/15/2024,False,STABLE_GROWTH,0.0,True
-1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,7970.0,0.0,1.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/4/2024,False,STABLE_GROWTH,0.0,True
-1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,0.0,0.0,2.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/22/2024,False,STABLE_GROWTH,0.0,True
-
+Rep Detail Report: Cynthia Guthrie,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Total Accounts (after alignment):,Total 2024 Revenue: ,Total 2025 Revenue:,Accounts Removed (Floor):,Revenue Removed (Floor): ,Final Accounts (Keeping):,Final Revenue (Keeping):,Zero Revenue Accounts:,Zero Revenue New 2025 Accounts: ,,,,,,
+72,228969.92,166075.99,36,6522.05,36,159553.94,39,8,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+,Accounts,Revenue,Removed,,,,,,,,,,
+Group 2 High Potential: ,6,60852.4,0,,,,,,,,,,
+Group 2 Medium Potential: ,11,59800.64,0,,,,,,,,,,
+Group 1 Medium Potential: ,1,26266.0,0,,,,,,,,,,
+Group 3 High Potential: ,16,8701.9,0,,,,,,,,,,
+Group 3 Medium Potential: ,5,6372.05,5,,,,,,,,,,
+Group 2 Low Potential: ,1,3933.0,0,,,,,,,,,,
+Group 3 Low Potential: ,32,150.0,31,,,,,,,,,,
+Totals,72,166075.99,36,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | 26266.00 revenue,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1000623,The Villages Commercial Design,DESIGN,HOSPITALITY,20689.0,26266.0,6,8,HIGH_REVENUE,MID_POTENTIAL,Group 1 Medium Potential,10/9/2019,FALSE,66.9,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 18 accounts | 124586.04 revenue,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1002889,Mountainside Design,DESIGN,HOSPITALITY,7766.5,15902.2,7,6,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/24/2020,FALSE,74.1,FALSE
+1036469,Travel + Leisure Operations Inc.,DESIGN,HOSPITALITY,0.0,14898.85,0,11,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/11/2025,TRUE,57.4,FALSE
+1035393,H Supply,RETAIL,SINGLE_LOCATION,0.0,11982.35,0,4,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,1/29/2025,TRUE,56.5,FALSE
+1026116,Gatlin Development Company Inc,DESIGN,ARCHITECT_BUILDER,6934.0,11335.0,3,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,1/8/2024,FALSE,51.9,FALSE
+1037363,Vault Design Group,DESIGN,DESIGN_FIRM,0.0,10000.0,0,3,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/26/2025,TRUE,54.1,FALSE
+1011376,"JKL Design Group, Inc.",DESIGN,DESIGN_FIRM,7660.5,8850.2,5,8,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,12/23/2019,FALSE,62.2,FALSE
+1023702,Carroll Adams Group,DESIGN,HOSPITALITY,3615.0,8632.8,1,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,2/9/2023,FALSE,55.2,FALSE
+1009794,The Design Resource Group,DESIGN,DESIGN_FIRM,7393.0,5280.0,9,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/5/2020,FALSE,46.1,FALSE
+1027936,SkyCon Group LLC,DESIGN,ARCHITECT_BUILDER,2160.0,5030.0,2,3,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/6/2024,FALSE,52.2,FALSE
+1026929,The Schimberg Group,DESIGN,ARCHITECT_BUILDER,0.0,4651.32,0,1,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,9/6/2024,FALSE,45.9,FALSE
+1036951,Chris Rossi Studio,DESIGN,DESIGN_FIRM,0.0,4108.0,0,1,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,6/3/2025,TRUE,39.2,FALSE
+1027451,HPA Design Group,DESIGN,DESIGN_FIRM,0.0,3961.0,0,5,MID_REVENUE,HIGH_POTENTIAL,Group 2 High Potential,5/2/2025,TRUE,67.2,FALSE
+1035189,Gensler- Tampa,DESIGN,DESIGN_FIRM,0.0,3933.0,1,0,MID_REVENUE,LOW_POTENTIAL,Group 2 Low Potential,11/5/2024,FALSE,38.2,FALSE
+1013402,Beasley and Henley Interior Design,DESIGN,DESIGN_FIRM,3028.0,3605.0,1,4,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,8/12/2022,FALSE,64.6,FALSE
+1012422,Peacock + Lewis Architects Planners,DESIGN,ARCHITECT_BUILDER,2725.0,3414.32,3,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/21/2024,FALSE,49.8,FALSE
+1019591,Beyer Brown & Associates LP,DESIGN,DESIGNER_INDEPENDENT,0.0,3333.0,1,0,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,6/28/2021,FALSE,44.6,FALSE
+1024826,Circuit Florida Inc.,DESIGN,ARCHITECT_BUILDER,3140.0,2860.0,4,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,7/7/2023,FALSE,47.2,FALSE
+1027105,A Squared Design Studio,DESIGN,HOSPITALITY,2075.0,2809.0,2,2,MID_REVENUE,MID_POTENTIAL,Group 2 Medium Potential,10/23/2024,FALSE,50.7,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 17 accounts | 8701.90 revenue,,,,,,,,,,,,,,
+(Non-DESIGN accounts or New 2025 customers - protected from floor),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1038062,Asthetique,DESIGN,HOSPITALITY,0.0,2065.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/18/2025,TRUE,52.6,FALSE
+1036179,ClearPH,DESIGN,HOSPITALITY,0.0,1856.4,0,2,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,3/14/2025,TRUE,40.9,FALSE
+1037055,3101880050 P&L Sens Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,1780.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/14/2025,TRUE,46.5,FALSE
+1037106,Elements of Design International,DESIGN,DESIGN_FIRM,0.0,1713.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,TRUE,45.2,FALSE
+1036968,"Spectra Holdings, LLC (FL)",RETAIL,MULTIPLE_LOCATIONS,0.0,545.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/9/2025,TRUE,37.7,FALSE
+1035668,"RPS Capital Investments, LLC",DESIGN,ARCHITECT_BUILDER,0.0,375.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/16/2025,TRUE,38.0,FALSE
+1027441,Place Architecture,DESIGN,DESIGNER_INDEPENDENT,0.0,304.5,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/26/2025,TRUE,44.8,FALSE
+1037139,Brooke J Interior Design,DESIGN,DESIGNER_INDEPENDENT,0.0,63.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/28/2025,TRUE,37.7,FALSE
+1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/8/2025,TRUE,20.4,FALSE
+1027443,The Cormia Group,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/2/2025,TRUE,18.8,FALSE
+1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/5/2025,TRUE,20.4,FALSE
+1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/9/2025,TRUE,17.6,FALSE
+1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/20/2025,TRUE,18.7,FALSE
+1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/15/2025,TRUE,17.0,FALSE
+1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/17/2024,FALSE,0.0,FALSE
+1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/25/2025,TRUE,18.4,FALSE
+1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,TRUE,18.3,FALSE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 36 accounts | 6522.05 revenue,,,,,,,,,,,,,,
+(DESIGN segment + Not new in 2025),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1024380,Higney International LLC,DESIGN,HOSPITALITY,355.8,2185.0,1,3,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,5/11/2023,FALSE,65.9,TRUE
+1019317,Sena Hospitality Design Inc.,DESIGN,DESIGN_FIRM,960.0,2160.0,1,1,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,6/14/2021,FALSE,46.3,TRUE
+1004799,Patience Purchasing Agency LLC MIVASA,DESIGN,DESIGN_FIRM,14066.7,1657.5,6,3,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,11/29/2021,FALSE,46.0,TRUE
+1026218,SS Cynthia Guthrie(FL),DESIGN,DESIGNER_INDEPENDENT,100.0,271.55,1,2,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,1/17/2024,FALSE,54.8,TRUE
+1027432,GDP Designbuild,DESIGN,DESIGN_FIRM,200.0,150.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/20/2024,FALSE,23.0,TRUE
+1014282,"The Nexus Luxury Collection US, LLC",DESIGN,DESIGN_FIRM,0.0,98.0,0,1,LOW_REVENUE,MID_POTENTIAL,Group 3 Medium Potential,8/27/2021,FALSE,53.4,TRUE
+1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/15/2024,FALSE,0.0,TRUE
+1027430,Green Banana Ventures,DESIGN,HOSPITALITY,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2024,FALSE,0.0,TRUE
+1027415,Shivam Propreties,DESIGN,HOSPITALITY,1600.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/30/2024,FALSE,0.0,TRUE
+1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,243.8,0.0,2,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/25/2024,FALSE,0.0,TRUE
+1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,8444.36,0.0,1,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/2/2024,FALSE,0.0,TRUE
+1027084,Beach Blue,DESIGN,HOSPITALITY,5630.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/24/2024,FALSE,0.0,TRUE
+1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,120.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/9/2024,FALSE,0.0,TRUE
+1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,4868.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/11/2024,FALSE,0.0,TRUE
+1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,734.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/13/2024,FALSE,0.0,TRUE
+1026395,Peacock + Lewis,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2024,FALSE,0.0,TRUE
+1026308,Redfern HRD,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/5/2024,FALSE,0.0,TRUE
+1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,5200.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/19/2024,FALSE,0.0,TRUE
+1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,7970.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/4/2024,FALSE,0.0,TRUE
+1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/1/2023,FALSE,0.0,TRUE
+1025764,RGR Design,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/3/2023,FALSE,0.0,TRUE
+1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,5135.0,0.0,6,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/9/2020,FALSE,0.0,TRUE
+1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/31/2023,FALSE,0.0,TRUE
+1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,80960.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/22/2023,FALSE,0.0,TRUE
+1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/24/2023,FALSE,0.0,TRUE
+1023302,ITG Export & Design,DESIGN,HOSPITALITY,13745.26,0.0,5,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2022,FALSE,0.0,TRUE
+1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,1892.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/10/2022,FALSE,0.0,TRUE
+1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2022,FALSE,0.0,TRUE
+1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2021,FALSE,0.0,TRUE
+1017662,Empire Office,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/11/2020,FALSE,0.0,TRUE
+1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/30/2021,FALSE,0.0,TRUE
+1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/8/2020,FALSE,0.0,TRUE
+1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/2/2021,FALSE,0.0,TRUE
+1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/23/2020,FALSE,0.0,TRUE
+1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,9559.0,0.0,7,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2020,FALSE,0.0,TRUE
+1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,0.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/22/2024,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 39 total | 9 keeping | 30 removed,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1027443,The Cormia Group,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,5/2/2025,TRUE,18.8,FALSE
+1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,1/9/2025,TRUE,17.6,FALSE
+1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/5/2025,TRUE,20.4,FALSE
+1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,4/8/2025,TRUE,20.4,FALSE
+1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,6/20/2025,TRUE,18.7,FALSE
+1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,8/15/2025,TRUE,17.0,FALSE
+1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,0.0,0.0,0,1,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,9/25/2025,TRUE,18.4,FALSE
+1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,0.0,0.0,0,0,LOW_REVENUE,HIGH_POTENTIAL,Group 3 High Potential,11/21/2025,TRUE,18.3,FALSE
+1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/17/2024,FALSE,0.0,FALSE
+1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,5135.0,0.0,6,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/9/2020,FALSE,0.0,TRUE
+1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,9559.0,0.0,7,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2020,FALSE,0.0,TRUE
+1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/23/2020,FALSE,0.0,TRUE
+1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/2/2021,FALSE,0.0,TRUE
+1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,7/8/2020,FALSE,0.0,TRUE
+1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/30/2021,FALSE,0.0,TRUE
+1017662,Empire Office,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/11/2020,FALSE,0.0,TRUE
+1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2021,FALSE,0.0,TRUE
+1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/10/2022,FALSE,0.0,TRUE
+1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,1892.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/10/2022,FALSE,0.0,TRUE
+1023302,ITG Export & Design,DESIGN,HOSPITALITY,13745.26,0.0,5,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2022,FALSE,0.0,TRUE
+1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/24/2023,FALSE,0.0,TRUE
+1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,80960.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,6/22/2023,FALSE,0.0,TRUE
+1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/31/2023,FALSE,0.0,TRUE
+1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/1/2023,FALSE,0.0,TRUE
+1025764,RGR Design,DESIGN,HOSPITALITY,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,11/3/2023,FALSE,0.0,TRUE
+1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,8444.36,0.0,1,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/2/2024,FALSE,0.0,TRUE
+1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,5200.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/19/2024,FALSE,0.0,TRUE
+1026308,Redfern HRD,DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/5/2024,FALSE,0.0,TRUE
+1026395,Peacock + Lewis,DESIGN,HOSPITALITY,0.0,0.0,0,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/6/2024,FALSE,0.0,TRUE
+1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,734.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,2/13/2024,FALSE,0.0,TRUE
+1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,4868.0,0.0,4,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,3/11/2024,FALSE,0.0,TRUE
+1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,120.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/9/2024,FALSE,0.0,TRUE
+1027084,Beach Blue,DESIGN,HOSPITALITY,5630.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/24/2024,FALSE,0.0,TRUE
+1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,243.8,0.0,2,1,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,4/25/2024,FALSE,0.0,TRUE
+1027415,Shivam Propreties,DESIGN,HOSPITALITY,1600.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,9/30/2024,FALSE,0.0,TRUE
+1027430,Green Banana Ventures,DESIGN,HOSPITALITY,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/6/2024,FALSE,0.0,TRUE
+1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,0.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/15/2024,FALSE,0.0,TRUE
+1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,7970.0,0.0,1,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,10/4/2024,FALSE,0.0,TRUE
+1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,0.0,0.0,2,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,8/22/2024,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,

@@ -1,39 +1,32 @@
-Rep Detail Report: Vecca Laurente
-Generated: 2025-12-17 18:06:25
-
-================================================================================
-SUMMARY METRICS
-================================================================================
-Total Accounts (after alignment): 2
-Total 2024 Revenue: 0.00
-Total 2025 Revenue: 0.00
-
-Accounts Removed (Floor): 2
-Revenue Removed (Floor): 0.00
-
-Final Accounts (Keeping): 0
-Final Revenue (Keeping): 0.00
-
-Zero Revenue Accounts: 2
-Zero Revenue New 2025 Accounts: 0
-
-================================================================================
-BREAKDOWN BY SEGMENT
-================================================================================
-Group 3 Low Potential: 2 accounts | 0.00 revenue | 2 removed
-
-================================================================================
-GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 2 accounts | 0.00 revenue
-(DESIGN segment + Not new in 2025)
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1004011,"Palm Beach Portfolio, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/14/2021,False,STABLE_GROWTH,0.0,True
-1004165,"Corrados, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2021,False,STABLE_GROWTH,0.0,True
-
-================================================================================
-ZERO REVENUE ACCOUNTS: 2 total | 0 keeping | 2 removed
-================================================================================
-Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Growth_Classification,Composite_Score,Floor_Removed
-1004011,"Palm Beach Portfolio, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/14/2021,False,STABLE_GROWTH,0.0,True
-1004165,"Corrados, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0.0,0.0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2021,False,STABLE_GROWTH,0.0,True
-
+Rep Detail Report: Vecca Laurente,,,,,,,,,,,,,,
+Generated: 2025-12-18 06:44:58,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Total Accounts (after alignment):,Total 2024 Revenue: ,Total 2025 Revenue:,Accounts Removed (Floor):,Revenue Removed (Floor): ,Final Accounts (Keeping):,Final Revenue (Keeping):,Zero Revenue Accounts:,Zero Revenue New 2025 Accounts: ,,,,,,
+2,0.0,0.0,2,0.0,0,0.0,2,0,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+,Accounts,Revenue,Removed,,,,,,,,,,
+Group 3 Low Potential: ,2,0.0,2,,,,,,,,,,
+Totals,2,0.0,2,,,,,,,,,,
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - LOSING (FLOOR REMOVED): 2 accounts | 0.00 revenue,,,,,,,,,,,,,,
+(DESIGN segment + Not new in 2025),,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1004011,"Palm Beach Portfolio, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/14/2021,FALSE,0.0,TRUE
+1004165,"Corrados, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2021,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 2 total | 0 keeping | 2 removed,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,
+Account_ID,Account_Name,Segment,Sub_Segment,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Revenue_Tier,Potential_Tier,Segment_Label,Customer_Since_Date,Is_New_2025,Composite_Score,Floor_Removed
+1004011,"Palm Beach Portfolio, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,1/14/2021,FALSE,0.0,TRUE
+1004165,"Corrados, Inc.",DESIGN,DESIGN_FIRM,0.0,0.0,0,0,LOW_REVENUE,LOW_POTENTIAL,Group 3 Low Potential,12/8/2021,FALSE,0.0,TRUE
+,,,,,,,,,,,,,,
