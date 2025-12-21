@@ -61,15 +61,20 @@ One row per rep showing:
 `reports/rep_details/{Rep_Name}_detail_v2.csv`
 
 One file per rep containing:
-- **Summary Metrics**: Complete before/after comparison with the same columns as the summary report (for easy reference)
+- **Summary Metrics**: Complete before/after comparison with all movement and loss metrics
   - Before state, movements (in/out), change percentages, and after state
   - Floor exceptions, SF ex BI dormant accounts, and zero-revenue accounts
-- **Segment Breakdown**: Accounts and revenue by segment
+  - **Accounts Lost** breakdown by category (territory realignment, floor removal active, floor removal dormant)
+- **Segment Breakdown**: Accounts and revenue by segment (sorted Group 1→2→3, High→Medium→Low)
 - **Group 1 (HIGH_REVENUE)**: All HIGH_REVENUE accounts (always kept)
 - **Group 2 (MID_REVENUE)**: All MID_REVENUE accounts (always kept)
 - **Group 3 (LOW_REVENUE)**: Protected LOW_REVENUE accounts (not flagged for removal)
 - **Floor Exceptions**: BTF='Y' but account was kept with original rep
 - **SF ex BI (Dormant)**: Accounts in Salesforce but with no transaction data
+- **Accounts Lost - Summary**: Consolidated table of all lost accounts with loss category classification:
+  - **Territory Realignment**: Accounts reassigned due to normal territory shifts (not flagged for floor)
+  - **Floor Removal - Active**: Low-revenue accounts flagged for removal that were actively in the system
+  - **Floor Removal - Dormant**: Low-revenue accounts flagged for removal that were already inactive (SF ex BI)
 - **Zero Revenue**: Separate section highlighting $0 revenue accounts
 
 ## Business Logic

@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Vandana Kaku,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:09,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:53,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-702,63,2312696.59,2035345.12,218,681,-463,-65.95,1497520.35,1677862.23,-180341.88,-8.86,239,1855003.24,0,0.0,0,45,20
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+702,63,2312696.59,2035345.12,218,681,-463,-65.95,1497520.35,1677862.23,-180341.88,-8.86,239,1855003.24,0,0.0,0,45,20,218,1547083.08,403,130779.15,60,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -275,6 +275,692 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1037170,Mia Friedman Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Vandana Kaku,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1037834,Landry & Arcari,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Hana Nassri,Vandana Kaku,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 1038354,Liz Anderson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Vandana Kaku,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 681 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1009971,Hart and Lock Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,44016.0,51113.6,18,20,FALSE,N,FALSE,FALSE,N
+1024565,Domaine,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,3055.0,44073.0,2,20,FALSE,N,FALSE,FALSE,N
+1013415,Decorilla,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,14573.7,41176.52,23,51,FALSE,N,FALSE,FALSE,N
+1017126,Swank Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,8128.04,41131.97,8,8,FALSE,N,FALSE,FALSE,N
+1012357,Lauren Heather Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,31418.27,38503.37,19,15,FALSE,N,FALSE,FALSE,N
+1009369,Tatum Hill Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Territory Realignment,22466.4,38259.1,25,33,FALSE,N,FALSE,FALSE,N
+1011564,B Interior,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,36136.0,27546.04,17,16,FALSE,N,FALSE,FALSE,N
+1012815,Interior Marketing Group,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Territory Realignment,44293.5,27420.0,30,25,FALSE,N,FALSE,FALSE,N
+1014699,Workshop Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,6654.0,26582.02,4,14,FALSE,N,FALSE,FALSE,N
+1014607,Ashby Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,10905.76,23821.42,2,11,FALSE,N,FALSE,FALSE,N
+1025875,The Catalyst Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Territory Realignment,15313.9,22569.4,8,19,FALSE,N,FALSE,FALSE,N
+1015053,Stone House Collective,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,21697.34,21488.98,14,15,FALSE,N,FALSE,FALSE,N
+1009554,Reclaimed Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Territory Realignment,10766.0,21350.0,9,10,FALSE,N,FALSE,FALSE,N
+1009808,Brooks Vale Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,18804.5,20508.75,11,11,FALSE,N,FALSE,FALSE,N
+1005795,"Red Leaf Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,5105.0,19650.0,5,5,FALSE,N,FALSE,FALSE,N
+1014823,SUSAN BROWN INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Territory Realignment,12110.0,19171.66,11,9,FALSE,N,FALSE,FALSE,N
+1014846,Wade Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,9446.2,18990.81,1,3,FALSE,N,FALSE,FALSE,N
+1025822,KZ Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,2426.0,18987.0,2,4,FALSE,N,FALSE,FALSE,N
+1012591,"JHR Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Territory Realignment,16323.5,18562.0,10,15,FALSE,N,FALSE,FALSE,N
+1022293,"Marni Joy Hamptons Interiors + Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,11433.0,17882.0,8,9,FALSE,N,FALSE,FALSE,N
+1024083,Caroline Griswold Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,17810.0,0,2,TRUE,N,FALSE,FALSE,N
+1013207,"JL Design(Nashville, TN)",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,11356.0,17769.0,8,10,FALSE,N,FALSE,FALSE,N
+1010014,Artistic Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,22700.72,17743.02,26,12,FALSE,N,FALSE,FALSE,N
+1016766,Ideazione,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,6326.0,17195.1,9,12,FALSE,N,FALSE,FALSE,N
+1002539,Denise Mcgaha Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,3947.0,16700.32,1,5,FALSE,N,FALSE,FALSE,N
+1008490,Lenoir Empire Furniture Co,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Territory Realignment,4068.0,16621.59,7,10,FALSE,N,FALSE,FALSE,N
+1020811,The List & Found,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,9233.5,15730.0,4,8,FALSE,N,FALSE,FALSE,N
+1010556,Hooper Patterson Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,13895.0,15261.5,13,14,FALSE,N,FALSE,FALSE,N
+1013243,Ro House Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,12189.0,14930.5,3,14,FALSE,N,FALSE,FALSE,N
+1011082,Flair 1 Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,87.0,14727.6,2,1,FALSE,N,FALSE,FALSE,N
+1016804,Devon Jeanne Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,2362.0,14645.25,4,9,FALSE,N,FALSE,FALSE,N
+1014087,Mia Hays Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,1029.0,14030.8,2,3,FALSE,N,FALSE,FALSE,N
+1018325,ACME Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,15155.0,14010.0,1,5,FALSE,N,FALSE,FALSE,N
+1014908,Cashiers Development Group Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,11301.5,13622.0,5,4,FALSE,N,FALSE,FALSE,N
+1015401,Colleen Knowles Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,11853.0,13051.0,5,3,FALSE,N,FALSE,FALSE,N
+1012030,Jaime Albert Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,11763.5,12773.2,7,8,FALSE,N,FALSE,FALSE,N
+1021014,Kris Betts Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,8526.5,12546.54,14,8,FALSE,N,FALSE,FALSE,N
+1024071,Thomas Juul Hansen,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,15766.0,12458.67,8,0,FALSE,N,FALSE,FALSE,N
+1017376,Isabella Patrick Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4121.5,12000.0,2,3,FALSE,N,FALSE,FALSE,N
+1002706,"Shehadi, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Territory Realignment,621.0,11804.5,1,3,FALSE,N,FALSE,FALSE,N
+1010500,Let It Be Design Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2323.0,11416.0,3,4,FALSE,N,FALSE,FALSE,N
+1013674,Ali Reeve Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,6237.8,11410.0,5,4,FALSE,N,FALSE,FALSE,N
+1007197,Embellish Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,3052.9,11368.0,3,5,FALSE,N,FALSE,FALSE,N
+1015211,McQuaide Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,8893.0,11150.64,8,8,FALSE,N,FALSE,FALSE,N
+1006970,"E.L. Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4398.0,11060.0,2,5,FALSE,N,FALSE,FALSE,N
+1014895,Gala Magrina Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,0.0,10840.0,0,4,FALSE,N,FALSE,FALSE,N
+1016900,Danielle Rose Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,9012.0,10820.0,3,4,FALSE,N,FALSE,FALSE,N
+1010415,Home Staging,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,25720.5,10303.0,9,4,FALSE,N,FALSE,FALSE,N
+1005281,"DW Design and Decor, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,2400.0,10287.8,2,2,FALSE,N,FALSE,FALSE,N
+1019298,Antonio Pippo Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3603.0,10107.4,1,5,FALSE,N,FALSE,FALSE,N
+1035412,Rev Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,10038.5,0,4,TRUE,N,FALSE,FALSE,N
+1014399,Natura Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,11166.71,10002.0,9,12,FALSE,N,FALSE,FALSE,N
+1014754,Alexis Pearl Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4659.0,9958.0,3,4,FALSE,N,FALSE,FALSE,N
+1025924,Tamara Eaton Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,6256.0,9899.0,5,9,FALSE,N,FALSE,FALSE,N
+1011123,Signature Design Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,6390.0,9667.24,5,8,FALSE,N,FALSE,FALSE,N
+1015090,ASH NYC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,20603.0,9570.0,15,4,FALSE,N,FALSE,FALSE,N
+1009239,Evolve Decor - Alyssa Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,116.0,9297.6,3,5,FALSE,N,FALSE,FALSE,N
+1022352,Amanda Adams Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,5456.0,9211.0,4,12,FALSE,N,FALSE,FALSE,N
+1021963,Didi Granger Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,8985.27,0,4,TRUE,N,FALSE,FALSE,N
+1014989,Rachel Simone,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,21768.0,8911.0,20,6,FALSE,N,FALSE,FALSE,N
+1009930,Willow Key Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,4387.5,8456.7,8,9,FALSE,N,FALSE,FALSE,N
+1017673,Petra Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,7433.12,8382.1,7,5,FALSE,N,FALSE,FALSE,N
+1011970,Washington Workplace,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,10839.5,8336.13,10,13,FALSE,N,FALSE,FALSE,N
+1014732,Creative Group Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,6285.0,8321.0,4,2,FALSE,N,FALSE,FALSE,N
+1015321,White Olive Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4190.0,8093.0,2,3,FALSE,N,FALSE,FALSE,N
+1038448,Canvas Advisors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,7980.0,0,1,TRUE,N,FALSE,FALSE,N
+1028157,Sarah Ivory Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,0.0,7907.76,1,0,FALSE,N,FALSE,FALSE,N
+1011431,Creative Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,2335.0,7670.0,2,9,FALSE,N,FALSE,FALSE,N
+1000115,Weaver Design Company Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,12029.0,7616.0,8,10,FALSE,N,FALSE,FALSE,N
+1013279,Carly Ahlman Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Territory Realignment,28476.87,7537.0,5,2,FALSE,N,FALSE,FALSE,N
+1023176,"Annie & Associates, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,25.0,7474.2,0,6,FALSE,N,FALSE,FALSE,N
+1037228,"BECKWITH INTERIORS, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,7460.5,0,5,TRUE,N,FALSE,FALSE,N
+1037660,green properties,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,7319.8,0,4,TRUE,N,FALSE,FALSE,N
+1027478,"AMP Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,6625.0,7222.96,4,0,FALSE,N,FALSE,FALSE,N
+1009562,"Des-Syn, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1250.0,7174.0,1,1,FALSE,N,FALSE,FALSE,N
+1014268,Home Interiors (CO),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,9823.62,7170.16,6,6,FALSE,N,FALSE,FALSE,N
+1015476,The Filled Haus,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,6750.0,0,2,FALSE,N,FALSE,FALSE,N
+1018092,Lewis Birks LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3709.0,6655.0,1,4,FALSE,N,FALSE,FALSE,N
+1010238,Samantha Heyl LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,645.0,6647.52,1,3,FALSE,N,FALSE,FALSE,N
+1007879,"Dale Blumberg Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,6213.5,6577.76,4,1,FALSE,N,FALSE,FALSE,N
+1038459,Charlenes LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Territory Realignment,0.0,6381.0,0,1,TRUE,N,FALSE,FALSE,N
+1014020,KB Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,6321.0,6376.51,8,6,FALSE,N,FALSE,FALSE,N
+1018913,Hang Your Heart Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,3534.55,6363.6,11,8,FALSE,N,FALSE,FALSE,N
+1035976,Caroline & Company Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,6151.0,0,2,TRUE,N,FALSE,FALSE,N
+1022064,JRID,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,0.0,6143.08,2,0,FALSE,N,FALSE,FALSE,N
+1013315,Kris Watson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,16179.0,6127.68,2,2,FALSE,N,FALSE,FALSE,N
+1016349,"MATRIARCH DESIGN, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,13804.0,6022.05,5,4,FALSE,N,FALSE,FALSE,N
+1019069,Village West Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,5992.0,0,3,TRUE,N,FALSE,FALSE,N
+1038693,Giannetti Home,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,5980.0,0,1,TRUE,N,FALSE,FALSE,N
+1013716,Makr Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,7955.0,5963.98,4,4,FALSE,N,FALSE,FALSE,N
+1013972,"A Tanner Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,42176.13,5883.7,6,4,FALSE,N,FALSE,FALSE,N
+1021096,Bespoke Design (NY),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,4213.5,5822.0,6,8,FALSE,N,FALSE,FALSE,N
+1027306,SR Projects,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3589.0,5796.45,2,4,FALSE,N,FALSE,FALSE,N
+1038402,Jetsam Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,5774.0,0,3,TRUE,N,FALSE,FALSE,N
+1013282,KKB Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1285.0,5656.5,2,2,FALSE,N,FALSE,FALSE,N
+1012419,JLW Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,5483.0,0,4,TRUE,N,FALSE,FALSE,N
+1026577,"Christina Simon Studio, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,14285.0,5266.8,6,2,FALSE,N,FALSE,FALSE,N
+1013775,Vida Events and Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,10310.0,5169.0,11,10,FALSE,N,FALSE,FALSE,N
+1038468,Lucien Porter Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,5152.0,0,1,TRUE,N,FALSE,FALSE,N
+1014839,Interiors By B,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,1262.8,5086.56,4,7,FALSE,N,FALSE,FALSE,N
+1013549,"Dana Lynch Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1333.0,5029.23,2,1,FALSE,N,FALSE,FALSE,N
+1026932,Quality King,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4568.0,4956.0,1,1,FALSE,N,FALSE,FALSE,N
+1012113,"Maura McCool Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,12014.5,4917.0,8,7,FALSE,N,FALSE,FALSE,N
+1036442,SVH Design Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,4865.0,0,4,TRUE,N,FALSE,FALSE,N
+1027630,Kelsey Deirdre Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1566.0,4834.0,2,3,FALSE,N,FALSE,FALSE,N
+1005921,"Glennys Cowles Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,5083.0,4770.0,2,4,FALSE,N,FALSE,FALSE,N
+1011659,"Julie White Interiors, Ltd.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,5183.0,4656.5,2,4,FALSE,N,FALSE,FALSE,N
+1015150,"JLA Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,875.0,4530.0,1,3,FALSE,N,FALSE,FALSE,N
+1015985,"JNR Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3166.0,4518.0,1,1,FALSE,N,FALSE,FALSE,N
+1018078,Laura Nayar LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3107.0,4413.0,1,1,FALSE,N,FALSE,FALSE,N
+1013230,Decors By DyAnn,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4711.2,4375.0,7,1,FALSE,N,FALSE,FALSE,N
+1025570,Young Huh Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,0.0,4276.0,0,3,FALSE,N,FALSE,FALSE,N
+1036955,Jordana Ross Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,4202.0,0,2,TRUE,N,FALSE,FALSE,N
+1003303,Karey Easterling Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,26088.2,4063.55,7,4,FALSE,N,FALSE,FALSE,N
+1003437,Rachel Gray Interior Design and Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,5849.0,3990.0,4,2,FALSE,N,FALSE,FALSE,N
+1012462,Jennifer Lynn Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3961.0,0,4,FALSE,N,FALSE,FALSE,N
+1013094,Dromi Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,657.0,3937.5,1,4,FALSE,N,FALSE,FALSE,N
+1015348,"Key West Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2173.0,3880.0,4,2,FALSE,N,FALSE,FALSE,N
+1036812,MEM Interior Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,3865.0,0,1,TRUE,N,FALSE,FALSE,N
+1018212,Soeur Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,3763.0,3853.0,8,3,FALSE,N,FALSE,FALSE,N
+1018025,Rose Hill interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,0.0,3823.0,0,1,FALSE,N,FALSE,FALSE,N
+1013482,Zinque Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,10589.0,3775.0,6,1,FALSE,N,FALSE,FALSE,N
+1036816,Marshall Back Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,3750.0,0,1,TRUE,N,FALSE,FALSE,N
+1018228,Studio Neshama,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2168.0,3723.0,4,8,FALSE,N,FALSE,FALSE,N
+1013160,The New Design Project,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,4006.5,3704.5,3,3,FALSE,N,FALSE,FALSE,N
+1015124,"Vanessa Brennan Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,11253.14,3701.0,4,2,FALSE,N,FALSE,FALSE,N
+1038211,NPV Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Territory Realignment,0.0,3700.0,0,1,TRUE,N,FALSE,FALSE,N
+1035572,Fshr Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3692.0,0,2,FALSE,N,FALSE,FALSE,N
+1005156,"Sheila Evans Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3657.0,0,1,FALSE,N,FALSE,FALSE,N
+1011513,"Sarah Bartholomew Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3650.0,0,1,FALSE,N,FALSE,FALSE,N
+1036664,Marisa Da Silva Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,3591.0,0,2,TRUE,N,FALSE,FALSE,N
+1020773,Allison Garcy Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,11539.0,3421.0,5,1,FALSE,N,FALSE,FALSE,N
+1011296,Desa Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2858.0,3408.0,7,3,FALSE,N,FALSE,FALSE,N
+1021174,"ARL Concepts, LLC; DBA: Elevate",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Territory Realignment,3764.0,3372.0,3,2,FALSE,N,FALSE,FALSE,N
+1012597,Thurman Design Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,12190.0,3356.0,3,1,FALSE,N,FALSE,FALSE,N
+1014331,Cyndi Hopkins Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3335.0,0,1,FALSE,N,FALSE,FALSE,N
+1011533,Lauren Allyn Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2010.0,3318.0,2,2,FALSE,N,FALSE,FALSE,N
+1023501,Emily Harman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2555.0,3315.0,1,1,FALSE,N,FALSE,FALSE,N
+1025195,Detail Oriented Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1870.0,3294.0,1,4,FALSE,N,FALSE,FALSE,N
+1010462,Sarah Carr Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Territory Realignment,11643.0,3210.0,4,0,FALSE,N,FALSE,FALSE,N
+1037040,Southerly Abode LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,3165.0,0,1,TRUE,N,FALSE,FALSE,N
+1025259,Madeleine Blommer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,3107.0,0,1,FALSE,N,FALSE,FALSE,N
+1024103,Quinn & Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,14469.0,3060.0,4,7,FALSE,N,FALSE,FALSE,N
+1013369,The House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Territory Realignment,3731.8,3028.0,6,3,FALSE,N,FALSE,FALSE,N
+1013484,Rachel Sloane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,633.0,2929.66,3,3,FALSE,N,FALSE,FALSE,N
+1011442,Exquisite Living,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,4986.0,2913.0,3,4,FALSE,N,FALSE,FALSE,N
+1013335,"Alicia Galitzin, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,2868.0,0,1,FALSE,N,FALSE,FALSE,N
+1025675,Castle Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Territory Realignment,11866.8,2826.9,4,2,FALSE,N,FALSE,FALSE,N
+1017053,Jodi Dell Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,1843.0,2675.0,2,1,FALSE,N,FALSE,FALSE,N
+1018241,"Louisa G. Roeder, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2197.0,2666.0,3,4,FALSE,N,FALSE,FALSE,N
+1015700,Jeanne Campana Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,0.0,2656.5,0,2,FALSE,N,FALSE,FALSE,N
+1024766,TLG Style,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Territory Realignment,0.0,2640.0,0,2,TRUE,N,FALSE,FALSE,N
+1038029,Isy's Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Territory Realignment,0.0,2590.0,0,2,TRUE,N,FALSE,FALSE,N
+1012607,"Courtney Sempliner Designs, LTD",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Territory Realignment,1051.0,2576.5,1,2,FALSE,N,FALSE,FALSE,N
+1003137,Dee Larue Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Territory Realignment,2410.0,2552.8,1,9,FALSE,N,FALSE,FALSE,N
+1035996,Caroline Chao,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Territory Realignment,0.0,2524.5,0,1,TRUE,N,FALSE,FALSE,N
+1008216,Pfeffer Torode Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,3235.0,2499.0,5,1,FALSE,Y,FALSE,TRUE,N
+1023857,Bex Ink,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2431.8,2,2,FALSE,Y,FALSE,TRUE,N
+1024408,K-Ann Kreations & design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,900.0,2395.0,0,1,FALSE,Y,FALSE,TRUE,N
+1036466,Open Door Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Territory Realignment,0.0,2350.0,0,1,TRUE,N,FALSE,FALSE,N
+1011646,Jorge Castillo Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4125.0,2305.0,2,3,FALSE,Y,FALSE,TRUE,N
+1026164,Vintage Nest Home & Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,14102.5,2289.0,10,6,FALSE,Y,FALSE,TRUE,N
+1020690,Keegan Leuer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,635.0,2257.5,1,1,FALSE,Y,FALSE,TRUE,N
+1014796,Tina Ramchandani Creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2220.94,0,3,FALSE,Y,FALSE,TRUE,N
+1024520,Liv Interiors (NY),DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2628.5,2217.0,3,6,FALSE,Y,FALSE,TRUE,N
+1023131,"STUDIO LS, INC.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2196.0,0,3,FALSE,Y,FALSE,TRUE,N
+1021831,"Lauren Vallario Designs, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3341.0,2180.0,2,3,FALSE,Y,FALSE,TRUE,N
+1036630,Roberts Bohleber Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,2165.0,0,2,TRUE,N,FALSE,FALSE,N
+1022424,Rob Ornstein Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,424.0,2149.0,2,2,FALSE,Y,FALSE,TRUE,N
+1011603,Z+ Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,18282.0,2078.0,10,4,FALSE,Y,FALSE,TRUE,N
+1022134,Madissen Walker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2075.0,0,2,FALSE,Y,FALSE,TRUE,N
+1018803,Post Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4420.5,2035.0,2,2,FALSE,Y,FALSE,TRUE,N
+1013590,Modern Remains,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2025.0,0,1,FALSE,Y,FALSE,TRUE,N
+1027368,KM Interior Styling,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,346.5,2002.25,1,3,FALSE,Y,FALSE,TRUE,N
+1015793,Jensen & Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1978.0,0,1,FALSE,Y,FALSE,TRUE,N
+1014297,Ariel Bleich Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,7688.54,1971.0,3,5,FALSE,Y,FALSE,TRUE,N
+1014115,Stay Heirloom,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4604.0,1960.0,11,3,FALSE,Y,FALSE,TRUE,N
+1016263,Lauren Stern Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,615.0,1914.5,1,1,FALSE,Y,FALSE,TRUE,N
+1017068,Staging & Design by Susie,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,1170.5,1908.0,3,2,FALSE,Y,FALSE,TRUE,N
+1016027,CHRISSY GAMBA INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,7311.0,1871.0,1,3,FALSE,Y,FALSE,TRUE,N
+1018074,Think Chic Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3405.0,1865.0,3,4,FALSE,Y,FALSE,TRUE,N
+1009679,"Cat French Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,27142.0,1854.67,15,2,FALSE,Y,FALSE,TRUE,N
+1036853,JMY Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,1835.0,0,2,TRUE,N,FALSE,FALSE,N
+1019596,Alla K Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4075.0,1833.0,5,3,FALSE,Y,FALSE,TRUE,N
+1014742,Margot Franklin Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2024.0,1800.0,3,3,FALSE,Y,FALSE,TRUE,N
+1011254,NG Custom Home Decor,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1775.0,0,3,FALSE,Y,FALSE,TRUE,N
+1011436,"Carolyn Leona, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3976.52,1768.0,8,4,FALSE,Y,FALSE,TRUE,N
+1010718,Anna-Marie Spence Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,535.0,1763.0,1,2,FALSE,Y,FALSE,TRUE,N
+1009861,Woodbine Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Territory Realignment,560.0,1749.72,1,4,FALSE,N,FALSE,FALSE,N
+1015439,emma corner interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2160.0,1740.0,2,2,FALSE,Y,FALSE,TRUE,N
+1022787,Emily Dyer Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2320.0,1694.0,1,2,FALSE,Y,FALSE,TRUE,N
+1018367,Lesley Lowe Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,965.0,1600.0,1,1,FALSE,Y,FALSE,TRUE,N
+1015429,marlene interiors and design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1101.0,1582.0,1,3,FALSE,Y,FALSE,TRUE,N
+1022300,Luxury Investment Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2438.4,1570.0,1,1,FALSE,Y,FALSE,TRUE,N
+1017788,Millward Architecture & Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1570.0,0,1,FALSE,Y,FALSE,TRUE,N
+1019597,Many Mustard Seeds,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1547.0,0,2,FALSE,Y,FALSE,TRUE,N
+1019859,Marina Hanisch Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3562.0,1542.0,3,1,FALSE,Y,FALSE,TRUE,N
+1027218,Feel At Home Renovation Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,12655.3,1515.0,3,1,FALSE,Y,FALSE,TRUE,N
+1011949,Brooke Phillips Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,1512.0,0,2,TRUE,N,FALSE,FALSE,N
+1019153,"Too Be Designed, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,6850.0,1505.0,2,1,FALSE,Y,FALSE,TRUE,N
+1011923,Kari Campbell Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1505.0,0,1,FALSE,Y,FALSE,TRUE,N
+1023032,Anjali Pollack Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1495.0,0,2,FALSE,Y,FALSE,TRUE,N
+1025406,"Parker Elliott, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,20406.0,1475.0,5,1,FALSE,Y,FALSE,TRUE,N
+1014905,Lindsay Lausch Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,520.0,1470.0,0,1,FALSE,Y,FALSE,TRUE,N
+1007913,"Essential Ellemants, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2415.0,1460.0,2,2,FALSE,Y,FALSE,TRUE,N
+1025124,michael seibert design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1455.2,0,2,FALSE,Y,FALSE,TRUE,N
+1015318,Interior Blooms,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,755.0,1455.0,1,4,FALSE,Y,FALSE,TRUE,N
+1014307,Window Decor Distributors Buffalo,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,478.5,1440.0,4,1,FALSE,Y,FALSE,TRUE,N
+1016290,Robin Praino Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1410.0,0,2,FALSE,Y,FALSE,TRUE,N
+1022812,Selah-ViÃ©,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4353.0,1350.0,6,1,FALSE,Y,FALSE,TRUE,N
+1005779,"Navia Design, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1305.0,0,2,FALSE,Y,FALSE,TRUE,N
+1021435,Home By Hattan,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,93.0,1298.5,1,3,FALSE,Y,FALSE,TRUE,N
+1036735,Whitlow Park LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,1260.0,0,1,TRUE,N,FALSE,FALSE,N
+1020558,Coast Modern Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1242.0,0,2,FALSE,Y,FALSE,TRUE,N
+1018596,Shawna Underwood Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,473.9,1201.0,2,1,FALSE,Y,FALSE,TRUE,N
+1022138,Basi Co,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1185.0,0,1,FALSE,Y,FALSE,TRUE,N
+1037069,Triple House Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,1185.0,0,1,TRUE,N,FALSE,FALSE,N
+1015491,slskipperinteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1180.0,0,2,FALSE,Y,FALSE,TRUE,N
+1015598,Jennifer Grooters Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,25.0,1163.3,2,0,FALSE,Y,FALSE,TRUE,N
+1018539,Interior Designs Atelier,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,4378.12,1145.0,2,2,FALSE,Y,FALSE,TRUE,N
+1011630,Foundryno.201,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,7796.62,1137.85,4,4,FALSE,Y,FALSE,TRUE,N
+1013531,Barton At Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1130.0,0,1,FALSE,Y,FALSE,TRUE,N
+1026104,AG Interiors(TN),DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,565.0,1118.0,1,2,FALSE,Y,FALSE,TRUE,N
+1001635,Vignettes (TN),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Territory Realignment,996.0,1116.54,1,3,FALSE,N,FALSE,FALSE,N
+1015393,Maven Workshop,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,488.0,1078.0,2,1,FALSE,Y,FALSE,TRUE,N
+1018649,MB Homestyling,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1075.0,0,2,FALSE,Y,FALSE,TRUE,N
+1005133,J Clayton Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,735.0,1035.0,1,1,FALSE,Y,FALSE,TRUE,N
+1020693,GNH Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6163.0,998.0,11,2,FALSE,Y,FALSE,TRUE,N
+1011786,Twin Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3026.0,961.0,4,1,FALSE,Y,FALSE,TRUE,N
+1008359,Edward Shae Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,9810.0,960.0,2,1,FALSE,Y,FALSE,TRUE,N
+1012682,Staged to Sell or Dwell,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,952.0,0,1,FALSE,Y,FALSE,TRUE,N
+1038282,Kathryn Elliott Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,925.0,0,2,TRUE,N,FALSE,FALSE,N
+1020543,Abode Staging and Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,380.0,885.0,3,2,FALSE,Y,FALSE,TRUE,N
+1013803,"Ishka Designs, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6735.0,868.0,3,0,FALSE,Y,FALSE,TRUE,N
+1022737,"CANDACE FELTS DESIGN, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,857.0,0,2,FALSE,Y,FALSE,TRUE,N
+1015535,Jami Supsic,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,835.0,0,1,FALSE,Y,FALSE,TRUE,N
+1014089,Kate Spiro Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2255.0,831.0,1,1,FALSE,Y,FALSE,TRUE,N
+1013969,Emily Kandel Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,824.0,0,4,FALSE,Y,FALSE,TRUE,N
+1036021,Noelle Paquette Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,820.0,0,1,TRUE,N,FALSE,FALSE,N
+1013483,Paisley Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2770.0,790.0,3,2,FALSE,Y,FALSE,TRUE,N
+1010486,"Ruth Campbell Interior Styling, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,25.0,770.0,0,1,FALSE,Y,FALSE,TRUE,N
+1000628,Bouler Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2802.0,714.0,1,1,FALSE,Y,FALSE,TRUE,N
+1016151,LeClaire Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,684.0,1,1,FALSE,Y,FALSE,TRUE,N
+1024443,Mary Eugenia Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,684.0,0,1,FALSE,Y,FALSE,TRUE,N
+1013255,Capital C Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,11646.0,680.0,4,1,FALSE,Y,FALSE,TRUE,N
+1009252,The Guest House Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4490.0,675.0,3,2,FALSE,Y,FALSE,TRUE,N
+1023438,B2 Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,675.0,0,1,FALSE,Y,FALSE,TRUE,N
+1021613,Jay J. Billiet Interiors Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,630.0,0,1,TRUE,N,FALSE,FALSE,N
+1023463,Kendall Cox Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5168.79,625.0,3,1,FALSE,Y,FALSE,TRUE,N
+1027989,DE ASSISI INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2023.0,612.0,3,1,FALSE,Y,FALSE,TRUE,N
+1016917,Studio J & Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,585.0,602.0,4,1,FALSE,Y,FALSE,TRUE,N
+1005682,Alice Pirsu Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4235.0,600.0,1,1,FALSE,Y,FALSE,TRUE,N
+1011185,Farinelli Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,6950.0,576.0,2,1,FALSE,Y,FALSE,TRUE,N
+1017180,A-List Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,7549.49,575.0,2,0,FALSE,Y,FALSE,TRUE,N
+1017919,Campbell King Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,569.0,0,3,FALSE,Y,FALSE,TRUE,N
+1012192,Emily Roose Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,525.0,0,1,FALSE,Y,FALSE,TRUE,N
+1023995,"Apartment Rehab NYC, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,349.5,494.0,3,2,FALSE,Y,FALSE,TRUE,N
+1025127,"Chelsea Skye Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,465.0,0,1,FALSE,Y,FALSE,TRUE,N
+1022163,Rice and Allen home design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,445.0,450.0,1,1,FALSE,Y,FALSE,TRUE,N
+1003228,Kelly Butler interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,445.0,0,1,FALSE,Y,FALSE,TRUE,N
+1012404,KG Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,6588.0,440.0,5,1,FALSE,Y,FALSE,TRUE,N
+1014637,E Y Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,430.0,0,1,FALSE,Y,FALSE,TRUE,N
+1035250,DANA FALER INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,395.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012268,Ashley DeLapp Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,355.0,0,1,FALSE,Y,FALSE,TRUE,N
+1008725,The Porch,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,344.2,0,1,FALSE,Y,FALSE,TRUE,N
+1037112,ALL Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,340.0,0,1,TRUE,N,FALSE,FALSE,N
+1037108,Jamie Dardashtian Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,335.0,0,2,TRUE,N,FALSE,FALSE,N
+1011799,Kathryn Hunt Studio,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,325.0,0,0,FALSE,Y,FALSE,TRUE,N
+1036776,BHI ELEVATOR CABS,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Territory Realignment,0.0,315.0,0,1,TRUE,N,FALSE,FALSE,N
+1025771,A LA MAISON HOME AND LIFESTYLE LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Territory Realignment,950.0,310.0,2,1,FALSE,N,FALSE,FALSE,N
+1036073,Home Companies Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,310.0,0,1,TRUE,N,FALSE,FALSE,N
+1021490,Catherine Fore Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2088.0,308.0,1,3,FALSE,Y,FALSE,TRUE,N
+1027019,Wolf Duran Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1450.4,300.0,2,1,FALSE,Y,FALSE,TRUE,N
+1011626,Dyfari Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4810.0,290.0,1,1,FALSE,Y,FALSE,TRUE,N
+1036739,"N. Muir Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,278.0,0,1,TRUE,N,FALSE,FALSE,N
+1015759,Kate Murphy Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,232.5,0,1,FALSE,Y,FALSE,TRUE,N
+1027522,C. Halberstam Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,312.4,210.0,1,1,FALSE,Y,FALSE,TRUE,N
+1012677,Studio Bohen dba L Bonime,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,200.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014581,Rajni Alex Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3835.84,200.0,2,0,FALSE,Y,FALSE,TRUE,N
+1013034,Archipelago Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1865.0,178.0,2,1,FALSE,Y,FALSE,TRUE,N
+1037135,Denine Jackson Interiors/D9 Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,175.0,0,2,TRUE,N,FALSE,FALSE,N
+1019752,Amy Ford Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,165.0,0,1,FALSE,Y,FALSE,TRUE,N
+1022119,"Studio No. 8, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,175.0,160.5,1,1,FALSE,Y,FALSE,TRUE,N
+1024471,Interlined Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2728.0,155.0,4,1,FALSE,Y,FALSE,TRUE,N
+1021832,the syndicate,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,12015.0,150.0,5,0,FALSE,Y,FALSE,TRUE,N
+1018493,Katy Bell Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,5125.5,145.0,3,1,FALSE,Y,FALSE,TRUE,N
+1019283,"Warner Tyne, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,135.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027226,Jane Tucker Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,125.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018109,Michele Berrol Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,125.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014890,Ashworth Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,106.0,0,1,FALSE,Y,FALSE,TRUE,N
+1026533,"Patricia Bonis Interiors, Incorporated",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,115.0,100.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025317,Clella Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,100.0,0,0,FALSE,Y,FALSE,TRUE,N
+1000730,B.Moore Design Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,75.0,0,0,TRUE,N,FALSE,FALSE,N
+1013821,Zeiloth Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,75.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014088,Shahs of Style,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,92.0,75.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014798,Taylored Architecture,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,1386.0,75.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023886,SILVILANDNYC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,71.0,0,1,FALSE,Y,FALSE,TRUE,N
+1027129,Martha Odell Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,67.5,0,0,TRUE,N,FALSE,FALSE,N
+1013880,Staged and Styled LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,100.0,50.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020626,Winters Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,570.0,50.0,1,0,FALSE,Y,FALSE,TRUE,N
+1011359,Ruth Truman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2408.0,50.0,2,0,FALSE,Y,FALSE,TRUE,N
+1009418,Primrose Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4568.0,50.0,2,0,FALSE,Y,FALSE,TRUE,N
+1014165,Interior Anthology,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,25.0,50.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016441,Sydney Collins Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,410.0,45.0,1,1,FALSE,Y,FALSE,TRUE,N
+1023595,Sadhna Williams Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,395.0,25.0,1,0,FALSE,Y,FALSE,TRUE,N
+1011371,Design Works - Bobbie McCloud,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,25.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015860,Ablige Interior Design llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,13392.0,25.0,6,0,FALSE,Y,FALSE,TRUE,N
+1015258,Rework Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,920.0,25.0,2,0,FALSE,Y,FALSE,TRUE,N
+1014072,NJA Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2013.3,25.0,2,0,FALSE,Y,FALSE,TRUE,N
+1012394,CAVdesign,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,50.0,25.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024900,"Tara McCauley, LLC",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1027272,Willow & Birch Interiors LLC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1000385,Lucille Lichtenberg Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002769,Spruce,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,1418.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026409,Sullivan Matthews,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1026408,ALine Studio,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1025466,"Design Werx, LLC dba Debra Downs Interiors",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1025277,"Chobanian Designs, LLC",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1025209,DesignGLXY LLC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1025179,JS Interiors LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1025106,Bevan Interiors,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037154,Pax Studio,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1014973,34 Furniture & Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,3340.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1015334,The Collective Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,5513.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1016268,grace frances interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027499,MDM Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2741.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1027222,mj Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026921,vanessa rome interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2591.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026919,Luxspace 23,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4622.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026709,Bespoke Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3885.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026601,Studio HB,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1475.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022290,KG Design (TN),Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1010446,Flatiron 27,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1010301,Kelsey Johnston Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1005685,"Laura Tutun Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,8749.44,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012276,Emily Seeds Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6330.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012195,Marlaina Teich Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,490.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012762,Happyhomes Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1011829,Design & Decor Center,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1011804,Jessica Cohen Designs,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1011660,RST Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1013381,C Jane Barry Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013377,Davenport Designs Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013359,Robinson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013289,Front Door Staging,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012279,Stallings Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,9656.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1013242,Laura Michaels Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,25.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014116,JH Interiors (PA),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,75.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009201,Clemons Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009190,Sherrell Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2913.2,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1011580,Providence Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011548,Summer Ennis Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1176.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013240,Kaytee Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2803.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013239,Terravista Interior Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2259.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1013076,Claire Hung Design DBA Sapere Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,299.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1013057,LL-C Architecture and Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,275.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013033,"Jill Harris Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013843,Kristin Spurrell Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013839,Elizabeth Blake Style + Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013824,Leah Ward Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3194.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1013792,Taylor Spellman NY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024977,Brianna Scott Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,10257.79,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1014537,Holden McRae Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,285.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014500,DATE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014494,LS Interiors LLC (NY),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012397,Caroline Pearson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,569.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012283,Lacey Michalek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,393.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013724,Soulteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013653,Ali Vivoda,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6966.25,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1013644,Allegra O Eifler Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013596,Short Development,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,122.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015094,Harrison Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,9797.96,0.0,6,1,FALSE,Y,FALSE,TRUE,N
+1013552,Barb Abraham Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,522.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024415,Streamline Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,9285.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1011741,Vernacular,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1004815,"Lesley Graham Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2410.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1010107,Magi Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,142.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1010043,Patricia Hughes - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009821,Fernando Rodriquez Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1975.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1009722,Chastain Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3375.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1008613,"Home, Highlights, and Highpoints",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1008499,LCH Interiors (NY),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1007527,Carol Carter Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,530.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1007470,Rebecca Maples Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1007075,Merrilee McGehee Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,87.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014105,Lady of the House Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014036,Elizabeth Brehm Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013894,Elemental Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013855,Home For Zen LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014446,Art By Design Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,845.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014421,Hendrix Interior Design Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,270.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014311,Adele Rakower Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1440.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014285,Jacqueline Wheeler Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2405.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1014264,Elle W Interior,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014188,Barsanti Desmone,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1035709,Sbg home & design,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1008641,Bedroom Elegance II,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1774.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1008614,Amy Kalikow Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5958.83,0.0,4,1,FALSE,Y,FALSE,TRUE,N
+1012845,Alcott Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5424.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012732,Amanda Paige Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012726,Skowron Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012565,Refined Renovations,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012042,Liliane Hart Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011991,"Susan Clark Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,150.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1011941,Modern Design + Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014497,Huffman and Huffman,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,7884.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1003481,BÃ©nie Home Furnishings,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1002808,"Penelope Kim Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,525.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1006193,"Carol Bancker Vietor Inc, Deco., LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014178,Maureen Stevens Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014157,Gina Paris Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1084.2,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1015201,Laurie Scovotti Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1649.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015166,"Land of Belle , LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015116,VICTORIA NINETTE INC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,834.1,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1015114,Leah Weinberg Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,50.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015025,Nari V Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,675.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014793,Vanessa Bartko Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1885.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1014741,"Riverworth Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4750.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1014647,Candace McCarty Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,712.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1014454,Metropolitan Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014452,Markworth Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016211,paigeofstyle,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2060.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016200,"Ragency Design, LLC dba Whitney Elaine Interiors",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,475.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016109,Julie Nelson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015915,Brittany Marom interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015909,Hamilton Gray Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1915.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015886,Jill Podell interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1275.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015881,MVA Home,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1890.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015864,Lilly Taylor Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015506,Sandra Kay Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,453.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1015457,Susan Hall Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1038119,Hannah Phillips Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1004681,IK Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1976.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1004550,Sharon Singer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4536.5,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1004411,"Fovere, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1004004,Jennifer Estes Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1003572,Siegrist Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017366,Cindy Ulrich Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,193.2,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1017342,KAM Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,25.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1036766,BATLIBOI STUDIO,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036764,Mike Stevens Homes MSH Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Territory Realignment,0.0,0.0,0,3,TRUE,N,FALSE,FALSE,N
+1036755,"MODISH INTERIORS, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026640,Office Furniture Direct,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1002803,I Design (TN),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,1,FALSE,Y,FALSE,TRUE,N
+1002107,Chic Solutions,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6325.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1002087,"Designation, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015424,Colleen & Company LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,795.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016731,NINA CARBONE inc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016537,"M Studio Gallery, Fine & Applied Arts, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2495.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016498,Artfully Done Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,91.9,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016494,Elyse Petrella Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016454,CIRCA 22 Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016307,Nugent Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2665.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018548,dawn interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018518,Interior Design by Nancy,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018339,Story Street Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2650.8,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018317,Leta Austin Foster & Daughters,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018199,"Brass Hill Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1990.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018158,"Lauren Pendleton Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018144,StAr Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018070,Messana & Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,210.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1017928,Berit Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017809,Sparke Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,234.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1017759,Do Not let Us Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,829.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1017752,NW10 INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017614,"Designs by Human, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1390.5,0.0,2,1,FALSE,Y,FALSE,TRUE,N
+1017568,BYRNES DESIGN STUDIO NY LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,927.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1017449,Trish Becker Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017426,Redhead Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019245,MAS Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,81.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1019223,Studio02Home,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019184,Harbinger House Custom Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019133,Spruce My Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1596.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1017769,TA Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,12837.0,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1018996,Terrie Koles Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018974,Collective Portfolio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,475.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018666,Libarikian Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1034.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1020420,Janet Dwyer dba window architecture,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3600.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020379,JRV Projects LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,43.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025963,SMT COMFORT/One Commerce Plaza,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1009752,Bluehouse,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,139.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007467,Trendy Pieces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,675.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006990,Tri-State Carpet Connections,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,2142.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1016940,Art & Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2800.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018619,4Ewa Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3639.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1008933,Windows and More,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,818.4,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1008832,Sue Kurtz Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011333,Patina Living Company,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1015.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1011166,Styled by EK,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5165.0,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1010800,Danielle Coccomo Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,25.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1010577,Haven Interiors (OK),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1010567,Deborah Lempert Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1037034,Thirty Three North,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036990,Bon Prairie | Shari Leopold,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036872,DeGennaro Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036841,"K2B Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1019540,Katy Lynn Cabinetry & Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019522,TEXTURE Home Staging And Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,760.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1019442,Interiors by Genevieve,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019400,Anik Pearson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019299,KB Stylings,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021844,MADISON WREN HOME,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021803,E Wheeler Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3231.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1009238,Molly Elizabeth Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,13485.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1020320,Villalon Interiors Inc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020302,Be Free Decor,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1771.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1020079,Jenny Tzakas Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1283.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1020045,JMorris Design LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,2,FALSE,Y,FALSE,TRUE,N
+1019953,Lyons Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1019855,Alexander Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019633,Jennifer Husch Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009721,Posh Professional Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,125.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009708,Chisel Workshop,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009422,Jeffrey Phillip,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009240,Tiffany Farha Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1004814,Lauren Mishaan Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038657,Carolina Alvarez Studio,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036482,LeBlanc Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036444,Brooke Abrams Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036394,Harris Sanders Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036785,Joanne DePalma Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1019564,Stephanie McCaleb Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,235.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1020980,John Walker Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,970.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1020842,Jennifer Sara Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020828,Frost Designs Inc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1275.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1020807,Theresa Seabaugh Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020788,AG Interiors (NY),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020754,FORM (NY),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5500.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1020735,Alyssa Patti Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1152.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1020697,Kristin Burke Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020675,Krystal Nite Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020541,Casa BohÃ¨me,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4102.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1020495,Nina Ferrer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022148,M Fernandez Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,7203.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1022113,Holistic Interior Designs/S. Lee Wright,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022073,E.H. INTERIORS LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021964,SJ Barron Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,225.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025378,STUDIO TOVE,DESIGN,DESIGN_FIRM,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025339,SBA Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021652,"Barbara Fisher Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021630,SK Creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026082,Romancing The Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,14113.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1021443,Studio Xiao Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021437,Shangri-Lew Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017623,Sheindlin Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,14056.5,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1021148,Cindy Dunham Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021115,Dyche House Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1036748,INNATO INTERIORS LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036700,Farrin Cary Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022734,"Chestnut Street Design & Construction, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,222.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022646,Mo Town & Country LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022616,Craft by Anika LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,345.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1022601,Jackie McManus Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022563,Inside Edit,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1457.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016475,Design Studio Nashville,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,487.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1024009,Elements On Railroad,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021700,Kinderâ€™s Express Furniture Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,1765.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1036353,Payal Bansal Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026610,BORDEN'S,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Territory Realignment,628.4,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021076,crystal sinclair designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022469,"Virginia Bou Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022286,Wendy Smit Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022234,Caroline Levenson Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3600.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022227,Bradie Fisher Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,690.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022194,"SPJdue, llc",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,50.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023613,Studio HP Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1290.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023609,Lynn Biase Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,108.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023512,Natasa Tuohy STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1965.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023504,"Greybird Designs, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023426,Carrie Parker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023372,"NARDONE Home & Garden, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023348,"Ashley Freund Interiors, Llc",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,675.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023261,Chrisâ€™ Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1142.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1025304,Tay Fusco Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025069,studio ppark llc,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1021958,Mark Simmons Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,5570.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023242,Fulton Park Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023177,Designs by TLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022969,Louise Cha Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022924,Chic Ensemble Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022744,Jlee Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024184,Heather and Faith Interior Stagers,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1305.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1024121,Dogwood Proper,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4615.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024108,TEROTTI,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024079,Robin Muto Interiors,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023952,M. Fox Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,7050.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1037033,Ania Stempi Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037011,Designed Interiors By Margaret,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036950,Studio Marie,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036922,Studio N&TL,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1021000,Sally Kyle & Company LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,765.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1018929,Luxe Interiors and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Territory Realignment,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018289,Regency Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,455.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022533,"Chic Accents,LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,330.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023835,Michal Mufson Design (DBA for Navy & Lavender),DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4997.8,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023832,Rosewood and Ivey,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023805,Lifestyle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1169.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1025370,ReDevine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1746.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025301,Laura Kern Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6752.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1025242,Haynie Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025207,Grove Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025141,Claiborne Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025113,Hayden Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025079,Gia Sharp Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,4343.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025024,Birch Event Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,294.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025022,Lucy Harris Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024940,Dunnam Zerbini Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026171,Rylin Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3100.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023253,Peach and Pine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,7275.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024639,"CMR Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024572,J & H Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1810.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024544,JB Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024529,Studio Sofield,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025950,Rachel Brill Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1415.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025896,McLaughlin-Hughes Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025746,Room East LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025652,Margaret Liang Design LLC DBA Maggie Liang Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3236.09,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025650,BuiltIN studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,390.4,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1025616,Dallysisters,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2840.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025615,"Liz Kohart Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025534,Rachna Mody Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025528,Studio Paul Toney,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2916.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025518,"Projekt Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3667.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1027861,Luminous Design Studio LLC,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,4942.99,0.0,2,1,FALSE,Y,FALSE,TRUE,N
+1027780,Studio 1950,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2396.39,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1017248,Rugs Residential,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013842,"The Property Experts, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023884,Amelie de Gaulle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,7406.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1025407,Jess Trayah Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1379.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1008918,DeAnna Dodd Designs,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1004095,Katie Lydon Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1035484,kimberly hall creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,339.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1035192,Dryden Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2127.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024247,Emily Bennett Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024240,SHELTER Design Architecture DLC,Design,Architect/Builder,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024196,Jeremy Babel Architecture and Design,Design,Architect/Builder,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1021251,Fabric and Finish,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1017034,"A Joyce Design, Inc",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1015823,Joanna Kennett Interiors LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1015255,Kelsey Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1013963,Kieffer Design Group,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1026147,HHS Associates Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1910.4,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026129,nea studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,2710.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026080,Mary Valaika Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5612.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1025960,Mary Droke Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2660.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023540,Thiesen Interiors LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024881,McGovern Project LLC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024759,Hyphen & Co.,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024704,ALEXANDRA PECK DESIGN,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036903,Harper Harris Design Studio,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036864,Studio1820 Design LLC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036814,Elise Casey Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036806,Carla Ann Marinelli,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036792,MILLBURY DESIGN,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036783,susan Kaufman,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036635,"Melissa Golden Interiors, LLC",Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036215,Black & Wit Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036083,Showcase Space,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036028,CLB Design Group,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1035994,Vibrant Hue Designs,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1024961,JCP Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036628,"JLT Interiors, Inc.",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036408,Camia Brown Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036333,J9GDesign,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1005725,"Carpet Time, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Territory Realignment,4725.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005614,Design Collectif,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Territory Realignment,3121.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
+1037039,Veda Design NYC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037340,Lori Margolis Interiors,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037209,MW-NYC Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037206,Graceful Interiors LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037204,The Home Staging Label,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037200,Emy Riley Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037181,Laifi Geometrics LLC,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037176,Duck Egg Blue LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037164,Duncan Interior Designs/DID Lifestyles LLC,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036266,Amy Ramirez Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036253,"Michelle Kane Interiors, Inc.",Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1026837,Studio Panduro,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,12241.2,-306.0,5,1,FALSE,Y,FALSE,TRUE,N
+1009104,Drawing Room Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,8909.25,-478.0,11,2,FALSE,Y,FALSE,TRUE,N
+1021809,Homestyle Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6376.2,-752.0,7,3,FALSE,Y,FALSE,TRUE,N
+1024758,Zephyr Edelman Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6618.0,-1571.56,3,2,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 45 accounts (20 are new 2025 customers),,,,,,,,,,,,,,,

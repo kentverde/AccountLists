@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: MD Rickers,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:07,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:51,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-132,8,602852.37,541001.96,0,72,-72,-54.55,0.0,26481.39,-26481.39,-4.89,60,514520.57,0,0.0,0,10,2
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+132,8,602852.37,541001.96,0,72,-72,-54.55,0.0,26481.39,-26481.39,-4.89,60,514520.57,0,0.0,0,10,2,3,0.0,64,26481.39,5,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -95,6 +95,83 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1026560,New England Home & Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,MD Rickers,MD Rickers,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1006667,Seacoast Rug and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,MD Rickers,MD Rickers,4317.0,-8.5,1,0,FALSE,N,FALSE,FALSE,N
 1035756,MAO Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,MD Rickers,MD Rickers,0.0,-27.2,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 72 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1020594,Apres Interiors LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,2331.0,0,1,FALSE,Y,FALSE,TRUE,N
+1035271,Katherine Kaiser Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,2311.0,0,1,FALSE,Y,FALSE,TRUE,N
+1027714,DF Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,150.0,2110.0,1,1,FALSE,Y,FALSE,TRUE,N
+1028143,Stoneledge Farm + Home,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1581.0,2060.0,1,1,FALSE,Y,FALSE,TRUE,N
+1015840,Kim Macumber Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1810.0,0,4,FALSE,Y,FALSE,TRUE,N
+1009454,Design Studio of Stowe,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,5542.0,1777.0,3,4,FALSE,Y,FALSE,TRUE,N
+1023419,Cotton Design Associates,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1740.0,0,1,FALSE,Y,FALSE,TRUE,N
+1001795,Decorative Ints-High Country,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,2800.0,1635.0,4,2,FALSE,Y,FALSE,TRUE,N
+1012670,Teri Maher Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,703.0,1442.0,3,1,FALSE,Y,FALSE,TRUE,N
+1023838,Galen Arnot Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,5087.6,1366.65,5,4,FALSE,Y,FALSE,TRUE,N
+1017654,Amber Hodgins Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,1930.5,1270.0,2,1,FALSE,Y,FALSE,TRUE,N
+1006238,Cynthia Clark Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,732.0,1200.0,1,1,FALSE,Y,FALSE,TRUE,N
+1007280,Stowe Craft and Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1970.0,1122.24,3,0,FALSE,Y,FALSE,TRUE,N
+1013035,Lori Currier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,658.5,4,2,FALSE,Y,FALSE,TRUE,N
+1015838,Heather Nadeau Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,62.0,635.0,1,1,FALSE,Y,FALSE,TRUE,N
+1013557,JL Carr Designs and Renovations LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,4472.3,565.0,9,1,FALSE,Y,FALSE,TRUE,N
+1014680,Judy Elliott Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,8439.23,536.0,2,1,FALSE,Y,FALSE,TRUE,N
+1012410,Ramsay Gourd Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,0.0,510.0,0,1,FALSE,Y,FALSE,TRUE,N
+1013539,A Beautiful Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,360.0,0,1,FALSE,Y,FALSE,TRUE,N
+1016070,MJM Home LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,330.0,276.0,1,2,FALSE,Y,FALSE,TRUE,N
+1020348,A Lee Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,186.0,265.0,1,1,FALSE,Y,FALSE,TRUE,N
+1024206,The Design Place Inc DBA Stewart Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,150.6,195.0,1,1,FALSE,Y,FALSE,TRUE,N
+1001399,"Maine Street Design, Suite 101",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,12735.0,193.8,15,4,FALSE,Y,FALSE,TRUE,N
+1012053,"Studio Sage, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,8200.57,137.0,7,1,FALSE,Y,FALSE,TRUE,N
+1017858,New England Staging & Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,50.0,0,0,FALSE,Y,FALSE,TRUE,N
+1005322,Green Mountain Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1005413,Live Well Interiors and Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1037886,Rebecca Poole Design,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1025768,Willow,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1035511,Brilliance,Retail,Multiple locations,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1001953,"Fortunato, Inc",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2633.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1008257,TMD Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012162,"The Home Beautiful, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012135,Michael P Toppan Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,370.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012116,Home Glow Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011752,"Well Dressed Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1007206,Fabriganza,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,25.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1006899,Dana Donaldson Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1006268,Tobey Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1138.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1006536,"Jan Robinson Interiors, LLC. dba EcoHome Studio",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,90.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014203,Chew and Co,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013679,Design Concepts and Consulting,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013418,Forest and Ash,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,5691.15,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1012468,Sargent Design Company,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012615,"Bolster's Decorating, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012801,James Light Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012914,TSD Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1181.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013016,Shepard Interior Selections,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1007990,The Look Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,514.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1007540,Huffard House,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1008798,"Alice + Bird Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,592.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1021039,Knott Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019572,Elm Road,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018625,Liz Hause Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016337,Swell Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,318.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018154,Exeter Decorating,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024146,Annie Ballin & Co.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023843,Executive Furnishings-DUPL ACCT - USE 1011344,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013853,Debbe Daley Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,14693.4,0.0,7,0,FALSE,Y,FALSE,TRUE,N
+1022491,Wallace Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,325.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026362,Winterberry Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025556,Lauren Miles Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027477,Emilie Hatch Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025553,The Gilded Elephant,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027258,Design 645 LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1034970,"LCSG, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6399.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1026522,JRL Studio,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1034820,"Hay Runner Rockport Design & Construction, LLC",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037172,WRKroom Interiors,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036733,Studio 333 llc,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037390,A Season For Home,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1035034,Knickerbocker Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,-74.8,0,0,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 10 accounts (2 are new 2025 customers),,,,,,,,,,,,,,,

@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Laura Hays,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:07,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:51,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-192,92,199987.48,234117.19,0,45,-45,-23.44,0.0,2800.0,-2800.0,-1.2,147,231317.19,91,993.0,92,108,12
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+192,92,199987.48,234117.19,0,45,-45,-23.44,0.0,2800.0,-2800.0,-1.2,147,231317.19,91,993.0,92,108,12,0,0.0,45,2800.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -286,6 +286,56 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1038502,"BRET BROUSSARD,INC dba Broussard Group",Design,Design Firm,Group 3 High Potential,Laura Hays,Laura Hays,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1038586,"Two Louis Investments, LLC",Design,Hospitality,Group 3 High Potential,Laura Hays,Laura Hays,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1038716,PTY Lighting,Design,Hospitality,Group 3 High Potential,Laura Hays,Laura Hays,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 45 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1027601,Ritter Maher Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,670.0,1915.0,2,1,FALSE,Y,FALSE,TRUE,N
+1026938,Holm Design LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,885.0,0,3,FALSE,Y,FALSE,TRUE,N
+1008415,Studio B Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1003196,Millennium Designs Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,480.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1000770,Neil Locke and Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012935,"Arc-Tec, Inc",DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016797,Interprise Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016909,WRG,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1016936,Jordan Michael Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,986.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1019000,5G Interiors LLC DBA Ink and Oro,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1019517,Unhinged Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,665.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1012488,Ginger Blu Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012728,Ink and Oro dba 5G Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021795,Playa Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020599,Studio 11 Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021861,Gensler (TX),DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021967,Ivory Moore Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023892,"Page Southerland Page, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023973,Brewer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1860.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023152,GAS LAMP DESIGN BUILD(DALLAS),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023760,Rhode Partners,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,204.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024490,United by Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024992,Reform Interior Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025016,"FMG(PLANO,TX)",DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,4205.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1025390,LFI,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026238,Jenkins Design Build,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026248,SWA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1896.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024059,Sohe Studio,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024114,Hilda Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026325,"BOKA Powell, LLC (DALLAS)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026294,"SS Laura Hays (TX, OK, AR, & LA)",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026724,Entos Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026714,Vitek McIver Homes,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026947,IdGroup,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026990,IdGroup,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027421,Winchester Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,2242.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1027550,"Interior Architects (Austin, TX)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027749,SENGER DESIGN GROUP,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027782,Gensler - Austin,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027789,Regent Properties,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,7377.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1027894,Harrison Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027991,Perkins&Will (Austin),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1028111,Word and Carr Design Group,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1034940,Paige Atelier,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1034998,Polaris Procurement,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,1638.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 108 accounts (12 are new 2025 customers),,,,,,,,,,,,,,,

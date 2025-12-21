@@ -508,7 +508,33 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
     else:
         revenue_change_pct = 0
     
-    # ===== FLOOR EXCEPTIONS =====
+    # ===== ACCOUNTS LOST - THREE CATEGORIES =====
+    # All accounts that moved OUT (Assigned_Rep = this rep, Final_Rep != this rep)
+    accounts_lost_all = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)].copy()
+    
+    # Category 1: Territory Realignment (moved out but NOT flagged for floor removal)
+    # These are regular accounts moved due to territory changes
+    accounts_lost_territory = accounts_lost_all[~accounts_lost_all['Floor_Removed']].copy()
+    lost_territory_count = len(accounts_lost_territory)
+    lost_territory_rev = accounts_lost_territory[COL_TOTAL_REV_2025].sum()
+    
+    # Category 2: Floor Removed - Active (BTF='Y', moved out, NOT dormant)
+    # These are low-revenue accounts flagged for removal that were actively in the system
+    accounts_lost_floor_active = accounts_lost_all[
+        (accounts_lost_all['Floor_Removed']) & 
+        (~accounts_lost_all['Is_SF_Ex_BI'])
+    ].copy()
+    lost_floor_active_count = len(accounts_lost_floor_active)
+    lost_floor_active_rev = accounts_lost_floor_active[COL_TOTAL_REV_2025].sum()
+    
+    # Category 3: Floor Removed - Dormant (BTF='Y', moved out, IS dormant/SF ex BI)
+    # These are low-revenue accounts flagged for removal that were already inactive
+    accounts_lost_floor_dormant = accounts_lost_all[
+        (accounts_lost_all['Floor_Removed']) & 
+        (accounts_lost_all['Is_SF_Ex_BI'])
+    ].copy()
+    lost_floor_dormant_count = len(accounts_lost_floor_dormant)
+    lost_floor_dormant_rev = accounts_lost_floor_dormant[COL_TOTAL_REV_2025].sum()
     # BTF='Y' but account stayed with rep
     floor_exceptions = rep_accounts[rep_accounts['Floor_Exception']]
     exception_count = len(floor_exceptions)
@@ -609,7 +635,13 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             'Floor_Exception_Rev',
             'SF_Ex_BI_Accounts',
             'Zero_Rev_Accounts',
-            'Zero_Rev_New_2025'
+            'Zero_Rev_New_2025',
+            'Accounts_Lost_Territory',
+            'Rev_Lost_Territory',
+            'Accounts_Lost_Floor_Active',
+            'Rev_Lost_Floor_Active',
+            'Accounts_Lost_Floor_Dormant',
+            'Rev_Lost_Floor_Dormant'
         ]
         
         summary_values = [
@@ -631,7 +663,13 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             round(exception_rev, 2),
             sf_ex_bi_count,
             zero_rev_count,
-            zero_rev_new_2025
+            zero_rev_new_2025,
+            lost_territory_count,
+            round(lost_territory_rev, 2),
+            lost_floor_active_count,
+            round(lost_floor_active_rev, 2),
+            lost_floor_dormant_count,
+            round(lost_floor_dormant_rev, 2)
         ]
         
         # Write header row with column names
@@ -741,6 +779,63 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             f.write(f"================================================================================{empty_cols}\n")
             sf_ex_bi_sorted = sf_ex_bi.sort_values(COL_TOTAL_REV_2025, ascending=False)
             format_for_output(sf_ex_bi_sorted).to_csv(f, index=False, lineterminator='\n')
+            f.write(f"{empty_cols}\n")
+        
+        # ===== ACCOUNTS LOST - CONSOLIDATED SUMMARY =====
+        # Combine all three loss categories into one table with a category column
+        total_accounts_lost = len(accounts_lost_all)
+        if total_accounts_lost > 0:
+            f.write(f"================================================================================{empty_cols}\n")
+            f.write(f"ACCOUNTS LOST - SUMMARY: {total_accounts_lost} total accounts{empty_cols}\n")
+            f.write(f"================================================================================{empty_cols}\n")
+            
+            # Add loss category to each account
+            accounts_lost_territory['Loss_Category'] = 'Territory Realignment'
+            accounts_lost_floor_active['Loss_Category'] = 'Floor Removal - Active'
+            accounts_lost_floor_dormant['Loss_Category'] = 'Floor Removal - Dormant'
+            
+            # Combine all lost accounts
+            all_lost = pd.concat([
+                accounts_lost_territory,
+                accounts_lost_floor_active,
+                accounts_lost_floor_dormant
+            ], ignore_index=True)
+            
+            # Sort by revenue descending
+            all_lost_sorted = all_lost.sort_values(COL_TOTAL_REV_2025, ascending=False)
+            
+            # Format for output without rep columns
+            all_lost_formatted = all_lost_sorted.copy()
+            
+            # SELECT COLUMNS (exclude Assigned_Rep and Final_Rep)
+            output_columns = [
+                COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
+                'Segment_Label', 'Loss_Category',
+                COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
+                COL_ORDERS_2024, COL_ORDERS_2025,
+                'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed',
+                COL_SF_EX_BI
+            ]
+            
+            # Keep only columns that exist
+            output_columns = [col for col in output_columns if col in all_lost_formatted.columns]
+            all_lost_formatted = all_lost_formatted[output_columns]
+            
+            # FORMAT REVENUE TO 2 DECIMAL PLACES
+            all_lost_formatted[COL_TOTAL_REV_2024] = all_lost_formatted[COL_TOTAL_REV_2024].round(2)
+            all_lost_formatted[COL_TOTAL_REV_2025] = all_lost_formatted[COL_TOTAL_REV_2025].round(2)
+            
+            # FORMAT ORDER COUNTS AS WHOLE NUMBERS
+            all_lost_formatted[COL_ORDERS_2024] = all_lost_formatted[COL_ORDERS_2024].fillna(0).astype(int)
+            all_lost_formatted[COL_ORDERS_2025] = all_lost_formatted[COL_ORDERS_2025].fillna(0).astype(int)
+            
+            # FORMAT BOOLEAN VALUES AS UPPERCASE TEXT
+            all_lost_formatted['Is_New_2025'] = all_lost_formatted['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+            all_lost_formatted['Floor_Exception'] = all_lost_formatted['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
+            all_lost_formatted['Floor_Removed'] = all_lost_formatted['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
+            
+            # Write to CSV
+            all_lost_formatted.to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
         
         # ZERO REVENUE ACCOUNTS

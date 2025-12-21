@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Test SalesRep,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:09,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:53,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-9,0,12.33,-18.43,0,6,-6,-66.67,0.0,-20.48,20.48,0,3,2.05,0,0.0,0,2,1
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+9,0,12.33,-18.43,0,6,-6,-66.67,0.0,-20.48,20.48,0,3,2.05,0,0.0,0,2,1,0,0.0,6,-20.48,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -25,6 +25,17 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Medium Potential,Test SalesRep,Test SalesRep,2.05,2.05,14,7,FALSE,N,FALSE,FALSE,N
 1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Test SalesRep,Test SalesRep,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
 1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Test SalesRep,Test SalesRep,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 6 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,5,FALSE,Y,FALSE,TRUE,N
+1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,1,FALSE,Y,FALSE,TRUE,N
+1022769,TestAccountDoNotUse 1022769,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2.83,-4.83,61,11,FALSE,Y,FALSE,TRUE,N
+1026972,PreranaTestAccountApr14,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,7.45,-15.65,2,20,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 2 accounts (1 are new 2025 customers),,,,,,,,,,,,,,,

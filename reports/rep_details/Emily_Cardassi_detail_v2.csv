@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Emily Cardassi,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:07,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-131,2,1310464.53,1238417.29,0,30,-30,-22.9,0.0,11024.8,-11024.8,-0.89,101,1227392.49,0,0.0,0,14,4
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+131,2,1310464.53,1238417.29,0,30,-30,-22.9,0.0,11024.8,-11024.8,-0.89,101,1227392.49,0,0.0,0,14,4,2,0.0,28,11024.8,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -138,6 +138,41 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1036788,Ispiri Decor,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Emily Cardassi,Emily Cardassi,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1036837,Curio Rugs,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Emily Cardassi,Emily Cardassi,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1037389,Wray Design Co.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Emily Cardassi,Emily Cardassi,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 30 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002321,"Partners By Design, WIS",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1705.0,2417.0,1,3,FALSE,Y,FALSE,TRUE,N
+1007578,"Spider Lake Trading, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3947.5,2035.0,4,7,FALSE,Y,FALSE,TRUE,N
+1001873,House Blend Lighting and Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,10750.65,1839.4,11,6,FALSE,Y,FALSE,TRUE,N
+1013234,Che Bella Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,746.0,1632.0,1,3,FALSE,Y,FALSE,TRUE,N
+1009755,"Deep River Partners, Ltd",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,2904.0,1461.0,3,2,FALSE,Y,FALSE,TRUE,N
+1034758,Beyond Kitchens,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1153.0,0,4,FALSE,Y,FALSE,TRUE,N
+1010921,"Jute Home Co, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,12318.0,421.0,2,3,FALSE,Y,FALSE,TRUE,N
+1018550,Eye Candy REfind,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,736.6,90.0,2,1,FALSE,Y,FALSE,TRUE,N
+1012534,"Chirigos Designs, Inc.",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,100.0,24.0,0,2,FALSE,Y,FALSE,TRUE,N
+1036936,Budget Furniture,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1002789,Baker Court Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,961.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1000673,Design Theory 19. dba Inner Piece LLC.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,4100.42,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1000228,Hirshfield's Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3820.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1035425,The Little Blind Shop by Rebecca's Home Designs,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1016240,Guild St.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1040.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1007619,Linda Koepke Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,10879.5,0.0,7,0,FALSE,Y,FALSE,TRUE,N
+1006407,Kariel Home Staging,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,4340.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1011220,Houndstooth House,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,595.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1016724,Renae Keller Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018855,Marceau Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,501.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1019685,Omorfia Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2429.0,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1017088,Tays & Co Design Studios,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,340.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1020156,Anne McDonald Design(INACTIVE),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023249,Haven Design Collective LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024472,Eastman Cartwright Home,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1302.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023909,Lucy Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,2855.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1025441,BSL Studios,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,6464.61,0.0,8,0,FALSE,Y,FALSE,TRUE,N
+1024808,Fika Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1847.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1026445,SS Emily Cardassi,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,6,0,FALSE,Y,FALSE,TRUE,N
+1021918,"Studio Vesta Interior Design, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,-47.6,0,0,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 14 accounts (4 are new 2025 customers),,,,,,,,,,,,,,,

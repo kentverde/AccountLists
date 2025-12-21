@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Aaron Kirsch,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:29:06,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
-151,36,795662.5,512684.85,0,38,-38,-25.17,0.0,6746.0,-6746.0,-1.32,113,505938.85,21,708.4,36,74,0
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+151,36,795662.5,512684.85,0,38,-38,-25.17,0.0,6746.0,-6746.0,-1.32,113,505938.85,21,708.4,36,74,0,1,0.0,37,6746.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -199,6 +199,49 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Fi
 1038470,Filamento,Retail,Single location,Group 3 Low Potential,Aaron Kirsch,Aaron Kirsch,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
 1038587,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,Aaron Kirsch,Aaron Kirsch,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,Aaron Kirsch,Aaron Kirsch,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ACCOUNTS LOST - SUMMARY: 38 total accounts,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1013690,Studio Design By SMF SRL,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3703.2,2332.0,3,3,FALSE,Y,FALSE,TRUE,N
+1026187,Dos Aguas Arquitectura,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,465.0,965.0,1,2,FALSE,Y,FALSE,TRUE,N
+1027560,CTX Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,665.0,750.0,2,1,FALSE,Y,FALSE,TRUE,N
+1018384,By Design Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,-2238.0,600.0,5,2,FALSE,Y,FALSE,TRUE,N
+1014407,Estrategias En Espacio AD,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,583.0,0,2,FALSE,Y,FALSE,TRUE,N
+1008632,Design Studio - Provo,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,1597.0,468.0,2,2,FALSE,Y,FALSE,TRUE,N
+1008980,OG Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,2743.5,440.0,4,3,FALSE,Y,FALSE,TRUE,N
+1022546,Island House Ltd,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3984.5,405.0,2,2,FALSE,Y,FALSE,TRUE,N
+1020117,Kate- Ashley Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3060.0,203.0,3,1,FALSE,Y,FALSE,TRUE,N
+1006071,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1000713,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,1090.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1037608,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1002134,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1000875,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1006084,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013349,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011648,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1295.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1010147,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015215,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012183,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1008185,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009568,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020227,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017117,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013364,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,276.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022341,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023981,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024118,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022354,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022953,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3374.0,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1025755,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025008,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026207,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1085.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026711,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3610.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1028080,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1035057,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,41.4,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1035150,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1035235,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,554.6,0.0,1,0,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 74 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
