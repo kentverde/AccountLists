@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Cynthia Guthrie,,,,,,,,,,,,,,,
-Generated: 2025-12-21 17:43:58,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:25:46,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
-106,201931.32,161211.44,0,0.0,67,1657.5,64,0.0,78,8,,,,,
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
+136,64,228969.92,166075.99,0,30,-30,-22.06,0.0,4864.55,-4864.55,-2.93,106,161211.44,67,1657.5,64,78,8
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,

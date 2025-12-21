@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Chapel Conley,,,,,,,,,,,,,,,
-Generated: 2025-12-21 17:43:58,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:25:46,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
-121,1304987.3,1589714.56,0,0.0,0,0.0,0,0.0,9,3,,,,,
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
+191,17,1421694.73,1617986.54,0,70,-70,-36.65,0.0,28271.98,-28271.98,-1.75,121,1589714.56,0,0.0,0,9,3
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,

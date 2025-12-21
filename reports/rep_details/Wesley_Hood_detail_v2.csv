@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Wesley Hood,,,,,,,,,,,,,,,
-Generated: 2025-12-21 17:43:59,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:25:48,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
-278,1065284.1,1539384.37,216,1059648.75,1,0.0,0,0.0,45,29,,,,,
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
+723,49,2390069.19,2198108.3,216,661,-445,-61.55,1059648.75,1718372.68,-658723.93,-29.97,278,1539384.37,1,0.0,0,45,29
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,

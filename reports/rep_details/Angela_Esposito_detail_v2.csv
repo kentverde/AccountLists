@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Angela Esposito,,,,,,,,,,,,,,,
-Generated: 2025-12-21 17:43:58,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:25:46,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
-424,441872.24,1307925.03,2,669968.78,288,4115.9,282,0.0,335,39,,,,,
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
+573,282,541609.43,660637.25,2,151,-149,-26.0,669968.78,22681.0,647287.78,97.98,424,1307925.03,288,4115.9,282,335,39
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,

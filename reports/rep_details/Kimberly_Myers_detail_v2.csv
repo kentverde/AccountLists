@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Kimberly Myers,,,,,,,,,,,,,,,
-Generated: 2025-12-21 17:43:58,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:25:47,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
-370,1541333.63,2049285.14,160,913943.32,4,5724.56,0,0.0,66,32,,,,,
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025
+938,78,2556804.9,2154258.22,160,728,-568,-60.55,913943.32,1018916.4,-104973.08,-4.87,370,2049285.14,4,5724.56,0,66,32
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,

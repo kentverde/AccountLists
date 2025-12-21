@@ -464,26 +464,69 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
     if len(rep_accounts) == 0:
         return
     
-    # CALCULATE SUMMARY METRICS
-    total_accounts = len(rep_accounts)
-    total_rev_2024 = rep_accounts[COL_TOTAL_REV_2024].sum()
-    total_rev_2025 = rep_accounts[COL_TOTAL_REV_2025].sum()
+    # ===== BEFORE STATE (Assigned_Rep_Name) =====
+    # Get all accounts originally assigned to this rep
+    before_accounts = df[df[COL_ASSIGNED_REP] == rep_name].copy()
+    before_count = len(before_accounts)
+    before_rev_2024 = before_accounts[COL_TOTAL_REV_2024].sum()
+    before_rev_2025 = before_accounts[COL_TOTAL_REV_2025].sum()
     
-    # ACCOUNTS THAT MOVED TO THIS REP
+    # SF EX BI in BEFORE state
+    sf_ex_bi_before = before_accounts[before_accounts['Is_SF_Ex_BI']]
+    sf_ex_bi_before_count = len(sf_ex_bi_before)
+    
+    # ===== AFTER STATE (Final_Rep_Name) =====
+    # rep_accounts already filtered to Final_Rep_Name
+    after_count = len(rep_accounts)
+    after_rev_2025 = rep_accounts[COL_TOTAL_REV_2025].sum()
+    
+    # ===== MOVEMENT METRICS =====
+    # Accounts moved IN: Final_Rep = this rep AND Assigned_Rep != this rep
     accounts_moved_in = len(rep_accounts[rep_accounts[COL_ASSIGNED_REP] != rep_name])
-    rev_moved_in = rep_accounts[rep_accounts[COL_ASSIGNED_REP] != rep_name][COL_TOTAL_REV_2025].sum()
     
-    # FLOOR EXCEPTIONS
+    # Accounts moved OUT: Assigned_Rep = this rep AND Final_Rep != this rep
+    accounts_moved_out = len(df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)])
+    
+    # Net change
+    net_account_change = accounts_moved_in - accounts_moved_out
+    
+    # Same logic but for 2025 revenue
+    rev_moved_in = rep_accounts[rep_accounts[COL_ASSIGNED_REP] != rep_name][COL_TOTAL_REV_2025].sum()
+    rev_moved_out = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)][COL_TOTAL_REV_2025].sum()
+    net_rev_change = rev_moved_in - rev_moved_out
+    
+    # ===== CALCULATE PERCENTAGE CHANGES =====
+    # Account Change %: What % of starting accounts does the net change represent?
+    if before_count > 0:
+        account_change_pct = (net_account_change / before_count) * 100
+    else:
+        account_change_pct = 0
+    
+    # Revenue Change %: What % of starting revenue does the net change represent?
+    if before_rev_2025 > 0:
+        revenue_change_pct = (net_rev_change / before_rev_2025) * 100
+    else:
+        revenue_change_pct = 0
+    
+    # ===== FLOOR EXCEPTIONS =====
+    # BTF='Y' but account stayed with rep
     floor_exceptions = rep_accounts[rep_accounts['Floor_Exception']]
     exception_count = len(floor_exceptions)
     exception_rev = floor_exceptions[COL_TOTAL_REV_2025].sum()
     
-    # SF EX BI ACCOUNTS
+    # ===== FLOOR REMOVED =====
+    # BTF='Y' and account moved away
+    floor_removed = df[(df[COL_ASSIGNED_REP] == rep_name) & (df['Floor_Removed'])]
+    floor_removed_count = len(floor_removed)
+    floor_removed_rev = floor_removed[COL_TOTAL_REV_2025].sum()
+    
+    # ===== SF EX BI ACCOUNTS (DORMANT) =====
+    # Dormant accounts in Salesforce but not in BI
     sf_ex_bi = rep_accounts[rep_accounts['Is_SF_Ex_BI']]
     sf_ex_bi_count = len(sf_ex_bi)
-    sf_ex_bi_rev = sf_ex_bi[COL_TOTAL_REV_2025].sum()
     
-    # ZERO REVENUE ACCOUNTS
+    # ===== ZERO REVENUE ACCOUNTS =====
+    # 2025 revenue = $0
     zero_rev = rep_accounts[rep_accounts[COL_TOTAL_REV_2025] == 0]
     zero_rev_count = len(zero_rev)
     zero_rev_new_2025 = len(zero_rev[zero_rev['Is_New_2025']])
@@ -545,37 +588,56 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
         f.write(f"SUMMARY METRICS{empty_cols}\n")
         f.write(f"================================================================================{empty_cols}\n")
         
-        # SUMMARY METRICS
-        summary_labels = [
-            "Total Accounts:",
-            "Total 2024 Revenue:",
-            "Total 2025 Revenue:",
-            "Accounts Moved In:",
-            "Revenue Moved In:",
-            "Floor Exceptions:",
-            "Floor Exception Rev:",
-            "SF ex BI Accounts:",
-            "SF ex BI Rev:",
-            "Zero Rev Accounts:",
-            "Zero Rev New 2025:"
+        # SUMMARY METRICS - MATCHING SUMMARY REPORT COLUMNS
+        # These are the same columns as in the summary report for easy reference
+        summary_columns = [
+            'Before_Accounts',
+            'Before_SF_Ex_BI',
+            'Before_Rev_2024',
+            'Before_Rev_2025',
+            'Accounts_Moved_In',
+            'Accounts_Moved_Out',
+            'Net_Account_Change',
+            'Account_Change_Pct',
+            'Rev_Moved_In',
+            'Rev_Moved_Out',
+            'Net_Rev_Change',
+            'Revenue_Change_Pct',
+            'After_Accounts',
+            'After_Rev_2025',
+            'Floor_Exception_Accounts',
+            'Floor_Exception_Rev',
+            'SF_Ex_BI_Accounts',
+            'Zero_Rev_Accounts',
+            'Zero_Rev_New_2025'
         ]
+        
         summary_values = [
-            total_accounts,
-            round(total_rev_2024, 2),
-            round(total_rev_2025, 2),
+            before_count,
+            sf_ex_bi_before_count,
+            round(before_rev_2024, 2),
+            round(before_rev_2025, 2),
             accounts_moved_in,
+            accounts_moved_out,
+            net_account_change,
+            round(account_change_pct, 2),
             round(rev_moved_in, 2),
+            round(rev_moved_out, 2),
+            round(net_rev_change, 2),
+            round(revenue_change_pct, 2),
+            after_count,
+            round(after_rev_2025, 2),
             exception_count,
             round(exception_rev, 2),
             sf_ex_bi_count,
-            round(sf_ex_bi_rev, 2),
             zero_rev_count,
             zero_rev_new_2025
         ]
         
-        # Write labels and values rows
-        f.write(','.join(summary_labels) + ',' * (16 - len(summary_labels)) + '\n')
-        f.write(','.join(str(v) for v in summary_values) + ',' * (16 - len(summary_values)) + '\n')
+        # Write header row with column names
+        f.write(','.join(summary_columns) + '\n')
+        # Write data row with values
+        f.write(','.join(str(v) for v in summary_values) + '\n')
         
         # Blank rows
         f.write(f"{empty_cols}\n")
@@ -604,7 +666,7 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             f.write(f"{row['Segment']}: ,{int(row['Accounts'])},{round(row['Revenue'], 2)},{int(row['Exceptions'])},{int(row['Removed'])}{','.join([''] * 11)}\n")
         
         # Write totals row
-        f.write(f"Totals,{total_accounts},{round(total_rev_2025, 2)},{exception_count},0{','.join([''] * 11)}\n")
+        f.write(f"Totals,{after_count},{round(after_rev_2025, 2)},{exception_count},0{','.join([''] * 11)}\n")
         
         # Blank row
         f.write(f"{empty_cols}\n")

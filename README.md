@@ -61,7 +61,9 @@ One row per rep showing:
 `reports/rep_details/{Rep_Name}_detail_v2.csv`
 
 One file per rep containing:
-- **Summary Metrics**: Total accounts, revenue, movements, exceptions
+- **Summary Metrics**: Complete before/after comparison with the same columns as the summary report (for easy reference)
+  - Before state, movements (in/out), change percentages, and after state
+  - Floor exceptions, SF ex BI dormant accounts, and zero-revenue accounts
 - **Segment Breakdown**: Accounts and revenue by segment
 - **Group 1 (HIGH_REVENUE)**: All HIGH_REVENUE accounts (always kept)
 - **Group 2 (MID_REVENUE)**: All MID_REVENUE accounts (always kept)
