@@ -656,7 +656,24 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
         }).reset_index()
         
         segment_summary.columns = ['Segment', 'Accounts', 'Revenue', 'Exceptions', 'Removed']
-        segment_summary = segment_summary.sort_values('Revenue', ascending=False)
+        
+        # CUSTOM SORT ORDER: Group 1 (High, Medium, Low), Group 2 (High, Medium, Low), Group 3 (High, Medium, Low)
+        # This provides a logical order by group and potential tier
+        sort_order = [
+            'Group 1 High Potential',
+            'Group 1 Medium Potential',
+            'Group 1 Low Potential',
+            'Group 2 High Potential',
+            'Group 2 Medium Potential',
+            'Group 2 Low Potential',
+            'Group 3 High Potential',
+            'Group 3 Medium Potential',
+            'Group 3 Low Potential'
+        ]
+        
+        # Convert Segment to categorical with custom order, then sort
+        segment_summary['Segment'] = pd.Categorical(segment_summary['Segment'], categories=sort_order, ordered=True)
+        segment_summary = segment_summary.sort_values('Segment')
         
         # Write segment table header
         f.write(f",Accounts,Revenue,Exceptions,Removed{','.join([''] * 11)}\n")
