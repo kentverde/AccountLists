@@ -1,0 +1,75 @@
+﻿Rep Detail Report V2: House,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+38,58384.3,74540.85,38,74540.85,0,0.0,0,0.0,22,3,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 2 Medium Potential: ,7,52967.85,0,0,,,,,,,,,,
+Group 2 High Potential: ,2,14360.0,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,2,2630.0,0,2,,,,,,,,,,
+Group 3 High Potential: ,5,2437.0,0,0,,,,,,,,,,
+Group 3 Low Potential: ,22,2146.0,0,20,,,,,,,,,,
+Totals,38,74540.85,0,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 9 accounts | $67327.85 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1026388,Coastal Interiors (TX),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,House,3190.0,14544.2,1,2,FALSE,N,FALSE,FALSE,N
+1026475,DAmore Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,House,485.0,10884.0,1,2,FALSE,N,FALSE,FALSE,N
+1026480,SK Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,House,3306.0,9113.0,3,11,FALSE,N,FALSE,FALSE,N
+1026457,Studio Eight Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,House,3886.0,9109.0,2,4,FALSE,N,FALSE,FALSE,N
+1026479,Kaycee Conallen Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,House,5684.4,6509.5,5,4,FALSE,N,FALSE,FALSE,N
+1026512,Christine Kommer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ron Kessler,House,408.5,5445.0,1,4,FALSE,N,FALSE,FALSE,N
+1026459,Sarah Bowman Spaces,DESIGN,DESIGN_FIRM,Group 2 High Potential,Wesley Hood,House,525.0,5247.0,1,3,FALSE,N,FALSE,FALSE,N
+1026414,STUDIO DIVO,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,House,560.0,3655.15,1,1,FALSE,N,FALSE,FALSE,N
+1026476,Maeve Design Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,House,0.0,2821.0,0,3,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 7 accounts | $3789.00 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1026358,"Key Interiors Design, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,House,0.0,2220.0,0,2,TRUE,N,FALSE,FALSE,N
+1026493,Seachange Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,House,11227.7,1352.0,7,2,FALSE,N,FALSE,FALSE,N
+1026496,Kelly Colquitt Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,House,0.0,217.0,0,2,TRUE,N,FALSE,FALSE,N
+1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,House,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,House,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026506,Cumberland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,House,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026510,The Sturgeon House Work Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,House,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 22 accounts (3 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1026467,Elements Corporation,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Kyra Williamson,House,6016.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026700,Renee Horst Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Kyra Williamson,House,5789.5,0.0,3,1,FALSE,Y,FALSE,TRUE,N
+1026458,LK Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Kyra Williamson,House,5640.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1026507,Olivia Westbrooks interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Wesley Hood,House,4397.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026478,JANE CLARK INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Kyra Williamson,House,2244.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1026486,Sketch Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Lisa Lowder,House,782.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026501,At Home Design Llc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Carrie Odendahl,House,737.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1026456,CCV INteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Kyra Williamson,House,730.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026461,Design & Dwell Homes LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Anna Hudspeth,House,130.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Kimberly Myers,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,House,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Madison Wolpe,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Madison Wolpe,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Paul Baird,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026471,"Design Etc,",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Wesley Hood,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,House,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026451,Sara Fant Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Anna Hudspeth,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026500,Margaret Shattuck,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Madison Wolpe,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026506,Cumberland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,House,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026503,Christian J Alexander Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Madison Wolpe,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026510,The Sturgeon House Work Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,House,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1026508,Fusion Architectural Interior Design/FAID Procurmt,DESIGN,HOSPITALITY,Group 3 Low Potential,Angela Esposito,House,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,,,,,

@@ -1,0 +1,163 @@
+﻿Rep Detail Report V2: Steve Goldfeder,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:56,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+80,89487.42,203941.8,0,0.0,5,4973.6,0,0.0,33,30,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 2 High Potential: ,11,81591.78,0,0,,,,,,,,,,
+Group 2 Medium Potential: ,13,57553.91,0,0,,,,,,,,,,
+Group 1 High Potential: ,1,29991.97,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,1,19638.0,0,0,,,,,,,,,,
+Group 3 High Potential: ,46,8700.54,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,3,4766.0,2,0,,,,,,,,,,
+Group 3 Low Potential: ,5,1699.6,3,0,,,,,,,,,,
+Totals,80,203941.8,5,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 2 accounts | $49629.97 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1036656,The Farrell Companies,DESIGN,DESIGN_FIRM,Group 1 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,29991.97,0,5,TRUE,N,FALSE,FALSE,N
+1027240,The Beechwood Organization,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Steve Goldfeder,Steve Goldfeder,3920.0,19638.0,1,11,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 24 accounts | $139145.69 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1010911,Devorah Friedman Decor,DESIGN,DESIGN_FIRM,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,16754.26,0,12,TRUE,N,FALSE,FALSE,N
+1035965,Red Thread - Boston,DESIGN,DESIGN_FIRM,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,15748.76,0,6,TRUE,N,FALSE,FALSE,N
+1038201,Maplewood Country Club,DESIGN,HOSPITALITY,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,14825.0,0,2,TRUE,N,FALSE,FALSE,N
+1035083,UBR Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,8714.76,2,0,FALSE,N,FALSE,FALSE,N
+1036969,Wadsworth Design Build,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,6481.7,0,5,TRUE,N,FALSE,FALSE,N
+1036361,RR INTERIORS,DESIGN,DESIGN_FIRM,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,6018.0,0,4,TRUE,N,FALSE,FALSE,N
+1037347,Genesis Flooring Systems,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,5921.0,0,2,TRUE,N,FALSE,FALSE,N
+1014362,Sashya Thind Fernandes,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,7097.0,5738.05,6,4,FALSE,N,FALSE,FALSE,N
+1012675,BHDM Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,8268.0,4996.29,13,2,FALSE,N,FALSE,FALSE,N
+1009510,"Taylor Creative, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,12267.0,4920.0,2,1,FALSE,N,FALSE,FALSE,N
+1020486,"Balongue Design, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,4572.0,0,6,FALSE,N,FALSE,FALSE,N
+1016979,Farrell Flynne,DESIGN,HOSPITALITY,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,4310.0,0,4,FALSE,N,FALSE,FALSE,N
+1010235,Annette Jaffe Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,4176.0,0,2,FALSE,N,FALSE,FALSE,N
+1010367,Vanessa Deleon Associates,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,10702.0,4015.0,7,4,FALSE,N,FALSE,FALSE,N
+1023692,CMR Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,3882.21,0,5,FALSE,N,FALSE,FALSE,N
+1036115,FW Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,3710.0,0,2,TRUE,N,FALSE,FALSE,N
+1037213,W Studio Architects,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,3451.0,0,1,TRUE,N,FALSE,FALSE,N
+1000444,Barbara Gisel Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,3275.0,0,2,FALSE,N,FALSE,FALSE,N
+1006116,Lisa Kanning Interiors dba LKID,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,3167.6,0,1,FALSE,N,FALSE,FALSE,N
+1020001,Little Black House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,455.0,3132.0,1,1,FALSE,N,FALSE,FALSE,N
+1036154,Woods Bagot,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,2937.06,0,1,TRUE,N,FALSE,FALSE,N
+1038437,AOC Purchasing,DESIGN,HOSPITALITY,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,2878.0,0,1,TRUE,N,FALSE,FALSE,N
+1038030,Premier Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,2867.0,0,2,TRUE,N,FALSE,FALSE,N
+1021932,Connors Contract Furniture,DESIGN,HOSPITALITY,Group 2 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,2655.0,0,1,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 49 accounts | $10192.54 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1036341,Carlita Alexander Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,1920.0,0,1,TRUE,N,FALSE,FALSE,N
+1027853,Derrick Damon Design LLC,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,1831.0,0,1,TRUE,N,FALSE,FALSE,N
+1025871,RDL Design Group,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Steve Goldfeder,Steve Goldfeder,0.0,1492.0,0,1,FALSE,N,FALSE,FALSE,N
+1037967,gne Architecture,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,1015.16,0,1,TRUE,N,FALSE,FALSE,N
+1036047,Superette Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,859.88,0,2,TRUE,N,FALSE,FALSE,N
+1035666,Conant Design Group (MA),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,735.0,0,1,TRUE,N,FALSE,FALSE,N
+1035776,ARO,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,660.0,0,1,TRUE,N,FALSE,FALSE,N
+1037922,AOS Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,461.0,0,1,TRUE,N,FALSE,FALSE,N
+1035493,Helen Piteo Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,311.0,0,1,TRUE,N,FALSE,FALSE,N
+1035084,"WA Interiors, Wolstenholme Associates",DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,291.0,0,2,TRUE,N,FALSE,FALSE,N
+1037224,Kushner,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,268.0,0,1,TRUE,N,FALSE,FALSE,N
+1036873,The Turett Collaborative,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,180.0,0,2,TRUE,N,FALSE,FALSE,N
+1036736,Sugarhouse design and architecture,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,136.5,0,1,TRUE,N,FALSE,FALSE,N
+1035397,DIG,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,100.0,0,0,TRUE,N,FALSE,FALSE,N
+1035792,Jackson Creative,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035561,Belso Design and Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026886,Evensonbest,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1037707,LBJ Interior Solutions,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035926,Gensler - Boston,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035801,Bentel & Bentel,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035885,HOK (NY),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035723,Avison Young,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035710,Brookfield Properties,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027120,"Re:Source New Jersey, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,1355.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1036067,MKDA (CT),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036142,C2 Design Group Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036090,Stephen. B Jacobs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036068,Payette Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036189,Morris Adjmi,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036689,GB Design Consultants,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036055,Colliers Phase Zero Design - Hingham,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036059,SCB Solomon Cordwell Buenz (Boston),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036060,CPG Architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038355,bonetti kozerski architecture,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037010,Nazira Shamah Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036323,Pembrooke and IVes,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037059,Yates Restoration Services,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037582,Ovadia Design Group LLC,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037601,west chin architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1037120,Granoff Architects,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037489,Charles Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038637,High Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037661,MR Architecture & Decor,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038221,Verderame Cale Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038285,Chesapeake Bay Club,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038370,PhiBa Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025410,Pembrooke and IVes,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,-20.4,0,0,TRUE,N,FALSE,FALSE,N
+1038346,New York Interiors (via Rosen Equities),DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,-20.4,0,0,TRUE,N,FALSE,FALSE,N
+1036451,Create Architectural Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,-27.2,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 5 accounts | $4973.60 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024604,CFS Group,DESIGN,HOSPITALITY,Group 3 Medium Potential,Steve Goldfeder,Steve Goldfeder,9305.0,2351.0,7,3,FALSE,Y,TRUE,FALSE,N
+1027679,Tenberke,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,7218.5,1636.0,1,1,FALSE,Y,TRUE,FALSE,N
+1026357,Creative Office Resources,DESIGN,HOSPITALITY,Group 3 Medium Potential,Steve Goldfeder,Steve Goldfeder,7414.5,923.0,2,2,FALSE,Y,TRUE,FALSE,N
+1002029,Disalvo Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,8694.0,63.6,1,1,FALSE,Y,TRUE,FALSE,N
+1024075,GS Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,12791.42,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 33 accounts (30 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024075,GS Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,12791.42,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027120,"Re:Source New Jersey, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,1355.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026886,Evensonbest,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035561,Belso Design and Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035710,Brookfield Properties,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035723,Avison Young,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035792,Jackson Creative,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035801,Bentel & Bentel,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035885,HOK (NY),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035926,Gensler - Boston,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036055,Colliers Phase Zero Design - Hingham,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036059,SCB Solomon Cordwell Buenz (Boston),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036060,CPG Architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036067,MKDA (CT),DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036068,Payette Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036090,Stephen. B Jacobs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036142,C2 Design Group Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036189,Morris Adjmi,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036323,Pembrooke and IVes,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036689,GB Design Consultants,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037010,Nazira Shamah Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037059,Yates Restoration Services,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037120,Granoff Architects,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037489,Charles Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037582,Ovadia Design Group LLC,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037601,west chin architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1037661,MR Architecture & Decor,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037707,LBJ Interior Solutions,DESIGN,DESIGN_FIRM,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038221,Verderame Cale Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038285,Chesapeake Bay Club,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038355,bonetti kozerski architecture,DESIGN,HOSPITALITY,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038370,PhiBa Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038637,High Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Steve Goldfeder,Steve Goldfeder,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

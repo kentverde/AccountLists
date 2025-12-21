@@ -1,0 +1,189 @@
+﻿Rep Detail Report V2: Jesse and Larry Gerber,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+122,1126198.29,1328961.12,0,0.0,1,0.0,0,0.0,16,8,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 1 High Potential: ,8,440413.47,0,0,,,,,,,,,,
+Group 2 Medium Potential: ,51,320310.15,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,9,298408.68,0,0,,,,,,,,,,
+Group 2 High Potential: ,31,258857.92,0,0,,,,,,,,,,
+Group 3 High Potential: ,12,3765.0,0,0,,,,,,,,,,
+Group 2 Low Potential: ,1,2885.9,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,1,2255.0,0,0,,,,,,,,,,
+Group 3 Low Potential: ,9,2065.0,1,0,,,,,,,,,,
+Totals,122,1328961.12,1,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | $738822.15 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1010304,Coco Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,132301.0,167122.27,95,132,FALSE,N,FALSE,FALSE,N
+1005211,Blufish Designs,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,108954.85,74301.91,74,74,FALSE,N,FALSE,FALSE,N
+1013197,Benavides Design House,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,42351.2,64908.5,21,37,FALSE,N,FALSE,FALSE,N
+1010296,Joy of Living,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,39752.5,52805.0,46,51,FALSE,N,FALSE,FALSE,N
+1008450,AHD + Co,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,47067.0,42639.68,18,15,FALSE,N,FALSE,FALSE,N
+1020657,AH Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,48637.6,42426.0,29,39,FALSE,N,FALSE,FALSE,N
+1016020,Ellie Mroz Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,32402.0,41075.02,15,24,FALSE,N,FALSE,FALSE,N
+1000366,Creative WaLLCoverings and Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,14432.5,32349.0,10,21,FALSE,N,FALSE,FALSE,N
+1015079,Elements Interior Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,18433.0,31816.0,22,26,FALSE,N,FALSE,FALSE,N
+1011709,Jenny Madden Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,28707.0,29548.0,16,14,FALSE,N,FALSE,FALSE,N
+1000392,Woven Floors,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,50.0,26086.0,2,5,FALSE,N,FALSE,FALSE,N
+1011600,Palisade Furniture,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,45586.6,25538.7,57,41,FALSE,N,FALSE,FALSE,N
+1018958,The Saltwater House,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,20932.2,24365.32,19,20,FALSE,N,FALSE,FALSE,N
+1024238,B. Oliver Designs DBA The Spotted Whale,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,14536.9,22803.49,35,35,FALSE,N,FALSE,FALSE,N
+1017837,The Style Studio LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7270.4,21516.7,11,6,FALSE,N,FALSE,FALSE,N
+1020278,STYLED BY STORMS LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,24755.35,21309.58,3,10,FALSE,N,FALSE,FALSE,N
+1012270,Mimi and Hill,DESIGN,DESIGN_FIRM,Group 1 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,9222.0,18210.98,4,8,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 83 accounts | $582053.97 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1009979,Jennifer Busler Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7391.29,17684.0,9,6,FALSE,N,FALSE,FALSE,N
+1013294,Noa Blake Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,22872.57,17086.48,10,15,FALSE,N,FALSE,FALSE,N
+1002000,Red Chair,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,9045.0,16935.64,12,9,FALSE,N,FALSE,FALSE,N
+1010784,D and G Interiors + Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,8068.6,16043.35,7,7,FALSE,N,FALSE,FALSE,N
+1024005,a sloan design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3933.0,15062.0,4,12,FALSE,N,FALSE,FALSE,N
+1013497,Sharon Goldberg Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,17198.7,14875.0,12,7,FALSE,N,FALSE,FALSE,N
+1012495,Re-Feather Your Nest (NJ),DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3266.0,14726.0,4,9,FALSE,N,FALSE,FALSE,N
+1004855,CYS Design (Butter & Velvet),DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,12687.5,14557.0,12,10,FALSE,N,FALSE,FALSE,N
+1006040,"Evenflow Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,12625.8,14076.75,11,10,FALSE,N,FALSE,FALSE,N
+1019041,Colette Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,31872.0,12868.0,23,15,FALSE,N,FALSE,FALSE,N
+1009482,Gerts House of Style,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,12833.24,2,6,FALSE,N,FALSE,FALSE,N
+1015698,Karin Eckerson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,8307.0,12234.8,5,8,FALSE,N,FALSE,FALSE,N
+1012230,Britt Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,38916.8,12070.94,22,7,FALSE,N,FALSE,FALSE,N
+1034983,GJ Living,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,685.0,11804.9,2,18,FALSE,N,FALSE,FALSE,N
+1010873,"Award Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,11557.23,10865.84,16,10,FALSE,N,FALSE,FALSE,N
+1010372,Acker Bryant Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7965.0,10605.5,9,8,FALSE,N,FALSE,FALSE,N
+1012194,Decorative Touch,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,11805.0,10251.0,19,10,FALSE,N,FALSE,FALSE,N
+1003533,Kbw and Associates-Karen Wolf Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1554.0,10019.0,2,8,FALSE,N,FALSE,FALSE,N
+1000393,Zaksons,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3235.0,9509.0,4,9,FALSE,N,FALSE,FALSE,N
+1014477,Alexis Hughes & Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7104.1,9433.76,4,8,FALSE,N,FALSE,FALSE,N
+1024689,Unearthed Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,4632.7,9277.97,10,7,FALSE,N,FALSE,FALSE,N
+1012383,Perkin Design Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2351.5,8935.06,5,8,FALSE,N,FALSE,FALSE,N
+1005089,Victoria Balson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,6748.0,8892.04,3,4,FALSE,N,FALSE,FALSE,N
+1010676,KL Interiors LLC (NJ),DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,425.0,8435.0,1,4,FALSE,N,FALSE,FALSE,N
+1021140,Christie Perham Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2376.0,8431.0,4,7,FALSE,N,FALSE,FALSE,N
+1019647,nest (NJ),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,8313.0,0,3,FALSE,N,FALSE,FALSE,N
+1014062,Melissa Peel Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7790.0,8113.5,13,12,FALSE,N,FALSE,FALSE,N
+1004695,Schwartz Design Showroom,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,26807.77,7494.73,20,18,FALSE,N,FALSE,FALSE,N
+1027174,soft furnishings by stephanie,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,7320.3,0,4,TRUE,N,FALSE,FALSE,N
+1006121,Tracy Pearce Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,4451.81,7219.77,4,7,FALSE,N,FALSE,FALSE,N
+1003331,"Fazzio Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,14862.8,7163.5,23,14,FALSE,N,FALSE,FALSE,N
+1011394,Creative Works,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,4922.0,6979.5,10,6,FALSE,N,FALSE,FALSE,N
+1013827,Realm Designs Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1601.75,6844.0,2,2,FALSE,N,FALSE,FALSE,N
+1010590,Judy King Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1376.0,6696.0,3,4,FALSE,N,FALSE,FALSE,N
+1009855,Exquisite Design (NJ),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,6476.58,0,2,FALSE,N,FALSE,FALSE,N
+1013406,Agape Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3310.0,6455.7,1,5,FALSE,N,FALSE,FALSE,N
+1012988,TC Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1030.0,6440.0,3,2,FALSE,N,FALSE,FALSE,N
+1001069,Ashton-Whyte,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2400.0,6406.45,0,3,FALSE,N,FALSE,FALSE,N
+1004837,Carisa Mahnken Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,6376.5,0,2,FALSE,N,FALSE,FALSE,N
+1006453,The Beach Home NJ LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,192.0,6329.2,1,4,FALSE,N,FALSE,FALSE,N
+1004160,"Adler Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,5026.0,5948.84,7,2,FALSE,N,FALSE,FALSE,N
+1014260,Ricciardi Brothers Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3196.8,5863.0,8,6,FALSE,N,FALSE,FALSE,N
+1011119,Flynn Thoughts Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,9560.2,5477.5,9,3,FALSE,N,FALSE,FALSE,N
+1035483,British Home Emporium,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,5329.0,0,8,TRUE,N,FALSE,FALSE,N
+1016339,LALIBERTE INTERIORS LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,13697.4,5293.52,8,2,FALSE,N,FALSE,FALSE,N
+1006026,Jill Ryan Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,7869.5,4937.0,11,9,FALSE,N,FALSE,FALSE,N
+1026989,Townehaus,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,537.0,4870.0,2,6,FALSE,N,FALSE,FALSE,N
+1022344,Pamela Hillner Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4758.0,0,3,FALSE,N,FALSE,FALSE,N
+1015563,The Briant Group LLC operating as HALDEN Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4710.0,0,4,FALSE,N,FALSE,FALSE,N
+1035158,HCO Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1589.0,4707.6,2,2,FALSE,N,FALSE,FALSE,N
+1013155,"Uniquely Anew, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1450.0,4681.0,1,4,FALSE,N,FALSE,FALSE,N
+1037900,Roost and Company LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4637.7,0,5,TRUE,N,FALSE,FALSE,N
+1011569,Michael Mariotti Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4581.0,0,4,TRUE,N,FALSE,FALSE,N
+1001157,Interiors at 40 Main,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,8446.1,4497.0,7,7,FALSE,N,FALSE,FALSE,N
+1010892,ID 810 Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1450.0,4367.0,1,2,FALSE,N,FALSE,FALSE,N
+1016656,Studio23 Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4334.96,0,3,FALSE,N,FALSE,FALSE,N
+1011105,Dulce Feito-Daly LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,256.0,4308.0,1,3,FALSE,N,FALSE,FALSE,N
+1010315,Michael Felice Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,1835.2,4298.7,3,7,FALSE,N,FALSE,FALSE,N
+1017775,Cecilia B Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4121.0,0,2,FALSE,N,FALSE,FALSE,N
+1036202,Bridget Catherine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4080.0,0,5,TRUE,N,FALSE,FALSE,N
+1011878,"Elizabeth Guest Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,4000.0,0,1,FALSE,N,FALSE,FALSE,N
+1010543,iDesign Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3649.0,3910.0,2,2,FALSE,N,FALSE,FALSE,N
+1006479,Rachael Liberman Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,-1420.0,3872.0,0,2,FALSE,N,FALSE,FALSE,N
+1016087,"Decorated Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,6475.0,3830.0,2,2,FALSE,N,FALSE,FALSE,N
+1011622,"Violet's Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2202.0,3588.0,1,3,FALSE,N,FALSE,FALSE,N
+1037747,White House Luxe Uptown Country,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,3576.5,0,2,TRUE,N,FALSE,FALSE,N
+1035157,7B Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,3575.0,0,3,FALSE,N,FALSE,FALSE,N
+1035257,Gold Marked Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,3511.7,0,3,TRUE,N,FALSE,FALSE,N
+1016753,ECID,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,3439.0,0,1,TRUE,N,FALSE,FALSE,N
+1010710,P Smith Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,15958.1,3395.72,24,4,FALSE,N,FALSE,FALSE,N
+1005488,DW Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,419.4,3393.0,2,3,FALSE,N,FALSE,FALSE,N
+1011772,Demi Horn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,113.0,3195.0,1,1,FALSE,N,FALSE,FALSE,N
+1020344,Jute Design House LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2079.0,3187.0,3,4,FALSE,N,FALSE,FALSE,N
+1022127,"David Muller Interiors,LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,6511.0,2984.0,8,6,FALSE,N,FALSE,FALSE,N
+1010034,"Robert Jennings Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,17554.93,2956.5,12,6,FALSE,N,FALSE,FALSE,N
+1010216,SS Jesse and Larry Gerber,INTERNAL,SALES_REP,Group 2 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,4910.75,2885.9,2,4,FALSE,N,FALSE,FALSE,N
+1010656,Granert Interior Planning,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3302.9,2875.0,3,1,FALSE,N,FALSE,FALSE,N
+1010310,Designer's Resource (NJ),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,4135.0,2872.5,7,1,FALSE,N,FALSE,FALSE,N
+1010335,Girard Home Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,2247.0,2782.0,3,3,FALSE,N,FALSE,FALSE,N
+1010697,Storer Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,8612.0,2675.5,6,3,FALSE,N,FALSE,FALSE,N
+1021299,Studio Envie,DESIGN,DESIGN_FIRM,Group 2 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,2555.2,0,4,FALSE,N,FALSE,FALSE,N
+1013152,Laurie Digiacomo Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3889.9,2527.13,3,3,FALSE,N,FALSE,FALSE,N
+1010350,Red Bank Design Center,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,11968.19,2524.5,10,7,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 21 accounts | $8085.00 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1008261,Garret Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3631.5,2255.0,4,4,FALSE,N,FALSE,FALSE,N
+1002013,Complete Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,3245.0,2065.0,2,1,FALSE,N,FALSE,FALSE,N
+1012684,AIM Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,1640.0,0,3,TRUE,N,FALSE,FALSE,N
+1036877,Stone and Birch,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,915.0,0,1,TRUE,N,FALSE,FALSE,N
+1037687,Kash Studio Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,790.0,0,2,TRUE,N,FALSE,FALSE,N
+1023442,Emma Lynn Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,420.0,0,1,TRUE,N,FALSE,FALSE,N
+1010303,Design Consultants (NJ),DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1001627,"Ross and Ross, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,494.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008610,Creative Window Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014022,Ivanka's Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021928,Shehadi Commercial Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013663,Route 9 Wickery Inc - The Wickery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011434,Kelley Karpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026176,MY WAY CARPET INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023443,Lauren Hope Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036584,"Lotus Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026229,BESPOKE home + life,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,913.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1037319,justin odle Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037989,"Kaleidoscope Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038072,Optimum Flooring,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038357,JS Interior Design dba JS Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 1 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1010793,Lawrence-Mayer Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,29634.9,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 16 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1010793,Lawrence-Mayer Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,29634.9,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+1026229,BESPOKE home + life,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,913.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001627,"Ross and Ross, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,494.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008610,Creative Window Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013663,Route 9 Wickery Inc - The Wickery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014022,Ivanka's Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1010303,Design Consultants (NJ),DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1011434,Kelley Karpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023443,Lauren Hope Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021928,Shehadi Commercial Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026176,MY WAY CARPET INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1036584,"Lotus Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037319,justin odle Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037989,"Kaleidoscope Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038072,Optimum Flooring,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038357,JS Interior Design dba JS Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Jesse and Larry Gerber,Jesse and Larry Gerber,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

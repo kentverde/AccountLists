@@ -1,0 +1,43 @@
+﻿Rep Detail Report V2: Ryan Rawlinson,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+3,0.0,0.0,0,0.0,3,0.0,3,0.0,3,0,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 3 High Potential: ,3,0.0,3,0,,,,,,,,,,
+Totals,3,0.0,3,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 3 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1037268,Sketchbook Collaborative,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038682,SS  Ryan Rawlinson (GA),Design,Independent Designer,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038748,Cortland Design,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SF EX BI ACCOUNTS (DORMANT): 3 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(In Salesforce but not in BI - no transaction data),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1037268,Sketchbook Collaborative,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038682,SS  Ryan Rawlinson (GA),Design,Independent Designer,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038748,Cortland Design,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 3 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1037268,Sketchbook Collaborative,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038682,SS  Ryan Rawlinson (GA),Design,Independent Designer,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038748,Cortland Design,Design,Design Firm,Group 3 High Potential,Ryan Rawlinson,Ryan Rawlinson,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,

@@ -5,25 +5,31 @@ Generates summary and rep detail reports for the "Set the Floor" initiative.
 ## Overview
 
 This project processes account segmentation data to:
-1. Apply territory alignment (Inside Sales rep reassignments)
-2. Apply floor removal (Group 3 DESIGN accounts for non-2025 customers)
-3. Generate a summary report by rep
-4. Generate individual rep detail reports
-5. Validate totals match input data
+1. Compare before/after account assignments (territory alignment)
+2. Identify account movements and alignment impacts
+3. Track floor exceptions and dormant accounts
+4. Generate a summary report by rep
+5. Generate individual rep detail reports
+6. Validate totals match input data
+
+## Versions
+
+- **V2** (Current): Uses `Final_Rep_Name` as authoritative source; includes floor exceptions and SF ex BI tracking
+- **V1** (Legacy): Uses Inside Sales logic with `Re-Assigned_Rep_Name`
 
 ## Usage
 
 ```bash
-python generate_reports.py [input_file] [output_directory]
+python generate_reports_v2.py [input_file] [output_directory]
 ```
 
 **Defaults:**
-- `input_file`: `Account_Segmentation_V3_3_Final.csv`
+- `input_file`: `Account_Segmentation_V3_3_Final_SOT_12-21-25.csv`
 - `output_directory`: `./reports`
 
 **Example:**
 ```bash
-python generate_reports.py Account_Segmentation_V3_3_Final.csv ./reports
+python generate_reports_v2.py Account_Segmentation_V3_3_Final_SOT_12-21-25.csv ./reports
 ```
 
 ## Notes
@@ -34,49 +40,88 @@ python generate_reports.py Account_Segmentation_V3_3_Final.csv ./reports
 - Excel: If you open the CSV in Microsoft Excel and characters look garbled,
   re-open the file using Excel's "From Text/CSV" import option and set the
   file encoding to UTF-8.
-- Output location: The summary report is written to `reports/Rep_Level_Impacts_2025_Summary.csv`
-  and individual rep detail files are in `reports/rep_details/`.
+- Output location: The summary report is written to `reports/Rep_Level_Impacts_2025_Summary_V2.csv`
+  and individual rep detail files are in `reports/rep_details/` (with `_v2` suffix).
 
 ## Output Files
 
 ### Summary Report
-`reports/Rep_Level_Impacts_2025_Summary.csv`
+`reports/Rep_Level_Impacts_2025_Summary_V2.csv`
 
 One row per rep showing:
-- Starting revenue/accounts (2024, 2025)
-- Account changes from territory alignment
-- Post-alignment revenue/accounts
-- Floor impact (Design accounts removed)
-- Final revenue/accounts after floor removal
-- Zero revenue new 2025 account counts
+- **Before State**: Starting accounts/revenue (using `Assigned_Rep_Name`)
+- **Account Movement**: How many accounts moved in/out and revenue impact
+- **After State**: Final accounts/revenue (using `Final_Rep_Name`)
+- **Floor Exceptions**: BTF='Y' accounts kept as exceptions (not removed)
+- **SF ex BI Accounts**: Dormant accounts in Salesforce but not in BI
+- **Zero Revenue**: New 2025 customers with $0 revenue
 
 ### Rep Detail Reports
-`reports/rep_details/{Rep_Name}_detail.csv`
+`reports/rep_details/{Rep_Name}_detail_v2.csv`
 
 One file per rep containing:
-- Summary metrics at top
-- Breakdown by segment (Group + Potential)
-- Group 1 (HIGH_REVENUE) accounts - keeping
-- Group 2 (MID_REVENUE) accounts - keeping
-- Group 3 (LOW_REVENUE) accounts - keeping (protected)
-- Group 3 (LOW_REVENUE) accounts - losing (floor removed)
-- Zero revenue accounts (separate visibility)
+- **Summary Metrics**: Total accounts, revenue, movements, exceptions
+- **Segment Breakdown**: Accounts and revenue by segment
+- **Group 1 (HIGH_REVENUE)**: All HIGH_REVENUE accounts (always kept)
+- **Group 2 (MID_REVENUE)**: All MID_REVENUE accounts (always kept)
+- **Group 3 (LOW_REVENUE)**: Protected LOW_REVENUE accounts (not flagged for removal)
+- **Floor Exceptions**: BTF='Y' but account was kept with original rep
+- **SF ex BI (Dormant)**: Accounts in Salesforce but with no transaction data
+- **Zero Revenue**: Separate section highlighting $0 revenue accounts
 
 ## Business Logic
 
-### Territory Alignment
-- **Inside Sales reps**: Accounts move from `Assigned_Rep_Name` to `Re-Assigned_Rep_Name`
-- **All other rep types**: Accounts stay with `Assigned_Rep_Name`
+### Before vs After State
 
-### "Set the Floor" Initiative
-Accounts are removed from reps if ALL conditions are true:
-- `Revenue_Tier = LOW_REVENUE` (Group 3)
-- `Segment = DESIGN`
-- `Customer_Since_Date` year ≠ 2025 (not a new customer)
+**BEFORE (Assigned_Rep_Name):**
+- Where accounts started (original assignment)
 
-**Protected accounts** (not removed):
-- Non-DESIGN segment accounts
-- New 2025 customers (regardless of segment)
+**AFTER (Final_Rep_Name):**
+- Where accounts ended (authoritative final assignment)
+- Includes all moves, exceptions, and assignments
+
+### Account Movement Categories
+
+1. **Moved Accounts**: `Assigned_Rep_Name` ≠ `Final_Rep_Name`
+   - Accounts transferred from one rep to another
+
+2. **Floor Removed (BTF='Y' AND Moved)**: 
+   - Flagged for removal AND moved away from original rep
+   - Accounts removed from below-the-floor reps
+
+3. **Floor Exceptions (BTF='Y' BUT NOT Moved)**:
+   - Flagged for removal BUT kept with original rep
+   - Exceptions made to the floor policy
+
+4. **SF ex BI (In SF ex BI='Y')**:
+   - In Salesforce but not in BI (no transaction data)
+   - Dormant/inactive accounts being tracked separately
+
+5. **Zero Revenue (Total_Rev_2025 = $0)**:
+   - No revenue in 2025 (may be new customers or inactive)
+   - Flagged for special attention
+
+### Input Column Requirements
+
+**New V2 Columns:**
+- `Final_Rep_Name`: The authoritative final rep after all assignments
+- `BTF`: Y/N flag indicating "Below The Floor" account
+- `In SF ex BI`: Y/N flag for Salesforce-only accounts (no BI transaction data)
+
+**Existing Columns (still required):**
+- `Customer No.`, `Account_Name`
+- `Segment`, `Sub_Segment`
+- `Assigned_Rep_Name`, `Rep_Type`
+- `Customer_Since_Date` (M/D/YYYY format)
+- `Revenue_Tier`, `Potential_Tier`
+- `Total_Rev_2024`, `Total_Rev_2025`
+- `Orders_2024`, `Orders_2025`
+
+### Special Handling
+- Blank `Assigned_Rep_Name` or `Final_Rep_Name` → replaced with "House"
+- BTF and SF ex BI flags → standardized to uppercase Y/N
+- Missing revenue/order values → filled with 0
+- New 2025 customers (`Customer_Since_Date` year = 2025) → tracked separately
 
 ### Segment Naming Convention
 | Revenue Tier | Group Name |
@@ -89,41 +134,35 @@ Combined with Potential Tier for full segment label:
 - "Group 1 High Potential", "Group 1 Medium Potential", "Group 1 Low Potential"
 - "Group 2 High Potential", etc.
 
+## Data Processing Steps
+
+1. **Load & Preprocess**: Read CSV, clean rep names, parse dates, add helper columns
+2. **Identify Movements**: Compare Assigned_Rep vs Final_Rep to detect changes
+3. **Categorize Accounts**: Classify by floor status, exceptions, and SF ex BI
+4. **Generate Summary**: Create rep-level before/after comparison
+5. **Generate Details**: Create individual rep reports with account breakdowns
+6. **Validate**: Confirm total revenue matches input data
+
 ## Data Notes
 
 ### Account Counting Methodology
-This script counts **all accounts** including those with $0 revenue in 2025. This differs from the Power BI reference report which excluded $0 revenue accounts from counts.
+This script counts **all accounts** including those with $0 revenue in 2025.
 
-| Metric | This Script | Power BI Report |
-|--------|-------------|-----------------|
-| Account counts | All accounts | Only accounts with Rev 2025 ≠ 0 |
-| Revenue totals | All accounts | All accounts |
-| Floor removal counts | All accounts | Only accounts with Rev 2025 ≠ 0 |
-
-**Revenue totals match exactly** between both approaches.
-
-### Input File Requirements
-- CSV format with headers
-- Required columns:
-  - `Account_ID`, `Account_Name`
-  - `Segment`, `Sub_Segment`
-  - `Assigned_Rep_Name`, `Re-Assigned_Rep_Name`, `Rep_Type`
-  - `Customer_Since_Date` (M/D/YYYY format)
-  - `Revenue_Tier`, `Potential_Tier`
-  - `Total_Rev_2024`, `Total_Rev_2025`
-  - `Orders_2024`, `Orders_2025`
-
-### Special Handling
-- Blank `Assigned_Rep_Name` or `Re-Assigned_Rep_Name` → replaced with "House"
-- `Final_Rep_Name` column added if not present (for future use)
+| Category | Count Method |
+|----------|--------------|
+| All accounts | Includes $0 revenue |
+| Moved accounts | Based on Assigned vs Final rep |
+| Floor exceptions | BTF='Y' AND Assigned_Rep = Final_Rep |
+| Floor removed | BTF='Y' AND Assigned_Rep ≠ Final_Rep |
+| SF ex BI | SF ex BI flag = 'Y' |
 
 ## Validation
 
 The script validates that:
-- Input total Rev 2025 = Summary report total
-- Input total Rev 2025 = Sum of all rep detail reports
+- Input total Rev 2025 = Summary report total (all reps combined)
+- Totals are consistent across all processing steps
 
-Validation errors will cause the script to exit with code 1.
+Validation errors will cause the script to exit with code 1 and display error details.
 
 ## Requirements
 

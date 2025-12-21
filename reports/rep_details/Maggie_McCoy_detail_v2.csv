@@ -1,0 +1,332 @@
+﻿Rep Detail Report V2: Maggie McCoy,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+111,77456.5,314247.44,0,0.0,74,0.0,77,0.0,88,7,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 1 High Potential: ,2,143867.65,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,2,58748.0,0,0,,,,,,,,,,
+Group 2 Medium Potential: ,8,57366.28,0,0,,,,,,,,,,
+Group 2 High Potential: ,5,48004.62,0,0,,,,,,,,,,
+Group 3 High Potential: ,89,4954.29,73,0,,,,,,,,,,
+Group 3 Medium Potential: ,1,1306.6,0,0,,,,,,,,,,
+Group 3 Low Potential: ,4,0.0,1,0,,,,,,,,,,
+Totals,111,314247.44,74,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | $202615.65 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1034825,SLATE PROCUREMENT,DESIGN,HOSPITALITY,Group 1 High Potential,Maggie McCoy,Maggie McCoy,0.0,123547.5,0,2,TRUE,N,FALSE,FALSE,N
+1024645,AJ Capital Partners,DESIGN,HOSPITALITY,Group 1 Medium Potential,Maggie McCoy,Maggie McCoy,0.0,34000.0,1,0,FALSE,N,FALSE,FALSE,N
+1035477,Striv Designs,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Maggie McCoy,Maggie McCoy,3270.0,24748.0,1,2,FALSE,N,FALSE,FALSE,N
+1027055,"Sketch Blue, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,Maggie McCoy,Maggie McCoy,2450.0,20320.15,4,7,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 13 accounts | $105370.90 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1012508,Centaur Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,8845.0,13280.16,10,4,FALSE,N,FALSE,FALSE,N
+1027868,Aubrie Welsh Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,7955.0,12609.4,4,7,FALSE,N,FALSE,FALSE,N
+1035248,SOM DESIGN STUDIO,DESIGN,DESIGN_FIRM,Group 2 High Potential,Maggie McCoy,Maggie McCoy,0.0,11828.0,0,9,TRUE,N,FALSE,FALSE,N
+1035035,West End Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Maggie McCoy,Maggie McCoy,0.0,11311.0,0,8,FALSE,N,FALSE,FALSE,N
+1037067,Continua Interiors,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Maggie McCoy,Maggie McCoy,0.0,10250.0,0,5,TRUE,N,FALSE,FALSE,N
+1017316,RIEKE INTERIORS,DESIGN,DESIGN_FIRM,Group 2 High Potential,Maggie McCoy,Maggie McCoy,7156.0,7733.62,3,7,FALSE,N,FALSE,FALSE,N
+1028011,Architectures SP,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,7248.0,7432.5,2,3,FALSE,N,FALSE,FALSE,N
+1001987,American Interiors Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Maggie McCoy,Maggie McCoy,3889.0,6882.0,7,9,FALSE,N,FALSE,FALSE,N
+1034754,Macco's Commercial Interiors,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,0.0,6558.1,2,0,FALSE,N,FALSE,FALSE,N
+1035121,The Champion Companies,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,12236.0,6083.0,1,4,FALSE,N,FALSE,FALSE,N
+1017147,"CONSOLIDATED FLOORING OF CHICAGO, LLC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,0.0,3992.0,0,2,FALSE,N,FALSE,FALSE,N
+1016837,Flooring Resources Corporation,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,815.0,3741.12,1,1,FALSE,N,FALSE,FALSE,N
+1034760,Vector Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Maggie McCoy,Maggie McCoy,1926.0,3670.0,1,1,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts | $6260.89 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1037417,Kristine Kay Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,2006.0,0,1,TRUE,N,FALSE,FALSE,N
+1038053,Mathison Mathison Architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,1765.0,0,1,TRUE,N,FALSE,FALSE,N
+1015671,FLOORSMD LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Maggie McCoy,Maggie McCoy,0.0,1306.6,0,3,FALSE,N,FALSE,FALSE,N
+1035777,BOS of Illinois,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,419.4,0,1,TRUE,N,FALSE,FALSE,N
+1037165,VSA Interiors,DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,406.5,0,2,TRUE,N,FALSE,FALSE,N
+1036758,Dunne Kozlowski,DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,357.39,0,1,TRUE,N,FALSE,FALSE,N
+1013938,Henricksen & Co Inc,DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1023699,Pigott,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025446,Atmosphere Commercial Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,8515.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1036561,Ameena Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026299,BUSINESS FURNITURE LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,5530.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1036380,SS Maggie McCoy,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1037641,OKW Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038219,Benjamin West(IL),DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038304,ParkFowler Plus,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038752,Mcintosh Poris Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018602,Noland Sales Corporation,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027221,Macco's Commercial Interiors,Retail,Multiple locations,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027779,Ready Tile LLC,Retail,Store Home Decor or LifeStyle,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038115,Above the Rest Floors and More LLC,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 74 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1026084,ESG Architecture & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,7621.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1002995,Jewish Community Ctr Of Grtr Columbus,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004036,Niche Corp dba Simeone Deary,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004945,"McRoyal Industries, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1005543,White Lodging Services Corp #0075,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1007816,Temple Square Interiors,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008002,"Salma Trading, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009280,"Rowland Design, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009681,J Price Architecture (JPA),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011182,McIntosh Poris Associates,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011972,Inn at the Park,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012388,"Furniture Industries, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012561,Kara Mann,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1014788,NM Hospitality,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1015637,Virtuoso Design Build,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017267,ACW DESIGN LLC,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017354,Gary Lee Partners,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018735,"Palmer Hamilton, LLC",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020266,Aria's Blossom,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020764,"Luminesio, LLC",Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022294,"Meghan Dawn Tucker Design, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022449,Luminaut Rowland,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022471,Lokre Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024243,Coen + Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024972,KTGY Simeone Deary Design Grou,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025903,"Studio HM, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025913,Steffes Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026345,ROSSETTI,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026384,Method Co,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026948,Minasian,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027015,Noah Properties,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027027,Aspen Group,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027140,Gil Melott Studio,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027239,www.gensler.com,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027263,J. Jordan Homes,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027270,CBRE Design Collective,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027416,Wyattjoel Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027418,Grayspace Architecture,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027467,JBAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027512,Milestone,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027649,EDI International,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027673,Ted Moudis Associates(IL),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027860,Garnett Architects LLC,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027904,Pierre-Yves Rochon,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028026,Castell,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028090,Coscia Moos,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034765,DUPLICATE DONOT USE Atmosphere Commercial Interior,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034870,RCF Group,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034921,Wright Heerema Architects,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034937,EquipmentShare,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034939,Altus Studios,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035012,ARCHITECTURE RL,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035044,Cornerstone Architects,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035284,DXU Architects,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035419,Progressive Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035437,Meyers Associates Architecture,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035679,Guidobono Building Company,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036404,Populous (Kansas City),Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036621,Throughline by IIG,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036622,Siren Betty Design,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037009,Ababode,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037349,Bowery & Bash Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037562,Houtteman Interiors,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037652,Studio Grey,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037694,Interiors for Business,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037764,moss design,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038051,PFW Designs,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038090,MDC Interior Solutions,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038155,Value Plus Flooring,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038172,Ideation Studio Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038337,Furniture Industries,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038510,Corgan,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038756,STUDIO TRIAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038788,BOX Studios,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SF EX BI ACCOUNTS (DORMANT): 77 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(In Salesforce but not in BI - no transaction data),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002995,Jewish Community Ctr Of Grtr Columbus,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004036,Niche Corp dba Simeone Deary,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004945,"McRoyal Industries, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1005543,White Lodging Services Corp #0075,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1007816,Temple Square Interiors,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008002,"Salma Trading, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009280,"Rowland Design, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009681,J Price Architecture (JPA),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011182,McIntosh Poris Associates,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011972,Inn at the Park,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012388,"Furniture Industries, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012561,Kara Mann,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1014788,NM Hospitality,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1015637,Virtuoso Design Build,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017267,ACW DESIGN LLC,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017354,Gary Lee Partners,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018602,Noland Sales Corporation,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1018735,"Palmer Hamilton, LLC",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020266,Aria's Blossom,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020764,"Luminesio, LLC",Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022294,"Meghan Dawn Tucker Design, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022449,Luminaut Rowland,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022471,Lokre Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024243,Coen + Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024972,KTGY Simeone Deary Design Grou,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025903,"Studio HM, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025913,Steffes Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026345,ROSSETTI,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026384,Method Co,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026948,Minasian,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027015,Noah Properties,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027027,Aspen Group,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027140,Gil Melott Studio,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027221,Macco's Commercial Interiors,Retail,Multiple locations,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027239,www.gensler.com,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027263,J. Jordan Homes,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027270,CBRE Design Collective,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027416,Wyattjoel Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027418,Grayspace Architecture,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027467,JBAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027512,Milestone,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027649,EDI International,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027673,Ted Moudis Associates(IL),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027779,Ready Tile LLC,Retail,Store Home Decor or LifeStyle,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027860,Garnett Architects LLC,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027904,Pierre-Yves Rochon,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028026,Castell,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028090,Coscia Moos,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034765,DUPLICATE DONOT USE Atmosphere Commercial Interior,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034870,RCF Group,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034921,Wright Heerema Architects,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034937,EquipmentShare,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034939,Altus Studios,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035012,ARCHITECTURE RL,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035044,Cornerstone Architects,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035284,DXU Architects,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035419,Progressive Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035437,Meyers Associates Architecture,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035679,Guidobono Building Company,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036404,Populous (Kansas City),Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036621,Throughline by IIG,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036622,Siren Betty Design,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037009,Ababode,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037349,Bowery & Bash Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037562,Houtteman Interiors,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037652,Studio Grey,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037694,Interiors for Business,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037764,moss design,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038051,PFW Designs,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038090,MDC Interior Solutions,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038115,Above the Rest Floors and More LLC,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038155,Value Plus Flooring,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038172,Ideation Studio Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038337,Furniture Industries,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038510,Corgan,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038756,STUDIO TRIAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038788,BOX Studios,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 88 accounts (7 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1025446,Atmosphere Commercial Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,8515.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1026084,ESG Architecture & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,7621.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1026299,BUSINESS FURNITURE LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,5530.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1013938,Henricksen & Co Inc,DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1023699,Pigott,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1036380,SS Maggie McCoy,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036561,Ameena Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037641,OKW Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038219,Benjamin West(IL),DESIGN,HOSPITALITY,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038304,ParkFowler Plus,DESIGN,DESIGN_FIRM,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038752,Mcintosh Poris Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002995,Jewish Community Ctr Of Grtr Columbus,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004036,Niche Corp dba Simeone Deary,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004945,"McRoyal Industries, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1005543,White Lodging Services Corp #0075,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1007816,Temple Square Interiors,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008002,"Salma Trading, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009280,"Rowland Design, Inc.",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009681,J Price Architecture (JPA),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011182,McIntosh Poris Associates,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011972,Inn at the Park,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012388,"Furniture Industries, Inc.",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012561,Kara Mann,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1014788,NM Hospitality,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1015637,Virtuoso Design Build,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017267,ACW DESIGN LLC,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017354,Gary Lee Partners,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018602,Noland Sales Corporation,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1018735,"Palmer Hamilton, LLC",Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020266,Aria's Blossom,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020764,"Luminesio, LLC",Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022294,"Meghan Dawn Tucker Design, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022449,Luminaut Rowland,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022471,Lokre Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024243,Coen + Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024972,KTGY Simeone Deary Design Grou,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025903,"Studio HM, LLC",Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025913,Steffes Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026345,ROSSETTI,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026384,Method Co,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026948,Minasian,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027015,Noah Properties,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027027,Aspen Group,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027140,Gil Melott Studio,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027221,Macco's Commercial Interiors,Retail,Multiple locations,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027239,www.gensler.com,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027263,J. Jordan Homes,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027270,CBRE Design Collective,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027416,Wyattjoel Partners,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027418,Grayspace Architecture,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027467,JBAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027512,Milestone,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027649,EDI International,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027673,Ted Moudis Associates(IL),Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027779,Ready Tile LLC,Retail,Store Home Decor or LifeStyle,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027860,Garnett Architects LLC,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027904,Pierre-Yves Rochon,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028026,Castell,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028090,Coscia Moos,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034765,DUPLICATE DONOT USE Atmosphere Commercial Interior,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034870,RCF Group,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034921,Wright Heerema Architects,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034937,EquipmentShare,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034939,Altus Studios,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035012,ARCHITECTURE RL,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035044,Cornerstone Architects,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035284,DXU Architects,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035419,Progressive Companies,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035437,Meyers Associates Architecture,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035679,Guidobono Building Company,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036404,Populous (Kansas City),Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036621,Throughline by IIG,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036622,Siren Betty Design,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037009,Ababode,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037349,Bowery & Bash Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037562,Houtteman Interiors,Design,Independent Designer,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037652,Studio Grey,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037694,Interiors for Business,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037764,moss design,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038051,PFW Designs,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038090,MDC Interior Solutions,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038115,Above the Rest Floors and More LLC,Retail,Single location,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038155,Value Plus Flooring,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038172,Ideation Studio Inc.,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038337,Furniture Industries,Design,Hospitality,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038510,Corgan,Design,Architect/Builder,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038756,STUDIO TRIAD,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038788,BOX Studios,Design,Design Firm,Group 3 High Potential,Maggie McCoy,Maggie McCoy,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,,,,,

@@ -1,0 +1,611 @@
+﻿Rep Detail Report V2: Kyra Williamson,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+472,1719775.93,2719189.01,304,1682569.19,2,2407.0,0,0.0,89,47,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 2 Medium Potential: ,197,1246191.57,0,0,,,,,,,,,,
+Group 2 High Potential: ,84,600946.16,0,0,,,,,,,,,,
+Group 1 High Potential: ,19,560180.66,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,8,223815.64,0,0,,,,,,,,,,
+Group 3 High Potential: ,102,50943.0,0,0,,,,,,,,,,
+Group 2 Low Potential: ,6,23500.11,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,9,10894.6,1,0,,,,,,,,,,
+Group 3 Low Potential: ,47,2717.27,1,1,,,,,,,,,,
+Totals,472,2719189.01,2,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 27 accounts | $783996.30 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1007552,Artistic Home Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Kyra Williamson,35175.4,69291.64,23,23,FALSE,N,FALSE,FALSE,N
+1023668,Noe Studio LLC,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Anna Hudspeth,Kyra Williamson,2786.0,55250.94,7,2,FALSE,N,FALSE,FALSE,N
+1021635,The Phinery,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Anna Hudspeth,Kyra Williamson,33807.75,45631.66,55,89,FALSE,N,FALSE,FALSE,N
+1013001,Innovative Commercial Environments (ICE),DESIGN,DESIGN_FIRM,Group 1 High Potential,Anna Hudspeth,Kyra Williamson,15139.84,39513.2,4,7,FALSE,N,FALSE,FALSE,N
+1007129,Kate Lester Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Kyra Williamson,20874.4,36940.51,24,14,FALSE,N,FALSE,FALSE,N
+1024785,Maria Haidamus Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,35813.0,0,6,FALSE,N,FALSE,FALSE,N
+1002768,Six-Walls,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Anna Hudspeth,Kyra Williamson,4327.8,31688.68,6,20,FALSE,N,FALSE,FALSE,N
+1017989,Kelly Shepard Designs.,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Hana Nassri,Kyra Williamson,4633.0,30427.85,6,9,FALSE,N,FALSE,FALSE,N
+1027962,Gex Designs,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Kyra Williamson,150.0,28000.2,0,7,FALSE,N,FALSE,FALSE,N
+1019947,Marin Design Co.,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Kyra Williamson,2395.0,26268.0,3,7,FALSE,N,FALSE,FALSE,N
+1001960,Tammara Stroud Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Amanda Kistela,Kyra Williamson,26164.5,26253.79,22,14,FALSE,N,FALSE,FALSE,N
+1024607,Maggie B Jackson Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Hana Nassri,Kyra Williamson,26330.0,25599.43,12,17,FALSE,N,FALSE,FALSE,N
+1000278,Aspire Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Amanda Kistela,Kyra Williamson,36088.0,25586.1,30,21,FALSE,N,FALSE,FALSE,N
+1014468,Elyssa Contardo Designs,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Kyra Williamson,3420.0,25301.43,2,6,FALSE,N,FALSE,FALSE,N
+1027124,Cam Cooke Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,Madison Wolpe,Kyra Williamson,0.0,25185.34,0,7,TRUE,N,FALSE,FALSE,N
+1012707,Carole Carr Design(CA),DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Hana Nassri,Kyra Williamson,3055.2,23903.77,5,1,FALSE,N,FALSE,FALSE,N
+1009347,Julia Wong Designs,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Kyra Williamson,Kyra Williamson,3273.0,23241.0,4,5,FALSE,N,FALSE,FALSE,N
+1003837,Bassman-Blaine Corporate,DESIGN,DESIGN_FIRM,Group 1 High Potential,Hana Nassri,Kyra Williamson,22100.46,22882.1,20,18,FALSE,N,FALSE,FALSE,N
+1003175,Green Couch Staging,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Kyra Williamson,Kyra Williamson,14600.94,22852.35,8,11,FALSE,N,FALSE,FALSE,N
+1022017,LOCZIdesign,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Kyra Williamson,9761.0,22446.0,2,14,FALSE,N,FALSE,FALSE,N
+1018561,Studio Shaolin,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Anna Hudspeth,Kyra Williamson,18023.54,22012.67,13,19,FALSE,N,FALSE,FALSE,N
+1019326,SkinSpirit,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Anna Hudspeth,Kyra Williamson,12275.0,20820.0,11,18,FALSE,N,FALSE,FALSE,N
+1009808,Brooks Vale Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Kyra Williamson,18804.5,20508.75,11,11,FALSE,N,FALSE,FALSE,N
+1027659,Ciao Bella Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,20452.25,1,1,FALSE,N,FALSE,FALSE,N
+1010249,Design Advisor,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Kyra Williamson,250.0,20324.34,2,8,FALSE,N,FALSE,FALSE,N
+1007160,22 Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Kyra Williamson,Kyra Williamson,23145.2,19800.0,21,9,FALSE,N,FALSE,FALSE,N
+1003720,Hue Interior Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Amanda Kistela,Kyra Williamson,37664.42,18001.3,32,22,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 287 accounts | $1870637.84 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1004218,Stafford Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,16648.0,17717.22,8,6,FALSE,N,FALSE,FALSE,N
+1015647,"Bradley Mae Design, LLC.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,11633.0,17626.0,7,5,FALSE,N,FALSE,FALSE,N
+1007274,"oBJEKTS, LLC",DESIGN,HOSPITALITY,Group 2 Medium Potential,Amanda Kistela,Kyra Williamson,16098.76,17515.0,12,7,FALSE,N,FALSE,FALSE,N
+1020655,Lauren Ragland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,3686.8,17096.8,2,4,FALSE,N,FALSE,FALSE,N
+1013931,Holland Stephens Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,2906.0,16940.39,2,3,FALSE,N,FALSE,FALSE,N
+1009601,Michelle Lisac Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,8706.0,16387.86,3,5,FALSE,N,FALSE,FALSE,N
+1018823,Kellar Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,22093.0,16358.1,23,15,FALSE,N,FALSE,FALSE,N
+1037138,jjHome mb,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,15306.0,0,5,TRUE,N,FALSE,FALSE,N
+1023830,Amanda Adams Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,850.5,15238.51,2,6,FALSE,N,FALSE,FALSE,N
+1010384,Vivian Soliemani Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,955.0,14972.06,3,2,FALSE,N,FALSE,FALSE,N
+1008173,Pacific Staging,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,8080.0,14201.0,8,6,FALSE,N,FALSE,FALSE,N
+1003110,"Shari Saiki Design Studio, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,6080.0,14030.88,8,4,FALSE,N,FALSE,FALSE,N
+1014087,Mia Hays Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Kyra Williamson,1029.0,14030.8,2,3,FALSE,N,FALSE,FALSE,N
+1021606,Paige Kelly Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,10115.0,13879.22,11,4,FALSE,N,FALSE,FALSE,N
+1005635,Jon Jahr and Associates LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4610.0,13852.5,2,1,FALSE,N,FALSE,FALSE,N
+1020689,Lugo Industries,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,22542.71,13838.5,16,3,FALSE,N,FALSE,FALSE,N
+1018775,Irene Kim Coppedge Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,5451.0,13655.0,7,5,FALSE,N,FALSE,FALSE,N
+1014014,Jacobs and Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,4740.0,13521.0,2,4,FALSE,N,FALSE,FALSE,N
+1010830,Shannon Adamson Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,17387.57,13190.57,9,10,FALSE,N,FALSE,FALSE,N
+1013678,Casa West Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,17834.65,13103.0,7,7,FALSE,N,FALSE,FALSE,N
+1015401,Colleen Knowles Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Kyra Williamson,11853.0,13051.0,5,3,FALSE,N,FALSE,FALSE,N
+1022779,Ling Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,11913.62,12931.32,8,10,FALSE,N,FALSE,FALSE,N
+1018795,Veritables,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,6411.9,12931.0,9,13,FALSE,N,FALSE,FALSE,N
+1035529,Bailey Peace Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,100.0,12917.31,0,12,FALSE,N,FALSE,FALSE,N
+1009857,Surrina Plemons Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1479.0,12868.24,3,6,FALSE,N,FALSE,FALSE,N
+1013703,H Palmer Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1712.0,12742.0,1,5,FALSE,N,FALSE,FALSE,N
+1017627,Vision Interiors (CA),DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,1510.0,12634.0,2,13,FALSE,N,FALSE,FALSE,N
+1015165,Saga Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,11344.0,12092.5,6,4,FALSE,N,FALSE,FALSE,N
+1027400,Maxi J Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,6673.0,12092.0,4,8,FALSE,N,FALSE,FALSE,N
+1009906,Jason Dallas Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,2285.0,11905.0,1,8,FALSE,N,FALSE,FALSE,N
+1014534,Elizabeth Barnes Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,11720.52,0,3,FALSE,N,FALSE,FALSE,N
+1009498,"Romi Boutique, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,282.0,11607.0,1,6,FALSE,N,FALSE,FALSE,N
+1013847,Suzy Kloner Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,1864.0,11515.25,4,3,FALSE,N,FALSE,FALSE,N
+1037058,Duke & Leaman LLC DBA The R Creative,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,11505.0,0,5,TRUE,N,FALSE,FALSE,N
+1025731,MDY Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,770.0,11396.5,2,4,FALSE,N,FALSE,FALSE,N
+1022411,Tuality Homes LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Kyra Williamson,766.0,11381.0,1,4,FALSE,N,FALSE,FALSE,N
+1020399,Rose Lake Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,162.0,11296.0,1,2,FALSE,N,FALSE,FALSE,N
+1016755,Gracious Living At Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,18186.5,11261.0,21,17,FALSE,N,FALSE,FALSE,N
+1010947,Laura Roberts Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,1993.0,11260.0,2,5,FALSE,N,FALSE,FALSE,N
+1018276,Todd Prince Ltd,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1518.0,10930.0,1,3,FALSE,N,FALSE,FALSE,N
+1005024,Leathers Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,14755.4,10626.0,9,10,FALSE,N,FALSE,FALSE,N
+1003383,Jennifer Wundrow Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,30054.76,10605.0,13,8,FALSE,N,FALSE,FALSE,N
+1036824,Velvet Plum Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,10424.0,0,5,TRUE,N,FALSE,FALSE,N
+1020378,Emily Wignall Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,6568.0,10313.6,4,6,FALSE,N,FALSE,FALSE,N
+1026139,Lisa Staton Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,6325.0,10305.0,2,3,FALSE,N,FALSE,FALSE,N
+1036330,Coral + Oak California Furnishings,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,10134.0,0,6,TRUE,N,FALSE,FALSE,N
+1017422,Studio B. Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1713.0,10087.9,3,15,FALSE,N,FALSE,FALSE,N
+1011792,Sarahliz Lawson Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,10018.0,0,2,FALSE,N,FALSE,FALSE,N
+1002282,Carrington Hill Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,576.0,9977.8,1,6,FALSE,N,FALSE,FALSE,N
+1035037,"Geoscape Decor, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,150.0,9976.62,2,0,FALSE,N,FALSE,FALSE,N
+1025299,Andee Ferrer Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,9845.5,0,3,FALSE,N,FALSE,FALSE,N
+1023573,Megan Warren Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4585.0,9822.42,7,2,FALSE,N,FALSE,FALSE,N
+1036716,Studio Brinkley,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,9704.0,0,2,TRUE,N,FALSE,FALSE,N
+1013454,Sarah M Creative,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,9673.34,0,4,TRUE,N,FALSE,FALSE,N
+1023985,J2 Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,29442.65,9614.46,11,10,FALSE,N,FALSE,FALSE,N
+1008955,Noelle Micek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1500.0,9589.64,4,4,FALSE,N,FALSE,FALSE,N
+1005357,IDHI dba Indigo Republic,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,8619.0,9560.0,8,8,FALSE,N,FALSE,FALSE,N
+1020669,Brianna Blair Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,9503.0,0,5,FALSE,N,FALSE,FALSE,N
+1034847,Leslie Harris-Keane interior design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,2992.5,9380.0,1,3,FALSE,N,FALSE,FALSE,N
+1027772,Michael Rodgers Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,11262.0,9335.29,4,9,FALSE,N,FALSE,FALSE,N
+1013409,MacPherson Construction & Design,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,14554.69,9269.38,11,10,FALSE,N,FALSE,FALSE,N
+1018341,"Dimitra Anderson Home, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1720.0,8986.0,4,9,FALSE,N,FALSE,FALSE,N
+1006452,"Swan Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Amanda Kistela,Kyra Williamson,23971.92,8973.0,7,6,FALSE,N,FALSE,FALSE,N
+1004295,Nitche Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,1872.0,8930.0,3,3,FALSE,N,FALSE,FALSE,N
+1017652,Jessica Nicastro Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2452.0,8884.12,1,3,FALSE,N,FALSE,FALSE,N
+1017636,Kemper Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,8785.0,0,2,FALSE,N,FALSE,FALSE,N
+1003388,Thurston Boyd Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,8747.0,0,4,FALSE,N,FALSE,FALSE,N
+1013711,Adam Hunter Inc,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1776.0,8710.0,1,4,FALSE,N,FALSE,FALSE,N
+1009616,Steele Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,2749.0,8692.69,4,5,FALSE,N,FALSE,FALSE,N
+1023250,carla vail interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,2443.2,8689.5,3,8,FALSE,N,FALSE,FALSE,N
+1005705,"Suda Shades and Design, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,2970.0,8670.0,3,1,FALSE,N,FALSE,FALSE,N
+1014366,Collected Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,12689.0,8650.5,7,6,FALSE,N,FALSE,FALSE,N
+1038145,"Riva DEsign, Inc",DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,8633.0,0,2,TRUE,N,FALSE,FALSE,N
+1007258,Teresa Quinn Kamer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,2734.0,8626.0,1,7,FALSE,N,FALSE,FALSE,N
+1016358,victoria van zanten interior design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,8581.0,1,2,FALSE,N,FALSE,FALSE,N
+1017003,Color & Design Studio LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,2340.0,8545.0,4,5,FALSE,N,FALSE,FALSE,N
+1024697,Julia Goodwin Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,26528.32,8312.53,16,5,FALSE,N,FALSE,FALSE,N
+1006367,Kristin Martin Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,18700.0,8249.0,4,7,FALSE,N,FALSE,FALSE,N
+1012826,Lynda Cherry Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Amanda Kistela,Kyra Williamson,11533.92,8236.0,7,4,FALSE,N,FALSE,FALSE,N
+1010233,Backstrand Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,8208.0,0,3,FALSE,N,FALSE,FALSE,N
+1025532,Align Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,10925.4,8146.0,3,5,FALSE,N,FALSE,FALSE,N
+1018173,Rock House Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,2660.0,8020.0,1,4,FALSE,N,FALSE,FALSE,N
+1006691,Staprans Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,12406.0,7941.23,7,4,FALSE,N,FALSE,FALSE,N
+1023229,Tiffany Lauer Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,1680.0,7935.0,2,2,FALSE,N,FALSE,FALSE,N
+1002249,Nicole Queen Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,7908.62,1,8,FALSE,N,FALSE,FALSE,N
+1006018,Grounded,E-TAILER,SPECIALTY,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,21785.0,7865.0,22,7,FALSE,N,FALSE,FALSE,N
+1002712,"Ellis Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,16270.5,7826.0,7,4,FALSE,N,FALSE,FALSE,N
+1012645,Pacific Housing,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,7762.5,0,2,FALSE,N,FALSE,FALSE,N
+1027614,Anne Flynn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4033.06,7752.0,4,3,FALSE,N,FALSE,FALSE,N
+1010195,Haven Studios,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5120.0,7644.0,1,2,FALSE,N,FALSE,FALSE,N
+1026410,Carolyn Miller Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,6063.7,7626.0,3,1,FALSE,N,FALSE,FALSE,N
+1017329,Taylor + Langella Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,7622.0,0,2,FALSE,N,FALSE,FALSE,N
+1004376,SC41 Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,10786.75,7537.0,17,10,FALSE,N,FALSE,FALSE,N
+1025820,Charlie Lussier Styling (under J-Liv LLC),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,922.0,7515.0,6,3,FALSE,N,FALSE,FALSE,N
+1025961,Vondecor Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,7497.1,0,2,FALSE,N,FALSE,FALSE,N
+1035302,fauxworks inc,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,7492.0,0,2,TRUE,N,FALSE,FALSE,N
+1014436,AE Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,7412.0,0,5,FALSE,N,FALSE,FALSE,N
+1035005,Katie Severns Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,7355.0,0,3,FALSE,N,FALSE,FALSE,N
+1015804,Aef Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,11393.0,7317.0,8,7,FALSE,N,FALSE,FALSE,N
+1014631,Light Wave Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,23561.94,7316.91,8,2,FALSE,N,FALSE,FALSE,N
+1019888,Studio Yablonska,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,7311.0,0,2,FALSE,N,FALSE,FALSE,N
+1004764,Lauren Nelson Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5504.0,7275.0,1,2,FALSE,N,FALSE,FALSE,N
+1012005,Christie Hausmann Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,7068.68,1,4,FALSE,N,FALSE,FALSE,N
+1019749,Evgenia Merson Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,8979.0,7064.0,5,1,FALSE,N,FALSE,FALSE,N
+1013670,Halter Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1609.5,6915.5,2,4,FALSE,N,FALSE,FALSE,N
+1015083,Skout,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,10670.0,6840.0,4,6,FALSE,N,FALSE,FALSE,N
+1010691,Ardent Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,14031.0,6790.0,13,7,FALSE,N,FALSE,FALSE,N
+1022497,Haus of Meeshie,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,100.0,6752.3,0,1,FALSE,N,FALSE,FALSE,N
+1019933,HONE Design Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,300.0,6718.4,1,2,FALSE,N,FALSE,FALSE,N
+1008808,Brio Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,0.0,6635.0,0,2,FALSE,N,FALSE,FALSE,N
+1022538,Van Zee Design Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,4831.5,6604.0,5,8,FALSE,N,FALSE,FALSE,N
+1012741,Wendy Phillips Design - WPD,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,0.0,6565.0,0,7,FALSE,N,FALSE,FALSE,N
+1014273,Waters Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,12194.0,6561.46,5,6,FALSE,N,FALSE,FALSE,N
+1012446,Love and Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1579.0,6555.0,3,4,FALSE,N,FALSE,FALSE,N
+1034800,Maison Lefeber,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,6552.5,0,4,FALSE,N,FALSE,FALSE,N
+1025243,FIXE DESIGN HOUSE,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,6492.0,0,3,TRUE,N,FALSE,FALSE,N
+1038283,Merrill &  Associates,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,0.0,6457.0,0,1,TRUE,N,FALSE,FALSE,N
+1026158,Drew Ruesch Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,6402.47,0,2,FALSE,N,FALSE,FALSE,N
+1023869,ONE WEST STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,6331.79,0,1,FALSE,N,FALSE,FALSE,N
+1025129,Carisse Lynelle,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Kyra Williamson,Kyra Williamson,7327.0,6254.5,3,2,FALSE,N,FALSE,FALSE,N
+1024264,Yvonne Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,11645.64,6235.5,5,5,FALSE,N,FALSE,FALSE,N
+1015027,Yvette Crosby & Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,5376.0,6232.41,3,3,FALSE,N,FALSE,FALSE,N
+1015556,"805Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,13740.0,6063.0,6,2,FALSE,N,FALSE,FALSE,N
+1036554,Lizzie Gallagher Design Inc,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,6018.75,0,3,TRUE,N,FALSE,FALSE,N
+1009521,"Alexis Manfer, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,5986.0,0,1,TRUE,N,FALSE,FALSE,N
+1036838,Aesthetics Home Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,5920.0,0,1,TRUE,N,FALSE,FALSE,N
+1013388,K and L Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,6211.0,5864.0,4,5,FALSE,N,FALSE,FALSE,N
+1024406,"Heidi Palena Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,1495.0,5843.0,1,2,FALSE,N,FALSE,FALSE,N
+1001699,Portico Home and Garden,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,907.0,5748.0,1,2,FALSE,N,FALSE,FALSE,N
+1028047,Volk Pacific Builders,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Kimberly Myers,Kyra Williamson,0.0,5706.0,0,2,TRUE,N,FALSE,FALSE,N
+1008107,KBG Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,2903.0,5687.5,6,4,FALSE,N,FALSE,FALSE,N
+1013226,So Much Yes Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,3687.0,5686.0,5,5,FALSE,N,FALSE,FALSE,N
+1014296,Bennett Design Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1067.5,5671.0,0,7,FALSE,N,FALSE,FALSE,N
+1024538,D Design and Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,895.0,5658.0,1,3,FALSE,N,FALSE,FALSE,N
+1014044,"Hannah Lowe Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,190.0,5565.0,1,2,FALSE,N,FALSE,FALSE,N
+1021921,Kym Maloney Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,5485.0,0,1,FALSE,N,FALSE,FALSE,N
+1003379,Conservatory Coastal Home LLC,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,6081.72,5434.12,11,9,FALSE,N,FALSE,FALSE,N
+1007900,The Residency Bureau,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,14133.0,5421.48,7,6,FALSE,N,FALSE,FALSE,N
+1023349,Alicia Torosian Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,6686.5,5375.75,7,4,FALSE,N,FALSE,FALSE,N
+1014711,Jennifer Grey Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,5305.5,0,1,FALSE,N,FALSE,FALSE,N
+1037788,5blox,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,5217.3,0,1,TRUE,N,FALSE,FALSE,N
+1023022,ECR Consulting LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,14815.0,5204.4,6,3,FALSE,N,FALSE,FALSE,N
+1034850,Gina Holz Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,5170.0,0,1,TRUE,N,FALSE,FALSE,N
+1006541,"Corp Office Interiors, Inc. dba Source Creative",DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,1777.5,5165.0,2,5,FALSE,N,FALSE,FALSE,N
+1003272,Robert Federighi Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,5147.0,0,4,TRUE,N,FALSE,FALSE,N
+1015286,Leah Steen Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,15394.0,5145.0,7,4,FALSE,N,FALSE,FALSE,N
+1023066,Charlie's Home Fashion,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,5135.0,0,2,FALSE,N,FALSE,FALSE,N
+1018568,Berry Design Works,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,5133.6,0,1,FALSE,N,FALSE,FALSE,N
+1037215,Taska Cleveland,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,5119.9,0,4,TRUE,N,FALSE,FALSE,N
+1037759,Wild Soul Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,5085.0,0,2,TRUE,N,FALSE,FALSE,N
+1011352,Lyons Johnston Associates,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,9010.0,5080.8,8,2,FALSE,N,FALSE,FALSE,N
+1004151,Dauer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4123.5,5060.25,3,4,FALSE,N,FALSE,FALSE,N
+1018311,STAGEBOX LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Kyra Williamson,640.0,5020.0,1,8,FALSE,N,FALSE,FALSE,N
+1005759,Rifresh Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,4987.0,0,2,TRUE,N,FALSE,FALSE,N
+1015559,LSL Construction,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,3070.7,4978.19,3,0,FALSE,N,FALSE,FALSE,N
+1020178,"Rebecca Rowland Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,4493.6,4973.6,4,3,FALSE,N,FALSE,FALSE,N
+1011793,Carras Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,4958.0,0,4,FALSE,N,FALSE,FALSE,N
+1025937,Courtney Thomas Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,148.4,4941.6,1,1,FALSE,N,FALSE,FALSE,N
+1022589,Elan Design House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,17640.0,4920.0,5,1,FALSE,N,FALSE,FALSE,N
+1004161,Studio H Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4289.0,4884.0,4,1,FALSE,N,FALSE,FALSE,N
+1035019,Parke & Olive Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,4883.27,2,0,FALSE,N,FALSE,FALSE,N
+1034905,Stokes Kennedy Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2680.0,4856.0,1,1,FALSE,N,FALSE,FALSE,N
+1020357,"Sage Design Studio, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,4843.0,0,3,FALSE,N,FALSE,FALSE,N
+1002361,Van Rozeboom Interiors DBA COVE Lifestyle + Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,4478.0,4781.0,9,4,FALSE,N,FALSE,FALSE,N
+1006587,Bleu Leman Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,236.4,4768.9,4,9,FALSE,N,FALSE,FALSE,N
+1022808,Hookipa Design and construction,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,4733.0,0,1,FALSE,N,FALSE,FALSE,N
+1022852,Kristen T Messina Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,2706.04,4729.0,1,3,FALSE,N,FALSE,FALSE,N
+1001190,Pacific Home Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,7243.5,4709.75,9,8,FALSE,N,FALSE,FALSE,N
+1026838,Hannah Bell Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,3460.0,4649.0,1,2,FALSE,N,FALSE,FALSE,N
+1034923,Taylor Ford Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,150.0,4613.61,1,3,FALSE,N,FALSE,FALSE,N
+1025723,Maison Soleil LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,3372.4,4573.25,4,1,FALSE,N,FALSE,FALSE,N
+1020043,Studio Colomba,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,3720.0,4573.0,6,2,FALSE,N,FALSE,FALSE,N
+1022590,DWELLcrush LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,10327.21,4569.19,4,5,FALSE,N,FALSE,FALSE,N
+1020126,Studio S Squared Architecture Inc.,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Kyra Williamson,Kyra Williamson,7452.5,4545.0,6,2,FALSE,N,FALSE,FALSE,N
+1022987,Vitale Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5868.24,4538.0,8,9,FALSE,N,FALSE,FALSE,N
+1019940,Julie Mifsud Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,4480.0,0,1,FALSE,N,FALSE,FALSE,N
+1014723,Jennifer Cruz Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,7916.69,4466.75,8,3,FALSE,N,FALSE,FALSE,N
+1009324,Kelley Flynn Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,4465.0,0,1,FALSE,N,FALSE,FALSE,N
+1026205,Jenna Michelle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2874.0,4433.09,3,3,FALSE,N,FALSE,FALSE,N
+1005236,Samantha Tanner Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,4110.5,4413.0,3,4,FALSE,N,FALSE,FALSE,N
+1019509,Luke Bennett design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,4383.45,0,1,FALSE,N,FALSE,FALSE,N
+1025245,Lauren Rilliet Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,4375.0,0,1,TRUE,N,FALSE,FALSE,N
+1037370,RAGPC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,4365.0,0,2,TRUE,N,FALSE,FALSE,N
+1021631,Seventh House Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,10878.6,4350.5,7,3,FALSE,N,FALSE,FALSE,N
+1009160,Primrose Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,2155.0,4340.0,1,2,FALSE,N,FALSE,FALSE,N
+1016824,Victoria Forehan Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2436.0,4312.0,4,4,FALSE,N,FALSE,FALSE,N
+1019143,Pamela Day Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,4285.0,0,2,FALSE,N,FALSE,FALSE,N
+1016849,Alter Interiors,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Kyra Williamson,Kyra Williamson,2805.0,4255.0,1,1,FALSE,N,FALSE,FALSE,N
+1035252,JS Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2061.9,4175.0,1,1,FALSE,N,FALSE,FALSE,N
+1023182,Peruri Design Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1115.0,4166.48,1,2,FALSE,N,FALSE,FALSE,N
+1038081,B Street Studio Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,4137.3,0,2,TRUE,N,FALSE,FALSE,N
+1013198,"TLB Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1840.0,4130.0,1,1,FALSE,N,FALSE,FALSE,N
+1002387,Accents By Laura,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,4119.0,0,1,FALSE,N,FALSE,FALSE,N
+1016650,A Designed Space,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,10399.0,4105.2,6,9,FALSE,N,FALSE,FALSE,N
+1019862,Clover,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,4091.0,1,5,FALSE,N,FALSE,FALSE,N
+1015586,Boxwood Avenue,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1424.0,4024.38,8,5,FALSE,N,FALSE,FALSE,N
+1017502,Lido Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,4015.0,0,2,FALSE,N,FALSE,FALSE,N
+1022476,"KATIE HEALEY DESIGNS, INC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4465.0,3967.98,3,0,FALSE,N,FALSE,FALSE,N
+1015983,Emily Boulton Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1840.0,3912.0,2,3,FALSE,N,FALSE,FALSE,N
+1035370,The Design Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Kyra Williamson,100.0,3896.88,1,1,FALSE,N,FALSE,FALSE,N
+1004733,Jennifer Gardner Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,2915.0,3854.0,1,2,FALSE,N,FALSE,FALSE,N
+1025112,Elegant Simplicity,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,15642.4,3836.0,2,3,FALSE,N,FALSE,FALSE,N
+1013146,Katch Design Collective,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,3323.66,3800.0,4,2,FALSE,N,FALSE,FALSE,N
+1022335,Ali Cote Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3789.0,0,3,FALSE,N,FALSE,FALSE,N
+1019660,VALLETTA DESIGN GROUP,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3785.07,0,2,FALSE,N,FALSE,FALSE,N
+1013396,Chad Hinke Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,6834.0,3781.0,5,1,FALSE,N,FALSE,FALSE,N
+1037894,Shirley Robinson Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,3775.0,0,2,TRUE,N,FALSE,FALSE,N
+1026739,Sundling Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3720.0,0,1,FALSE,N,FALSE,FALSE,N
+1038232,"Perrault, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,0.0,3690.0,0,1,TRUE,N,FALSE,FALSE,N
+1038695,Craig and David Homes,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,3675.6,0,1,TRUE,N,FALSE,FALSE,N
+1019739,Graham Hill Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5065.0,3666.75,2,3,FALSE,N,FALSE,FALSE,N
+1022644,Lemongrass Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Kyra Williamson,1475.0,3664.8,4,0,FALSE,N,FALSE,FALSE,N
+1024534,TSP Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3663.0,0,1,FALSE,N,FALSE,FALSE,N
+1036111,Heather Hilliard Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,3635.0,0,4,TRUE,N,FALSE,FALSE,N
+1015145,Willow and Jade Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3609.64,1,0,FALSE,N,FALSE,FALSE,N
+1009957,Diane Rosellini and Associates,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,0.0,3607.0,0,2,FALSE,N,FALSE,FALSE,N
+1017917,Samantha Lee Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Kyra Williamson,5825.0,3582.0,3,4,FALSE,N,FALSE,FALSE,N
+1025395,Madison Taylor Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,11354.5,3559.25,12,5,FALSE,N,FALSE,FALSE,N
+1010524,Cate Grosch Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,370.0,3547.0,1,1,FALSE,N,FALSE,FALSE,N
+1020876,"Sienna & Sage Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,50.0,3514.0,0,1,FALSE,N,FALSE,FALSE,N
+1026744,Mullen Design Co,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,17145.1,3486.05,3,8,FALSE,N,FALSE,FALSE,N
+1020392,"Karen Highberger Interior Design, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3476.0,0,2,FALSE,N,FALSE,FALSE,N
+1024420,Carl Pallini LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2485.0,3470.0,2,2,FALSE,N,FALSE,FALSE,N
+1019493,TerriMcCallDesign,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3450.0,0,2,FALSE,N,FALSE,FALSE,N
+1008734,Alli B Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3426.0,0,1,FALSE,N,FALSE,FALSE,N
+1010600,Studio Mosaic,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,7973.2,3415.9,10,9,FALSE,N,FALSE,FALSE,N
+1035616,Wallco Development Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,3404.4,0,7,TRUE,N,FALSE,FALSE,N
+1037603,Christodora Creative,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,3384.5,0,2,TRUE,N,FALSE,FALSE,N
+1017699,Julie Baker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5522.36,3382.0,5,1,FALSE,N,FALSE,FALSE,N
+1011803,Alicia Cheung Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,3065.0,3376.0,2,3,FALSE,N,FALSE,FALSE,N
+1036567,Access Decor,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,3375.0,0,1,TRUE,N,FALSE,FALSE,N
+1005913,Breeann Marie Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3348.0,0,1,FALSE,N,FALSE,FALSE,N
+1015332,Florence Livingston Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,3348.0,1,4,FALSE,N,FALSE,FALSE,N
+1007810,Wyman Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,9495.0,3347.8,1,2,FALSE,N,FALSE,FALSE,N
+1009188,Dayna Katlin Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,3325.0,0,1,FALSE,N,FALSE,FALSE,N
+1020744,Westhoven Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,23890.1,3317.0,7,1,FALSE,N,FALSE,FALSE,N
+1025597,By Laura Beavis,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3280.0,0,2,FALSE,N,FALSE,FALSE,N
+1026746,CQM Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3253.64,2,0,FALSE,N,FALSE,FALSE,N
+1036696,souvara studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,3213.0,0,1,TRUE,N,FALSE,FALSE,N
+1026843,Kelly Rjoub Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3208.5,0,2,FALSE,N,FALSE,FALSE,N
+1023845,RACHAEL SHEA INTERIORS LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1736.0,3196.0,3,4,FALSE,N,FALSE,FALSE,N
+1012793,Brittany Wood Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,3175.0,0,2,FALSE,N,FALSE,FALSE,N
+1004600,Open House,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,0.0,3171.0,0,2,FALSE,N,FALSE,FALSE,N
+1017888,Houseometry,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4120.7,3170.0,4,1,FALSE,N,FALSE,FALSE,N
+1004089,"Petersen Design Associates, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,2628.6,3162.0,4,3,FALSE,N,FALSE,FALSE,N
+1018275,"Plaster & Patina (DBA of Blush Botanicals, Inc.)",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,5394.0,3160.0,3,2,FALSE,N,FALSE,FALSE,N
+1020240,Sustainable Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,3159.2,0,3,FALSE,N,FALSE,FALSE,N
+1010292,Caileen Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1324.6,3135.0,3,1,FALSE,N,FALSE,FALSE,N
+1022256,Darby Vaccaro Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,584.5,3112.0,1,2,FALSE,N,FALSE,FALSE,N
+1008636,Designs By Barbara,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,692.0,3110.0,1,1,FALSE,N,FALSE,FALSE,N
+1026043,"Studio Aesthete, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3086.0,0,1,FALSE,N,FALSE,FALSE,N
+1012402,"Ivy Gift and Home, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,0.0,3080.0,0,1,FALSE,N,FALSE,FALSE,N
+1016784,Forty Nine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Kyra Williamson,7511.49,3075.0,7,3,FALSE,N,FALSE,FALSE,N
+1023593,Hoppet Design & Construction,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,4795.67,3043.9,1,4,FALSE,N,FALSE,FALSE,N
+1035624,The Little Things,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,3040.0,0,2,TRUE,N,FALSE,FALSE,N
+1023307,Lauren Nicole Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Kyra Williamson,0.0,3040.0,0,1,FALSE,N,FALSE,FALSE,N
+1004664,CCH DESIGNS INC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,76.0,3037.0,1,2,FALSE,N,FALSE,FALSE,N
+1015200,Private Paradise Villas,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,1447.5,2993.4,3,2,FALSE,N,FALSE,FALSE,N
+1027108,Allito Spaces,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,6680.0,2969.0,3,5,FALSE,N,FALSE,FALSE,N
+1004869,Tower Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,3235.0,2958.0,2,2,FALSE,N,FALSE,FALSE,N
+1020540,Market Studio Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,2970.5,2951.5,4,3,FALSE,N,FALSE,FALSE,N
+1021315,AMDC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1085.0,2945.0,2,1,FALSE,N,FALSE,FALSE,N
+1036981,Sandler Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,2925.0,0,2,TRUE,N,FALSE,FALSE,N
+1018955,Simply Spaces Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Kyra Williamson,5043.0,2925.0,5,1,FALSE,N,FALSE,FALSE,N
+1019994,IL RIVETTO,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1580.0,2918.0,3,3,FALSE,N,FALSE,FALSE,N
+1025061,Tantalus Studio,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Anna Hudspeth,Kyra Williamson,8009.04,2910.3,1,2,FALSE,N,FALSE,FALSE,N
+1012629,Sugar + Cream Kitchen and Bath Cab,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,2828.0,0,1,FALSE,N,FALSE,FALSE,N
+1025353,Schwinteriors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,5538.5,2816.7,11,6,FALSE,N,FALSE,FALSE,N
+1022648,LHK interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Hana Nassri,Kyra Williamson,1720.0,2790.31,2,0,FALSE,N,FALSE,FALSE,N
+1024284,Abbey Flores Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,7170.0,2748.0,3,1,FALSE,N,FALSE,FALSE,N
+1005412,Interior Obsession,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Kyra Williamson,Kyra Williamson,8730.53,2745.0,1,1,FALSE,N,FALSE,FALSE,N
+1004659,NY Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,170.0,2728.0,1,5,FALSE,N,FALSE,FALSE,N
+1036949,CRINT INC/CRATE Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,2718.0,0,2,TRUE,N,FALSE,FALSE,N
+1037226,Tierney Conner INC,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,2715.0,0,2,TRUE,N,FALSE,FALSE,N
+1022296,"Jas Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,4698.0,2715.0,3,3,FALSE,N,FALSE,FALSE,N
+1015914,LWD  |  Lisa Walsh Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,0.0,2700.5,0,5,TRUE,N,FALSE,FALSE,N
+1036383,Studio Greco LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,2693.0,0,1,TRUE,N,FALSE,FALSE,N
+1017622,Jennifer Cerchiai Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,2646.0,2643.0,1,2,FALSE,N,FALSE,FALSE,N
+1016283,Martina Meckael Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,2642.0,0,1,TRUE,N,FALSE,FALSE,N
+1037343,Jayne Douglas Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Kyra Williamson,0.0,2589.0,0,3,TRUE,N,FALSE,FALSE,N
+1037427,T-A Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Kyra Williamson,0.0,2569.0,0,1,TRUE,N,FALSE,FALSE,N
+1027928,"Liliblue Interior Design, LLC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Kyra Williamson,1535.0,2563.0,1,1,FALSE,N,FALSE,FALSE,N
+1035761,Michele Ono Designs Inc.,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,2560.0,0,1,TRUE,N,FALSE,FALSE,N
+1023753,iLiv Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,0.0,2550.0,0,1,FALSE,N,FALSE,FALSE,N
+1016779,RGB Landscapes,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Kyra Williamson,1405.0,2540.0,1,1,FALSE,N,FALSE,FALSE,N
+1037996,Artisanal inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Kyra Williamson,0.0,2518.2,0,1,TRUE,N,FALSE,FALSE,N
+1035568,MARISSA POST LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Kyra Williamson,0.0,2511.0,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 155 accounts | $62147.87 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1038451,Sinterios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,2470.0,0,1,TRUE,N,FALSE,FALSE,N
+1037813,meredith ann interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,2466.0,0,1,TRUE,N,FALSE,FALSE,N
+1038109,Swell House,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,2416.5,0,3,TRUE,N,FALSE,FALSE,N
+1021373,American TREE DBA Sage Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Kyra Williamson,8618.0,2415.0,10,2,FALSE,N,FALSE,FALSE,N
+1005651,Dana Lauren Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,2315.0,0,1,TRUE,N,FALSE,FALSE,N
+1036390,Ginger Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,2145.0,0,1,TRUE,N,FALSE,FALSE,N
+1011153,"Kelly Martin Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,2079.0,0,1,TRUE,N,FALSE,FALSE,N
+1037612,RAVN Design & Procurement,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,2065.0,0,1,TRUE,N,FALSE,FALSE,N
+1038308,Sancta Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,2002.0,0,5,TRUE,N,FALSE,FALSE,N
+1017333,"Inside Out Lighting & Decor, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kyra Williamson,Kyra Williamson,54.0,1980.0,2,2,FALSE,N,FALSE,FALSE,N
+1037583,Anne Mellenthin Design Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,1766.0,0,1,TRUE,N,FALSE,FALSE,N
+1035607,SUSAN PELIKS INTERIOR DESIGN,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1683.9,0,1,TRUE,N,FALSE,FALSE,N
+1037130,Rosemary Road Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,1671.0,0,1,TRUE,N,FALSE,FALSE,N
+1008039,Bleu Home Decor,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,1665.0,0,2,TRUE,N,FALSE,FALSE,N
+1036203,5 Cities Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,1520.0,0,1,TRUE,N,FALSE,FALSE,N
+1026759,Jenna Grace Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Hana Nassri,Kyra Williamson,980.0,1480.0,2,2,FALSE,N,FALSE,FALSE,N
+1036338,Kostel,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,1460.5,0,2,TRUE,N,FALSE,FALSE,N
+1035449,BlackBookLLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1445.5,0,2,TRUE,N,FALSE,FALSE,N
+1025568,Viola Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1350.0,0,1,TRUE,N,FALSE,FALSE,N
+1013329,California Haus,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,1290.0,0,1,TRUE,N,FALSE,FALSE,N
+1036377,Sea Creative Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,1246.0,0,1,TRUE,N,FALSE,FALSE,N
+1028136,Hunter Construction & Designs,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1175.0,0,1,TRUE,N,FALSE,FALSE,N
+1009812,Samuel's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Kyra Williamson,0.0,1145.0,0,1,FALSE,N,FALSE,FALSE,N
+1001206,Warmth Co.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,16877.0,1135.0,9,2,FALSE,N,FALSE,FALSE,N
+1008863,Bennett Lerner Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,1078.0,0,1,TRUE,N,FALSE,FALSE,N
+1036909,The Wood Technician,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,1071.0,0,2,TRUE,N,FALSE,FALSE,N
+1024690,Isabella Stephens Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1070.0,0,1,TRUE,N,FALSE,FALSE,N
+1021711,Heydt Designs Inc.,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,1030.0,0,1,TRUE,N,FALSE,FALSE,N
+1025336,Chelsea Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,1020.0,0,1,TRUE,N,FALSE,FALSE,N
+1001965,"Tamara Rene Designs, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Hana Nassri,Kyra Williamson,3342.0,955.6,6,1,FALSE,N,FALSE,FALSE,N
+1025117,Live Beautiful Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,845.0,0,1,TRUE,N,FALSE,FALSE,N
+1003222,Gott Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,830.0,0,1,TRUE,N,FALSE,FALSE,N
+1036127,LLH inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,799.0,0,2,TRUE,N,FALSE,FALSE,N
+1036959,Erinn V Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,790.5,0,2,TRUE,N,FALSE,FALSE,N
+1035712,Rebecca Lynn Residential Design,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,775.0,0,1,TRUE,N,FALSE,FALSE,N
+1009157,Hemisphere Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,1282.0,733.0,2,1,FALSE,N,FALSE,FALSE,N
+1037004,Textura Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,725.0,0,1,TRUE,N,FALSE,FALSE,N
+1034949,Passione Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,659.0,0,1,TRUE,N,FALSE,FALSE,N
+1036428,Bluefoot Architecture and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,576.0,0,2,TRUE,N,FALSE,FALSE,N
+1037803,"Philip Nimmo and Company, INC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,500.0,0,1,TRUE,N,FALSE,FALSE,N
+1017208,Marissa Zajack Creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,470.0,0,1,TRUE,N,FALSE,FALSE,N
+1006566,"Studio Blu, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,435.0,0,1,TRUE,N,FALSE,FALSE,N
+1036201,Dwell Interiors(CA),DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,425.0,0,1,TRUE,N,FALSE,FALSE,N
+1025632,Capa Fina House of Production,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,415.0,0,1,TRUE,N,FALSE,FALSE,N
+1035653,eva holbrook interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,405.0,0,1,TRUE,N,FALSE,FALSE,N
+1024425,Foraged Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,405.0,0,1,TRUE,N,FALSE,FALSE,N
+1015667,SMG Collective,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kimberly Myers,Kyra Williamson,0.0,405.0,0,1,FALSE,N,FALSE,FALSE,N
+1027770,Diane Wahler Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,386.4,0,2,TRUE,N,FALSE,FALSE,N
+1036043,Etta's Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,300.0,0,3,TRUE,N,FALSE,FALSE,N
+1007720,Unique Accents,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Hana Nassri,Kyra Williamson,0.0,285.0,0,1,FALSE,N,FALSE,FALSE,N
+1011567,Bell + Voy Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,280.0,0,1,TRUE,N,FALSE,FALSE,N
+1006745,The Design Agency,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,5246.0,279.0,7,1,FALSE,N,FALSE,FALSE,N
+1036076,Amy Boyce Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,245.0,0,2,TRUE,N,FALSE,FALSE,N
+1001885,Arden Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kyra Williamson,Kyra Williamson,6397.4,202.0,8,2,FALSE,N,FALSE,FALSE,N
+1013510,Ark Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,946.61,190.27,3,1,FALSE,N,FALSE,FALSE,N
+1027460,LK Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,185.0,0,1,TRUE,N,FALSE,FALSE,N
+1036723,Cari Berg Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,170.0,0,1,TRUE,N,FALSE,FALSE,N
+1036711,Haus Solis Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,150.0,0,1,TRUE,N,FALSE,FALSE,N
+1026585,Rug Resources,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,150.0,0,0,TRUE,N,FALSE,FALSE,N
+1037188,Gold Sparrow Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,140.0,0,1,TRUE,N,FALSE,FALSE,N
+1012965,Electric Bowery,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,92.0,0,1,TRUE,N,FALSE,FALSE,N
+1036282,Lori Fienberg Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,90.0,0,1,TRUE,N,FALSE,FALSE,N
+1037163,Sierra Holland LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,63.5,0,1,TRUE,N,FALSE,FALSE,N
+1035498,HUBBAHUBBA,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,43.2,0,1,TRUE,N,FALSE,FALSE,N
+1036855,Rae Design Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,43.0,0,1,TRUE,N,FALSE,FALSE,N
+1026361,Eleven11 Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1027162,ybarra design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1001057,New Deal,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3682.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1000368,California Carpet and Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001841,Indich Collection-Ferahan Hawaii Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,2247.5,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1002144,Cotier,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002635,Green Street Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,4509.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1002753,"Sparks Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,3250.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002883,"Decorative Fabric House, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,1690.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1003151,Ekr Design Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009659,Carpet Concourse Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008475,Chiavaro Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004617,Traditionally Derby,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004090,Guesthouse,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,890.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005029,"Nurug Imports, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3915.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005406,"Camelion Design, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,1843.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1005726,Lori Henle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1005943,Molly Wood Garden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,500.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1013728,Inplace Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011532,Amara Rugs,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1010412,Elizabeth Backup Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1012911,East Kennedy Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,4220.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012340,Design 4 Corners,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,3068.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1013588,Cotton Works,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2479.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1013503,Plaza Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014567,"Corporate Business Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,1102.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026956,"Duos Co., LLC DBA Mr. Walrus",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026870,Studio Ganz,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025995,Imprints Landscape Architecture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2489.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026618,Marisa Robbins Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025222,Apollo Creative,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025582,NOTTLAND STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025674,House & Hazel,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025952,Catalyst Workplace Activation,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,3200.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1025232,Suneeta Chilukuri Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022581,Mari Trotter Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,660.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021822,Lark | Mountain Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Kyra Williamson,3691.2,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1023968,M Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1024509,Andy Lane Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024289,Melissa Morgan Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024843,The Oriental Carpet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024867,Marlowe Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,2423.56,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1021747,Rogers Gardens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021353,The Haus Collective,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021771,Jak W/RAHWR Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023160,Amparan Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2585.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1015066,"Red Door Homes, Inc,",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1014745,Peninsula Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016582,REVIVAL LIGHTING LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014730,Francois Collective LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1016941,Pamper Haus Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1017248,Rugs Residential,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017816,Biquette Interiros,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,949.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1018463,Tom Boland Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1019755,Bluehouse Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,82.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021093,The Textile Company Limited,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021188,"Flip Design, dba FLIPP, Belso Home and Garden",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3862.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021289,SC Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009884,Just Basics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,416.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010507,Deep Water Electronics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011450,Lindsey Runyon Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036134,estro design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036200,Dehn Bloom Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036176,Gerry Homes,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035899,Powell Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035956,ISC West,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035680,Fred Leeds Properties,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035734,Kiley Jensen Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035862,a design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027781,Destination Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035530,Makehouse Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035432,SBW Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035623,Darkstar Interlude LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035659,Wendy Daniel Interior Design LLC,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1034927,Field Theory,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027769,BRITTANY WELLINGTON DESIGN LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035292,Heiser Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036133,Remix Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036087,BIC Interior Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035891,"The Last Inch, dba Zook Solutions",DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036276,Smith Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036233,"Island Home, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036857,Georgia Tapert Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036406,PALETTE INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036210,Design by Caroline Corr,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036344,Amy Small Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037199,Amy Lippman Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037054,Studio BLD,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038481,studio coco greenblum,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038517,Lauren Feiner,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 2 accounts | $2407.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1012366,Theresa Wertheim Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Kyra Williamson,Kyra Williamson,23472.5,2027.0,17,3,FALSE,Y,TRUE,FALSE,N
+1011549,Park Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,19766.0,380.0,6,1,FALSE,Y,TRUE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 89 accounts (47 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1016946,hunter design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Wesley Hood,Kyra Williamson,26724.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
+1002635,Green Street Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,4509.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1012911,East Kennedy Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,4220.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005029,"Nurug Imports, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3915.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021188,"Flip Design, dba FLIPP, Belso Home and Garden",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3862.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021822,Lark | Mountain Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Kyra Williamson,3691.2,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1001057,New Deal,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,3682.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1002753,"Sparks Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,3250.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1025952,Catalyst Workplace Activation,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,3200.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012340,Design 4 Corners,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,3068.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1023160,Amparan Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2585.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1025995,Imprints Landscape Architecture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2489.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1013588,Cotton Works,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,2479.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1024867,Marlowe Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,2423.56,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1001841,Indich Collection-Ferahan Hawaii Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,2247.5,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1005406,"Camelion Design, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,1843.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1002883,"Decorative Fabric House, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,1690.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1014567,"Corporate Business Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,1102.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1017816,Biquette Interiros,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,949.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1004090,Guesthouse,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,890.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022581,Mari Trotter Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,660.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005943,Molly Wood Garden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,500.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009884,Just Basics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,416.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1019755,Bluehouse Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,82.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003151,Ekr Design Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1013503,Plaza Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010507,Deep Water Electronics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011450,Lindsey Runyon Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1011532,Amara Rugs,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1010412,Elizabeth Backup Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1004617,Traditionally Derby,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008475,Chiavaro Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009659,Carpet Concourse Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005726,Lori Henle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1000368,California Carpet and Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002144,Cotier,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017248,Rugs Residential,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015066,"Red Door Homes, Inc,",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1013728,Inplace Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014730,Francois Collective LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1016941,Pamper Haus Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021747,Rogers Gardens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021353,The Haus Collective,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021289,SC Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021093,The Textile Company Limited,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018463,Tom Boland Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1016582,REVIVAL LIGHTING LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023968,M Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1021771,Jak W/RAHWR Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024843,The Oriental Carpet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024509,Andy Lane Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024289,Melissa Morgan Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025222,Apollo Creative,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025582,NOTTLAND STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025232,Suneeta Chilukuri Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025674,House & Hazel,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1014745,Peninsula Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026618,Marisa Robbins Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026870,Studio Ganz,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026956,"Duos Co., LLC DBA Mr. Walrus",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027769,BRITTANY WELLINGTON DESIGN LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027781,Destination Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1034927,Field Theory,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035292,Heiser Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035432,SBW Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035530,Makehouse Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035623,Darkstar Interlude LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035659,Wendy Daniel Interior Design LLC,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035680,Fred Leeds Properties,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035734,Kiley Jensen Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035862,a design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035891,"The Last Inch, dba Zook Solutions",DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035899,Powell Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035956,ISC West,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036087,BIC Interior Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036133,Remix Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036134,estro design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036176,Gerry Homes,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036200,Dehn Bloom Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036210,Design by Caroline Corr,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036233,"Island Home, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036276,Smith Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036344,Amy Small Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036406,PALETTE INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036857,Georgia Tapert Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037054,Studio BLD,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037199,Amy Lippman Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038481,studio coco greenblum,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038517,Lauren Feiner,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Kyra Williamson,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

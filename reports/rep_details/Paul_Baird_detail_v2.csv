@@ -1,0 +1,653 @@
+﻿Rep Detail Report V2: Paul Baird,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+324,284847.34,313003.82,0,0.0,0,0.0,0,0.0,285,8,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 1 Medium Potential: ,2,122647.22,0,0,,,,,,,,,,
+Group 1 High Potential: ,1,96804.08,0,0,,,,,,,,,,
+Group 2 Medium Potential: ,14,75547.61,0,0,,,,,,,,,,
+Group 2 High Potential: ,3,18649.0,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,9,7486.01,0,0,,,,,,,,,,
+Group 3 Low Potential: ,278,1089.5,0,0,,,,,,,,,,
+Group 3 High Potential: ,17,-9219.6,0,0,,,,,,,,,,
+Totals,324,313003.82,0,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 3 accounts | $219451.30 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003818,Employee,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 1 High Potential,Paul Baird,Paul Baird,45446.73,96804.08,215,247,FALSE,N,FALSE,FALSE,N
+1018998,Benjamin West(CO),DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Paul Baird,Paul Baird,12176.24,95289.1,3,3,FALSE,N,FALSE,FALSE,N
+1003839,CASH,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 1 Medium Potential,Paul Baird,Paul Baird,89306.8,27358.12,64,35,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 17 accounts | $94196.61 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1019946,Customer Success Gifting,DESIGN,DESIGN_FIRM,Group 2 High Potential,Paul Baird,Paul Baird,445.75,9235.0,24,7,FALSE,N,FALSE,FALSE,N
+1013265,"Designers Linen Source, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,13920.74,9222.5,18,2,FALSE,N,FALSE,FALSE,N
+1005016,AP Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,8183.8,0,6,FALSE,N,FALSE,FALSE,N
+1028003,THE GETTYS GROUP,DESIGN,HOSPITALITY,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,8039.22,1,2,FALSE,N,FALSE,FALSE,N
+1008806,Ss Eddie Goldberger,INTERNAL,SALES_REP,Group 2 Medium Potential,Paul Baird,Paul Baird,9774.4,6765.5,14,2,FALSE,N,FALSE,FALSE,N
+1021585,Gannon Interior design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,10254.5,6439.0,16,2,FALSE,N,FALSE,FALSE,N
+1026723,Neil Locke & Associates,DESIGN,HOSPITALITY,Group 2 Medium Potential,Paul Baird,Paul Baird,4752.9,6401.34,8,0,FALSE,N,FALSE,FALSE,N
+1005903,The Workroom,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,6175.0,0,1,FALSE,N,FALSE,FALSE,N
+1035570,Noble Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Paul Baird,Paul Baird,0.0,5934.0,0,5,TRUE,N,FALSE,FALSE,N
+1011575,Holly Viane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,5482.0,0,2,FALSE,N,FALSE,FALSE,N
+1000119,Dorello Carpets and Area Rugs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,4035.0,0,1,FALSE,N,FALSE,FALSE,N
+1024084,"Wallace Design Group, Inc.",DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Paul Baird,Paul Baird,0.0,3480.0,0,3,TRUE,N,FALSE,FALSE,N
+1004116,R Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,3355.0,0,2,FALSE,N,FALSE,FALSE,N
+1002368,"Delafield Design Gallery, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,0.0,3270.0,0,1,FALSE,N,FALSE,FALSE,N
+1000341,"Design Center Associates, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,975.0,3071.0,1,2,FALSE,N,FALSE,FALSE,N
+1020725,Studio Wellington,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Paul Baird,Paul Baird,856.0,2587.0,1,3,FALSE,N,FALSE,FALSE,N
+1016365,JL Employee Account,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 2 Medium Potential,Paul Baird,Paul Baird,79.95,2521.25,1,24,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 304 accounts | $-644.09 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1008164,"Courtney and Leigh, Ltd",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,1845.0,0,1,FALSE,N,FALSE,FALSE,N
+1034818,11b Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,1815.0,0,1,TRUE,N,FALSE,FALSE,N
+1016495,Lidia Design Inc.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,1955.0,1630.0,2,1,FALSE,N,FALSE,FALSE,N
+1014435,Kristine Bishop Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,1500.0,0,2,TRUE,N,FALSE,FALSE,N
+1026085,Carpet Discount Center,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Paul Baird,Paul Baird,0.0,1215.0,0,3,TRUE,N,FALSE,FALSE,N
+1014541,ACG Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,1180.0,0,1,TRUE,N,FALSE,FALSE,N
+1000217,"Cyrus Rugs, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,3010.5,1174.5,2,1,FALSE,N,FALSE,FALSE,N
+1002590,Arya Rugs and Accessories,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,8413.2,1065.51,11,5,FALSE,N,FALSE,FALSE,N
+1009672,Integrated Environments,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,796.0,0,1,FALSE,N,FALSE,FALSE,N
+1022717,Lifelyles Gifts & Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,101.0,630.0,1,1,FALSE,N,FALSE,FALSE,N
+1013144,Kane Designs and Home Staging,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,576.0,0,3,TRUE,N,FALSE,FALSE,N
+1008882,Cornerstone Interiors (KS),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,565.0,0,1,FALSE,N,FALSE,FALSE,N
+1011159,"LC Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,520.0,0,1,FALSE,N,FALSE,FALSE,N
+1010659,Housewarmings (KY),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,334.5,0,1,FALSE,N,FALSE,FALSE,N
+1014516,Integrated Design Systems,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,153.9,0,2,TRUE,N,FALSE,FALSE,N
+1010767,Summer Classics (TX),RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Paul Baird,Paul Baird,0.0,100.0,0,0,FALSE,N,FALSE,FALSE,N
+1002049,Interior Vision Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1020758,lando lighting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000404,Youngs Floor Covering,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000416,Fine Rugs Of Charleston,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000437,Rug Studio of Wichita,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,5077.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000557,Rug Rack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,94.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000653,Saul Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000698,Georgetown Carpet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000704,Home Xpressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000723,Massie Creek LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000768,Jernigan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000775,"Mason Salter's, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000785,Broadway Carpets Inc. (TN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000787,Elements By K. Sorbe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000838,Infinity Flooring and Cabinets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015277,Bedroom & more,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000850,Louisiana Furniture Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000868,Carlson's Floors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000939,Only Options,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000973,Angela Wood Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001055,Bueckers Interiors Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001064,Ganesa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001095,Howland Floorcovering,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001146,Seville Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001160,Gray Fox Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1001196,"Avalon Carpet, Tile",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001263,Fresh Home and Garden (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001276,K2 Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001282,Yum Yum Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001301,Topiary Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000349,Johnson Interiors and More Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000354,Outrageous Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001620,LCR,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2678.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001650,Nest Egg,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001863,Outer Banks Furniture LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001878,"Higgins and Spencer, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002019,Designer Fabric Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002026,Lynn Leath Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002068,C & Q Carpet DBA Christine's Floors and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002093,"Harry King Rug and Home, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002159,Rugs By Shahan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002198,Interior Innovations By Julie,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002207,Kelly I Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002243,F L Davis Home Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002288,Post 31 Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000839,Door County Interiors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000845,"At Home and Co., Decori Design",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,11398.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1002442,Luxe Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002464,Mike Kishline-The Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002491,"Trestle Wares, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002536,Raedean Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002560,A Touch Of Lace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002697,CAL - Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002777,Swags and Tassels,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002811,"Herman's Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002945,"Phillips-Wright Furniture Co., LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003027,Interior Legacy L.C.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003037,Ambrose Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003052,John Elliott Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003069,"Chain-Mar, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001363,Olde World Traditions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001510,Poppleton's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003362,"Kitchen Kraft, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003375,Simply Perfect LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1578.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003421,"House 15413, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003537,Tuscany Fine Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003821,Samples Field Sales,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004000,"Floordesign, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004015,"Creative Combinations, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004081,Richard Parks Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004115,Western Heritage Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004217,Catawba Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004223,"A Matter of Style, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004252,Epiphany Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004292,Laurie's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004331,"Lee Anne Cowart Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002331,Euro Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002433,Interior Accents - PA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004381,Nomad Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004450,"Island Floorcovering, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004467,Bradly's Home and Garden,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004503,Jacque Criswell Decor LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004504,Verona Carpet Shop,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004554,Jeannes Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004580,Platt's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004591,Vermeulen Furniture Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004654,Professional Rug Works,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004656,Grand Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004678,Sheraton Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004731,"Amore Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004762,"Holly Hickey Moore, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004781,"Humanity Home and Cabinetry, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004864,Terra Verde-Jon Chandler Holdings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003302,Room At The Beach,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005010,Arrowhead Consulting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005014,Malouf Furniture (MS),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005142,Catalina Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005186,Austin's Interiors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,500.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005213,Macdonald's Rugs and Carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005317,Alexis Hunter Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005345,"G4 Design, dba Living on Main",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005363,Casa Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005366,"Design Images, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005391,Alexis Cole Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005541,"Bungalow Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005592,Classic Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005703,"Christmas Point, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1190.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005709,"Stafford Floor Covering, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005789,The Write Stuff,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004340,"Mason Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005950,"Embellishments Gallerie, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005961,Industrial Revolution Holdings (BC) Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006006,"Jones at Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006013,Persian Rug Gallery (OH),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006161,"PCS Flooring Services, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006220,Bill Cox Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006256,Boxwood Home and Garden,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006296,Taylored Baby and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006375,212 Modern Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006480,Furniture Warehouse Sales,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006539,Island Floors and Remodeling,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006540,Sherry's Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006897,"Nicki Hardee Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1040.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1006978,Antique Brick Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007054,"Carpets To You, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005008,Crawfords Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007132,Fine Linens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007163,Traditions By Emily,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007281,"Royal Rugs, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007372,Scout (KY),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007379,Welcome Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007390,Farmer's Daughter Landscape,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007520,Nina Bryan Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1110.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007577,Laurel Trading,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007614,"Coastal Carolina Carpet and Tile, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007849,Beachwood Home Carmel,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007875,"Elements of Design, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007912,Stanges of Waupaca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,830.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007947,"Creative Home Accessories, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007976,Mod House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,565.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007991,"Bridge Furniture and Props, Atlanta",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2108.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005870,Route 54 Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008064,Freddie Ramon Design and Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020380,Linen and Shade Bin.   NH linen and shade LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008176,K and J Design Group,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008183,Simply Stunning Spaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008233,Stewart's Home Furnishing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008347,HHC Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008459,CDL Carpet and Floor Centre Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008495,Manteo Furniture and Appliance Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008755,Tracys Attic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,3971.0,0.0,10,0,FALSE,N,FALSE,FALSE,N
+1008838,Claghorn Custom Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019311,The Farmhouse Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008936,Ridgemont Furniture Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009163,All Flooring Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009305,Blu d'or Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009315,Ben's Furniture Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007114,"Amy Dutton Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009455,Tarik Yousef Fine Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009486,SS Harris Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,Paul Baird,Paul Baird,-635.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009537,"TaDah,  Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009550,Boutique Marie Dumas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019306,Hang On This Inc. Dba Garage Organization,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009744,The Fitting Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009746,Southern Traditions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009841,Habitat Furnishing and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009905,"Nigbur's Fine Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009921,Plank and Coil,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009929,Gallery Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009969,Sendik's Food Markets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010003,"Nuevo - Nouveau Americana, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010050,Lakeside Living Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010066,High Country Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008028,The Birch Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010148,The Shade Shop and Lighting Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010156,Homestead House LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010217,SS Larry Gerber,INTERNAL,SALES_REP,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010358,RSVP Please dba RSVP Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010371,Niche Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010399,Style Shack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010430,13 Hub Lane (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010549,Firefly,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010606,Black Dog Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018964,Linen & Leather Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2126.43,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1016147,Rosson Co.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,390.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010789,Wayside Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010832,Circa Interiors and Antiques,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2375.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1011011,MIC Interiors Corp,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016093,Oak + Arrow Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,335.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009445,"Aiden Fabrics , LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011545,Maple Living Trading - Moe's Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011546,Outback Casual Living & Fence,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011674,Leiser Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011733,Soho Retro,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011830,Claerbout Furniture and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,138.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011861,"Design House London, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011868,Nancy's Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011981,ProSource of Stamford,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012050,Park Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012067,"Estate Landscape Services, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012185,"B D Jeffries, Inc. (NC)",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012245,Chaubrei Gardens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1012266,Sparrow Interiors and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012499,HHS Of Louisville dba Watson's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012532,Brakenridge Furniture Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010098,Samples - Jaipur Showroom,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012632,Sea + Green,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012689,The Furniture Showplace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012776,Whitetail,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,7751.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1012882,Montanna Design Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1012884,Lorraines Window Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012918,Placerville Flooring and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013012,Envy Paint and Design Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013014,Coastal Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013029,Just For You (TN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013056,"Campbell Flooring, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013081,"McNabb and Risley, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013114,Shed Fine Goods,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013126,Carpet One of Sioux Falls,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015599,Agua Caliente Band of Cahuilla Indians,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013331,"Provincial Home Furnishers, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011335,Stanley Steemer Great Lakes,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013464,Aubrey Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013496,Crown Flooring and Cleaning,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013622,Evco Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013677,Pine Street Natural Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013725,Summer Made,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013753,Dicks Wholesale Carpet Warehouse,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013761,"Theodore Alexander USA, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013992,The Carpet Workroom,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014084,Curated Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014101,Megan Recker Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014150,Iluce Concepts Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014196,TAZI and Co Interiors LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014217,Leber Enterprises Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014233,Charles Stuhlberg Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014235,Boston Interiors Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012602,Alcovy Farms dba Saltbox Lane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1586.4,0.0,3,2,FALSE,N,FALSE,FALSE,N
+1014364,European Tapestry,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1014395,Simply Carolina Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015581,Rustik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014442,Craig's Carpet Inc DBA Georgia Carpet Industries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014360,Fig and Bella Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000358,Rug Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014577,MarxModa Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014667,Summers Wood Floors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014707,Innotec,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014913,Percy John Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014959,Studio Adriana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015018,The Copper Rose,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015047,creative office pavilion,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015063,Santee Furniture World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,148.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1015185,Mix & Mingle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013423,Seaside and Sylvan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000010,Exotic Imports,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023544,SS Chantal Mefford,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023977,"7CS Design,Inc  Best Value Blinds & Flrs",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024350,Ardor Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024765,Eclectic Eye Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024895,The Ritz-Carlton Orlando Grand,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,33022.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025827,White Feather Mercantile,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025909,Hospitality Purveyors Incorporated,DESIGN,HOSPITALITY,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1000313,Lexington Furniture Company Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026304,TEB Finery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,57.3,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026547,Mauks of Jonesborough,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1325.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026576,Autrey Furniture Manufacturing/Triangle Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027347,Linen and Clove,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023527,MARTIN ROBINSON ENTERPRISES-TEXTURES,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035920,KED Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021351,"Furnish HSV, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,390.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022280,ARTE MODUS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000011,Gallery Of Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000016,Metropolitan Rug Center,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000028,Borhani Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000081,Kiser's Floor Fashions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000096,Persian Rug Gallery (LA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000137,Anabel's Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000155,"FCB, Inc., DBA Carpet Galleria",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000157,Carpet Specialists Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000195,Lucky Gem Imports,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015473,"BeSpoke 4 U, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000221,Bradfords Rug Gallery (ME),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000229,Dover Fine Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000230,Julian Interiors Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000262,Iconi Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020557,Katie Brandt,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003855,Meshwork & Company Inc,INTERNAL,SALES_REP,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,-85.0,3,0,FALSE,N,FALSE,FALSE,N
+1024852,Furniture First,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Paul Baird,Paul Baird,0.0,-15684.5,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 285 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024895,The Ritz-Carlton Orlando Grand,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,33022.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000845,"At Home and Co., Decori Design",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,11398.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1012776,Whitetail,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,7751.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1000437,Rug Studio of Wichita,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,5077.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008755,Tracys Attic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,3971.0,0.0,10,0,FALSE,N,FALSE,FALSE,N
+1001620,LCR,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2678.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010832,Circa Interiors and Antiques,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2375.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1018964,Linen & Leather Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2126.43,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1007991,"Bridge Furniture and Props, Atlanta",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,2108.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1000704,Home Xpressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012602,Alcovy Farms dba Saltbox Lane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1586.4,0.0,3,2,FALSE,N,FALSE,FALSE,N
+1003375,Simply Perfect LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1578.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026547,Mauks of Jonesborough,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1325.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005703,"Christmas Point, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1190.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007520,Nina Bryan Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1110.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006897,"Nicki Hardee Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,1040.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1007912,Stanges of Waupaca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,830.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007976,Mod House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,565.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005186,Austin's Interiors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,500.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016147,Rosson Co.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,390.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021351,"Furnish HSV, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,390.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1016093,Oak + Arrow Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,335.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026576,Autrey Furniture Manufacturing/Triangle Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1015063,Santee Furniture World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,148.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011830,Claerbout Furniture and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,138.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000557,Rug Rack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,94.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026304,TEB Finery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,57.3,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1015581,Rustik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015599,Agua Caliente Band of Cahuilla Indians,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019306,Hang On This Inc. Dba Garage Organization,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019311,The Farmhouse Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020380,Linen and Shade Bin.   NH linen and shade LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020557,Katie Brandt,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000229,Dover Fine Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000838,Infinity Flooring and Cabinets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000839,Door County Interiors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000850,Louisiana Furniture Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000868,Carlson's Floors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000939,Only Options,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000973,Angela Wood Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001055,Bueckers Interiors Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001064,Ganesa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001095,Howland Floorcovering,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001146,Seville Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001160,Gray Fox Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1001196,"Avalon Carpet, Tile",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001263,Fresh Home and Garden (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001276,K2 Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014959,Studio Adriana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001301,Topiary Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001363,Olde World Traditions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001510,Poppleton's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001650,Nest Egg,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001863,Outer Banks Furniture LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001878,"Higgins and Spencer, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002019,Designer Fabric Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002026,Lynn Leath Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002068,C & Q Carpet DBA Christine's Floors and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002093,"Harry King Rug and Home, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002159,Rugs By Shahan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002198,Interior Innovations By Julie,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002207,Kelly I Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002243,F L Davis Home Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000787,Elements By K. Sorbe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002331,Euro Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002433,Interior Accents - PA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002442,Luxe Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002464,Mike Kishline-The Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002491,"Trestle Wares, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002536,Raedean Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002560,A Touch Of Lace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002697,CAL - Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002777,Swags and Tassels,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002811,"Herman's Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002945,"Phillips-Wright Furniture Co., LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003027,Interior Legacy L.C.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003037,Ambrose Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003052,John Elliott Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003069,"Chain-Mar, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001282,Yum Yum Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003362,"Kitchen Kraft, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003421,"House 15413, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003537,Tuscany Fine Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003821,Samples Field Sales,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004000,"Floordesign, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004015,"Creative Combinations, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004081,Richard Parks Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004115,Western Heritage Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004217,Catawba Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004223,"A Matter of Style, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004252,Epiphany Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004292,Laurie's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004331,"Lee Anne Cowart Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004340,"Mason Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002288,Post 31 Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004450,"Island Floorcovering, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004467,Bradly's Home and Garden,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004503,Jacque Criswell Decor LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004504,Verona Carpet Shop,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004554,Jeannes Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004580,Platt's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004591,Vermeulen Furniture Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004654,Professional Rug Works,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004656,Grand Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004678,Sheraton Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004731,"Amore Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004762,"Holly Hickey Moore, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004781,"Humanity Home and Cabinetry, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004864,Terra Verde-Jon Chandler Holdings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005008,Crawfords Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003302,Room At The Beach,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005014,Malouf Furniture (MS),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005142,Catalina Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005213,Macdonald's Rugs and Carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005317,Alexis Hunter Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005345,"G4 Design, dba Living on Main",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005363,Casa Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005366,"Design Images, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005391,Alexis Cole Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005541,"Bungalow Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005592,Classic Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005709,"Stafford Floor Covering, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005789,The Write Stuff,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1005870,Route 54 Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004381,Nomad Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005961,Industrial Revolution Holdings (BC) Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006006,"Jones at Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006013,Persian Rug Gallery (OH),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006161,"PCS Flooring Services, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006220,Bill Cox Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006256,Boxwood Home and Garden,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006296,Taylored Baby and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006375,212 Modern Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006480,Furniture Warehouse Sales,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006539,Island Floors and Remodeling,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006540,Sherry's Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006978,Antique Brick Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007054,"Carpets To You, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007114,"Amy Dutton Home, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005010,Arrowhead Consulting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007163,Traditions By Emily,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007281,"Royal Rugs, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007372,Scout (KY),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007379,Welcome Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007390,Farmer's Daughter Landscape,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000016,Metropolitan Rug Center,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007577,Laurel Trading,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007614,"Coastal Carolina Carpet and Tile, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007849,Beachwood Home Carmel,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007875,"Elements of Design, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000028,Borhani Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007947,"Creative Home Accessories, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000081,Kiser's Floor Fashions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000096,Persian Rug Gallery (LA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008028,The Birch Tree,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005950,"Embellishments Gallerie, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008064,Freddie Ramon Design and Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008176,K and J Design Group,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008183,Simply Stunning Spaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008233,Stewart's Home Furnishing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008347,HHC Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008459,CDL Carpet and Floor Centre Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008495,Manteo Furniture and Appliance Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000137,Anabel's Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008838,Claghorn Custom Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008936,Ridgemont Furniture Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009163,All Flooring Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009305,Blu d'or Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009315,Ben's Furniture Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009445,"Aiden Fabrics , LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009455,Tarik Yousef Fine Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007132,Fine Linens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009537,"TaDah,  Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009550,Boutique Marie Dumas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009744,The Fitting Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009746,Southern Traditions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009841,Habitat Furnishing and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009905,"Nigbur's Fine Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009921,Plank and Coil,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009929,Gallery Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009969,Sendik's Food Markets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010003,"Nuevo - Nouveau Americana, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010050,Lakeside Living Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010066,High Country Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010098,Samples - Jaipur Showroom,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010148,The Shade Shop and Lighting Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010156,Homestead House LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010217,SS Larry Gerber,INTERNAL,SALES_REP,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010358,RSVP Please dba RSVP Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010371,Niche Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010399,Style Shack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010430,13 Hub Lane (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010549,Firefly,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010606,Black Dog Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010789,Wayside Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000155,"FCB, Inc., DBA Carpet Galleria",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011011,MIC Interiors Corp,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011335,Stanley Steemer Great Lakes,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011545,Maple Living Trading - Moe's Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011546,Outback Casual Living & Fence,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011674,Leiser Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011733,Soho Retro,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000157,Carpet Specialists Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011861,"Design House London, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011868,Nancy's Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011981,ProSource of Stamford,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012050,Park Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012067,"Estate Landscape Services, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012185,"B D Jeffries, Inc. (NC)",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012245,Chaubrei Gardens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1012266,Sparrow Interiors and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012499,HHS Of Louisville dba Watson's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012532,Brakenridge Furniture Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000195,Lucky Gem Imports,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012632,Sea + Green,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012689,The Furniture Showplace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000221,Bradfords Rug Gallery (ME),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012882,Montanna Design Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1012884,Lorraines Window Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012918,Placerville Flooring and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013012,Envy Paint and Design Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013014,Coastal Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013029,Just For You (TN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013056,"Campbell Flooring, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013081,"McNabb and Risley, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013114,Shed Fine Goods,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013126,Carpet One of Sioux Falls,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013331,"Provincial Home Furnishers, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013423,Seaside and Sylvan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013464,Aubrey Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013496,Crown Flooring and Cleaning,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013622,Evco Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013677,Pine Street Natural Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013725,Summer Made,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013753,Dicks Wholesale Carpet Warehouse,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013761,"Theodore Alexander USA, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013992,The Carpet Workroom,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014084,Curated Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014101,Megan Recker Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014150,Iluce Concepts Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014196,TAZI and Co Interiors LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014217,Leber Enterprises Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014233,Charles Stuhlberg Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014235,Boston Interiors Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014360,Fig and Bella Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014364,European Tapestry,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1014395,Simply Carolina Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014442,Craig's Carpet Inc DBA Georgia Carpet Industries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014577,MarxModa Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014667,Summers Wood Floors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014707,Innotec,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014913,Percy John Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020758,lando lighting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000230,Julian Interiors Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022280,ARTE MODUS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023527,MARTIN ROBINSON ENTERPRISES-TEXTURES,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023544,SS Chantal Mefford,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023977,"7CS Design,Inc  Best Value Blinds & Flrs",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024350,Ardor Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024765,Eclectic Eye Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015018,The Copper Rose,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025827,White Feather Mercantile,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025909,Hospitality Purveyors Incorporated,DESIGN,HOSPITALITY,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1000785,Broadway Carpets Inc. (TN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000010,Exotic Imports,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015047,creative office pavilion,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027347,Linen and Clove,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035920,KED Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1000262,Iconi Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000313,Lexington Furniture Company Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000349,Johnson Interiors and More Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000354,Outrageous Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000358,Rug Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000404,Youngs Floor Covering,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000416,Fine Rugs Of Charleston,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015185,Mix & Mingle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015277,Bedroom & more,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000653,Saul Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000698,Georgetown Carpet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015473,"BeSpoke 4 U, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000723,Massie Creek LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000768,Jernigan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000775,"Mason Salter's, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000011,Gallery Of Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Paul Baird,Paul Baird,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009486,SS Harris Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,Paul Baird,Paul Baird,-635.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

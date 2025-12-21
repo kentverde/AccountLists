@@ -1,0 +1,53 @@
+﻿Rep Detail Report V2: Archana Chaudhary,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:54,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+8,1391005.9,240890.58,0,0.0,0,0.0,0,0.0,5,0,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 1 Low Potential: ,1,240018.2,0,0,,,,,,,,,,
+Group 2 Low Potential: ,1,17941.56,0,0,,,,,,,,,,
+Group 3 Low Potential: ,6,-17069.18,0,0,,,,,,,,,,
+Totals,8,240890.58,0,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $240018.20 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1020083,Enkay,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,Archana Chaudhary,Archana Chaudhary,1311352.25,240018.2,2347,325,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 1 accounts | $17941.56 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035916,Econo,INTERNAL,UNKNOWN,Group 2 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,17941.56,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 6 accounts | $-17069.18 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003829,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1019727,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022843,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006160,Sample - Media,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,5188.5,-17069.18,72,76,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 5 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003829,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1019727,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022843,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Archana Chaudhary,Archana Chaudhary,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

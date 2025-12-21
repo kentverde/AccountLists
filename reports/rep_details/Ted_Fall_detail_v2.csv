@@ -1,0 +1,231 @@
+﻿Rep Detail Report V2: Ted Fall,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:56,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+149,1622456.38,1676378.62,0,0.0,5,3088.0,0,0.0,31,7,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 1 High Potential: ,18,776057.66,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,11,325049.67,0,0,,,,,,,,,,
+Group 2 Medium Potential: ,44,285248.95,0,0,,,,,,,,,,
+Group 2 High Potential: ,24,254696.5,0,0,,,,,,,,,,
+Group 2 Low Potential: ,3,20814.5,0,0,,,,,,,,,,
+Group 3 High Potential: ,16,7579.14,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,7,7293.5,3,0,,,,,,,,,,
+Group 3 Low Potential: ,26,-361.3,2,0,,,,,,,,,,
+Totals,149,1676378.62,5,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | $1101107.33 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003541,Hillsdale Home-Alder and Tweed,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,85117.79,134759.77,92,86,FALSE,N,FALSE,FALSE,N
+1008673,Alice Lane Home Collection,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,72514.3,71236.73,42,36,FALSE,N,FALSE,FALSE,N
+1036116,Bri Duncan Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,0.0,67150.0,0,11,TRUE,N,FALSE,FALSE,N
+1020325,Curate to the Trade,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,49485.75,49677.61,35,25,FALSE,N,FALSE,FALSE,N
+1002939,Echelon Fine Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,45154.32,43209.05,45,35,FALSE,N,FALSE,FALSE,N
+1004022,Establish Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,13050.86,40637.87,17,6,FALSE,N,FALSE,FALSE,N
+1025217,Silver Mountain Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,43973.77,39029.1,22,27,FALSE,N,FALSE,FALSE,N
+1004703,Denton House Design Studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,56832.14,38223.11,31,13,FALSE,N,FALSE,FALSE,N
+1012414,Judith Balis Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,68443.7,37135.4,75,48,FALSE,N,FALSE,FALSE,N
+1003310,Caitlin Creer Interior Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,22381.87,36852.7,7,10,FALSE,N,FALSE,FALSE,N
+1000317,Topnotch Fine Furnishings,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,22291.5,36160.4,9,22,FALSE,N,FALSE,FALSE,N
+1017880,4C Group (UT),DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,30801.16,35403.51,22,41,FALSE,N,FALSE,FALSE,N
+1023703,The Annex LLC (Helm),RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,24726.06,34705.9,12,16,FALSE,N,FALSE,FALSE,N
+1007285,Nomade Soul Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,17214.6,33810.7,14,17,FALSE,N,FALSE,FALSE,N
+1023107,Barclay Butera - UT,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Ted Fall,Ted Fall,46568.12,31993.92,27,22,FALSE,N,FALSE,FALSE,N
+1013261,Poison Creek Furniture and Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,40437.5,31385.9,36,32,FALSE,N,FALSE,FALSE,N
+1002646,Gatehouse No 1,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Ted Fall,Ted Fall,44509.8,30798.0,26,23,FALSE,N,FALSE,FALSE,N
+1012078,Elegante Interiors and Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,27473.54,30389.96,16,17,FALSE,N,FALSE,FALSE,N
+1010704,Four Chairs Furniture,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,29237.91,29716.7,30,25,FALSE,N,FALSE,FALSE,N
+1009630,Remedy Furniture and Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ted Fall,Ted Fall,12697.0,27587.4,9,19,FALSE,N,FALSE,FALSE,N
+1014772,Lucca Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,20179.96,27582.0,6,11,FALSE,N,FALSE,FALSE,N
+1035646,Kora Home Artistry,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,0.0,27291.5,0,12,TRUE,N,FALSE,FALSE,N
+1021037,BOND DESIGN COMPANY,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ted Fall,Ted Fall,19632.0,27158.5,9,8,FALSE,N,FALSE,FALSE,N
+1007117,House of Jade Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,17768.38,26792.1,35,19,FALSE,N,FALSE,FALSE,N
+1014940,Roberts & Lamb,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Ted Fall,Ted Fall,7195.0,26152.0,2,10,FALSE,N,FALSE,FALSE,N
+1015947,Side Door,E-TAILER,MASS,Group 1 Medium Potential,Ted Fall,Ted Fall,47798.8,23083.2,93,57,FALSE,N,FALSE,FALSE,N
+1021019,Shauna Spencer Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,37304.2,21295.25,14,16,FALSE,N,FALSE,FALSE,N
+1027525,Jaffa Group PC,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,Ted Fall,Ted Fall,75.0,21117.75,2,4,FALSE,N,FALSE,FALSE,N
+1013122,Simons Design Studio,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ted Fall,Ted Fall,294.0,20771.3,1,6,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 71 accounts | $560759.95 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1011553,CopperHAUS,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,8877.0,17869.0,10,7,FALSE,N,FALSE,FALSE,N
+1007228,CC Forte Custom Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,395.0,17710.5,1,8,FALSE,N,FALSE,FALSE,N
+1035232,Pearl Home Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,0.0,17230.0,0,10,FALSE,N,FALSE,FALSE,N
+1026024,Lynn Yoon Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,404.0,16944.3,1,10,FALSE,N,FALSE,FALSE,N
+1017943,Maison Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,0.0,16604.8,0,11,TRUE,N,FALSE,FALSE,N
+1014923,Aleece Sligar Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,0.0,16271.0,0,7,FALSE,N,FALSE,FALSE,N
+1018968,Sukhan Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,8840.0,15992.85,4,7,FALSE,N,FALSE,FALSE,N
+1010849,Interior Concepts (UT),DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,9762.75,15913.01,8,8,FALSE,N,FALSE,FALSE,N
+1015212,RGM Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,16105.82,14567.88,7,2,FALSE,N,FALSE,FALSE,N
+1024147,Milkbird Design + Architecture,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,23822.0,14539.5,2,2,FALSE,N,FALSE,FALSE,N
+1009860,Inspired Living,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,3760.0,14108.3,6,9,FALSE,N,FALSE,FALSE,N
+1027093,J Home Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,8244.0,13532.0,4,8,FALSE,N,FALSE,FALSE,N
+1036986,Marissa Palmer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,0.0,13367.0,0,7,TRUE,N,FALSE,FALSE,N
+1026997,Christal Andrea Interior Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,780.0,12572.65,2,10,FALSE,N,FALSE,FALSE,N
+1018300,Andrea West Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,5672.04,12471.0,6,7,FALSE,N,FALSE,FALSE,N
+1001693,Pamela Stockton Interiors,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Ted Fall,Ted Fall,11217.0,12410.5,4,8,FALSE,N,FALSE,FALSE,N
+1008941,Heritage Home and Garden,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,9922.0,11110.65,7,6,FALSE,N,FALSE,FALSE,N
+1012664,Doran Taylor Inc. LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,25521.55,10632.0,11,6,FALSE,N,FALSE,FALSE,N
+1012250,Paula Berg Design Associates,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,12514.0,10308.7,2,3,FALSE,N,FALSE,FALSE,N
+1015118,Festive Living,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,12123.38,10256.0,8,5,FALSE,N,FALSE,FALSE,N
+1004867,Forseys Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,6187.5,9883.5,12,21,FALSE,N,FALSE,FALSE,N
+1026854,Kimberly Parker Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,16890.0,9830.0,4,2,FALSE,N,FALSE,FALSE,N
+1016434,4th Avenue Homes,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,16418.02,9542.0,6,6,FALSE,N,FALSE,FALSE,N
+1035844,Mark and Aly interior design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,0.0,9271.0,0,7,TRUE,N,FALSE,FALSE,N
+1003534,Liv By Atmosphere Id,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,22083.9,9233.0,14,5,FALSE,N,FALSE,FALSE,N
+1012173,San Francisco Design,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Ted Fall,Ted Fall,6878.0,8565.0,2,11,FALSE,N,FALSE,FALSE,N
+1010102,Old Mill dba The Picket Fence,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,7280.0,8312.0,4,7,FALSE,N,FALSE,FALSE,N
+1012224,White and Gold Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,0.0,8075.27,0,3,FALSE,N,FALSE,FALSE,N
+1018019,REDEUX DECOR,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,8619.0,7992.0,3,3,FALSE,N,FALSE,FALSE,N
+1023722,Dwell Design Co.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,15552.0,7802.0,4,4,FALSE,N,FALSE,FALSE,N
+1026152,Good Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,177.0,7724.43,1,4,FALSE,N,FALSE,FALSE,N
+1018809,Manzanita Home Art + Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,8060.0,7338.2,6,6,FALSE,N,FALSE,FALSE,N
+1010560,Glass House dba K Rocke Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,53213.28,6976.72,22,5,FALSE,N,FALSE,FALSE,N
+1012178,Yellow Pine LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,11489.8,6952.0,3,9,FALSE,N,FALSE,FALSE,N
+1013554,"J Martin + Co, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,5882.0,6885.3,5,8,FALSE,N,FALSE,FALSE,N
+1038353,Design By Silvia,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,0.0,6749.5,0,3,TRUE,N,FALSE,FALSE,N
+1014929,All in a Day Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,7725.0,6722.0,4,4,FALSE,N,FALSE,FALSE,N
+1021758,Lauren Griffith Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,3529.0,6430.0,3,3,FALSE,N,FALSE,FALSE,N
+1038529,Wagners Furniture and Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,0.0,6300.0,0,3,TRUE,N,FALSE,FALSE,N
+1006850,Conceptual Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,0.0,5589.0,0,5,FALSE,N,FALSE,FALSE,N
+1023308,JC DEVELOPMENT AND DESIGN LLC DBA: HÃ¼GA HOME,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,10310.5,5371.0,4,9,FALSE,N,FALSE,FALSE,N
+1027383,Melissa Fischer Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,0.0,5344.0,0,2,TRUE,N,FALSE,FALSE,N
+1008811,"Augusto Fine Rugs, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,5429.8,5169.0,8,10,FALSE,N,FALSE,FALSE,N
+1022631,Edenbrooke Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,3906.0,5151.9,1,3,FALSE,N,FALSE,FALSE,N
+1013123,Forsyth and Brown LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,33.0,5090.0,1,1,FALSE,N,FALSE,FALSE,N
+1000363,Artifacts,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,18423.9,4923.0,13,7,FALSE,N,FALSE,FALSE,N
+1007007,King Design Consulting Group,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Ted Fall,Ted Fall,5418.0,4859.0,4,2,FALSE,N,FALSE,FALSE,N
+1010052,Elizabeth Robb Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,10232.0,4824.0,3,2,FALSE,N,FALSE,FALSE,N
+1010476,Pradhan Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,1050.0,4622.0,2,3,FALSE,N,FALSE,FALSE,N
+1009687,Meagan Rae Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,9355.0,4549.5,5,1,FALSE,N,FALSE,FALSE,N
+1002224,Gallatin Valley Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,0.0,4480.0,0,1,TRUE,N,FALSE,FALSE,N
+1015463,Chandlar Glassett Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,1428.0,4080.0,3,3,FALSE,N,FALSE,FALSE,N
+1024199,SKD Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,2623.0,3995.6,1,3,FALSE,N,FALSE,FALSE,N
+1035495,DiOrio Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,0.0,3948.0,2,0,FALSE,N,FALSE,FALSE,N
+1005888,Shannon Callaghan Interior Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ted Fall,Ted Fall,0.0,3826.0,0,2,TRUE,N,FALSE,FALSE,N
+1015016,Denise Glenn Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,3525.0,3797.0,2,4,FALSE,N,FALSE,FALSE,N
+1012723,Alyssa Santiago Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,32131.88,3749.0,9,2,FALSE,N,FALSE,FALSE,N
+1001897,Cody Beal Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,2965.5,3713.9,3,2,FALSE,N,FALSE,FALSE,N
+1013350,Style By Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,5861.8,3616.0,5,7,FALSE,N,FALSE,FALSE,N
+1009003,The Picket Fence,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,Ted Fall,Ted Fall,4300.8,3545.0,2,1,FALSE,N,FALSE,FALSE,N
+1001234,Montana Expressions,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,5092.0,3390.0,1,1,FALSE,N,FALSE,FALSE,N
+1000364,Carpet Studio Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,2024.0,3017.0,3,3,FALSE,N,FALSE,FALSE,N
+1020982,House of Jade Home,E-TAILER,SPECIALTY,Group 2 Medium Potential,Ted Fall,Ted Fall,12766.56,2972.0,18,13,FALSE,N,FALSE,FALSE,N
+1002330,Amanda Jones Furniture,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,0.0,2910.0,1,1,FALSE,N,FALSE,FALSE,N
+1014906,Edit Design House,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ted Fall,Ted Fall,11779.0,2908.09,12,6,FALSE,N,FALSE,FALSE,N
+1003675,Finishing Touches (WY),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,5727.5,2897.0,8,5,FALSE,N,FALSE,FALSE,N
+1017732,Homewares LLC / DBA Home Again,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ted Fall,Ted Fall,6095.8,2835.4,3,5,FALSE,N,FALSE,FALSE,N
+1008504,Passport Furnishings LLC,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,Ted Fall,Ted Fall,4445.5,2758.0,11,6,FALSE,N,FALSE,FALSE,N
+1024066,gode haus design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Ted Fall,Ted Fall,120.0,2700.0,1,2,FALSE,N,FALSE,FALSE,N
+1003664,"Studio McGee, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ted Fall,Ted Fall,119.0,2590.0,3,2,FALSE,N,FALSE,FALSE,N
+1035352,Eryn Lambert Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ted Fall,Ted Fall,0.0,2544.0,0,2,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts | $11423.34 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1038696,Cactus Rd Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ted Fall,Ted Fall,0.0,2315.0,0,1,TRUE,N,FALSE,FALSE,N
+1035704,Scape Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Ted Fall,Ted Fall,0.0,2226.0,0,2,TRUE,N,FALSE,FALSE,N
+1004172,Madison McCord Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ted Fall,Ted Fall,0.0,2208.5,0,1,FALSE,N,FALSE,FALSE,N
+1036163,Ambient Home and Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,1653.0,0,3,TRUE,N,FALSE,FALSE,N
+1017532,"Amenity, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ted Fall,Ted Fall,18876.2,827.0,8,4,FALSE,N,FALSE,FALSE,N
+1011783,Classic Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ted Fall,Ted Fall,475.0,658.0,3,5,FALSE,N,FALSE,FALSE,N
+1004302,"Osmond Designs, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Ted Fall,Ted Fall,2769.0,512.0,5,2,FALSE,N,FALSE,FALSE,N
+1037891,Cirque Studio,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Ted Fall,Ted Fall,0.0,453.28,0,4,TRUE,N,FALSE,FALSE,N
+1009618,"Pierce's Flooring, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ted Fall,Ted Fall,0.0,365.0,0,1,TRUE,N,FALSE,FALSE,N
+1036129,Hinterlands Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,300.0,0,1,TRUE,N,FALSE,FALSE,N
+1037581,Farland Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,150.0,0,0,TRUE,N,FALSE,FALSE,N
+1037642,Designer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,80.0,0,0,TRUE,N,FALSE,FALSE,N
+1024707,The Lifestyle Collective,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,50.0,0,0,FALSE,N,FALSE,FALSE,N
+1037493,"By Design Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,36.86,0,1,TRUE,N,FALSE,FALSE,N
+1008072,Designer Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007924,Decor to Your Door,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,570.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001730,Grove's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003576,Knight Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1140.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001485,Lodgecraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1024.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001595,Carol's Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,538.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001236,Lakeshore Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000389,Rug Decor Of Sandy (UT),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006840,Piney Creek Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,10017.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1005613,Rocky Mountain Design Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011554,McGee & Co Partners,E-TAILER,SPECIALTY,Group 3 Low Potential,Ted Fall,Ted Fall,35088.0,0.0,85,0,FALSE,N,FALSE,FALSE,N
+1015880,Malouf,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016287,"DownEast Outfitters, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010270,Catherine Lane Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010044,alicelanehome.com,E-TAILER,SPECIALTY,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024610,Botanic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,131.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1023369,Curio Collective,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1023994,Bowcutt's Flooring America,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021550,The Cupboard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1398.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1020544,Quietude Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,3240.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1020273,Hamilton Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022229,Marathon Realty of Idaho,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1036799,Josephine West,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1036255,Ironstone Furniture and Fire,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1034844,Twisted Lemon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035970,"Domaine Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037241,Curated Style Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037560,Within Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037530,Hannesson Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1012068,SS Ted Fall,INTERNAL,SALES_REP,Group 3 Low Potential,Ted Fall,Ted Fall,2005.1,-411.3,4,1,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 5 accounts | $3088.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1012656,Designed Interiors dba Dwelling,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Ted Fall,Ted Fall,18817.0,1872.0,14,6,FALSE,Y,TRUE,FALSE,N
+1019086,Millhaven Homes,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Ted Fall,Ted Fall,44225.4,631.0,16,3,FALSE,Y,TRUE,FALSE,N
+1020150,"Studio Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Ted Fall,Ted Fall,19621.34,585.0,6,2,FALSE,Y,TRUE,FALSE,N
+1011490,"The Olsen Home, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Ted Fall,Ted Fall,22079.5,0.0,11,0,FALSE,Y,TRUE,FALSE,N
+1021017,Grove Collective,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Ted Fall,Ted Fall,24173.23,0.0,35,0,FALSE,Y,TRUE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 31 accounts (7 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1011554,McGee & Co Partners,E-TAILER,SPECIALTY,Group 3 Low Potential,Ted Fall,Ted Fall,35088.0,0.0,85,0,FALSE,N,FALSE,FALSE,N
+1021017,Grove Collective,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Ted Fall,Ted Fall,24173.23,0.0,35,0,FALSE,Y,TRUE,FALSE,N
+1011490,"The Olsen Home, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Ted Fall,Ted Fall,22079.5,0.0,11,0,FALSE,Y,TRUE,FALSE,N
+1006840,Piney Creek Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,10017.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1020544,Quietude Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,3240.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1021550,The Cupboard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1398.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1003576,Knight Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1140.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001485,Lodgecraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,1024.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007924,Decor to Your Door,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,570.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001595,Carol's Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,538.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024610,Botanic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,131.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005613,Rocky Mountain Design Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001730,Grove's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000389,Rug Decor Of Sandy (UT),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001236,Lakeshore Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016287,"DownEast Outfitters, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015880,Malouf,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010270,Catherine Lane Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010044,alicelanehome.com,E-TAILER,SPECIALTY,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008072,Designer Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022229,Marathon Realty of Idaho,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023994,Bowcutt's Flooring America,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020273,Hamilton Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023369,Curio Collective,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ted Fall,Ted Fall,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1034844,Twisted Lemon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035970,"Domaine Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036255,Ironstone Furniture and Fire,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036799,Josephine West,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1037241,Curated Style Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037530,Hannesson Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037560,Within Co,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Ted Fall,Ted Fall,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,

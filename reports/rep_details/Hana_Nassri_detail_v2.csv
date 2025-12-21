@@ -1,0 +1,461 @@
+﻿Rep Detail Report V2: Hana Nassri,,,,,,,,,,,,,,,
+Generated: 2025-12-21 16:32:55,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Total Accounts:,Total 2024 Revenue:,Total 2025 Revenue:,Accounts Moved In:,Revenue Moved In:,Floor Exceptions:,Floor Exception Rev:,SF ex BI Accounts:,SF ex BI Rev:,Zero Rev Accounts:,Zero Rev New 2025:,,,,,
+350,1213254.33,1879486.09,349,1876681.09,0,0.0,0,0.0,68,48,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+,Accounts,Revenue,Exceptions,Removed,,,,,,,,,,
+Group 2 Medium Potential: ,128,813087.16,0,0,,,,,,,,,,
+Group 2 High Potential: ,69,505115.3,0,0,,,,,,,,,,
+Group 1 High Potential: ,13,386698.1,0,0,,,,,,,,,,
+Group 1 Medium Potential: ,4,93307.62,0,0,,,,,,,,,,
+Group 3 High Potential: ,95,46095.81,0,0,,,,,,,,,,
+Group 3 Medium Potential: ,13,17721.2,0,2,,,,,,,,,,
+Group 2 Low Potential: ,4,14794.0,0,0,,,,,,,,,,
+Group 3 Low Potential: ,24,2666.9,0,0,,,,,,,,,,
+Totals,350,1879486.09,0,0,,,,,,,,,,
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | $480005.72 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024565,Domaine,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Hana Nassri,3055.0,44073.0,2,20,FALSE,N,FALSE,FALSE,N
+1017451,"Ingrid Porter Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Carrie Odendahl,Hana Nassri,10588.38,42904.1,5,13,FALSE,N,FALSE,FALSE,N
+1024159,Liz Walton Home,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kimberly Myers,Hana Nassri,9991.5,41648.5,11,20,FALSE,N,FALSE,FALSE,N
+1017126,Swank Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Hana Nassri,8128.04,41131.97,8,8,FALSE,N,FALSE,FALSE,N
+1009762,Kroungolds Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Kimberly Myers,Hana Nassri,33999.43,36878.2,32,27,FALSE,N,FALSE,FALSE,N
+1011564,B Interior,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Hana Nassri,36136.0,27546.04,17,16,FALSE,N,FALSE,FALSE,N
+1012815,Interior Marketing Group,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Vandana Kaku,Hana Nassri,44293.5,27420.0,30,25,FALSE,N,FALSE,FALSE,N
+1014699,Workshop Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Hana Nassri,6654.0,26582.02,4,14,FALSE,N,FALSE,FALSE,N
+1023587,Cynthia Brooks Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Kimberly Myers,Hana Nassri,35532.66,24733.1,0,11,FALSE,N,FALSE,FALSE,N
+1036080,A Touch of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Carrie Odendahl,Hana Nassri,0.0,23958.5,0,15,TRUE,N,FALSE,FALSE,N
+1003496,Glenna Stone Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kimberly Myers,Hana Nassri,24619.02,22965.74,15,18,FALSE,N,FALSE,FALSE,N
+1020550,Adorna Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Anna Hudspeth,Hana Nassri,17228.5,21239.4,11,17,FALSE,N,FALSE,FALSE,N
+1001624,Library Of Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Carrie Odendahl,Hana Nassri,13761.5,21220.93,8,7,FALSE,N,FALSE,FALSE,N
+1023851,Lacey Boyer Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Carrie Odendahl,Hana Nassri,95.0,20205.8,1,4,FALSE,N,FALSE,FALSE,N
+1021841,Lisa Esposito Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Anna Hudspeth,Hana Nassri,15822.54,19915.12,9,8,FALSE,N,FALSE,FALSE,N
+1014846,Wade Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Vandana Kaku,Hana Nassri,9446.2,18990.81,1,3,FALSE,N,FALSE,FALSE,N
+1013401,J Lynn Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,Carrie Odendahl,Hana Nassri,8270.0,18592.49,8,13,FALSE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 201 accounts | $1332996.46 revenue,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1022293,"Marni Joy Hamptons Interiors + Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,11433.0,17882.0,8,9,FALSE,N,FALSE,FALSE,N
+1024083,Caroline Griswold Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,17810.0,0,2,TRUE,N,FALSE,FALSE,N
+1016766,Ideazione,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,6326.0,17195.1,9,12,FALSE,N,FALSE,FALSE,N
+1025436,Dwell Well Designs Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,1549.0,15881.7,1,8,FALSE,N,FALSE,FALSE,N
+1036151,Emerald Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,15370.0,0,4,TRUE,N,FALSE,FALSE,N
+1017492,Mary Rosenberg Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,15638.5,15212.0,12,6,FALSE,N,FALSE,FALSE,N
+1016804,Devon Jeanne Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,2362.0,14645.25,4,9,FALSE,N,FALSE,FALSE,N
+1035000,Drake Anderson,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,150.0,14166.95,1,2,FALSE,N,FALSE,FALSE,N
+1019551,Agiglio Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,8900.1,14021.0,4,9,FALSE,N,FALSE,FALSE,N
+1018325,ACME Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,15155.0,14010.0,1,5,FALSE,N,FALSE,FALSE,N
+1027157,Susan Berg Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,2779.0,13992.0,1,6,FALSE,N,FALSE,FALSE,N
+1000802,"Nimbus Nine, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,4700.0,13976.0,2,6,FALSE,N,FALSE,FALSE,N
+1025388,"Hall & Parlor, Ltd",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,4275.0,13839.84,1,1,FALSE,N,FALSE,FALSE,N
+1015649,Tickle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,13633.0,0,6,FALSE,N,FALSE,FALSE,N
+1024399,"Placed Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,9994.0,13320.17,4,9,FALSE,N,FALSE,FALSE,N
+1015240,"Poplar Creek Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,625.0,13232.0,2,10,FALSE,N,FALSE,FALSE,N
+1020757,LSK Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,6151.02,13223.19,7,4,FALSE,N,FALSE,FALSE,N
+1011687,LSH Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,9819.61,13041.88,13,7,FALSE,N,FALSE,FALSE,N
+1018189,"Moose Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Hana Nassri,0.0,12675.0,0,4,FALSE,N,FALSE,FALSE,N
+1002759,"Jones Group Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,4985.0,12469.0,4,10,FALSE,N,FALSE,FALSE,N
+1024071,Thomas Juul Hansen,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,15766.0,12458.67,8,0,FALSE,N,FALSE,FALSE,N
+1027869,HOMA ENT. CORP - DBA Artistry Design,DESIGN,DESIGNER_NO_SHOWROOM,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,12381.0,0,6,TRUE,N,FALSE,FALSE,N
+1017376,Isabella Patrick Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,4121.5,12000.0,2,3,FALSE,N,FALSE,FALSE,N
+1018415,Andrea Krill Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,5922.55,11838.23,5,8,FALSE,N,FALSE,FALSE,N
+1002706,"Shehadi, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Vandana Kaku,Hana Nassri,621.0,11804.5,1,3,FALSE,N,FALSE,FALSE,N
+1012879,"Dan Ruhland Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,16295.5,11708.0,6,5,FALSE,N,FALSE,FALSE,N
+1013134,"Eclectic Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,3617.8,11661.3,4,14,FALSE,N,FALSE,FALSE,N
+1022606,Radical Renovations,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,1677.5,11644.0,1,3,FALSE,N,FALSE,FALSE,N
+1023084,"MEGAN PISANO DESIGN, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,10742.0,11583.0,6,8,FALSE,N,FALSE,FALSE,N
+1004239,Chestnut Hill Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,10330.0,11543.3,4,3,FALSE,N,FALSE,FALSE,N
+1016044,Seven Lane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,16112.0,11440.0,6,4,FALSE,N,FALSE,FALSE,N
+1013674,Ali Reeve Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,6237.8,11410.0,5,4,FALSE,N,FALSE,FALSE,N
+1015211,McQuaide Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,8893.0,11150.64,8,8,FALSE,N,FALSE,FALSE,N
+1017202,Outside Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,14659.0,11147.16,6,12,FALSE,N,FALSE,FALSE,N
+1005481,"AR Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,15428.0,11000.0,8,10,FALSE,N,FALSE,FALSE,N
+1014895,Gala Magrina Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,10840.0,0,4,FALSE,N,FALSE,FALSE,N
+1016900,Danielle Rose Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,9012.0,10820.0,3,4,FALSE,N,FALSE,FALSE,N
+1034918,Bridget Hansel Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,10785.0,0,1,TRUE,N,FALSE,FALSE,N
+1022962,Cordaro Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,12325.5,10772.53,10,6,FALSE,N,FALSE,FALSE,N
+1034773,City to Suburb Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,10359.0,0,4,FALSE,N,FALSE,FALSE,N
+1005281,"DW Design and Decor, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,2400.0,10287.8,2,2,FALSE,N,FALSE,FALSE,N
+1019298,Antonio Pippo Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3603.0,10107.4,1,5,FALSE,N,FALSE,FALSE,N
+1014399,Natura Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,11166.71,10002.0,9,12,FALSE,N,FALSE,FALSE,N
+1000605,"Arbor Living Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,19550.4,9983.01,18,5,FALSE,N,FALSE,FALSE,N
+1025924,Tamara Eaton Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,6256.0,9899.0,5,9,FALSE,N,FALSE,FALSE,N
+1022080,Susan Rains Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,514.5,9620.64,4,2,FALSE,N,FALSE,FALSE,N
+1015090,ASH NYC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,20603.0,9570.0,15,4,FALSE,N,FALSE,FALSE,N
+1020957,JLS Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,7163.4,9557.2,5,5,FALSE,N,FALSE,FALSE,N
+1017891,NMG Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,3244.0,9146.0,1,2,FALSE,N,FALSE,FALSE,N
+1021963,Didi Granger Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,8985.27,0,4,TRUE,N,FALSE,FALSE,N
+1014989,Rachel Simone,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,21768.0,8911.0,20,6,FALSE,N,FALSE,FALSE,N
+1024727,Natalie Miller Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,8845.0,0,3,FALSE,N,FALSE,FALSE,N
+1020719,Hackett House Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,150.0,8831.5,0,4,FALSE,N,FALSE,FALSE,N
+1035341,Inside Elements,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,8476.47,0,2,TRUE,N,FALSE,FALSE,N
+1017673,Petra Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,7433.12,8382.1,7,5,FALSE,N,FALSE,FALSE,N
+1023942,Jessica Hobson Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,5165.0,8254.5,2,4,FALSE,N,FALSE,FALSE,N
+1020971,DMS Designs LLC dba Madison Scott Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,445.0,8150.0,2,2,FALSE,N,FALSE,FALSE,N
+1038448,Canvas Advisors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,7980.0,0,1,TRUE,N,FALSE,FALSE,N
+1028157,Sarah Ivory Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,7907.76,1,0,FALSE,N,FALSE,FALSE,N
+1017259,Main Street Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,157.0,7874.9,1,4,FALSE,N,FALSE,FALSE,N
+1017899,La Maison Chic,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,9262.0,7840.5,4,11,FALSE,N,FALSE,FALSE,N
+1015537,JP Compass DBA Compass Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kimberly Myers,Hana Nassri,7639.12,7774.89,4,4,FALSE,N,FALSE,FALSE,N
+1035577,Julie Paulino Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,7739.4,0,2,FALSE,N,FALSE,FALSE,N
+1023176,"Annie & Associates, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,25.0,7474.2,0,6,FALSE,N,FALSE,FALSE,N
+1004832,Whimsicality,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Kimberly Myers,Hana Nassri,3936.0,7423.0,3,10,FALSE,N,FALSE,FALSE,N
+1002545,Joseph Craig Ltd,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,14493.84,7392.5,17,8,FALSE,N,FALSE,FALSE,N
+1024234,Jill Myers Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,12551.5,7328.13,8,6,FALSE,N,FALSE,FALSE,N
+1027478,"AMP Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,6625.0,7222.96,4,0,FALSE,N,FALSE,FALSE,N
+1017365,"House Edits, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,10503.0,7206.0,10,5,FALSE,N,FALSE,FALSE,N
+1019189,MOD: matter of design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,5829.0,7123.0,9,12,FALSE,N,FALSE,FALSE,N
+1013304,Christina Kim Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,6265.0,7107.0,4,4,FALSE,N,FALSE,FALSE,N
+1020835,Teela Bennett Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,1955.0,7073.0,1,7,FALSE,N,FALSE,FALSE,N
+1002034,Village Design and Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,2575.0,6940.0,2,5,FALSE,N,FALSE,FALSE,N
+1009257,Henrietta Heisler Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,200.0,6920.52,2,3,FALSE,N,FALSE,FALSE,N
+1013365,Carol Lang Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,6882.0,0,2,FALSE,N,FALSE,FALSE,N
+1018092,Lewis Birks LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3709.0,6655.0,1,4,FALSE,N,FALSE,FALSE,N
+1010238,Samantha Heyl LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,645.0,6647.52,1,3,FALSE,N,FALSE,FALSE,N
+1007879,"Dale Blumberg Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,6213.5,6577.76,4,1,FALSE,N,FALSE,FALSE,N
+1027243,The Jones Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,13883.0,6570.5,2,2,FALSE,N,FALSE,FALSE,N
+1018913,Hang Your Heart Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3534.55,6363.6,11,8,FALSE,N,FALSE,FALSE,N
+1015379,Melissaâ€™s Designs  & Company LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,2521.0,6328.0,4,4,FALSE,N,FALSE,FALSE,N
+1010010,Out of the Norm,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,9630.1,6195.0,9,3,FALSE,N,FALSE,FALSE,N
+1022064,JRID,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,6143.08,2,0,FALSE,N,FALSE,FALSE,N
+1007994,Alicia Kinloch Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,435.0,6038.45,1,6,FALSE,N,FALSE,FALSE,N
+1019069,Village West Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,5992.0,0,3,TRUE,N,FALSE,FALSE,N
+1035429,Evermore Interiors & Real Estate,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,568.0,5910.0,1,2,FALSE,N,FALSE,FALSE,N
+1016798,"Callaghan Interior Design, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,10669.0,5875.0,3,4,FALSE,N,FALSE,FALSE,N
+1021096,Bespoke Design (NY),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,4213.5,5822.0,6,8,FALSE,N,FALSE,FALSE,N
+1027306,SR Projects,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3589.0,5796.45,2,4,FALSE,N,FALSE,FALSE,N
+1038402,Jetsam Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,5774.0,0,3,TRUE,N,FALSE,FALSE,N
+1026094,Erica Fearon Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,1574.0,5674.0,1,1,FALSE,N,FALSE,FALSE,N
+1012810,"Plume Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,5673.0,0,4,FALSE,N,FALSE,FALSE,N
+1013282,KKB Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,1285.0,5656.5,2,2,FALSE,N,FALSE,FALSE,N
+1014683,Ashleigh Clark Interior Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,389.0,5596.5,1,3,FALSE,N,FALSE,FALSE,N
+1026554,Perri Swift Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,5492.84,1,3,FALSE,N,FALSE,FALSE,N
+1012419,JLW Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,5483.0,0,4,TRUE,N,FALSE,FALSE,N
+1024276,Cynthia LeBlanc Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,2058.0,5458.4,2,4,FALSE,N,FALSE,FALSE,N
+1027089,Make Nice  DBA Megan Mitchell Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,5413.0,1,0,FALSE,N,FALSE,FALSE,N
+1028156,Silas Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,5352.1,0,2,FALSE,N,FALSE,FALSE,N
+1025384,Peace & Pine Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,2461.5,5340.0,6,12,FALSE,N,FALSE,FALSE,N
+1006905,Terri Slee Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Carrie Odendahl,Hana Nassri,1277.0,5262.5,3,2,FALSE,N,FALSE,FALSE,N
+1022802,Witherspoon Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,5205.0,0,2,FALSE,N,FALSE,FALSE,N
+1036759,Jayshree Patel Designs llc,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,0.0,5190.0,0,3,TRUE,N,FALSE,FALSE,N
+1021010,Jessica Friedman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,5160.0,0,1,FALSE,N,FALSE,FALSE,N
+1019758,Blue Lily Home Staging and Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kimberly Myers,Hana Nassri,672.0,5138.0,3,5,FALSE,N,FALSE,FALSE,N
+1035774,Custom Cabinetry Finishes,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,5041.5,0,3,TRUE,N,FALSE,FALSE,N
+1026932,Quality King,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,4568.0,4956.0,1,1,FALSE,N,FALSE,FALSE,N
+1005769,"Warner Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,4637.5,4930.65,5,8,FALSE,N,FALSE,FALSE,N
+1014052,Ashen and Argyle,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,16077.58,4896.0,5,3,FALSE,N,FALSE,FALSE,N
+1036442,SVH Design Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,4865.0,0,4,TRUE,N,FALSE,FALSE,N
+1038435,KAM Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,4835.0,0,1,TRUE,N,FALSE,FALSE,N
+1027630,Kelsey Deirdre Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,1566.0,4834.0,2,3,FALSE,N,FALSE,FALSE,N
+1011479,Rosewood Retail,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,17800.95,4740.0,18,13,FALSE,N,FALSE,FALSE,N
+1007596,Daniel Russo Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,5145.0,4689.0,3,4,FALSE,N,FALSE,FALSE,N
+1018319,AHR Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Wesley Hood,Hana Nassri,9465.0,4685.0,5,5,FALSE,N,FALSE,FALSE,N
+1011659,"Julie White Interiors, Ltd.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,5183.0,4656.5,2,4,FALSE,N,FALSE,FALSE,N
+1012109,Kelly Scott Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,5980.0,4632.0,4,5,FALSE,N,FALSE,FALSE,N
+1037403,J.Storm Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,4525.0,0,2,TRUE,N,FALSE,FALSE,N
+1015985,"JNR Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3166.0,4518.0,1,1,FALSE,N,FALSE,FALSE,N
+1009096,Driscoll Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,5014.5,4488.37,6,4,FALSE,N,FALSE,FALSE,N
+1021806,SCF LLC.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Anna Hudspeth,Hana Nassri,3445.0,4485.0,1,1,FALSE,N,FALSE,FALSE,N
+1036603,Design By Chava,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Hana Nassri,0.0,4475.0,0,1,TRUE,N,FALSE,FALSE,N
+1038371,Dimension Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,4456.0,0,1,TRUE,N,FALSE,FALSE,N
+1017092,BENNER INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,4437.0,0,1,FALSE,N,FALSE,FALSE,N
+1018078,Laura Nayar LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3107.0,4413.0,1,1,FALSE,N,FALSE,FALSE,N
+1013032,"Heartfelt Homespace, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,3820.0,4344.0,1,1,FALSE,N,FALSE,FALSE,N
+1021069,Grey & Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,512.0,4300.75,1,7,FALSE,N,FALSE,FALSE,N
+1001337,Trellis on 8th,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,8004.0,4289.15,12,5,FALSE,N,FALSE,FALSE,N
+1025570,Young Huh Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,4276.0,0,3,FALSE,N,FALSE,FALSE,N
+1036955,Jordana Ross Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,4202.0,0,2,TRUE,N,FALSE,FALSE,N
+1025661,Molly Miller Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,2030.0,4157.0,1,4,FALSE,N,FALSE,FALSE,N
+1016846,MILICA KOTHARI LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,2587.84,4133.0,0,3,FALSE,N,FALSE,FALSE,N
+1009863,Shannon Connor Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,7804.0,4076.0,3,1,FALSE,N,FALSE,FALSE,N
+1009944,Jessy Krol Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Amanda Kistela,Hana Nassri,9503.2,4029.4,7,3,FALSE,N,FALSE,FALSE,N
+1035745,Perez DBR,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3995.0,0,1,TRUE,N,FALSE,FALSE,N
+1037591,DiFranco Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,0.0,3981.0,0,2,TRUE,N,FALSE,FALSE,N
+1018585,Liepold Design Group LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,2995.5,3977.59,7,3,FALSE,N,FALSE,FALSE,N
+1012462,Jennifer Lynn Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,3961.0,0,4,FALSE,N,FALSE,FALSE,N
+1013094,Dromi Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,657.0,3937.5,1,4,FALSE,N,FALSE,FALSE,N
+1022402,Becca Robbins Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,3933.85,0,2,FALSE,N,FALSE,FALSE,N
+1037314,Silo House LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,0.0,3910.0,0,1,TRUE,N,FALSE,FALSE,N
+1035670,JLRA (Jose Ramirez Architects),DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3868.69,0,2,TRUE,N,FALSE,FALSE,N
+1018212,Soeur Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,3763.0,3853.0,8,3,FALSE,N,FALSE,FALSE,N
+1025403,Reusch Interior Design,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Carrie Odendahl,Hana Nassri,7013.0,3849.0,3,0,FALSE,N,FALSE,FALSE,N
+1018025,Rose Hill interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,3823.0,0,1,FALSE,N,FALSE,FALSE,N
+1036816,Marshall Back Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,3750.0,0,1,TRUE,N,FALSE,FALSE,N
+1011583,Lisa Abdalla Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,3740.0,0,1,FALSE,N,FALSE,FALSE,N
+1035772,Marion Whit LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3725.0,0,1,TRUE,N,FALSE,FALSE,N
+1018228,Studio Neshama,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,2168.0,3723.0,4,8,FALSE,N,FALSE,FALSE,N
+1026160,Maxwell Tyler Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3720.0,0,3,TRUE,N,FALSE,FALSE,N
+1012667,Coventry Lighting,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,4455.5,3713.5,7,5,FALSE,N,FALSE,FALSE,N
+1013160,The New Design Project,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,4006.5,3704.5,3,3,FALSE,N,FALSE,FALSE,N
+1015124,"Vanessa Brennan Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,11253.14,3701.0,4,2,FALSE,N,FALSE,FALSE,N
+1038211,NPV Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,3700.0,0,1,TRUE,N,FALSE,FALSE,N
+1035572,Fshr Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,3692.0,0,2,FALSE,N,FALSE,FALSE,N
+1036664,Marisa Da Silva Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,3591.0,0,2,TRUE,N,FALSE,FALSE,N
+1025034,Fit and Finish Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,123.0,3476.0,1,2,FALSE,N,FALSE,FALSE,N
+1018061,Studio Lane LLC dba Atelier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,2167.9,3460.0,3,2,FALSE,N,FALSE,FALSE,N
+1007343,"Antiquarian Shop, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,3419.0,3454.0,3,2,FALSE,N,FALSE,FALSE,N
+1020773,Allison Garcy Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,11539.0,3421.0,5,1,FALSE,N,FALSE,FALSE,N
+1027348,Bird Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,6801.0,3402.0,2,3,FALSE,N,FALSE,FALSE,N
+1036312,DiFrisco Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Hana Nassri,0.0,3397.5,0,3,TRUE,N,FALSE,FALSE,N
+1034751,Classic Quarters,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Kimberly Myers,Hana Nassri,10037.0,3375.0,2,0,FALSE,N,FALSE,FALSE,N
+1012457,Lux-Living,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,3350.0,0,2,FALSE,N,FALSE,FALSE,N
+1015413,South Main Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Hana Nassri,1201.0,3348.0,2,4,FALSE,N,FALSE,FALSE,N
+1016925,Renee Bohman Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,8350.0,3330.0,6,1,FALSE,N,FALSE,FALSE,N
+1025319,Jaclyn Heller Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,2995.0,3320.0,2,3,FALSE,N,FALSE,FALSE,N
+1023501,Emily Harman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,2555.0,3315.0,1,1,FALSE,N,FALSE,FALSE,N
+1025195,Detail Oriented Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,1870.0,3294.0,1,4,FALSE,N,FALSE,FALSE,N
+1023012,Colleen Vincent Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Carrie Odendahl,Hana Nassri,225.0,3226.0,1,6,FALSE,N,FALSE,FALSE,N
+1018918,FIONA MOSHAL INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,3200.0,0,3,FALSE,N,FALSE,FALSE,N
+1022537,NGI Develpment Corp,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Amanda Kistela,Hana Nassri,5941.78,3196.0,4,4,FALSE,N,FALSE,FALSE,N
+1015593,Holly Nase Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,11385.0,3180.0,2,2,FALSE,N,FALSE,FALSE,N
+1036871,"Whole Home Design, LLC.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kimberly Myers,Hana Nassri,0.0,3168.0,0,1,TRUE,N,FALSE,FALSE,N
+1005648,Punch Jordan Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,7140.0,3120.0,1,4,FALSE,N,FALSE,FALSE,N
+1004017,Wanderlust Coastal Concepts for the Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,7278.0,3114.0,9,5,FALSE,N,FALSE,FALSE,N
+1035717,Madeline Maria Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3109.4,0,7,TRUE,N,FALSE,FALSE,N
+1025259,Madeleine Blommer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,3107.0,0,1,FALSE,N,FALSE,FALSE,N
+1035714,ACH Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Hana Nassri,0.0,3085.5,0,3,TRUE,N,FALSE,FALSE,N
+1020175,FD Design Co.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,452.0,3085.0,3,1,FALSE,N,FALSE,FALSE,N
+1019665,Impeccable Designs,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Anna Hudspeth,Hana Nassri,4843.0,3085.0,4,2,FALSE,N,FALSE,FALSE,N
+1008898,Gypsy Lane Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,171.0,3073.0,3,3,FALSE,N,FALSE,FALSE,N
+1027585,House of Steele Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,1615.5,3000.0,1,2,FALSE,N,FALSE,FALSE,N
+1013484,Rachel Sloane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,633.0,2929.66,3,3,FALSE,N,FALSE,FALSE,N
+1013335,"Alicia Galitzin, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,2868.0,0,1,FALSE,N,FALSE,FALSE,N
+1006619,C Herrington Home and Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Hana Nassri,3999.0,2805.0,1,1,FALSE,N,FALSE,FALSE,N
+1012893,Holley Pokora Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,2756.0,0,3,FALSE,N,FALSE,FALSE,N
+1027961,Hare & Rook Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,0.0,2705.0,0,1,FALSE,N,FALSE,FALSE,N
+1027374,Interiors By Corinna,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Hana Nassri,1030.5,2690.0,1,3,FALSE,N,FALSE,FALSE,N
+1017053,Jodi Dell Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,1843.0,2675.0,2,1,FALSE,N,FALSE,FALSE,N
+1018241,"Louisa G. Roeder, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,2197.0,2666.0,3,4,FALSE,N,FALSE,FALSE,N
+1035537,"Sand Box Home, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,100.0,2662.0,0,3,FALSE,N,FALSE,FALSE,N
+1015700,Jeanne Campana Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,0.0,2656.5,0,2,FALSE,N,FALSE,FALSE,N
+1024766,TLG Style,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,2640.0,0,2,TRUE,N,FALSE,FALSE,N
+1027059,Press Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Hana Nassri,0.0,2631.2,1,2,FALSE,N,FALSE,FALSE,N
+1013386,Visual Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Carrie Odendahl,Hana Nassri,0.0,2628.5,0,3,FALSE,N,FALSE,FALSE,N
+1025458,"Red Clover Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,0.0,2608.99,0,4,FALSE,N,FALSE,FALSE,N
+1038029,Isy's Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,2590.0,0,2,TRUE,N,FALSE,FALSE,N
+1012607,"Courtney Sempliner Designs, LTD",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Hana Nassri,1051.0,2576.5,1,2,FALSE,N,FALSE,FALSE,N
+1004547,YZDA-Yoshida + Zanon Design Atrium,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Hana Nassri,7193.0,2533.0,8,1,FALSE,N,FALSE,FALSE,N
+1035996,Caroline Chao,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Vandana Kaku,Hana Nassri,0.0,2524.5,0,1,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 130 accounts | $62875.91 revenue,,,,,,,,,,,,,,,
+(Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1009386,Wyndecrest Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Hana Nassri,7400.0,2420.0,1,1,FALSE,N,FALSE,FALSE,N
+1000681,"Between The Sheets, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kimberly Myers,Hana Nassri,1877.0,2385.0,4,4,FALSE,N,FALSE,FALSE,N
+1035867,Albert Herman Draperies inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,2340.0,0,2,TRUE,N,FALSE,FALSE,N
+1026740,Katherine Phillips Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,2310.0,0,2,TRUE,N,FALSE,FALSE,N
+1035908,Plan Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,2244.0,0,3,TRUE,N,FALSE,FALSE,N
+1037212,Interiors by Ashley,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,2090.0,0,1,TRUE,N,FALSE,FALSE,N
+1035654,Lightstorm Inc,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,2082.64,0,1,TRUE,N,FALSE,FALSE,N
+1037488,Amanda Stefanski Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,2040.0,0,2,TRUE,N,FALSE,FALSE,N
+1019315,Runionsâ€™ Furniture LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Kyra Williamson,Hana Nassri,3604.55,2036.0,13,2,FALSE,N,FALSE,FALSE,N
+1035217,Scheinman Designman,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,2032.0,0,5,TRUE,N,FALSE,FALSE,N
+1037109,JOEY COHEN DESIGN STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,1950.0,0,3,TRUE,N,FALSE,FALSE,N
+1036853,JMY Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,1835.0,0,2,TRUE,N,FALSE,FALSE,N
+1007576,"Etc. Company, Inc DBA Luxe Home Company",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kimberly Myers,Hana Nassri,0.0,1830.5,1,1,FALSE,N,FALSE,FALSE,N
+1035697,Plunkett Fleeson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1815.3,0,1,TRUE,N,FALSE,FALSE,N
+1022260,Arko Flooring LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kimberly Myers,Hana Nassri,6013.8,1744.0,11,14,FALSE,N,FALSE,FALSE,N
+1037103,Little Green House Interiors Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,1740.0,0,1,TRUE,N,FALSE,FALSE,N
+1035641,Bellero Desing/Design Friendzy Llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1728.0,0,2,TRUE,N,FALSE,FALSE,N
+1035876,Cucine design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1666.0,0,1,TRUE,N,FALSE,FALSE,N
+1005949,Navarro Design Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,1635.0,0,1,TRUE,N,FALSE,FALSE,N
+1025733,Betsy Marrinan Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1554.5,0,1,TRUE,N,FALSE,FALSE,N
+1026142,Auer Design Hause,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Carrie Odendahl,Hana Nassri,3203.0,1446.0,6,1,FALSE,N,FALSE,FALSE,N
+1027309,Haus Studio,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Carrie Odendahl,Hana Nassri,630.0,1440.7,2,4,FALSE,N,FALSE,FALSE,N
+1026864,Vivian Shao Chen LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1382.5,0,2,TRUE,N,FALSE,FALSE,N
+1035611,Pulse Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1362.0,0,4,TRUE,N,FALSE,FALSE,N
+1037050,RockPaperHome Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,1350.0,0,1,TRUE,N,FALSE,FALSE,N
+1036735,Whitlow Park LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,1260.0,0,1,TRUE,N,FALSE,FALSE,N
+1001290,Surroundings Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,9627.0,1250.0,4,1,FALSE,N,FALSE,FALSE,N
+1024175,Georgio Savva Interior Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,1008.0,0,1,TRUE,N,FALSE,FALSE,N
+1037046,Domicile Design and Decor,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,1002.5,0,3,TRUE,N,FALSE,FALSE,N
+1004970,"Vision Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,22175.12,948.0,6,2,FALSE,N,FALSE,FALSE,N
+1036021,Noelle Paquette Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,820.0,0,1,TRUE,N,FALSE,FALSE,N
+1036684,WILLIAM BALES DESIGN TA WBC DESIGN,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,742.0,0,1,TRUE,N,FALSE,FALSE,N
+1036956,"Kylie Paige Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,715.5,0,1,TRUE,N,FALSE,FALSE,N
+1035629,Julie Reid Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,660.0,0,1,TRUE,N,FALSE,FALSE,N
+1021613,Jay J. Billiet Interiors Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,630.0,0,1,TRUE,N,FALSE,FALSE,N
+1034991,VT Creatives,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,600.0,0,1,TRUE,N,FALSE,FALSE,N
+1028071,Homes with Orly,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,600.0,0,1,TRUE,N,FALSE,FALSE,N
+1035692,T W Black Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,542.12,0,1,TRUE,N,FALSE,FALSE,N
+1009260,"DC Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,489.3,0,5,TRUE,N,FALSE,FALSE,N
+1013660,Unique Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,1950.0,468.9,3,1,FALSE,N,FALSE,FALSE,N
+1036892,Natassja Designs LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,450.0,0,1,TRUE,N,FALSE,FALSE,N
+1037108,Jamie Dardashtian Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,335.0,0,2,TRUE,N,FALSE,FALSE,N
+1036776,BHI ELEVATOR CABS,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,315.0,0,1,TRUE,N,FALSE,FALSE,N
+1012769,Modern Vintage Home Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kimberly Myers,Hana Nassri,1324.0,315.0,2,1,FALSE,N,FALSE,FALSE,N
+1025771,A LA MAISON HOME AND LIFESTYLE LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Vandana Kaku,Hana Nassri,950.0,310.0,2,1,FALSE,N,FALSE,FALSE,N
+1036611,Alyssa Weiss Designs dba Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,284.75,0,1,TRUE,N,FALSE,FALSE,N
+1036392,Sawyer & Forge Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,283.0,0,3,TRUE,N,FALSE,FALSE,N
+1035967,Due East Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,280.0,0,1,TRUE,N,FALSE,FALSE,N
+1036739,"N. Muir Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,278.0,0,1,TRUE,N,FALSE,FALSE,N
+1027914,Luxe Haus Design Co.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,255.0,0,1,TRUE,N,FALSE,FALSE,N
+1025325,J. Artbauer Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,250.0,0,2,TRUE,N,FALSE,FALSE,N
+1028055,MSW Art Ltd.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,250.0,0,0,TRUE,N,FALSE,FALSE,N
+1037135,Denine Jackson Interiors/D9 Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,175.0,0,2,TRUE,N,FALSE,FALSE,N
+1014102,Onyx and Jute Home Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,150.0,0,0,TRUE,N,FALSE,FALSE,N
+1035906,Kelsey May Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,150.0,0,1,TRUE,N,FALSE,FALSE,N
+1025703,Maison Maison Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Carrie Odendahl,Hana Nassri,295.0,136.0,1,1,FALSE,N,FALSE,FALSE,N
+1037229,Kimberly Barr Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,125.0,0,0,TRUE,N,FALSE,FALSE,N
+1035737,Bayside Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,75.0,0,0,TRUE,N,FALSE,FALSE,N
+1000730,B.Moore Design Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,75.0,0,0,TRUE,N,FALSE,FALSE,N
+1036883,CMM Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,75.0,0,0,TRUE,N,FALSE,FALSE,N
+1035839,Atelier CV,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,63.7,0,1,TRUE,N,FALSE,FALSE,N
+1000398,Morgan House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Carrie Odendahl,Hana Nassri,25.0,50.0,0,0,FALSE,N,FALSE,FALSE,N
+1000385,Lucille Lichtenberg Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004814,Lauren Mishaan Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1007775,Richard Kiefner Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1006990,Tri-State Carpet Connections,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,2142.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027082,Good Goods Marketplace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026934,Erica Lynn Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027870,q interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026326,Shana Luther Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026609,Brooks Endeavors DBA Katie Brooks Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1023513,pais life,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024009,Elements On Railroad,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022436,RAM Design Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024226,Provenance Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024281,Functional Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024551,Humble Abode Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024468,Sharon Taffet Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025069,studio ppark llc,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1025304,Tay Fusco Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025378,STUDIO TOVE,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025622,(re)work architecture & design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1023109,MYD Furniture Inc d/b/a Pitusa Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023475,Sandra Ennis Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1006257,Michaels Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Hana Nassri,445.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005765,"Leewood, Inc dba Brians Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005614,Design Collectif,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,3121.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
+1005725,"Carpet Time, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Vandana Kaku,Hana Nassri,4725.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1002975,Window Concepts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,8311.58,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1008506,Wukie Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,1827.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1013667,Surround Sounds,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,4784.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011538,Today's Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,6717.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1008767,Frame and Save,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017714,Bliss Home Market,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,4910.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1018273,Punctuate Your Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018079,Anselmi Gray Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018929,Luxe Interiors and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021670,Matriark,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001487,Alba Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000456,Webster Associates Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,3595.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1036085,Anjali McFarland Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035929,Wing and Clover LLC.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035849,SPIRIT BEAUTY LIFE,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035769,MAC Design Company,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035903,Stocks Draperies,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035380,kathryn cook llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035627,Hardt Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035620,"RPLUSP, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035593,Chelsea McGuigan Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035415,Sereine Home Design Services,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035182,Studio RB LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035651,Interior Serenity,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035671,Victoria Hagan Interiors,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035706,The Niche Interior Design,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036353,Payal Bansal Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036178,Deirdre King Creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036757,Wise Interiors by Lyndsey Marie,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036766,BATLIBOI STUDIO,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036785,Joanne DePalma Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036444,Brooke Abrams Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036579,seed387,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036553,Louise Cohen Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036411,Studio M Design Co(OH),DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036393,Ora Penn Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036482,LeBlanc Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036755,"MODISH INTERIORS, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036700,Farrin Cary Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036845,the berri box,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036872,DeGennaro Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036841,"K2B Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 68 accounts (48 are new 2025 customers),,,,,,,,,,,,,,,
+================================================================================,,,,,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002975,Window Concepts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,8311.58,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1011538,Today's Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,6717.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1017714,Bliss Home Market,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,4910.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1013667,Surround Sounds,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,4784.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005725,"Carpet Time, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Vandana Kaku,Hana Nassri,4725.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1000456,Webster Associates Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,3595.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005614,Design Collectif,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,3121.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
+1006990,Tri-State Carpet Connections,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,2142.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008506,Wukie Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,1827.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1027082,Good Goods Marketplace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006257,Michaels Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Hana Nassri,445.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000385,Lucille Lichtenberg Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1001487,Alba Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007775,Richard Kiefner Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1004814,Lauren Mishaan Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1005765,"Leewood, Inc dba Brians Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018079,Anselmi Gray Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018273,Punctuate Your Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018929,Luxe Interiors and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1008767,Frame and Save,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022436,RAM Design Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023109,MYD Furniture Inc d/b/a Pitusa Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023475,Sandra Ennis Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1023513,pais life,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024009,Elements On Railroad,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024226,Provenance Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024281,Functional Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024468,Sharon Taffet Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024551,Humble Abode Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025069,studio ppark llc,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1025304,Tay Fusco Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025378,STUDIO TOVE,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025622,(re)work architecture & design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026326,Shana Luther Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026609,Brooks Endeavors DBA Katie Brooks Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021670,Matriark,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026934,Erica Lynn Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027870,q interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035182,Studio RB LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035380,kathryn cook llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035415,Sereine Home Design Services,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035593,Chelsea McGuigan Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035620,"RPLUSP, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035627,Hardt Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035651,Interior Serenity,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035671,Victoria Hagan Interiors,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035706,The Niche Interior Design,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035769,MAC Design Company,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035849,SPIRIT BEAUTY LIFE,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035903,Stocks Draperies,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035929,Wing and Clover LLC.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036085,Anjali McFarland Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036178,Deirdre King Creative,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036353,Payal Bansal Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036393,Ora Penn Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036411,Studio M Design Co(OH),DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Carrie Odendahl,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036444,Brooke Abrams Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036482,LeBlanc Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036553,Louise Cohen Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036579,seed387,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036700,Farrin Cary Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036755,"MODISH INTERIORS, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036757,Wise Interiors by Lyndsey Marie,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kimberly Myers,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036766,BATLIBOI STUDIO,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036785,Joanne DePalma Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036841,"K2B Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036845,the berri box,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036872,DeGennaro Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Hana Nassri,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+,,,,,,,,,,,,,,,
