@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Maria Huguet,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:52,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -19,12 +19,12 @@ Totals,1,0.0,0,0,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | $0.00 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1036397,JL HIGH POINT SHOWROOM,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Maria Huguet,Maria Huguet,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1036397,JL HIGH POINT SHOWROOM,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 1 accounts (1 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1036397,JL HIGH POINT SHOWROOM,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Maria Huguet,Maria Huguet,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1036397,JL HIGH POINT SHOWROOM,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

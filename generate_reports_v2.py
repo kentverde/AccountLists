@@ -571,9 +571,10 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
         out_df = out_df.copy()
         
         # SELECT AND ORDER COLUMNS
+        # Remove Assigned/Final rep columns from detail output to keep reports concise
         output_columns = [
             COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
-            'Segment_Label', COL_ASSIGNED_REP, COL_FINAL_REP,
+            'Segment_Label',
             COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
             COL_ORDERS_2024, COL_ORDERS_2025,
             'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed',

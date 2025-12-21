@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Melissa Coady,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:52,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -25,173 +25,173 @@ Totals,149,1555039.21,1,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | $913230.59 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1003365,Echelon Interiors (DE),DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,37547.5,65445.2,53,68,FALSE,N,FALSE,FALSE,N
-1010927,Laura Bendik Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,16581.3,65071.23,11,9,FALSE,N,FALSE,FALSE,N
-1004058,Model Home Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,49169.3,49131.9,111,130,FALSE,N,FALSE,FALSE,N
-1001998,Su Casa-Big Iguana,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Melissa Coady,Melissa Coady,38675.25,45419.34,73,89,FALSE,N,FALSE,FALSE,N
-1006216,Creative Concepts,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Melissa Coady,Melissa Coady,41488.2,42466.68,45,26,FALSE,N,FALSE,FALSE,N
-1000830,Gladhill Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Melissa Coady,Melissa Coady,63929.88,37541.52,66,32,FALSE,N,FALSE,FALSE,N
-1002427,Cashmere Interior,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,10474.81,37054.63,8,17,FALSE,N,FALSE,FALSE,N
-1005783,"JTW Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,19256.04,35586.53,14,20,FALSE,N,FALSE,FALSE,N
-1011360,Purple Cherry Architects,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,Melissa Coady,Melissa Coady,38682.27,35180.36,15,18,FALSE,N,FALSE,FALSE,N
-1022101,Joran's Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Melissa Coady,Melissa Coady,21867.0,34879.6,15,20,FALSE,N,FALSE,FALSE,N
-1002309,Bethany Resort Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Melissa Coady,Melissa Coady,16687.06,33100.2,34,38,FALSE,N,FALSE,FALSE,N
-1004422,Builders Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,39065.6,32859.5,107,66,FALSE,N,FALSE,FALSE,N
-1014122,The Forum LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,6731.0,32010.0,3,5,FALSE,N,FALSE,FALSE,N
-1001440,House Downtown,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Melissa Coady,Melissa Coady,0.0,31109.0,0,9,FALSE,N,FALSE,FALSE,N
-1018574,Kirii Design/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Melissa Coady,Melissa Coady,17057.5,29888.0,20,22,FALSE,N,FALSE,FALSE,N
-1018740,Lisa and Leroy,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,12146.5,27314.73,7,7,FALSE,N,FALSE,FALSE,N
-1026909,FARNADY INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,24208.0,25419.79,17,10,FALSE,N,FALSE,FALSE,N
-1026779,Birdie & Bean Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,4551.0,24776.44,6,13,FALSE,N,FALSE,FALSE,N
-1016530,Michelle Jett Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Melissa Coady,Melissa Coady,35471.15,24107.57,12,27,FALSE,N,FALSE,FALSE,N
-1015602,"Christian Daw Design, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,4405.0,22437.88,1,6,FALSE,N,FALSE,FALSE,N
-1000798,"Interior Concepts, Inc. (MD)",DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,12074.9,22385.79,13,10,FALSE,N,FALSE,FALSE,N
-1009204,Panache Interiors (VA),DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Melissa Coady,Melissa Coady,30210.9,21063.0,8,7,FALSE,N,FALSE,FALSE,N
-1001648,Classic Interiors (MD),RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Melissa Coady,Melissa Coady,15486.5,20567.39,18,19,FALSE,N,FALSE,FALSE,N
-1015199,Palmer Kay Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,5173.0,20320.9,4,15,FALSE,N,FALSE,FALSE,N
-1037286,The Artful Lodger,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Melissa Coady,Melissa Coady,0.0,20221.6,0,7,TRUE,N,FALSE,FALSE,N
-1000257,Dream House LLC,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Melissa Coady,Melissa Coady,4155.68,19920.4,12,25,FALSE,N,FALSE,FALSE,N
-1009211,Barbara Elliott - Decorating Den,DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,12732.0,19651.94,10,21,FALSE,N,FALSE,FALSE,N
-1005417,Christie Leu Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Melissa Coady,Melissa Coady,10574.5,19525.0,5,7,FALSE,N,FALSE,FALSE,N
-1000733,"Karen Renee Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,Melissa Coady,Melissa Coady,5122.3,18774.47,7,7,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003365,Echelon Interiors (DE),DESIGN,DESIGN_FIRM,Group 1 High Potential,37547.5,65445.2,53,68,FALSE,N,FALSE,FALSE,N
+1010927,Laura Bendik Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,16581.3,65071.23,11,9,FALSE,N,FALSE,FALSE,N
+1004058,Model Home Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,49169.3,49131.9,111,130,FALSE,N,FALSE,FALSE,N
+1001998,Su Casa-Big Iguana,RETAIL,SINGLE_LOCATION,Group 1 High Potential,38675.25,45419.34,73,89,FALSE,N,FALSE,FALSE,N
+1006216,Creative Concepts,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,41488.2,42466.68,45,26,FALSE,N,FALSE,FALSE,N
+1000830,Gladhill Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,63929.88,37541.52,66,32,FALSE,N,FALSE,FALSE,N
+1002427,Cashmere Interior,DESIGN,DESIGN_FIRM,Group 1 High Potential,10474.81,37054.63,8,17,FALSE,N,FALSE,FALSE,N
+1005783,"JTW Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,19256.04,35586.53,14,20,FALSE,N,FALSE,FALSE,N
+1011360,Purple Cherry Architects,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,38682.27,35180.36,15,18,FALSE,N,FALSE,FALSE,N
+1022101,Joran's Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,21867.0,34879.6,15,20,FALSE,N,FALSE,FALSE,N
+1002309,Bethany Resort Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,16687.06,33100.2,34,38,FALSE,N,FALSE,FALSE,N
+1004422,Builders Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,39065.6,32859.5,107,66,FALSE,N,FALSE,FALSE,N
+1014122,The Forum LLC,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,6731.0,32010.0,3,5,FALSE,N,FALSE,FALSE,N
+1001440,House Downtown,RETAIL,SINGLE_LOCATION,Group 1 High Potential,0.0,31109.0,0,9,FALSE,N,FALSE,FALSE,N
+1018574,Kirii Design/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,17057.5,29888.0,20,22,FALSE,N,FALSE,FALSE,N
+1018740,Lisa and Leroy,DESIGN,DESIGN_FIRM,Group 1 High Potential,12146.5,27314.73,7,7,FALSE,N,FALSE,FALSE,N
+1026909,FARNADY INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,24208.0,25419.79,17,10,FALSE,N,FALSE,FALSE,N
+1026779,Birdie & Bean Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,4551.0,24776.44,6,13,FALSE,N,FALSE,FALSE,N
+1016530,Michelle Jett Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,35471.15,24107.57,12,27,FALSE,N,FALSE,FALSE,N
+1015602,"Christian Daw Design, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,4405.0,22437.88,1,6,FALSE,N,FALSE,FALSE,N
+1000798,"Interior Concepts, Inc. (MD)",DESIGN,DESIGN_FIRM,Group 1 High Potential,12074.9,22385.79,13,10,FALSE,N,FALSE,FALSE,N
+1009204,Panache Interiors (VA),DESIGN,DESIGN_FIRM,Group 1 Medium Potential,30210.9,21063.0,8,7,FALSE,N,FALSE,FALSE,N
+1001648,Classic Interiors (MD),RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,15486.5,20567.39,18,19,FALSE,N,FALSE,FALSE,N
+1015199,Palmer Kay Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,5173.0,20320.9,4,15,FALSE,N,FALSE,FALSE,N
+1037286,The Artful Lodger,RETAIL,SINGLE_LOCATION,Group 1 High Potential,0.0,20221.6,0,7,TRUE,N,FALSE,FALSE,N
+1000257,Dream House LLC,RETAIL,SINGLE_LOCATION,Group 1 High Potential,4155.68,19920.4,12,25,FALSE,N,FALSE,FALSE,N
+1009211,Barbara Elliott - Decorating Den,DESIGN,DESIGN_FIRM,Group 1 High Potential,12732.0,19651.94,10,21,FALSE,N,FALSE,FALSE,N
+1005417,Christie Leu Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,10574.5,19525.0,5,7,FALSE,N,FALSE,FALSE,N
+1000733,"Karen Renee Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,5122.3,18774.47,7,7,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 82 accounts | $628267.42 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1007818,Antique Exchange,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,7002.95,16932.9,5,7,FALSE,N,FALSE,FALSE,N
-1003393,Imi Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,8841.33,16668.15,9,11,FALSE,N,FALSE,FALSE,N
-1010352,"LaDifference, Inc dba LaDiff",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,21280.24,16654.05,17,19,FALSE,N,FALSE,FALSE,N
-1004280,Interior Style  (VA),DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,5800.7,15706.5,13,13,FALSE,N,FALSE,FALSE,N
-1003553,Somethings Unique,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Melissa Coady,Melissa Coady,16183.5,15338.0,14,19,FALSE,N,FALSE,FALSE,N
-1003250,Mitchell's Interiors and Floor Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,25709.5,15050.25,12,5,FALSE,N,FALSE,FALSE,N
-1002766,Interior Concepts LLC (VA),DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Melissa Coady,Melissa Coady,10365.0,13892.0,12,10,FALSE,N,FALSE,FALSE,N
-1016034,LH INTERIORS,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,4193.9,13846.88,7,4,FALSE,N,FALSE,FALSE,N
-1009312,"Bloom & Co Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Melissa Coady,Melissa Coady,24629.5,13323.94,12,8,FALSE,N,FALSE,FALSE,N
-1019138,Leah Walder Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,10681.9,13064.34,18,13,FALSE,N,FALSE,FALSE,N
-1016836,Julia Longchamps Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,13769.6,12992.28,12,11,FALSE,N,FALSE,FALSE,N
-1000929,"Eaton Young Galleries, Inc",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,14124.78,12982.7,28,18,FALSE,N,FALSE,FALSE,N
-1007583,Homewood Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,11390.0,12265.5,9,8,FALSE,N,FALSE,FALSE,N
-1005834,Melissa McLay Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Melissa Coady,Melissa Coady,7568.0,12052.13,5,4,FALSE,N,FALSE,FALSE,N
-1007880,Michael Molesky Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,14654.65,11919.32,8,7,FALSE,N,FALSE,FALSE,N
-1003336,Peyton Home-Peyton Hart,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Melissa Coady,Melissa Coady,15696.0,11851.16,14,8,FALSE,N,FALSE,FALSE,N
-1009112,"C and E Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,14795.0,11493.0,16,14,FALSE,N,FALSE,FALSE,N
-1006918,MS Vicas Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,22728.72,10557.0,15,10,FALSE,N,FALSE,FALSE,N
-1001097,Interiors By Shannon Bieter LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,5184.0,9942.0,5,3,FALSE,N,FALSE,FALSE,N
-1003298,Erin Paige Pitts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,6286.5,9833.08,3,6,FALSE,N,FALSE,FALSE,N
-1027607,GC Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,2222.5,9830.0,3,5,FALSE,N,FALSE,FALSE,N
-1025122,H+Co Design Haus LLC/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,15090.7,9709.5,8,8,FALSE,N,FALSE,FALSE,N
-1001684,Welcome Home Staging,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,10649.4,9680.0,7,7,FALSE,N,FALSE,FALSE,N
-1021829,Lotter Design LLC/Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,16396.0,9427.0,5,7,FALSE,N,FALSE,FALSE,N
-1020684,Hanover Avenue,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,5194.0,9417.0,2,4,FALSE,N,FALSE,FALSE,N
-1003007,Williamsburg Heritage Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,13174.1,9238.0,13,11,FALSE,N,FALSE,FALSE,N
-1013348,Holland Custom Designs - Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,6395.0,9027.0,2,3,FALSE,N,FALSE,FALSE,N
-1027978,Erica Burns Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,0.0,8563.0,0,1,TRUE,N,FALSE,FALSE,N
-1000710,Jennifer Stoner Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,23450.4,8445.5,7,5,FALSE,N,FALSE,FALSE,N
-1003234,Amanda Austin Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,6424.0,8381.15,4,8,FALSE,N,FALSE,FALSE,N
-1000675,Whittington Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,12504.8,8287.6,14,8,FALSE,N,FALSE,FALSE,N
-1003430,Beaty and Brown,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,1484.5,8244.0,2,4,FALSE,N,FALSE,FALSE,N
-1007071,"Leslie Anderson Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,18532.0,8217.8,18,9,FALSE,N,FALSE,FALSE,N
-1020026,Designs by Niki LLC/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,4726.04,8184.04,9,4,FALSE,N,FALSE,FALSE,N
-1009373,C and J Interiors - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,12645.0,8105.0,16,9,FALSE,N,FALSE,FALSE,N
-1019835,A & S Sales of Virginia,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Melissa Coady,Melissa Coady,0.0,7810.8,0,7,FALSE,N,FALSE,FALSE,N
-1003254,"Guest Room, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,8519.94,7725.5,10,7,FALSE,N,FALSE,FALSE,N
-1009420,Sofas Etc,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,7563.0,7713.0,13,8,FALSE,N,FALSE,FALSE,N
-1010053,Bertin's Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,3625.0,7563.25,6,2,FALSE,N,FALSE,FALSE,N
-1005491,Christy Brown Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,23179.22,7381.0,14,12,FALSE,N,FALSE,FALSE,N
-1022452,Cicada House,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Melissa Coady,Melissa Coady,6140.0,7166.5,1,1,FALSE,N,FALSE,FALSE,N
-1021449,DKM Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,0.0,7118.0,0,4,FALSE,N,FALSE,FALSE,N
-1006891,Casual Designs Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,Melissa Coady,Melissa Coady,10163.2,6968.9,18,16,FALSE,N,FALSE,FALSE,N
-1005000,Floors Etc-N Ginsburg,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,1292.5,6885.16,5,1,FALSE,N,FALSE,FALSE,N
-1025404,Bountiful Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,0.0,6770.5,0,3,FALSE,N,FALSE,FALSE,N
-1007316,"P Four, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,1185.0,6361.0,1,2,FALSE,N,FALSE,FALSE,N
-1021757,Bella Casa Design DBA Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,1900.0,6325.0,3,7,FALSE,N,FALSE,FALSE,N
-1017106,Flourish Spaces,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,0.0,6169.0,0,4,FALSE,N,FALSE,FALSE,N
-1005610,Mark Showell Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,9343.0,6049.3,4,3,FALSE,N,FALSE,FALSE,N
-1002623,Smith and Thomasson Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,2295.0,5954.0,1,3,FALSE,N,FALSE,FALSE,N
-1021417,"Maison Demarchelier, LLC",RETAIL,STORE_FURNITURE,Group 2 Medium Potential,Melissa Coady,Melissa Coady,7934.8,5767.15,27,21,FALSE,N,FALSE,FALSE,N
-1007360,"Design Ctr of Rehoboth, DCOR",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,4965.0,5570.0,5,6,FALSE,N,FALSE,FALSE,N
-1009500,Cindy C Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,1503.0,5361.96,2,9,FALSE,N,FALSE,FALSE,N
-1000728,Designers Market Of Richmond,DESIGN,DESIGN_FIRM,Group 2 High Potential,Melissa Coady,Melissa Coady,756.0,5354.92,0,4,FALSE,N,FALSE,FALSE,N
-1015796,Clifton House,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,10608.0,5285.3,2,3,FALSE,N,FALSE,FALSE,N
-1008193,Shea Studio Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,9264.5,5102.0,3,6,FALSE,N,FALSE,FALSE,N
-1005511,Folly Home Furnishings,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Melissa Coady,Melissa Coady,1475.0,4906.0,1,3,FALSE,N,FALSE,FALSE,N
-1025879,Sarah Goldfarb Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,8310.0,4835.0,3,2,FALSE,N,FALSE,FALSE,N
-1010866,Casey Sanford Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,26137.75,4721.0,10,3,FALSE,N,FALSE,FALSE,N
-1013574,Nancy Wyandt Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,5028.0,4517.5,5,3,FALSE,N,FALSE,FALSE,N
-1010940,The Village House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Melissa Coady,Melissa Coady,2270.0,4403.0,2,1,FALSE,N,FALSE,FALSE,N
-1022453,Gina Drago Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,17855.96,4324.0,14,4,FALSE,N,FALSE,FALSE,N
-1002662,Ella Scott Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,15827.75,4136.0,9,6,FALSE,N,FALSE,FALSE,N
-1018094,Hollace Clare Ltd,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,26892.9,4095.5,15,4,FALSE,N,FALSE,FALSE,N
-1018007,Feathered Nest of Virginia Inc. dba. Designers II,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,4266.0,3917.0,7,4,FALSE,N,FALSE,FALSE,N
-1002022,Tiffany Jeremiah Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,6544.0,3908.2,7,3,FALSE,N,FALSE,FALSE,N
-1000285,Mark Gonsenhauser,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,Melissa Coady,Melissa Coady,5888.0,3780.0,2,1,FALSE,N,FALSE,FALSE,N
-1006497,"KMG Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,7314.0,3760.0,5,3,FALSE,N,FALSE,FALSE,N
-1009852,Madigan Schuler,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Melissa Coady,Melissa Coady,5535.0,3707.5,3,2,FALSE,N,FALSE,FALSE,N
-1001851,Home On The Harbor,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Melissa Coady,Melissa Coady,2760.4,3511.0,5,4,FALSE,N,FALSE,FALSE,N
-1009051,"Amy Schwartz Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,12488.0,3415.0,13,2,FALSE,N,FALSE,FALSE,N
-1019331,Julie McCarthy Designs/DDI,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,9283.9,3355.75,7,3,FALSE,N,FALSE,FALSE,N
-1002799,Crosby Jenkins Associates LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,4966.0,3313.33,3,2,FALSE,N,FALSE,FALSE,N
-1010236,"LS Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,4410.0,3086.38,1,4,FALSE,N,FALSE,FALSE,N
-1010185,"CMD Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,2953.0,2730.75,5,4,FALSE,N,FALSE,FALSE,N
-1025658,Sally Steponkus Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,0.0,2691.0,0,2,FALSE,N,FALSE,FALSE,N
-1019851,Bungalow 10 Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,11664.5,2683.0,3,4,FALSE,N,FALSE,FALSE,N
-1000976,"Decorum, Inc (VA)",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,12718.48,2655.0,7,1,FALSE,N,FALSE,FALSE,N
-1026646,"Design House Studio, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,914.0,2634.5,1,3,FALSE,N,FALSE,FALSE,N
-1018511,"Jefferson Street Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,7766.0,2587.0,3,3,FALSE,N,FALSE,FALSE,N
-1015695,Rayona Bennett DBA Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Melissa Coady,Melissa Coady,6787.2,2550.0,3,4,FALSE,N,FALSE,FALSE,N
-1005641,Akseizer Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Melissa Coady,Melissa Coady,12695.88,2520.0,3,3,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1007818,Antique Exchange,DESIGN,DESIGN_FIRM,Group 2 High Potential,7002.95,16932.9,5,7,FALSE,N,FALSE,FALSE,N
+1003393,Imi Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,8841.33,16668.15,9,11,FALSE,N,FALSE,FALSE,N
+1010352,"LaDifference, Inc dba LaDiff",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,21280.24,16654.05,17,19,FALSE,N,FALSE,FALSE,N
+1004280,Interior Style  (VA),DESIGN,DESIGN_FIRM,Group 2 High Potential,5800.7,15706.5,13,13,FALSE,N,FALSE,FALSE,N
+1003553,Somethings Unique,RETAIL,SINGLE_LOCATION,Group 2 High Potential,16183.5,15338.0,14,19,FALSE,N,FALSE,FALSE,N
+1003250,Mitchell's Interiors and Floor Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,25709.5,15050.25,12,5,FALSE,N,FALSE,FALSE,N
+1002766,Interior Concepts LLC (VA),DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,10365.0,13892.0,12,10,FALSE,N,FALSE,FALSE,N
+1016034,LH INTERIORS,DESIGN,DESIGN_FIRM,Group 2 High Potential,4193.9,13846.88,7,4,FALSE,N,FALSE,FALSE,N
+1009312,"Bloom & Co Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,24629.5,13323.94,12,8,FALSE,N,FALSE,FALSE,N
+1019138,Leah Walder Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10681.9,13064.34,18,13,FALSE,N,FALSE,FALSE,N
+1016836,Julia Longchamps Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13769.6,12992.28,12,11,FALSE,N,FALSE,FALSE,N
+1000929,"Eaton Young Galleries, Inc",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,14124.78,12982.7,28,18,FALSE,N,FALSE,FALSE,N
+1007583,Homewood Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11390.0,12265.5,9,8,FALSE,N,FALSE,FALSE,N
+1005834,Melissa McLay Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,7568.0,12052.13,5,4,FALSE,N,FALSE,FALSE,N
+1007880,Michael Molesky Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14654.65,11919.32,8,7,FALSE,N,FALSE,FALSE,N
+1003336,Peyton Home-Peyton Hart,RETAIL,SINGLE_LOCATION,Group 2 High Potential,15696.0,11851.16,14,8,FALSE,N,FALSE,FALSE,N
+1009112,"C and E Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,14795.0,11493.0,16,14,FALSE,N,FALSE,FALSE,N
+1006918,MS Vicas Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,22728.72,10557.0,15,10,FALSE,N,FALSE,FALSE,N
+1001097,Interiors By Shannon Bieter LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5184.0,9942.0,5,3,FALSE,N,FALSE,FALSE,N
+1003298,Erin Paige Pitts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6286.5,9833.08,3,6,FALSE,N,FALSE,FALSE,N
+1027607,GC Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,2222.5,9830.0,3,5,FALSE,N,FALSE,FALSE,N
+1025122,H+Co Design Haus LLC/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15090.7,9709.5,8,8,FALSE,N,FALSE,FALSE,N
+1001684,Welcome Home Staging,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10649.4,9680.0,7,7,FALSE,N,FALSE,FALSE,N
+1021829,Lotter Design LLC/Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,16396.0,9427.0,5,7,FALSE,N,FALSE,FALSE,N
+1020684,Hanover Avenue,DESIGN,DESIGN_FIRM,Group 2 High Potential,5194.0,9417.0,2,4,FALSE,N,FALSE,FALSE,N
+1003007,Williamsburg Heritage Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,13174.1,9238.0,13,11,FALSE,N,FALSE,FALSE,N
+1013348,Holland Custom Designs - Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6395.0,9027.0,2,3,FALSE,N,FALSE,FALSE,N
+1027978,Erica Burns Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,8563.0,0,1,TRUE,N,FALSE,FALSE,N
+1000710,Jennifer Stoner Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,23450.4,8445.5,7,5,FALSE,N,FALSE,FALSE,N
+1003234,Amanda Austin Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,6424.0,8381.15,4,8,FALSE,N,FALSE,FALSE,N
+1000675,Whittington Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12504.8,8287.6,14,8,FALSE,N,FALSE,FALSE,N
+1003430,Beaty and Brown,DESIGN,DESIGN_FIRM,Group 2 High Potential,1484.5,8244.0,2,4,FALSE,N,FALSE,FALSE,N
+1007071,"Leslie Anderson Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,18532.0,8217.8,18,9,FALSE,N,FALSE,FALSE,N
+1020026,Designs by Niki LLC/Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,4726.04,8184.04,9,4,FALSE,N,FALSE,FALSE,N
+1009373,C and J Interiors - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12645.0,8105.0,16,9,FALSE,N,FALSE,FALSE,N
+1019835,A & S Sales of Virginia,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,7810.8,0,7,FALSE,N,FALSE,FALSE,N
+1003254,"Guest Room, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,8519.94,7725.5,10,7,FALSE,N,FALSE,FALSE,N
+1009420,Sofas Etc,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7563.0,7713.0,13,8,FALSE,N,FALSE,FALSE,N
+1010053,Bertin's Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3625.0,7563.25,6,2,FALSE,N,FALSE,FALSE,N
+1005491,Christy Brown Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,23179.22,7381.0,14,12,FALSE,N,FALSE,FALSE,N
+1022452,Cicada House,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,6140.0,7166.5,1,1,FALSE,N,FALSE,FALSE,N
+1021449,DKM Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,7118.0,0,4,FALSE,N,FALSE,FALSE,N
+1006891,Casual Designs Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,10163.2,6968.9,18,16,FALSE,N,FALSE,FALSE,N
+1005000,Floors Etc-N Ginsburg,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,1292.5,6885.16,5,1,FALSE,N,FALSE,FALSE,N
+1025404,Bountiful Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6770.5,0,3,FALSE,N,FALSE,FALSE,N
+1007316,"P Four, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1185.0,6361.0,1,2,FALSE,N,FALSE,FALSE,N
+1021757,Bella Casa Design DBA Decorating Den Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,1900.0,6325.0,3,7,FALSE,N,FALSE,FALSE,N
+1017106,Flourish Spaces,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6169.0,0,4,FALSE,N,FALSE,FALSE,N
+1005610,Mark Showell Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9343.0,6049.3,4,3,FALSE,N,FALSE,FALSE,N
+1002623,Smith and Thomasson Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,2295.0,5954.0,1,3,FALSE,N,FALSE,FALSE,N
+1021417,"Maison Demarchelier, LLC",RETAIL,STORE_FURNITURE,Group 2 Medium Potential,7934.8,5767.15,27,21,FALSE,N,FALSE,FALSE,N
+1007360,"Design Ctr of Rehoboth, DCOR",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,4965.0,5570.0,5,6,FALSE,N,FALSE,FALSE,N
+1009500,Cindy C Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1503.0,5361.96,2,9,FALSE,N,FALSE,FALSE,N
+1000728,Designers Market Of Richmond,DESIGN,DESIGN_FIRM,Group 2 High Potential,756.0,5354.92,0,4,FALSE,N,FALSE,FALSE,N
+1015796,Clifton House,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10608.0,5285.3,2,3,FALSE,N,FALSE,FALSE,N
+1008193,Shea Studio Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,9264.5,5102.0,3,6,FALSE,N,FALSE,FALSE,N
+1005511,Folly Home Furnishings,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1475.0,4906.0,1,3,FALSE,N,FALSE,FALSE,N
+1025879,Sarah Goldfarb Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8310.0,4835.0,3,2,FALSE,N,FALSE,FALSE,N
+1010866,Casey Sanford Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,26137.75,4721.0,10,3,FALSE,N,FALSE,FALSE,N
+1013574,Nancy Wyandt Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5028.0,4517.5,5,3,FALSE,N,FALSE,FALSE,N
+1010940,The Village House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,2270.0,4403.0,2,1,FALSE,N,FALSE,FALSE,N
+1022453,Gina Drago Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,17855.96,4324.0,14,4,FALSE,N,FALSE,FALSE,N
+1002662,Ella Scott Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15827.75,4136.0,9,6,FALSE,N,FALSE,FALSE,N
+1018094,Hollace Clare Ltd,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,26892.9,4095.5,15,4,FALSE,N,FALSE,FALSE,N
+1018007,Feathered Nest of Virginia Inc. dba. Designers II,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4266.0,3917.0,7,4,FALSE,N,FALSE,FALSE,N
+1002022,Tiffany Jeremiah Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6544.0,3908.2,7,3,FALSE,N,FALSE,FALSE,N
+1000285,Mark Gonsenhauser,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,5888.0,3780.0,2,1,FALSE,N,FALSE,FALSE,N
+1006497,"KMG Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7314.0,3760.0,5,3,FALSE,N,FALSE,FALSE,N
+1009852,Madigan Schuler,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,5535.0,3707.5,3,2,FALSE,N,FALSE,FALSE,N
+1001851,Home On The Harbor,RETAIL,SINGLE_LOCATION,Group 2 High Potential,2760.4,3511.0,5,4,FALSE,N,FALSE,FALSE,N
+1009051,"Amy Schwartz Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12488.0,3415.0,13,2,FALSE,N,FALSE,FALSE,N
+1019331,Julie McCarthy Designs/DDI,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9283.9,3355.75,7,3,FALSE,N,FALSE,FALSE,N
+1002799,Crosby Jenkins Associates LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4966.0,3313.33,3,2,FALSE,N,FALSE,FALSE,N
+1010236,"LS Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4410.0,3086.38,1,4,FALSE,N,FALSE,FALSE,N
+1010185,"CMD Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2953.0,2730.75,5,4,FALSE,N,FALSE,FALSE,N
+1025658,Sally Steponkus Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2691.0,0,2,FALSE,N,FALSE,FALSE,N
+1019851,Bungalow 10 Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11664.5,2683.0,3,4,FALSE,N,FALSE,FALSE,N
+1000976,"Decorum, Inc (VA)",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12718.48,2655.0,7,1,FALSE,N,FALSE,FALSE,N
+1026646,"Design House Studio, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,914.0,2634.5,1,3,FALSE,N,FALSE,FALSE,N
+1018511,"Jefferson Street Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7766.0,2587.0,3,3,FALSE,N,FALSE,FALSE,N
+1015695,Rayona Bennett DBA Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6787.2,2550.0,3,4,FALSE,N,FALSE,FALSE,N
+1005641,Akseizer Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12695.88,2520.0,3,3,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 37 accounts | $13499.20 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1007187,Christopher Zoltan Designs,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,37896.29,2493.0,11,1,FALSE,N,FALSE,FALSE,N
-1020588,Annapolis Carpet and Floor Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,2646.0,2257.5,1,2,FALSE,N,FALSE,FALSE,N
-1008819,Fitzgerald Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,12142.0,2160.8,15,5,FALSE,N,FALSE,FALSE,N
-1008639,Urban Country,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,2160.0,1188.0,2,2,FALSE,N,FALSE,FALSE,N
-1035892,"The Designery, LLC (DBA-Designery Company)",RETAIL,SINGLE_LOCATION,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,1120.0,0,2,TRUE,N,FALSE,FALSE,N
-1021959,Snobz,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,815.0,1060.0,2,1,FALSE,N,FALSE,FALSE,N
-1016749,Kendall's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1075.0,970.0,3,1,FALSE,N,FALSE,FALSE,N
-1020244,Mill End Shops,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Melissa Coady,Melissa Coady,0.0,860.0,0,1,FALSE,N,FALSE,FALSE,N
-1003503,Canvas LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,1792.0,663.0,1,2,FALSE,N,FALSE,FALSE,N
-1021660,Envisions Flooring & Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,3630.5,619.0,10,1,FALSE,N,FALSE,FALSE,N
-1019609,Moraleigh Investments LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Melissa Coady,Melissa Coady,1909.0,172.8,2,2,FALSE,N,FALSE,FALSE,N
-1015576,Atelier Design & Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,2410.0,39.0,1,2,FALSE,N,FALSE,FALSE,N
-1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,495.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,4295.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,590.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1125.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,948.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,2490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,24026.75,0.0,10,0,FALSE,N,FALSE,FALSE,N
-1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1235.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
-1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,697.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035783,Premier Home Center/Premier Floors Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,-20.4,0,0,TRUE,N,FALSE,FALSE,N
-1007729,"Perfect Furnishings, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1332.0,-83.5,3,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1007187,Christopher Zoltan Designs,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,37896.29,2493.0,11,1,FALSE,N,FALSE,FALSE,N
+1020588,Annapolis Carpet and Floor Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2646.0,2257.5,1,2,FALSE,N,FALSE,FALSE,N
+1008819,Fitzgerald Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,12142.0,2160.8,15,5,FALSE,N,FALSE,FALSE,N
+1008639,Urban Country,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2160.0,1188.0,2,2,FALSE,N,FALSE,FALSE,N
+1035892,"The Designery, LLC (DBA-Designery Company)",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1120.0,0,2,TRUE,N,FALSE,FALSE,N
+1021959,Snobz,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,815.0,1060.0,2,1,FALSE,N,FALSE,FALSE,N
+1016749,Kendall's,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1075.0,970.0,3,1,FALSE,N,FALSE,FALSE,N
+1020244,Mill End Shops,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,0.0,860.0,0,1,FALSE,N,FALSE,FALSE,N
+1003503,Canvas LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1792.0,663.0,1,2,FALSE,N,FALSE,FALSE,N
+1021660,Envisions Flooring & Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,3630.5,619.0,10,1,FALSE,N,FALSE,FALSE,N
+1019609,Moraleigh Investments LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1909.0,172.8,2,2,FALSE,N,FALSE,FALSE,N
+1015576,Atelier Design & Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2410.0,39.0,1,2,FALSE,N,FALSE,FALSE,N
+1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,495.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4295.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,590.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1125.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,948.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,24026.75,0.0,10,0,FALSE,N,FALSE,FALSE,N
+1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1235.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,697.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035783,Premier Home Center/Premier Floors Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,-20.4,0,0,TRUE,N,FALSE,FALSE,N
+1007729,"Perfect Furnishings, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1332.0,-83.5,3,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 1 accounts | $42.00 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1002760,Lapis Ray,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Melissa Coady,Melissa Coady,20751.9,42.0,10,2,FALSE,Y,TRUE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002760,Lapis Ray,DESIGN,DESIGN_FIRM,Group 3 Low Potential,20751.9,42.0,10,2,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 90 total accounts,,,,,,,,,,,,,,,
@@ -291,28 +291,28 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 23 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,24026.75,0.0,10,0,FALSE,N,FALSE,FALSE,N
-1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,4295.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,2490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1235.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,1125.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,948.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,697.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,590.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,495.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
-1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Melissa Coady,Melissa Coady,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,24026.75,0.0,10,0,FALSE,N,FALSE,FALSE,N
+1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4295.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1235.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1125.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,948.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,697.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,590.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,495.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: David Glassman,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -25,434 +25,434 @@ Totals,410,4133722.41,6,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 55 accounts | $2400084.06 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000721,Baer's Furniture Company Inc.,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,David Glassman,David Glassman,240785.61,252060.06,355,452,FALSE,N,FALSE,FALSE,N
-1004752,Designs in Rugs-Hanteri Enterprises,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,131636.21,153888.84,187,210,FALSE,N,FALSE,FALSE,N
-1004253,VDRC,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,153390.17,117272.99,100,71,FALSE,N,FALSE,FALSE,N
-1000884,Matter Bros. Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,133840.4,96038.73,264,208,FALSE,N,FALSE,FALSE,N
-1017123,Home and Salvage,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,71124.0,95439.95,51,82,FALSE,N,FALSE,FALSE,N
-1008783,Robb and Stucky Int'l Inc,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,103611.27,86597.97,73,62,FALSE,N,FALSE,FALSE,N
-1000495,Decorators Unlimited,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,28257.97,71568.23,17,38,FALSE,N,FALSE,FALSE,N
-1016220,Ashley Martin Home,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,71196.44,66970.64,82,101,FALSE,N,FALSE,FALSE,N
-1003142,"Interiors By Steven G, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,36925.05,61995.15,19,32,FALSE,N,FALSE,FALSE,N
-1016066,"Jeffrey Fisher Home International, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,49425.94,58885.55,31,19,FALSE,N,FALSE,FALSE,N
-1000487,"Rugs As Art, Inc",RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,23385.0,58773.25,46,70,FALSE,N,FALSE,FALSE,N
-1012877,Calusa Bay Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,David Glassman,David Glassman,15080.77,53780.08,21,22,FALSE,N,FALSE,FALSE,N
-1021820,Sam Robin Inc,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,2338.0,52212.41,5,1,FALSE,N,FALSE,FALSE,N
-1003259,Masmark dba Havenhome,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,17690.2,50490.52,29,58,FALSE,N,FALSE,FALSE,N
-1002843,Shrawder (FL),RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,40672.0,49922.0,76,61,FALSE,N,FALSE,FALSE,N
-1010969,Hendrickson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,David Glassman,David Glassman,50728.7,44891.72,31,29,FALSE,N,FALSE,FALSE,N
-1003617,"Marc-Michaels Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,13231.05,37898.35,6,10,FALSE,N,FALSE,FALSE,N
-1018893,Oca Studio,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,17555.0,37267.46,20,24,FALSE,N,FALSE,FALSE,N
-1011106,Lola Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,59395.5,37048.0,28,35,FALSE,N,FALSE,FALSE,N
-1010451,Restyle Home LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,4950.0,36867.5,2,16,FALSE,N,FALSE,FALSE,N
-1024436,Cherry Luxury Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,16341.44,36761.35,9,17,FALSE,N,FALSE,FALSE,N
-1009409,Wasser's Exclusive Furniture and In,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,18601.27,35962.93,25,20,FALSE,N,FALSE,FALSE,N
-1016593,Not Too Shabby LLC,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,61855.76,34036.69,43,22,FALSE,N,FALSE,FALSE,N
-1002997,Freestyle Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,42406.0,33853.84,24,26,FALSE,N,FALSE,FALSE,N
-1006130,Michelle Miller Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,28645.41,33764.22,23,17,FALSE,N,FALSE,FALSE,N
-1000473,Hadingers Flooring,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,30926.0,29691.0,63,38,FALSE,N,FALSE,FALSE,N
-1024470,R & Co Designs,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,63259.96,29298.74,31,20,FALSE,N,FALSE,FALSE,N
-1008935,"Lynni Megginson Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,David Glassman,David Glassman,10012.5,28204.5,5,8,FALSE,N,FALSE,FALSE,N
-1014169,Nikki Levy Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,13057.5,27326.9,11,26,FALSE,N,FALSE,FALSE,N
-1005504,"Artistic Elements, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,29412.4,26851.66,45,25,FALSE,N,FALSE,FALSE,N
-1004823,Coast Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,David Glassman,David Glassman,22991.0,26519.0,24,36,FALSE,N,FALSE,FALSE,N
-1013408,Koontz Company,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,David Glassman,David Glassman,31744.26,26168.0,35,17,FALSE,N,FALSE,FALSE,N
-1008466,James Design Company,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,25151.0,25794.0,31,21,FALSE,N,FALSE,FALSE,N
-1005643,James Michael Howard,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,28973.69,25718.0,24,19,FALSE,N,FALSE,FALSE,N
-1035172,Angela Neel Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,1565.0,25530.5,2,28,FALSE,N,FALSE,FALSE,N
-1025540,Trade Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,7554.16,25169.85,10,4,FALSE,N,FALSE,FALSE,N
-1009825,Room With a View,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,9162.87,24827.05,9,12,FALSE,N,FALSE,FALSE,N
-1008621,"Gordon and Johnson Interiors, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,434.0,23966.5,2,11,FALSE,N,FALSE,FALSE,N
-1005150,Steele Street Studios,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,33079.43,23508.29,15,11,FALSE,N,FALSE,FALSE,N
-1004772,Codeana Ltd.,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,David Glassman,David Glassman,10614.5,23009.5,12,3,FALSE,N,FALSE,FALSE,N
-1013175,ACP Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,25506.7,22829.0,30,20,FALSE,N,FALSE,FALSE,N
-1020152,Nicole Roe Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,10705.6,22565.7,13,13,FALSE,N,FALSE,FALSE,N
-1010512,Lisa Gilmore Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,14609.3,22450.46,6,7,FALSE,N,FALSE,FALSE,N
-1016223,"LMG Design Consulting, Inc.",RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,28106.17,22156.52,20,9,FALSE,N,FALSE,FALSE,N
-1011411,Marco Island Furniture and Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,8454.0,21798.25,12,20,FALSE,N,FALSE,FALSE,N
-1001296,Cid - Concepts In Design (FL),DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,25180.44,21625.05,19,12,FALSE,N,FALSE,FALSE,N
-1011694,"Bee Studios, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,5037.0,21602.95,5,14,FALSE,N,FALSE,FALSE,N
-1009850,Sugar Beach Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,7610.5,21165.2,9,23,FALSE,N,FALSE,FALSE,N
-1005558,"James Duncan, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,35819.5,20985.5,10,7,FALSE,N,FALSE,FALSE,N
-1005550,"Soco Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,David Glassman,David Glassman,32155.0,20345.0,15,11,FALSE,N,FALSE,FALSE,N
-1018687,Kat Solomon Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,David Glassman,David Glassman,20190.0,20158.93,7,6,FALSE,N,FALSE,FALSE,N
-1013887,Tera Smith - Smith Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,David Glassman,David Glassman,12751.23,19742.0,15,6,FALSE,N,FALSE,FALSE,N
-1017064,Chris Brown Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,David Glassman,David Glassman,18141.5,19504.2,13,7,FALSE,N,FALSE,FALSE,N
-1005633,Turner Ace Hardware,RETAIL,SINGLE_LOCATION,Group 1 High Potential,David Glassman,David Glassman,10361.0,19016.88,16,15,FALSE,N,FALSE,FALSE,N
-1012773,CRT Studio,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,David Glassman,David Glassman,19509.0,18306.5,8,6,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000721,Baer's Furniture Company Inc.,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,240785.61,252060.06,355,452,FALSE,N,FALSE,FALSE,N
+1004752,Designs in Rugs-Hanteri Enterprises,RETAIL,SINGLE_LOCATION,Group 1 High Potential,131636.21,153888.84,187,210,FALSE,N,FALSE,FALSE,N
+1004253,VDRC,DESIGN,DESIGN_FIRM,Group 1 High Potential,153390.17,117272.99,100,71,FALSE,N,FALSE,FALSE,N
+1000884,Matter Bros. Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,133840.4,96038.73,264,208,FALSE,N,FALSE,FALSE,N
+1017123,Home and Salvage,RETAIL,SINGLE_LOCATION,Group 1 High Potential,71124.0,95439.95,51,82,FALSE,N,FALSE,FALSE,N
+1008783,Robb and Stucky Int'l Inc,RETAIL,SINGLE_LOCATION,Group 1 High Potential,103611.27,86597.97,73,62,FALSE,N,FALSE,FALSE,N
+1000495,Decorators Unlimited,DESIGN,DESIGN_FIRM,Group 1 High Potential,28257.97,71568.23,17,38,FALSE,N,FALSE,FALSE,N
+1016220,Ashley Martin Home,DESIGN,DESIGN_FIRM,Group 1 High Potential,71196.44,66970.64,82,101,FALSE,N,FALSE,FALSE,N
+1003142,"Interiors By Steven G, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,36925.05,61995.15,19,32,FALSE,N,FALSE,FALSE,N
+1016066,"Jeffrey Fisher Home International, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,49425.94,58885.55,31,19,FALSE,N,FALSE,FALSE,N
+1000487,"Rugs As Art, Inc",RETAIL,SINGLE_LOCATION,Group 1 High Potential,23385.0,58773.25,46,70,FALSE,N,FALSE,FALSE,N
+1012877,Calusa Bay Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,15080.77,53780.08,21,22,FALSE,N,FALSE,FALSE,N
+1021820,Sam Robin Inc,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,2338.0,52212.41,5,1,FALSE,N,FALSE,FALSE,N
+1003259,Masmark dba Havenhome,DESIGN,DESIGN_FIRM,Group 1 High Potential,17690.2,50490.52,29,58,FALSE,N,FALSE,FALSE,N
+1002843,Shrawder (FL),RETAIL,SINGLE_LOCATION,Group 1 High Potential,40672.0,49922.0,76,61,FALSE,N,FALSE,FALSE,N
+1010969,Hendrickson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,50728.7,44891.72,31,29,FALSE,N,FALSE,FALSE,N
+1003617,"Marc-Michaels Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,13231.05,37898.35,6,10,FALSE,N,FALSE,FALSE,N
+1018893,Oca Studio,RETAIL,SINGLE_LOCATION,Group 1 High Potential,17555.0,37267.46,20,24,FALSE,N,FALSE,FALSE,N
+1011106,Lola Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,59395.5,37048.0,28,35,FALSE,N,FALSE,FALSE,N
+1010451,Restyle Home LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,4950.0,36867.5,2,16,FALSE,N,FALSE,FALSE,N
+1024436,Cherry Luxury Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,16341.44,36761.35,9,17,FALSE,N,FALSE,FALSE,N
+1009409,Wasser's Exclusive Furniture and In,RETAIL,SINGLE_LOCATION,Group 1 High Potential,18601.27,35962.93,25,20,FALSE,N,FALSE,FALSE,N
+1016593,Not Too Shabby LLC,RETAIL,SINGLE_LOCATION,Group 1 High Potential,61855.76,34036.69,43,22,FALSE,N,FALSE,FALSE,N
+1002997,Freestyle Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,42406.0,33853.84,24,26,FALSE,N,FALSE,FALSE,N
+1006130,Michelle Miller Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,28645.41,33764.22,23,17,FALSE,N,FALSE,FALSE,N
+1000473,Hadingers Flooring,RETAIL,SINGLE_LOCATION,Group 1 High Potential,30926.0,29691.0,63,38,FALSE,N,FALSE,FALSE,N
+1024470,R & Co Designs,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,63259.96,29298.74,31,20,FALSE,N,FALSE,FALSE,N
+1008935,"Lynni Megginson Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,10012.5,28204.5,5,8,FALSE,N,FALSE,FALSE,N
+1014169,Nikki Levy Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,13057.5,27326.9,11,26,FALSE,N,FALSE,FALSE,N
+1005504,"Artistic Elements, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,29412.4,26851.66,45,25,FALSE,N,FALSE,FALSE,N
+1004823,Coast Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,22991.0,26519.0,24,36,FALSE,N,FALSE,FALSE,N
+1013408,Koontz Company,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,31744.26,26168.0,35,17,FALSE,N,FALSE,FALSE,N
+1008466,James Design Company,RETAIL,SINGLE_LOCATION,Group 1 High Potential,25151.0,25794.0,31,21,FALSE,N,FALSE,FALSE,N
+1005643,James Michael Howard,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,28973.69,25718.0,24,19,FALSE,N,FALSE,FALSE,N
+1035172,Angela Neel Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,1565.0,25530.5,2,28,FALSE,N,FALSE,FALSE,N
+1025540,Trade Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,7554.16,25169.85,10,4,FALSE,N,FALSE,FALSE,N
+1009825,Room With a View,DESIGN,DESIGN_FIRM,Group 1 High Potential,9162.87,24827.05,9,12,FALSE,N,FALSE,FALSE,N
+1008621,"Gordon and Johnson Interiors, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,434.0,23966.5,2,11,FALSE,N,FALSE,FALSE,N
+1005150,Steele Street Studios,DESIGN,DESIGN_FIRM,Group 1 High Potential,33079.43,23508.29,15,11,FALSE,N,FALSE,FALSE,N
+1004772,Codeana Ltd.,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,10614.5,23009.5,12,3,FALSE,N,FALSE,FALSE,N
+1013175,ACP Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,25506.7,22829.0,30,20,FALSE,N,FALSE,FALSE,N
+1020152,Nicole Roe Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,10705.6,22565.7,13,13,FALSE,N,FALSE,FALSE,N
+1010512,Lisa Gilmore Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,14609.3,22450.46,6,7,FALSE,N,FALSE,FALSE,N
+1016223,"LMG Design Consulting, Inc.",RETAIL,SINGLE_LOCATION,Group 1 High Potential,28106.17,22156.52,20,9,FALSE,N,FALSE,FALSE,N
+1011411,Marco Island Furniture and Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,8454.0,21798.25,12,20,FALSE,N,FALSE,FALSE,N
+1001296,Cid - Concepts In Design (FL),DESIGN,DESIGN_FIRM,Group 1 High Potential,25180.44,21625.05,19,12,FALSE,N,FALSE,FALSE,N
+1011694,"Bee Studios, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,5037.0,21602.95,5,14,FALSE,N,FALSE,FALSE,N
+1009850,Sugar Beach Interiors,RETAIL,SINGLE_LOCATION,Group 1 High Potential,7610.5,21165.2,9,23,FALSE,N,FALSE,FALSE,N
+1005558,"James Duncan, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,35819.5,20985.5,10,7,FALSE,N,FALSE,FALSE,N
+1005550,"Soco Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,32155.0,20345.0,15,11,FALSE,N,FALSE,FALSE,N
+1018687,Kat Solomon Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,20190.0,20158.93,7,6,FALSE,N,FALSE,FALSE,N
+1013887,Tera Smith - Smith Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,12751.23,19742.0,15,6,FALSE,N,FALSE,FALSE,N
+1017064,Chris Brown Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,18141.5,19504.2,13,7,FALSE,N,FALSE,FALSE,N
+1005633,Turner Ace Hardware,RETAIL,SINGLE_LOCATION,Group 1 High Potential,10361.0,19016.88,16,15,FALSE,N,FALSE,FALSE,N
+1012773,CRT Studio,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,19509.0,18306.5,8,6,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 232 accounts | $1666485.75 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1006824,Retreats of Florida Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,16233.0,17734.0,18,23,FALSE,N,FALSE,FALSE,N
-1013314,"Trinity Design, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,2440.0,17610.55,2,6,FALSE,N,FALSE,FALSE,N
-1016353,Lexi Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,3846.5,17574.65,3,16,FALSE,N,FALSE,FALSE,N
-1004620,Kristen Biagini Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,26792.4,17222.76,24,15,FALSE,N,FALSE,FALSE,N
-1022735,J Holland Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,24637.9,17193.0,14,10,FALSE,N,FALSE,FALSE,N
-1000565,"Wilford and Lee, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,11212.1,17173.1,9,16,FALSE,N,FALSE,FALSE,N
-1010317,Coin and Co Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,28245.0,16677.0,26,18,FALSE,N,FALSE,FALSE,N
-1000783,Smart Interiors Inc.,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,2158.0,16663.0,2,14,FALSE,N,FALSE,FALSE,N
-1004922,Bella Beach,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,20415.44,16634.3,22,14,FALSE,N,FALSE,FALSE,N
-1025487,Ponton Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,7352.0,16382.0,3,6,FALSE,N,FALSE,FALSE,N
-1027483,Annabelles Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,David Glassman,David Glassman,4910.0,16296.0,4,15,FALSE,N,FALSE,FALSE,N
-1036272,Furniture South,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,0.0,16291.0,0,10,TRUE,N,FALSE,FALSE,N
-1017114,DAN RAKDESIGN FLORIDA LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,15911.94,16195.0,24,8,FALSE,N,FALSE,FALSE,N
-1027807,Trade Mark Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,50.0,15959.07,0,11,FALSE,N,FALSE,FALSE,N
-1003313,Sarin Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,1234.0,15941.71,1,6,FALSE,N,FALSE,FALSE,N
-1001645,Wirth Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,16293.6,15796.45,7,8,FALSE,N,FALSE,FALSE,N
-1014916,Artistic View,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,2492.0,15775.0,4,3,FALSE,N,FALSE,FALSE,N
-1010671,Schiller Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,8241.5,15675.0,9,11,FALSE,N,FALSE,FALSE,N
-1019116,Adelyn Charles Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,42230.0,15300.0,15,8,FALSE,N,FALSE,FALSE,N
-1000933,Jerome H Davis Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,15237.0,0,2,FALSE,N,FALSE,FALSE,N
-1021392,McNally Construction Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,4400.0,14880.0,1,2,FALSE,N,FALSE,FALSE,N
-1005761,Indian River Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,20300.35,14592.4,52,36,FALSE,N,FALSE,FALSE,N
-1021979,Blue Daze Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,5209.5,14518.94,4,9,FALSE,N,FALSE,FALSE,N
-1024372,Terri Faye Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,15345.5,14456.0,8,13,FALSE,N,FALSE,FALSE,N
-1006784,Rooms To Go,RETAIL,NATIONAL,Group 2 Medium Potential,David Glassman,David Glassman,3200.0,14255.0,5,9,FALSE,N,FALSE,FALSE,N
-1022555,Abide Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,8178.9,14073.9,10,12,FALSE,N,FALSE,FALSE,N
-1018520,"Eric Horner Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,3748.0,13897.73,4,11,FALSE,N,FALSE,FALSE,N
-1014668,Niemann Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,12808.0,13785.18,5,8,FALSE,N,FALSE,FALSE,N
-1024431,Ale Cretul Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,2710.0,13533.11,3,9,FALSE,N,FALSE,FALSE,N
-1027126,WYC Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,5523.0,13408.09,5,1,FALSE,N,FALSE,FALSE,N
-1012766,Sarah Cain Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,13394.5,13061.6,5,4,FALSE,N,FALSE,FALSE,N
-1003173,Deanna McDavid Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,13490.4,12918.0,11,6,FALSE,N,FALSE,FALSE,N
-1017103,Laure Nell Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,24325.5,12230.84,13,9,FALSE,N,FALSE,FALSE,N
-1010259,Gouse's Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,24369.5,12061.0,34,21,FALSE,N,FALSE,FALSE,N
-1003548,"Lorrie Browne Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,12015.5,0,2,FALSE,N,FALSE,FALSE,N
-1000461,Brian Barnard's Flooring America,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,0.0,11795.56,1,3,FALSE,N,FALSE,FALSE,N
-1000663,"David Waller Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,4068.55,11756.29,12,10,FALSE,N,FALSE,FALSE,N
-1003628,"Family Furniture and Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,17965.2,11589.12,35,27,FALSE,N,FALSE,FALSE,N
-1025792,"DGL Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,13107.0,11451.7,3,6,FALSE,N,FALSE,FALSE,N
-1005740,Nuvo Design Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,1115.0,10908.8,1,5,FALSE,N,FALSE,FALSE,N
-1021378,"French Gray Interiors, LLC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,9424.0,10759.5,4,7,FALSE,N,FALSE,FALSE,N
-1014134,Robyn Branch Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,2146.0,10755.0,8,7,FALSE,N,FALSE,FALSE,N
-1021230,Thrifty Nikki's Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,9726.0,10738.4,15,16,FALSE,N,FALSE,FALSE,N
-1037156,Emily Brady Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,10483.0,0,6,TRUE,N,FALSE,FALSE,N
-1036795,CAJE Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,10441.0,0,2,TRUE,N,FALSE,FALSE,N
-1019930,2 Chicks Design Co,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,9481.8,10375.84,10,5,FALSE,N,FALSE,FALSE,N
-1016201,L Pumpa Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,10325.5,0,2,FALSE,N,FALSE,FALSE,N
-1024411,bartlett design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,13991.0,10291.05,11,6,FALSE,N,FALSE,FALSE,N
-1002061,"Design With Merritt, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,12764.3,10145.5,10,7,FALSE,N,FALSE,FALSE,N
-1016822,Lavino Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,6217.0,10112.5,5,3,FALSE,N,FALSE,FALSE,N
-1001967,Charlene Neal Pure Style,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,David Glassman,David Glassman,16331.5,10086.6,22,11,FALSE,N,FALSE,FALSE,N
-1024489,Iannella Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,12851.0,10078.8,9,7,FALSE,N,FALSE,FALSE,N
-1024673,Astral House LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,1912.0,10006.0,2,8,FALSE,N,FALSE,FALSE,N
-1012505,"Grey House Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,3489.0,9991.0,2,1,FALSE,N,FALSE,FALSE,N
-1005373,Our Boat House,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,15093.5,9963.95,40,42,FALSE,N,FALSE,FALSE,N
-1024204,Design By Rania,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,1470.0,9883.0,1,3,FALSE,N,FALSE,FALSE,N
-1023135,BA Design Group Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,175.0,9784.0,0,4,FALSE,N,FALSE,FALSE,N
-1026745,Sally M LaHood,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,10989.6,9781.0,6,5,FALSE,N,FALSE,FALSE,N
-1003697,Masterpiece Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,4417.0,9765.9,8,11,FALSE,N,FALSE,FALSE,N
-1003389,Anne Rue Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,4414.0,9691.0,4,2,FALSE,N,FALSE,FALSE,N
-1007910,"Designer's Mark, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,15658.0,9656.0,12,10,FALSE,N,FALSE,FALSE,N
-1005998,"Fine Furniture by Gordon's, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,9877.0,9589.0,14,11,FALSE,N,FALSE,FALSE,N
-1000833,Pink Pineapple,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,11516.7,9540.0,27,24,FALSE,N,FALSE,FALSE,N
-1020347,"Nested Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,626.0,9326.0,2,4,FALSE,N,FALSE,FALSE,N
-1024647,Cindy McCarley Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,9290.0,0,3,FALSE,N,FALSE,FALSE,N
-1022297,Summer House Lifestyle,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,9577.0,9134.3,6,4,FALSE,N,FALSE,FALSE,N
-1015714,Harper Haus Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,59127.42,8790.6,26,9,FALSE,N,FALSE,FALSE,N
-1000946,Bronze Lady,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,674.0,8738.3,11,7,FALSE,N,FALSE,FALSE,N
-1020423,Inspired Home Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,1645.0,8587.01,2,9,FALSE,N,FALSE,FALSE,N
-1014775,Concept 2 Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,2535.0,8497.8,1,4,FALSE,N,FALSE,FALSE,N
-1024383,Structure Interior Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,14859.5,8483.5,10,2,FALSE,N,FALSE,FALSE,N
-1010564,LeSchander Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,17326.0,8276.0,7,3,FALSE,N,FALSE,FALSE,N
-1006574,"D DePerro Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1410.0,8250.0,2,5,FALSE,N,FALSE,FALSE,N
-1024419,Breakwater Home Fashions Inc,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,2247.0,8219.0,4,11,FALSE,N,FALSE,FALSE,N
-1001714,Wood N' Rugs,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,1212.0,8207.99,6,6,FALSE,N,FALSE,FALSE,N
-1011221,"Bianca Boie Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,8080.0,0,2,FALSE,N,FALSE,FALSE,N
-1017960,L Hamilton & Company Dwell,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,10655.0,8047.5,11,6,FALSE,N,FALSE,FALSE,N
-1000741,Retro Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,25950.0,7879.5,25,12,FALSE,N,FALSE,FALSE,N
-1011430,McKinlay Rose Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,6137.0,7850.0,5,6,FALSE,N,FALSE,FALSE,N
-1007244,Browns Interior Design Showroom,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,25803.32,7833.8,26,7,FALSE,N,FALSE,FALSE,N
-1014211,"Allyson Runnels Interiors, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,20353.55,7795.0,10,5,FALSE,N,FALSE,FALSE,N
-1025415,Dune Amelia LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1146.0,7758.0,1,1,FALSE,N,FALSE,FALSE,N
-1027784,International Design Source,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,David Glassman,David Glassman,1405.0,7633.0,2,9,FALSE,N,FALSE,FALSE,N
-1010410,"Noland Lowell Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,2866.1,7566.85,6,2,FALSE,N,FALSE,FALSE,N
-1020538,"Re+Forma Architecture, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,7566.37,0,7,FALSE,N,FALSE,FALSE,N
-1017386,Dwayne Bergmann LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,6082.14,7546.32,16,1,FALSE,N,FALSE,FALSE,N
-1022091,Imiak Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,7545.0,0,4,FALSE,N,FALSE,FALSE,N
-1011410,Angela Fine Furnishings,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,22888.0,7472.0,11,6,FALSE,N,FALSE,FALSE,N
-1002603,"Newell Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,11285.14,7466.3,5,6,FALSE,N,FALSE,FALSE,N
-1017154,Eralyn Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,4631.24,7416.2,5,4,FALSE,N,FALSE,FALSE,N
-1014153,Everything Cool LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,5096.0,7368.7,12,14,FALSE,N,FALSE,FALSE,N
-1014884,"Andrea Noel Designs, LLC dba Motivo Home",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,7515.0,7325.0,1,3,FALSE,N,FALSE,FALSE,N
-1011409,Coastal Furniture and Accessories,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,9250.5,7320.15,24,18,FALSE,N,FALSE,FALSE,N
-1010255,Albany Associates,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,7307.2,0,8,FALSE,N,FALSE,FALSE,N
-1000827,"Foxy Rug Galleria, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,0.0,7296.04,0,12,FALSE,N,FALSE,FALSE,N
-1023740,SKÃ–N Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,6936.0,7237.0,3,1,FALSE,N,FALSE,FALSE,N
-1014283,Mead Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,4623.0,7190.0,5,4,FALSE,N,FALSE,FALSE,N
-1010511,Ashley Gaughan Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,607.5,7111.8,1,2,FALSE,N,FALSE,FALSE,N
-1016670,Cottage and Loft Interior Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8035.0,7042.0,9,2,FALSE,N,FALSE,FALSE,N
-1017584,Jennifer Ribek Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1566.0,6932.1,2,2,FALSE,N,FALSE,FALSE,N
-1004130,Nest Interior Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,6857.0,6836.8,9,6,FALSE,N,FALSE,FALSE,N
-1011750,"Dezinertonie,LLC - Decorating Den",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,4613.0,6701.0,3,3,FALSE,N,FALSE,FALSE,N
-1020074,Brooke Williams Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,3768.5,6694.0,8,7,FALSE,N,FALSE,FALSE,N
-1023890,"1205 Design Studio, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,581.0,6622.75,1,2,FALSE,N,FALSE,FALSE,N
-1023396,Vesta Home / Showroom Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1031.2,6615.0,2,3,FALSE,N,FALSE,FALSE,N
-1015745,Leigh Wright Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,6575.0,0,2,FALSE,N,FALSE,FALSE,N
-1022747,Becca Reynolds interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,3571.0,6551.64,4,1,FALSE,N,FALSE,FALSE,N
-1002358,Kelly Collective Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,11726.8,6478.0,15,3,FALSE,N,FALSE,FALSE,N
-1006432,Sally A Trout ASID,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1003.44,6206.7,2,1,FALSE,N,FALSE,FALSE,N
-1006646,West Home Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,887.0,6108.0,1,4,FALSE,N,FALSE,FALSE,N
-1021369,HONORS INTERIORS LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,3940.0,6068.4,5,4,FALSE,N,FALSE,FALSE,N
-1017148,Pecky,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,15076.0,6053.0,5,5,FALSE,N,FALSE,FALSE,N
-1020487,Crespo Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8904.9,6020.14,3,5,FALSE,N,FALSE,FALSE,N
-1015096,LaVerne Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,1262.0,6001.27,1,6,FALSE,N,FALSE,FALSE,N
-1018139,ASD PROCUREMENT LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,5932.0,0,10,FALSE,N,FALSE,FALSE,N
-1018805,"LjA Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,2882.5,5912.0,4,2,FALSE,N,FALSE,FALSE,N
-1001439,Gallery South,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,0.0,5875.5,0,3,FALSE,N,FALSE,FALSE,N
-1007505,Simplicity Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,4093.0,5787.7,2,5,FALSE,N,FALSE,FALSE,N
-1022806,Edge Cabinetry & Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,2982.0,5766.0,1,5,FALSE,N,FALSE,FALSE,N
-1024011,Sundial Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,1052.63,5681.25,2,1,FALSE,N,FALSE,FALSE,N
-1001153,Sarasota Chic,DESIGN,DESIGN_FIRM,Group 2 Low Potential,David Glassman,David Glassman,12330.0,5680.0,17,10,FALSE,N,FALSE,FALSE,N
-1023915,Hajarie Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,0.0,5567.0,0,1,TRUE,N,FALSE,FALSE,N
-1005722,Inspirations Furniture and Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,1370.0,5446.0,3,9,FALSE,N,FALSE,FALSE,N
-1006500,"Cabana 15 Furniture, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,5557.0,5419.6,7,4,FALSE,N,FALSE,FALSE,N
-1023119,Connelly & Co. Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,5385.0,0,1,FALSE,N,FALSE,FALSE,N
-1021936,Lorivettodesign,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,15123.0,5376.5,7,3,FALSE,N,FALSE,FALSE,N
-1036928,"Builderiors, Inc.",DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,David Glassman,David Glassman,0.0,5301.0,0,5,TRUE,N,FALSE,FALSE,N
-1001549,Rhett Alexander,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,3073.0,5210.0,4,10,FALSE,N,FALSE,FALSE,N
-1021869,Crystal Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,17.5,5170.0,0,3,FALSE,N,FALSE,FALSE,N
-1017263,Oak & Linen Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,7379.0,5153.0,4,2,FALSE,N,FALSE,FALSE,N
-1006297,The Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,5185.0,5109.0,3,5,FALSE,N,FALSE,FALSE,N
-1025081,Elegant Outdoor Living,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,David Glassman,David Glassman,6166.0,5098.88,10,6,FALSE,N,FALSE,FALSE,N
-1016333,Maritza Capiro Designs Corp,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,5096.0,0,3,FALSE,N,FALSE,FALSE,N
-1014117,Venice Lighting Company,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,4031.0,5083.0,6,10,FALSE,N,FALSE,FALSE,N
-1001079,Linen Coast Home and Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,1080.0,5039.72,1,4,FALSE,N,FALSE,FALSE,N
-1023974,Kane Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,11793.05,5036.4,12,8,FALSE,N,FALSE,FALSE,N
-1024174,Lotus and Lagoon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,4155.0,4982.32,6,6,FALSE,N,FALSE,FALSE,N
-1009527,Terri's Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8936.0,4979.5,8,5,FALSE,N,FALSE,FALSE,N
-1018252,ENVIRONMENTAL INTERIORS DESIGN STUDIO LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,4859.0,0,1,FALSE,N,FALSE,FALSE,N
-1025033,Kaelyn Schmidt Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,20424.6,4844.0,8,4,FALSE,N,FALSE,FALSE,N
-1027877,Starr Sanford Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,870.0,4798.6,1,6,FALSE,N,FALSE,FALSE,N
-1011246,Mercedes Lavalla - Decorating Den,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,4795.0,0,3,FALSE,N,FALSE,FALSE,N
-1021380,Architecture Joyce Owens,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,David Glassman,David Glassman,14156.5,4786.0,4,4,FALSE,N,FALSE,FALSE,N
-1012624,Blu Home and Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8275.0,4605.0,6,3,FALSE,N,FALSE,FALSE,N
-1018604,Exclusive Flooring Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,1170.0,4550.0,1,1,FALSE,N,FALSE,FALSE,N
-1024306,Brooke Dailey Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,4105.0,4522.12,7,4,FALSE,N,FALSE,FALSE,N
-1012095,Natasha Pereira Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,2658.0,4509.0,3,2,FALSE,N,FALSE,FALSE,N
-1016185,The Habitat Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8981.0,4498.86,5,5,FALSE,N,FALSE,FALSE,N
-1020099,Lime and the Coconuts LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,4477.0,0,4,FALSE,N,FALSE,FALSE,N
-1025041,Romanza Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,17205.58,4441.0,5,3,FALSE,N,FALSE,FALSE,N
-1001101,Sunshine Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,6255.0,4425.0,4,5,FALSE,N,FALSE,FALSE,N
-1022317,"Design South of Ponte Vedra, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,9324.0,4405.0,5,3,FALSE,N,FALSE,FALSE,N
-1014543,"Marco Home, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,27547.2,4385.6,11,8,FALSE,N,FALSE,FALSE,N
-1011019,"Comodino, LLC dba 2id",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,14533.0,4314.1,7,4,FALSE,N,FALSE,FALSE,N
-1001838,Anastasia Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,1285.0,4280.0,3,4,FALSE,N,FALSE,FALSE,N
-1025148,Interiors by Casa Mia,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,5742.0,4243.0,4,2,FALSE,N,FALSE,FALSE,N
-1016710,NIkki K Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,11247.42,4242.5,5,2,FALSE,N,FALSE,FALSE,N
-1000764,"Castner And Castner, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,5550.0,4234.0,5,3,FALSE,N,FALSE,FALSE,N
-1017461,Jennifer Lynn Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,14163.0,4172.26,10,2,FALSE,N,FALSE,FALSE,N
-1011843,C Studio Interiors and Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,8240.41,4169.0,8,2,FALSE,N,FALSE,FALSE,N
-1014864,Lillian Fernandez Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,1561.0,4150.42,1,1,FALSE,N,FALSE,FALSE,N
-1009604,Being,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,0.0,4124.5,1,5,FALSE,N,FALSE,FALSE,N
-1002400,"Kmh Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,8876.0,4119.0,4,3,FALSE,N,FALSE,FALSE,N
-1013989,Byron Chandler Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,4956.5,4114.1,4,9,FALSE,N,FALSE,FALSE,N
-1027192,KH Interior Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,4096.0,0,2,FALSE,N,FALSE,FALSE,N
-1013796,Lundy Foxwood LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,8689.0,4079.0,6,3,FALSE,N,FALSE,FALSE,N
-1009819,"Ansana Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,12651.0,4016.1,5,3,FALSE,N,FALSE,FALSE,N
-1002234,"Rug Island, LLC",RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,1556.0,4013.93,5,2,FALSE,N,FALSE,FALSE,N
-1038175,Pamaro shop,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,David Glassman,David Glassman,0.0,3980.0,0,5,TRUE,N,FALSE,FALSE,N
-1014776,Donna Mancini Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,3931.5,3970.0,4,2,FALSE,N,FALSE,FALSE,N
-1017277,AV Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,15943.57,3920.0,6,2,FALSE,N,FALSE,FALSE,N
-1017176,KRM Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,579.0,3892.0,1,3,FALSE,N,FALSE,FALSE,N
-1006635,Cheryl Scurlock Design - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,11779.0,3878.68,7,6,FALSE,N,FALSE,FALSE,N
-1018525,Emily Moss Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,3785.0,3870.0,4,3,FALSE,N,FALSE,FALSE,N
-1026495,Madrigal Design Group LLC Decorating Den Inteirors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,3859.0,0,4,FALSE,N,FALSE,FALSE,N
-1014216,Lacy Phillips Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,390.0,3855.0,2,3,FALSE,N,FALSE,FALSE,N
-1016809,"Ganeaux Designs, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,3852.0,0,3,FALSE,N,FALSE,FALSE,N
-1015374,J Turner & Co.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,6764.0,3804.39,8,6,FALSE,N,FALSE,FALSE,N
-1004057,Libby Baker Speight,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,2086.0,3699.0,3,5,FALSE,N,FALSE,FALSE,N
-1013809,Plain and Fancy LLC - K Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,440.0,3671.89,1,6,FALSE,N,FALSE,FALSE,N
-1023428,Nest Interiors Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,27402.6,3638.38,8,4,FALSE,N,FALSE,FALSE,N
-1012625,Full Circle Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,518.0,3547.1,2,5,FALSE,N,FALSE,FALSE,N
-1008373,House of Hue LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,6524.0,3535.0,10,4,FALSE,N,FALSE,FALSE,N
-1015489,Galapo Group Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,-203.0,3531.0,4,3,FALSE,N,FALSE,FALSE,N
-1038080,The Table and Chair Shop DBA CASUAL LIVING PATIO,RETAIL,SINGLE_LOCATION,Group 2 High Potential,David Glassman,David Glassman,0.0,3525.0,0,2,TRUE,N,FALSE,FALSE,N
-1018704,Assure Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,10789.01,3504.0,11,2,FALSE,N,FALSE,FALSE,N
-1021084,DePonto Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,1628.0,3471.0,4,1,FALSE,N,FALSE,FALSE,N
-1020081,JW Staging and Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,100.0,3430.0,0,3,FALSE,N,FALSE,FALSE,N
-1011892,"SoBe Furniture, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,745.0,3395.0,3,6,FALSE,N,FALSE,FALSE,N
-1004740,"Workscapes, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,3068.0,3345.0,0,3,FALSE,N,FALSE,FALSE,N
-1011279,"DK Design and Consultants, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,7585.0,3334.0,3,2,FALSE,N,FALSE,FALSE,N
-1001115,Kirchner Design dba Villa Decor and Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,17142.0,3310.5,9,3,FALSE,N,FALSE,FALSE,N
-1024334,Interiors By Agostino's,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,11343.75,3308.0,6,4,FALSE,N,FALSE,FALSE,N
-1023844,GPL Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,10416.0,3283.0,7,6,FALSE,N,FALSE,FALSE,N
-1016728,Interiors by Design West,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,3281.0,0,1,TRUE,N,FALSE,FALSE,N
-1000824,"Creative Interior Design, Inc. (FL)",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,10150.56,3269.0,9,6,FALSE,N,FALSE,FALSE,N
-1001837,Carpet Boutique,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,7890.28,3251.6,5,2,FALSE,N,FALSE,FALSE,N
-1019600,Amy Fox Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,1100.0,3165.0,0,1,FALSE,N,FALSE,FALSE,N
-1016763,KJ Design Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,2266.0,3080.0,3,2,FALSE,N,FALSE,FALSE,N
-1000759,Smart Interiors Ii LLC,DESIGN,DESIGN_FIRM,Group 2 Low Potential,David Glassman,David Glassman,10127.0,3080.0,10,1,FALSE,N,FALSE,FALSE,N
-1021667,Fresh Eyes Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,12451.0,3056.0,3,5,FALSE,N,FALSE,FALSE,N
-1003284,Risa's Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,5741.0,3020.0,13,7,FALSE,N,FALSE,FALSE,N
-1015865,Smart Places and Creative Environments,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,401.0,2999.5,1,4,FALSE,N,FALSE,FALSE,N
-1024778,Teddy Devlin Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,725.0,2960.0,2,3,FALSE,N,FALSE,FALSE,N
-1025087,Irina Iseson Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,2950.0,0,4,TRUE,N,FALSE,FALSE,N
-1014969,"THE HOME PLACE I, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,66.6,2945.0,1,4,FALSE,N,FALSE,FALSE,N
-1010803,Distinctive Interiors (FL),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,5756.0,2943.7,7,13,FALSE,N,FALSE,FALSE,N
-1009895,NXG Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,4464.0,2943.0,2,3,FALSE,N,FALSE,FALSE,N
-1022155,Wesnic,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2930.6,0,1,FALSE,N,FALSE,FALSE,N
-1022979,"Defined Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,500.0,2925.0,1,1,FALSE,N,FALSE,FALSE,N
-1019639,"ZERO LATITUDE, INC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1322.5,2915.0,2,2,FALSE,N,FALSE,FALSE,N
-1013907,Hibiscus Home Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2909.0,0,4,FALSE,N,FALSE,FALSE,N
-1024876,Studio Nido,DESIGN,DESIGN_FIRM,Group 2 High Potential,David Glassman,David Glassman,0.0,2894.8,0,3,FALSE,N,FALSE,FALSE,N
-1022848,Cecelia Ford Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,860.0,2878.0,1,1,FALSE,N,FALSE,FALSE,N
-1001814,Drallop LLC DBA BuyAreaRugs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,5289.0,2871.67,20,12,FALSE,N,FALSE,FALSE,N
-1010764,"Studio M, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,1007.0,2798.0,0,3,FALSE,N,FALSE,FALSE,N
-1008004,"LDL Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,11560.0,2797.0,8,4,FALSE,N,FALSE,FALSE,N
-1019815,Botanica International Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2784.0,1,0,FALSE,N,FALSE,FALSE,N
-1020936,J. Kelly LLC DBA CarrierDesign Co.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,6531.0,2744.32,3,7,FALSE,N,FALSE,FALSE,N
-1015779,Coastal Home Staging and Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2705.0,0,2,FALSE,N,FALSE,FALSE,N
-1015995,Christina Lauren Designs Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2695.0,0,3,FALSE,N,FALSE,FALSE,N
-1001728,Constance Crosby Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,279.0,2675.0,1,2,FALSE,N,FALSE,FALSE,N
-1021068,Chelsea Lane and Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2651.0,0,2,FALSE,N,FALSE,FALSE,N
-1014910,Shannon Roth Collection,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,David Glassman,David Glassman,5445.0,2618.0,0,1,FALSE,N,FALSE,FALSE,N
-1025216,Window Expression,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,David Glassman,David Glassman,5220.0,2570.34,8,6,FALSE,N,FALSE,FALSE,N
-1023989,TyInteriors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,7808.0,2558.9,9,3,FALSE,N,FALSE,FALSE,N
-1010284,Suzanne Christie - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,0.0,2555.0,0,1,FALSE,N,FALSE,FALSE,N
-1010123,Jade N Timmerman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,2971.0,2531.0,3,2,FALSE,N,FALSE,FALSE,N
-1024430,Sally Barton Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,David Glassman,David Glassman,0.0,2530.0,0,2,TRUE,N,FALSE,FALSE,N
-1021274,white room design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,2710.0,2525.0,1,2,FALSE,N,FALSE,FALSE,N
-1003143,Ana Bru Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,David Glassman,David Glassman,6440.0,2520.0,6,3,FALSE,N,FALSE,FALSE,N
-1017481,K&A Coastal,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,David Glassman,David Glassman,7272.0,2514.0,12,3,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1006824,Retreats of Florida Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,16233.0,17734.0,18,23,FALSE,N,FALSE,FALSE,N
+1013314,"Trinity Design, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,2440.0,17610.55,2,6,FALSE,N,FALSE,FALSE,N
+1016353,Lexi Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,3846.5,17574.65,3,16,FALSE,N,FALSE,FALSE,N
+1004620,Kristen Biagini Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,26792.4,17222.76,24,15,FALSE,N,FALSE,FALSE,N
+1022735,J Holland Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,24637.9,17193.0,14,10,FALSE,N,FALSE,FALSE,N
+1000565,"Wilford and Lee, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11212.1,17173.1,9,16,FALSE,N,FALSE,FALSE,N
+1010317,Coin and Co Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,28245.0,16677.0,26,18,FALSE,N,FALSE,FALSE,N
+1000783,Smart Interiors Inc.,DESIGN,DESIGN_FIRM,Group 2 High Potential,2158.0,16663.0,2,14,FALSE,N,FALSE,FALSE,N
+1004922,Bella Beach,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,20415.44,16634.3,22,14,FALSE,N,FALSE,FALSE,N
+1025487,Ponton Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7352.0,16382.0,3,6,FALSE,N,FALSE,FALSE,N
+1027483,Annabelles Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,4910.0,16296.0,4,15,FALSE,N,FALSE,FALSE,N
+1036272,Furniture South,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,16291.0,0,10,TRUE,N,FALSE,FALSE,N
+1017114,DAN RAKDESIGN FLORIDA LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,15911.94,16195.0,24,8,FALSE,N,FALSE,FALSE,N
+1027807,Trade Mark Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,50.0,15959.07,0,11,FALSE,N,FALSE,FALSE,N
+1003313,Sarin Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1234.0,15941.71,1,6,FALSE,N,FALSE,FALSE,N
+1001645,Wirth Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,16293.6,15796.45,7,8,FALSE,N,FALSE,FALSE,N
+1014916,Artistic View,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2492.0,15775.0,4,3,FALSE,N,FALSE,FALSE,N
+1010671,Schiller Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,8241.5,15675.0,9,11,FALSE,N,FALSE,FALSE,N
+1019116,Adelyn Charles Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,42230.0,15300.0,15,8,FALSE,N,FALSE,FALSE,N
+1000933,Jerome H Davis Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,15237.0,0,2,FALSE,N,FALSE,FALSE,N
+1021392,McNally Construction Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,4400.0,14880.0,1,2,FALSE,N,FALSE,FALSE,N
+1005761,Indian River Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,20300.35,14592.4,52,36,FALSE,N,FALSE,FALSE,N
+1021979,Blue Daze Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,5209.5,14518.94,4,9,FALSE,N,FALSE,FALSE,N
+1024372,Terri Faye Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15345.5,14456.0,8,13,FALSE,N,FALSE,FALSE,N
+1006784,Rooms To Go,RETAIL,NATIONAL,Group 2 Medium Potential,3200.0,14255.0,5,9,FALSE,N,FALSE,FALSE,N
+1022555,Abide Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,8178.9,14073.9,10,12,FALSE,N,FALSE,FALSE,N
+1018520,"Eric Horner Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,3748.0,13897.73,4,11,FALSE,N,FALSE,FALSE,N
+1014668,Niemann Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12808.0,13785.18,5,8,FALSE,N,FALSE,FALSE,N
+1024431,Ale Cretul Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2710.0,13533.11,3,9,FALSE,N,FALSE,FALSE,N
+1027126,WYC Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5523.0,13408.09,5,1,FALSE,N,FALSE,FALSE,N
+1012766,Sarah Cain Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,13394.5,13061.6,5,4,FALSE,N,FALSE,FALSE,N
+1003173,Deanna McDavid Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,13490.4,12918.0,11,6,FALSE,N,FALSE,FALSE,N
+1017103,Laure Nell Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,24325.5,12230.84,13,9,FALSE,N,FALSE,FALSE,N
+1010259,Gouse's Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,24369.5,12061.0,34,21,FALSE,N,FALSE,FALSE,N
+1003548,"Lorrie Browne Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,12015.5,0,2,FALSE,N,FALSE,FALSE,N
+1000461,Brian Barnard's Flooring America,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,11795.56,1,3,FALSE,N,FALSE,FALSE,N
+1000663,"David Waller Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,4068.55,11756.29,12,10,FALSE,N,FALSE,FALSE,N
+1003628,"Family Furniture and Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,17965.2,11589.12,35,27,FALSE,N,FALSE,FALSE,N
+1025792,"DGL Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13107.0,11451.7,3,6,FALSE,N,FALSE,FALSE,N
+1005740,Nuvo Design Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,1115.0,10908.8,1,5,FALSE,N,FALSE,FALSE,N
+1021378,"French Gray Interiors, LLC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9424.0,10759.5,4,7,FALSE,N,FALSE,FALSE,N
+1014134,Robyn Branch Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,2146.0,10755.0,8,7,FALSE,N,FALSE,FALSE,N
+1021230,Thrifty Nikki's Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9726.0,10738.4,15,16,FALSE,N,FALSE,FALSE,N
+1037156,Emily Brady Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,10483.0,0,6,TRUE,N,FALSE,FALSE,N
+1036795,CAJE Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,10441.0,0,2,TRUE,N,FALSE,FALSE,N
+1019930,2 Chicks Design Co,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9481.8,10375.84,10,5,FALSE,N,FALSE,FALSE,N
+1016201,L Pumpa Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,10325.5,0,2,FALSE,N,FALSE,FALSE,N
+1024411,bartlett design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13991.0,10291.05,11,6,FALSE,N,FALSE,FALSE,N
+1002061,"Design With Merritt, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12764.3,10145.5,10,7,FALSE,N,FALSE,FALSE,N
+1016822,Lavino Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6217.0,10112.5,5,3,FALSE,N,FALSE,FALSE,N
+1001967,Charlene Neal Pure Style,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,16331.5,10086.6,22,11,FALSE,N,FALSE,FALSE,N
+1024489,Iannella Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12851.0,10078.8,9,7,FALSE,N,FALSE,FALSE,N
+1024673,Astral House LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,1912.0,10006.0,2,8,FALSE,N,FALSE,FALSE,N
+1012505,"Grey House Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3489.0,9991.0,2,1,FALSE,N,FALSE,FALSE,N
+1005373,Our Boat House,RETAIL,SINGLE_LOCATION,Group 2 High Potential,15093.5,9963.95,40,42,FALSE,N,FALSE,FALSE,N
+1024204,Design By Rania,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1470.0,9883.0,1,3,FALSE,N,FALSE,FALSE,N
+1023135,BA Design Group Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,175.0,9784.0,0,4,FALSE,N,FALSE,FALSE,N
+1026745,Sally M LaHood,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10989.6,9781.0,6,5,FALSE,N,FALSE,FALSE,N
+1003697,Masterpiece Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,4417.0,9765.9,8,11,FALSE,N,FALSE,FALSE,N
+1003389,Anne Rue Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4414.0,9691.0,4,2,FALSE,N,FALSE,FALSE,N
+1007910,"Designer's Mark, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,15658.0,9656.0,12,10,FALSE,N,FALSE,FALSE,N
+1005998,"Fine Furniture by Gordon's, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9877.0,9589.0,14,11,FALSE,N,FALSE,FALSE,N
+1000833,Pink Pineapple,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11516.7,9540.0,27,24,FALSE,N,FALSE,FALSE,N
+1020347,"Nested Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,626.0,9326.0,2,4,FALSE,N,FALSE,FALSE,N
+1024647,Cindy McCarley Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,9290.0,0,3,FALSE,N,FALSE,FALSE,N
+1022297,Summer House Lifestyle,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9577.0,9134.3,6,4,FALSE,N,FALSE,FALSE,N
+1015714,Harper Haus Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,59127.42,8790.6,26,9,FALSE,N,FALSE,FALSE,N
+1000946,Bronze Lady,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,674.0,8738.3,11,7,FALSE,N,FALSE,FALSE,N
+1020423,Inspired Home Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,1645.0,8587.01,2,9,FALSE,N,FALSE,FALSE,N
+1014775,Concept 2 Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2535.0,8497.8,1,4,FALSE,N,FALSE,FALSE,N
+1024383,Structure Interior Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14859.5,8483.5,10,2,FALSE,N,FALSE,FALSE,N
+1010564,LeSchander Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,17326.0,8276.0,7,3,FALSE,N,FALSE,FALSE,N
+1006574,"D DePerro Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1410.0,8250.0,2,5,FALSE,N,FALSE,FALSE,N
+1024419,Breakwater Home Fashions Inc,RETAIL,SINGLE_LOCATION,Group 2 High Potential,2247.0,8219.0,4,11,FALSE,N,FALSE,FALSE,N
+1001714,Wood N' Rugs,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1212.0,8207.99,6,6,FALSE,N,FALSE,FALSE,N
+1011221,"Bianca Boie Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,8080.0,0,2,FALSE,N,FALSE,FALSE,N
+1017960,L Hamilton & Company Dwell,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,10655.0,8047.5,11,6,FALSE,N,FALSE,FALSE,N
+1000741,Retro Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,25950.0,7879.5,25,12,FALSE,N,FALSE,FALSE,N
+1011430,McKinlay Rose Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,6137.0,7850.0,5,6,FALSE,N,FALSE,FALSE,N
+1007244,Browns Interior Design Showroom,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,25803.32,7833.8,26,7,FALSE,N,FALSE,FALSE,N
+1014211,"Allyson Runnels Interiors, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,20353.55,7795.0,10,5,FALSE,N,FALSE,FALSE,N
+1025415,Dune Amelia LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1146.0,7758.0,1,1,FALSE,N,FALSE,FALSE,N
+1027784,International Design Source,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,1405.0,7633.0,2,9,FALSE,N,FALSE,FALSE,N
+1010410,"Noland Lowell Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2866.1,7566.85,6,2,FALSE,N,FALSE,FALSE,N
+1020538,"Re+Forma Architecture, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,7566.37,0,7,FALSE,N,FALSE,FALSE,N
+1017386,Dwayne Bergmann LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6082.14,7546.32,16,1,FALSE,N,FALSE,FALSE,N
+1022091,Imiak Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,7545.0,0,4,FALSE,N,FALSE,FALSE,N
+1011410,Angela Fine Furnishings,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,22888.0,7472.0,11,6,FALSE,N,FALSE,FALSE,N
+1002603,"Newell Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11285.14,7466.3,5,6,FALSE,N,FALSE,FALSE,N
+1017154,Eralyn Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4631.24,7416.2,5,4,FALSE,N,FALSE,FALSE,N
+1014153,Everything Cool LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,5096.0,7368.7,12,14,FALSE,N,FALSE,FALSE,N
+1014884,"Andrea Noel Designs, LLC dba Motivo Home",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7515.0,7325.0,1,3,FALSE,N,FALSE,FALSE,N
+1011409,Coastal Furniture and Accessories,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9250.5,7320.15,24,18,FALSE,N,FALSE,FALSE,N
+1010255,Albany Associates,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,7307.2,0,8,FALSE,N,FALSE,FALSE,N
+1000827,"Foxy Rug Galleria, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,7296.04,0,12,FALSE,N,FALSE,FALSE,N
+1023740,SKÃ–N Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6936.0,7237.0,3,1,FALSE,N,FALSE,FALSE,N
+1014283,Mead Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4623.0,7190.0,5,4,FALSE,N,FALSE,FALSE,N
+1010511,Ashley Gaughan Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,607.5,7111.8,1,2,FALSE,N,FALSE,FALSE,N
+1016670,Cottage and Loft Interior Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8035.0,7042.0,9,2,FALSE,N,FALSE,FALSE,N
+1017584,Jennifer Ribek Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1566.0,6932.1,2,2,FALSE,N,FALSE,FALSE,N
+1004130,Nest Interior Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,6857.0,6836.8,9,6,FALSE,N,FALSE,FALSE,N
+1011750,"Dezinertonie,LLC - Decorating Den",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4613.0,6701.0,3,3,FALSE,N,FALSE,FALSE,N
+1020074,Brooke Williams Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,3768.5,6694.0,8,7,FALSE,N,FALSE,FALSE,N
+1023890,"1205 Design Studio, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,581.0,6622.75,1,2,FALSE,N,FALSE,FALSE,N
+1023396,Vesta Home / Showroom Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1031.2,6615.0,2,3,FALSE,N,FALSE,FALSE,N
+1015745,Leigh Wright Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6575.0,0,2,FALSE,N,FALSE,FALSE,N
+1022747,Becca Reynolds interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3571.0,6551.64,4,1,FALSE,N,FALSE,FALSE,N
+1002358,Kelly Collective Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11726.8,6478.0,15,3,FALSE,N,FALSE,FALSE,N
+1006432,Sally A Trout ASID,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1003.44,6206.7,2,1,FALSE,N,FALSE,FALSE,N
+1006646,West Home Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,887.0,6108.0,1,4,FALSE,N,FALSE,FALSE,N
+1021369,HONORS INTERIORS LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3940.0,6068.4,5,4,FALSE,N,FALSE,FALSE,N
+1017148,Pecky,DESIGN,DESIGN_FIRM,Group 2 High Potential,15076.0,6053.0,5,5,FALSE,N,FALSE,FALSE,N
+1020487,Crespo Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8904.9,6020.14,3,5,FALSE,N,FALSE,FALSE,N
+1015096,LaVerne Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1262.0,6001.27,1,6,FALSE,N,FALSE,FALSE,N
+1018139,ASD PROCUREMENT LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,5932.0,0,10,FALSE,N,FALSE,FALSE,N
+1018805,"LjA Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2882.5,5912.0,4,2,FALSE,N,FALSE,FALSE,N
+1001439,Gallery South,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,5875.5,0,3,FALSE,N,FALSE,FALSE,N
+1007505,Simplicity Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,4093.0,5787.7,2,5,FALSE,N,FALSE,FALSE,N
+1022806,Edge Cabinetry & Interiors LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2982.0,5766.0,1,5,FALSE,N,FALSE,FALSE,N
+1024011,Sundial Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1052.63,5681.25,2,1,FALSE,N,FALSE,FALSE,N
+1001153,Sarasota Chic,DESIGN,DESIGN_FIRM,Group 2 Low Potential,12330.0,5680.0,17,10,FALSE,N,FALSE,FALSE,N
+1023915,Hajarie Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5567.0,0,1,TRUE,N,FALSE,FALSE,N
+1005722,Inspirations Furniture and Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,1370.0,5446.0,3,9,FALSE,N,FALSE,FALSE,N
+1006500,"Cabana 15 Furniture, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5557.0,5419.6,7,4,FALSE,N,FALSE,FALSE,N
+1023119,Connelly & Co. Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,5385.0,0,1,FALSE,N,FALSE,FALSE,N
+1021936,Lorivettodesign,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15123.0,5376.5,7,3,FALSE,N,FALSE,FALSE,N
+1036928,"Builderiors, Inc.",DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,5301.0,0,5,TRUE,N,FALSE,FALSE,N
+1001549,Rhett Alexander,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3073.0,5210.0,4,10,FALSE,N,FALSE,FALSE,N
+1021869,Crystal Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,17.5,5170.0,0,3,FALSE,N,FALSE,FALSE,N
+1017263,Oak & Linen Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7379.0,5153.0,4,2,FALSE,N,FALSE,FALSE,N
+1006297,The Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5185.0,5109.0,3,5,FALSE,N,FALSE,FALSE,N
+1025081,Elegant Outdoor Living,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,6166.0,5098.88,10,6,FALSE,N,FALSE,FALSE,N
+1016333,Maritza Capiro Designs Corp,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,5096.0,0,3,FALSE,N,FALSE,FALSE,N
+1014117,Venice Lighting Company,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,4031.0,5083.0,6,10,FALSE,N,FALSE,FALSE,N
+1001079,Linen Coast Home and Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,1080.0,5039.72,1,4,FALSE,N,FALSE,FALSE,N
+1023974,Kane Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11793.05,5036.4,12,8,FALSE,N,FALSE,FALSE,N
+1024174,Lotus and Lagoon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4155.0,4982.32,6,6,FALSE,N,FALSE,FALSE,N
+1009527,Terri's Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8936.0,4979.5,8,5,FALSE,N,FALSE,FALSE,N
+1018252,ENVIRONMENTAL INTERIORS DESIGN STUDIO LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,4859.0,0,1,FALSE,N,FALSE,FALSE,N
+1025033,Kaelyn Schmidt Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,20424.6,4844.0,8,4,FALSE,N,FALSE,FALSE,N
+1027877,Starr Sanford Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,870.0,4798.6,1,6,FALSE,N,FALSE,FALSE,N
+1011246,Mercedes Lavalla - Decorating Den,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,4795.0,0,3,FALSE,N,FALSE,FALSE,N
+1021380,Architecture Joyce Owens,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,14156.5,4786.0,4,4,FALSE,N,FALSE,FALSE,N
+1012624,Blu Home and Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8275.0,4605.0,6,3,FALSE,N,FALSE,FALSE,N
+1018604,Exclusive Flooring Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,1170.0,4550.0,1,1,FALSE,N,FALSE,FALSE,N
+1024306,Brooke Dailey Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4105.0,4522.12,7,4,FALSE,N,FALSE,FALSE,N
+1012095,Natasha Pereira Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2658.0,4509.0,3,2,FALSE,N,FALSE,FALSE,N
+1016185,The Habitat Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8981.0,4498.86,5,5,FALSE,N,FALSE,FALSE,N
+1020099,Lime and the Coconuts LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,4477.0,0,4,FALSE,N,FALSE,FALSE,N
+1025041,Romanza Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,17205.58,4441.0,5,3,FALSE,N,FALSE,FALSE,N
+1001101,Sunshine Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6255.0,4425.0,4,5,FALSE,N,FALSE,FALSE,N
+1022317,"Design South of Ponte Vedra, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9324.0,4405.0,5,3,FALSE,N,FALSE,FALSE,N
+1014543,"Marco Home, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,27547.2,4385.6,11,8,FALSE,N,FALSE,FALSE,N
+1011019,"Comodino, LLC dba 2id",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14533.0,4314.1,7,4,FALSE,N,FALSE,FALSE,N
+1001838,Anastasia Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,1285.0,4280.0,3,4,FALSE,N,FALSE,FALSE,N
+1025148,Interiors by Casa Mia,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5742.0,4243.0,4,2,FALSE,N,FALSE,FALSE,N
+1016710,NIkki K Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11247.42,4242.5,5,2,FALSE,N,FALSE,FALSE,N
+1000764,"Castner And Castner, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5550.0,4234.0,5,3,FALSE,N,FALSE,FALSE,N
+1017461,Jennifer Lynn Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14163.0,4172.26,10,2,FALSE,N,FALSE,FALSE,N
+1011843,C Studio Interiors and Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,8240.41,4169.0,8,2,FALSE,N,FALSE,FALSE,N
+1014864,Lillian Fernandez Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1561.0,4150.42,1,1,FALSE,N,FALSE,FALSE,N
+1009604,Being,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,4124.5,1,5,FALSE,N,FALSE,FALSE,N
+1002400,"Kmh Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8876.0,4119.0,4,3,FALSE,N,FALSE,FALSE,N
+1013989,Byron Chandler Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4956.5,4114.1,4,9,FALSE,N,FALSE,FALSE,N
+1027192,KH Interior Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,4096.0,0,2,FALSE,N,FALSE,FALSE,N
+1013796,Lundy Foxwood LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,8689.0,4079.0,6,3,FALSE,N,FALSE,FALSE,N
+1009819,"Ansana Interior Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12651.0,4016.1,5,3,FALSE,N,FALSE,FALSE,N
+1002234,"Rug Island, LLC",RETAIL,SINGLE_LOCATION,Group 2 High Potential,1556.0,4013.93,5,2,FALSE,N,FALSE,FALSE,N
+1038175,Pamaro shop,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,0.0,3980.0,0,5,TRUE,N,FALSE,FALSE,N
+1014776,Donna Mancini Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3931.5,3970.0,4,2,FALSE,N,FALSE,FALSE,N
+1017277,AV Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15943.57,3920.0,6,2,FALSE,N,FALSE,FALSE,N
+1017176,KRM Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,579.0,3892.0,1,3,FALSE,N,FALSE,FALSE,N
+1006635,Cheryl Scurlock Design - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11779.0,3878.68,7,6,FALSE,N,FALSE,FALSE,N
+1018525,Emily Moss Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3785.0,3870.0,4,3,FALSE,N,FALSE,FALSE,N
+1026495,Madrigal Design Group LLC Decorating Den Inteirors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3859.0,0,4,FALSE,N,FALSE,FALSE,N
+1014216,Lacy Phillips Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,390.0,3855.0,2,3,FALSE,N,FALSE,FALSE,N
+1016809,"Ganeaux Designs, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3852.0,0,3,FALSE,N,FALSE,FALSE,N
+1015374,J Turner & Co.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6764.0,3804.39,8,6,FALSE,N,FALSE,FALSE,N
+1004057,Libby Baker Speight,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2086.0,3699.0,3,5,FALSE,N,FALSE,FALSE,N
+1013809,Plain and Fancy LLC - K Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,440.0,3671.89,1,6,FALSE,N,FALSE,FALSE,N
+1023428,Nest Interiors Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,27402.6,3638.38,8,4,FALSE,N,FALSE,FALSE,N
+1012625,Full Circle Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,518.0,3547.1,2,5,FALSE,N,FALSE,FALSE,N
+1008373,House of Hue LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6524.0,3535.0,10,4,FALSE,N,FALSE,FALSE,N
+1015489,Galapo Group Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,-203.0,3531.0,4,3,FALSE,N,FALSE,FALSE,N
+1038080,The Table and Chair Shop DBA CASUAL LIVING PATIO,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,3525.0,0,2,TRUE,N,FALSE,FALSE,N
+1018704,Assure Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,10789.01,3504.0,11,2,FALSE,N,FALSE,FALSE,N
+1021084,DePonto Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1628.0,3471.0,4,1,FALSE,N,FALSE,FALSE,N
+1020081,JW Staging and Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,100.0,3430.0,0,3,FALSE,N,FALSE,FALSE,N
+1011892,"SoBe Furniture, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,745.0,3395.0,3,6,FALSE,N,FALSE,FALSE,N
+1004740,"Workscapes, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3068.0,3345.0,0,3,FALSE,N,FALSE,FALSE,N
+1011279,"DK Design and Consultants, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7585.0,3334.0,3,2,FALSE,N,FALSE,FALSE,N
+1001115,Kirchner Design dba Villa Decor and Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,17142.0,3310.5,9,3,FALSE,N,FALSE,FALSE,N
+1024334,Interiors By Agostino's,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11343.75,3308.0,6,4,FALSE,N,FALSE,FALSE,N
+1023844,GPL Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,10416.0,3283.0,7,6,FALSE,N,FALSE,FALSE,N
+1016728,Interiors by Design West,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3281.0,0,1,TRUE,N,FALSE,FALSE,N
+1000824,"Creative Interior Design, Inc. (FL)",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,10150.56,3269.0,9,6,FALSE,N,FALSE,FALSE,N
+1001837,Carpet Boutique,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7890.28,3251.6,5,2,FALSE,N,FALSE,FALSE,N
+1019600,Amy Fox Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1100.0,3165.0,0,1,FALSE,N,FALSE,FALSE,N
+1016763,KJ Design Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2266.0,3080.0,3,2,FALSE,N,FALSE,FALSE,N
+1000759,Smart Interiors Ii LLC,DESIGN,DESIGN_FIRM,Group 2 Low Potential,10127.0,3080.0,10,1,FALSE,N,FALSE,FALSE,N
+1021667,Fresh Eyes Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12451.0,3056.0,3,5,FALSE,N,FALSE,FALSE,N
+1003284,Risa's Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5741.0,3020.0,13,7,FALSE,N,FALSE,FALSE,N
+1015865,Smart Places and Creative Environments,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,401.0,2999.5,1,4,FALSE,N,FALSE,FALSE,N
+1024778,Teddy Devlin Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,725.0,2960.0,2,3,FALSE,N,FALSE,FALSE,N
+1025087,Irina Iseson Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2950.0,0,4,TRUE,N,FALSE,FALSE,N
+1014969,"THE HOME PLACE I, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,66.6,2945.0,1,4,FALSE,N,FALSE,FALSE,N
+1010803,Distinctive Interiors (FL),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5756.0,2943.7,7,13,FALSE,N,FALSE,FALSE,N
+1009895,NXG Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4464.0,2943.0,2,3,FALSE,N,FALSE,FALSE,N
+1022155,Wesnic,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,0.0,2930.6,0,1,FALSE,N,FALSE,FALSE,N
+1022979,"Defined Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,500.0,2925.0,1,1,FALSE,N,FALSE,FALSE,N
+1019639,"ZERO LATITUDE, INC.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1322.5,2915.0,2,2,FALSE,N,FALSE,FALSE,N
+1013907,Hibiscus Home Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2909.0,0,4,FALSE,N,FALSE,FALSE,N
+1024876,Studio Nido,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2894.8,0,3,FALSE,N,FALSE,FALSE,N
+1022848,Cecelia Ford Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,860.0,2878.0,1,1,FALSE,N,FALSE,FALSE,N
+1001814,Drallop LLC DBA BuyAreaRugs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5289.0,2871.67,20,12,FALSE,N,FALSE,FALSE,N
+1010764,"Studio M, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1007.0,2798.0,0,3,FALSE,N,FALSE,FALSE,N
+1008004,"LDL Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11560.0,2797.0,8,4,FALSE,N,FALSE,FALSE,N
+1019815,Botanica International Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2784.0,1,0,FALSE,N,FALSE,FALSE,N
+1020936,J. Kelly LLC DBA CarrierDesign Co.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6531.0,2744.32,3,7,FALSE,N,FALSE,FALSE,N
+1015779,Coastal Home Staging and Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2705.0,0,2,FALSE,N,FALSE,FALSE,N
+1015995,Christina Lauren Designs Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2695.0,0,3,FALSE,N,FALSE,FALSE,N
+1001728,Constance Crosby Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,279.0,2675.0,1,2,FALSE,N,FALSE,FALSE,N
+1021068,Chelsea Lane and Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2651.0,0,2,FALSE,N,FALSE,FALSE,N
+1014910,Shannon Roth Collection,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,5445.0,2618.0,0,1,FALSE,N,FALSE,FALSE,N
+1025216,Window Expression,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5220.0,2570.34,8,6,FALSE,N,FALSE,FALSE,N
+1023989,TyInteriors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7808.0,2558.9,9,3,FALSE,N,FALSE,FALSE,N
+1010284,Suzanne Christie - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2555.0,0,1,FALSE,N,FALSE,FALSE,N
+1010123,Jade N Timmerman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2971.0,2531.0,3,2,FALSE,N,FALSE,FALSE,N
+1024430,Sally Barton Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,2530.0,0,2,TRUE,N,FALSE,FALSE,N
+1021274,white room design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2710.0,2525.0,1,2,FALSE,N,FALSE,FALSE,N
+1003143,Ana Bru Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6440.0,2520.0,6,3,FALSE,N,FALSE,FALSE,N
+1017481,K&A Coastal,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7272.0,2514.0,12,3,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 117 accounts | $59477.59 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1019735,"Fun Express Village, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,2487.0,0,2,FALSE,N,FALSE,FALSE,N
-1001761,Right @ Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1160.0,2439.5,3,2,FALSE,N,FALSE,FALSE,N
-1024908,Decor Uptown,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,2841.0,2425.0,4,3,FALSE,N,FALSE,FALSE,N
-1026562,The Floor Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1184.0,2389.0,2,1,FALSE,N,FALSE,FALSE,N
-1027548,Bungalow Palm Beach,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,David Glassman,David Glassman,0.0,2332.0,0,2,TRUE,N,FALSE,FALSE,N
-1013212,Venice Living Furniture Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1675.0,2250.0,2,2,FALSE,N,FALSE,FALSE,N
-1012528,Creative Designs in Carpet,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,2237.64,1,2,FALSE,N,FALSE,FALSE,N
-1000633,Rigsbee and Co. Inc. Dba Duh,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,18011.0,2090.0,15,1,FALSE,N,FALSE,FALSE,N
-1037005,Free Reign Home LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,1998.0,0,2,TRUE,N,FALSE,FALSE,N
-1020499,Mantra Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,1935.0,0,1,FALSE,N,FALSE,FALSE,N
-1027139,AUTHENTICITY HOME LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,1858.5,0,1,TRUE,N,FALSE,FALSE,N
-1036875,Errez Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,1831.4,0,2,TRUE,N,FALSE,FALSE,N
-1034762,Alva House Of Style,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,1761.0,0,2,TRUE,N,FALSE,FALSE,N
-1017304,Lalaâ€™s,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,895.0,1628.0,1,2,FALSE,N,FALSE,FALSE,N
-1001398,White Orchid Interiors LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,4282.0,1570.0,4,1,FALSE,N,FALSE,FALSE,N
-1026624,Meryam Design llc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,2705.0,1490.0,2,1,FALSE,N,FALSE,FALSE,N
-1036939,Taliaferro Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,1405.0,0,1,TRUE,N,FALSE,FALSE,N
-1024543,Denise LaVey Interior Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,1390.0,0,1,TRUE,N,FALSE,FALSE,N
-1027959,Tassels Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1350.0,1286.1,1,3,FALSE,N,FALSE,FALSE,N
-1023790,BROTHERS LIGHTING FAN GALLERY,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1290.0,1280.0,3,1,FALSE,N,FALSE,FALSE,N
-1016868,Row House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,1240.0,0,1,FALSE,N,FALSE,FALSE,N
-1001041,Jacksonville Furniture Mart,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,3787.0,1195.0,6,3,FALSE,N,FALSE,FALSE,N
-1036834,Maurices Furnishings,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,1186.0,0,3,TRUE,N,FALSE,FALSE,N
-1001199,Shannon Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,1160.0,0,1,FALSE,N,FALSE,FALSE,N
-1008421,Heart & Soul Market dba Luxe Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,5396.5,1130.0,8,3,FALSE,N,FALSE,FALSE,N
-1025908,Curations Home Staging and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,2839.5,1036.8,3,2,FALSE,N,FALSE,FALSE,N
-1035797,Moderna Industries LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,999.0,0,4,TRUE,N,FALSE,FALSE,N
-1021321,"Decor Accents Vero, LLC dba Decor Accents",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1635.0,930.0,1,1,FALSE,N,FALSE,FALSE,N
-1021830,Theory Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,1165.0,906.0,1,3,FALSE,N,FALSE,FALSE,N
-1013334,"VMR Designs, Inc",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,865.0,0,1,FALSE,N,FALSE,FALSE,N
-1002685,Marjorie's Rugs,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,295.0,835.0,1,3,FALSE,N,FALSE,FALSE,N
-1019890,Teak Plus (FL),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,819.0,0,6,FALSE,N,FALSE,FALSE,N
-1002332,Sandy's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,805.0,1,1,FALSE,N,FALSE,FALSE,N
-1036247,"interior design concepts, inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,765.0,0,1,TRUE,N,FALSE,FALSE,N
-1024780,Coastal Cottage of Amelia,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,4045.5,755.0,8,1,FALSE,N,FALSE,FALSE,N
-1023621,Designs by Gabriela Allen,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,David Glassman,David Glassman,0.0,696.0,0,1,TRUE,N,FALSE,FALSE,N
-1000645,"Expressions In Design, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1830.0,675.0,3,1,FALSE,N,FALSE,FALSE,N
-1035713,Mopa Design Studio,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,David Glassman,David Glassman,0.0,655.0,0,1,TRUE,N,FALSE,FALSE,N
-1035276,In Detail Design Collective,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,0.0,640.0,0,1,FALSE,N,FALSE,FALSE,N
-1036181,Paloma Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,600.0,0,1,TRUE,N,FALSE,FALSE,N
-1000589,"Beau Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,12451.64,575.0,17,1,FALSE,N,FALSE,FALSE,N
-1000638,"Limited Edition Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,5550.88,525.0,3,1,FALSE,N,FALSE,FALSE,N
-1015137,Lighting Etc.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,415.8,493.5,1,1,FALSE,N,FALSE,FALSE,N
-1027753,Gage Martin of Tampa Bay,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,402.0,0,2,TRUE,N,FALSE,FALSE,N
-1037002,Wright Interior Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,401.0,0,1,TRUE,N,FALSE,FALSE,N
-1036413,Kitchen Envy Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,345.0,0,1,TRUE,N,FALSE,FALSE,N
-1019987,Blu Ink Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,651.0,265.0,1,2,FALSE,N,FALSE,FALSE,N
-1036198,"Beach Chic Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,150.0,0,1,TRUE,N,FALSE,FALSE,N
-1014200,Outpost 30A LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,2715.94,102.15,8,2,FALSE,N,FALSE,FALSE,N
-1023755,Koi Design Group,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,98.0,0,1,TRUE,N,FALSE,FALSE,N
-1037085,Design at Work LLc. dba Designer Rug Studio,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,95.0,0,1,TRUE,N,FALSE,FALSE,N
-1002684,Painted View,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,David Glassman,David Glassman,856.0,50.0,1,0,FALSE,N,FALSE,FALSE,N
-1000619,C. Harbs Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017709,Corio Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017663,Almost Perfect Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017193,Studiokaza Mobili,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017151,"Elegant Strand, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015688,Furniture Ideas LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016348,Aqualuxe Outfitting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012692,Home Resource,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014323,Orange Park Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1062.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1012786,Paynes Furniture Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1013254,Bamboo Bungalow,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008761,DI Coffee Bar,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008218,"Collage Home - Gribble Interior Grp, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1765.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009097,"Trovati Studio, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,95.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009208,"Home and Details, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009847,Savvy Sofa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,470.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1012231,KB Patio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004789,Gil Walsh Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004768,Michael Thomas Muller,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,437.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1007400,"West to East, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006813,"GWG Outlet, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004319,Medina Rugs and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004254,"Carrie's Design Studio, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007492,Miller's Dutch Haus Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007595,Weezie's Cottage and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001331,Hudson Sq Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000720,Rugs Of The World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000747,Haynes Bros Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002328,Jaffe Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,772.1,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002239,Collier's Furniture Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003560,"Wades Carpets and Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,680.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003845,SS David Glassman,INTERNAL,SALES_REP,Group 3 Low Potential,David Glassman,David Glassman,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004103,Grove Gallery and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,5515.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1000814,"White Egret, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024720,Surroundings (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024337,Pratt Guys,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,435.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024570,Cocos Perfection,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1024902,"R&A Flooring Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022864,"Paradise of Sarasota Interior Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021807,The Couture Table LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023476,"Cozy Coastal Consignment, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,4602.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
-1023403,MDH INTERIORS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,870.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1018903,Zaja International,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020282,Republic of Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020146,Remarkable Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020799,Blue Door Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021328,Calimia home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021345,Casual 2 Coastal Decor by Joan Marie Vanover LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021614,Melissa Terese Upholstery & Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018425,Bennett Interiors LLC/Home Philosophie DBA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019281,Blockers Furniture & Carpets Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,175.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1019136,Primis Consulting DBA Amanda Willingham S & I,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019932,Tampa Bay Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024097,Wolfe Rizor Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1025862,RareHues,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,7009.3,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1025086,iKitchen,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026680,Classic Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1005.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1036074,Mine Hill Trading Co.,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1025258,The Showroom at Lancaster Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,9932.0,0.0,6,1,FALSE,N,FALSE,FALSE,N
-1036659,Taylormade Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037267,MINT HOME DECOR LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037355,Copenhagen Imports,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038083,Orangerie Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038474,Flow Carpets,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038629,Bacon's Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1019735,"Fun Express Village, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,2487.0,0,2,FALSE,N,FALSE,FALSE,N
+1001761,Right @ Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1160.0,2439.5,3,2,FALSE,N,FALSE,FALSE,N
+1024908,Decor Uptown,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2841.0,2425.0,4,3,FALSE,N,FALSE,FALSE,N
+1026562,The Floor Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1184.0,2389.0,2,1,FALSE,N,FALSE,FALSE,N
+1027548,Bungalow Palm Beach,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,2332.0,0,2,TRUE,N,FALSE,FALSE,N
+1013212,Venice Living Furniture Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1675.0,2250.0,2,2,FALSE,N,FALSE,FALSE,N
+1012528,Creative Designs in Carpet,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,2237.64,1,2,FALSE,N,FALSE,FALSE,N
+1000633,Rigsbee and Co. Inc. Dba Duh,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,18011.0,2090.0,15,1,FALSE,N,FALSE,FALSE,N
+1037005,Free Reign Home LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1998.0,0,2,TRUE,N,FALSE,FALSE,N
+1020499,Mantra Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1935.0,0,1,FALSE,N,FALSE,FALSE,N
+1027139,AUTHENTICITY HOME LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1858.5,0,1,TRUE,N,FALSE,FALSE,N
+1036875,Errez Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1831.4,0,2,TRUE,N,FALSE,FALSE,N
+1034762,Alva House Of Style,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1761.0,0,2,TRUE,N,FALSE,FALSE,N
+1017304,Lalaâ€™s,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,895.0,1628.0,1,2,FALSE,N,FALSE,FALSE,N
+1001398,White Orchid Interiors LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4282.0,1570.0,4,1,FALSE,N,FALSE,FALSE,N
+1026624,Meryam Design llc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2705.0,1490.0,2,1,FALSE,N,FALSE,FALSE,N
+1036939,Taliaferro Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1405.0,0,1,TRUE,N,FALSE,FALSE,N
+1024543,Denise LaVey Interior Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1390.0,0,1,TRUE,N,FALSE,FALSE,N
+1027959,Tassels Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1350.0,1286.1,1,3,FALSE,N,FALSE,FALSE,N
+1023790,BROTHERS LIGHTING FAN GALLERY,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1290.0,1280.0,3,1,FALSE,N,FALSE,FALSE,N
+1016868,Row House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1240.0,0,1,FALSE,N,FALSE,FALSE,N
+1001041,Jacksonville Furniture Mart,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,3787.0,1195.0,6,3,FALSE,N,FALSE,FALSE,N
+1036834,Maurices Furnishings,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1186.0,0,3,TRUE,N,FALSE,FALSE,N
+1001199,Shannon Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1160.0,0,1,FALSE,N,FALSE,FALSE,N
+1008421,Heart & Soul Market dba Luxe Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5396.5,1130.0,8,3,FALSE,N,FALSE,FALSE,N
+1025908,Curations Home Staging and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2839.5,1036.8,3,2,FALSE,N,FALSE,FALSE,N
+1035797,Moderna Industries LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,999.0,0,4,TRUE,N,FALSE,FALSE,N
+1021321,"Decor Accents Vero, LLC dba Decor Accents",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1635.0,930.0,1,1,FALSE,N,FALSE,FALSE,N
+1021830,Theory Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1165.0,906.0,1,3,FALSE,N,FALSE,FALSE,N
+1013334,"VMR Designs, Inc",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,865.0,0,1,FALSE,N,FALSE,FALSE,N
+1002685,Marjorie's Rugs,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,295.0,835.0,1,3,FALSE,N,FALSE,FALSE,N
+1019890,Teak Plus (FL),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,819.0,0,6,FALSE,N,FALSE,FALSE,N
+1002332,Sandy's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,805.0,1,1,FALSE,N,FALSE,FALSE,N
+1036247,"interior design concepts, inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,765.0,0,1,TRUE,N,FALSE,FALSE,N
+1024780,Coastal Cottage of Amelia,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,4045.5,755.0,8,1,FALSE,N,FALSE,FALSE,N
+1023621,Designs by Gabriela Allen,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,696.0,0,1,TRUE,N,FALSE,FALSE,N
+1000645,"Expressions In Design, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1830.0,675.0,3,1,FALSE,N,FALSE,FALSE,N
+1035713,Mopa Design Studio,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,655.0,0,1,TRUE,N,FALSE,FALSE,N
+1035276,In Detail Design Collective,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,640.0,0,1,FALSE,N,FALSE,FALSE,N
+1036181,Paloma Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,600.0,0,1,TRUE,N,FALSE,FALSE,N
+1000589,"Beau Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,12451.64,575.0,17,1,FALSE,N,FALSE,FALSE,N
+1000638,"Limited Edition Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5550.88,525.0,3,1,FALSE,N,FALSE,FALSE,N
+1015137,Lighting Etc.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,415.8,493.5,1,1,FALSE,N,FALSE,FALSE,N
+1027753,Gage Martin of Tampa Bay,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,402.0,0,2,TRUE,N,FALSE,FALSE,N
+1037002,Wright Interior Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,401.0,0,1,TRUE,N,FALSE,FALSE,N
+1036413,Kitchen Envy Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,345.0,0,1,TRUE,N,FALSE,FALSE,N
+1019987,Blu Ink Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,651.0,265.0,1,2,FALSE,N,FALSE,FALSE,N
+1036198,"Beach Chic Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,150.0,0,1,TRUE,N,FALSE,FALSE,N
+1014200,Outpost 30A LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2715.94,102.15,8,2,FALSE,N,FALSE,FALSE,N
+1023755,Koi Design Group,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,98.0,0,1,TRUE,N,FALSE,FALSE,N
+1037085,Design at Work LLc. dba Designer Rug Studio,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,95.0,0,1,TRUE,N,FALSE,FALSE,N
+1002684,Painted View,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,856.0,50.0,1,0,FALSE,N,FALSE,FALSE,N
+1000619,C. Harbs Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017709,Corio Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017663,Almost Perfect Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017193,Studiokaza Mobili,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017151,"Elegant Strand, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015688,Furniture Ideas LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016348,Aqualuxe Outfitting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012692,Home Resource,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014323,Orange Park Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1062.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1012786,Paynes Furniture Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1013254,Bamboo Bungalow,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008761,DI Coffee Bar,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008218,"Collage Home - Gribble Interior Grp, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1765.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009097,"Trovati Studio, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,95.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009208,"Home and Details, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009847,Savvy Sofa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,470.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012231,KB Patio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004789,Gil Walsh Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004768,Michael Thomas Muller,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,437.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007400,"West to East, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006813,"GWG Outlet, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004319,Medina Rugs and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004254,"Carrie's Design Studio, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007492,Miller's Dutch Haus Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007595,Weezie's Cottage and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001331,Hudson Sq Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000720,Rugs Of The World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000747,Haynes Bros Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002328,Jaffe Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,772.1,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002239,Collier's Furniture Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003560,"Wades Carpets and Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,680.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003845,SS David Glassman,INTERNAL,SALES_REP,Group 3 Low Potential,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004103,Grove Gallery and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5515.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1000814,"White Egret, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024720,Surroundings (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024337,Pratt Guys,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,435.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024570,Cocos Perfection,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024902,"R&A Flooring Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022864,"Paradise of Sarasota Interior Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021807,The Couture Table LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023476,"Cozy Coastal Consignment, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4602.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1023403,MDH INTERIORS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,870.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1018903,Zaja International,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020282,Republic of Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020146,Remarkable Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020799,Blue Door Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021328,Calimia home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021345,Casual 2 Coastal Decor by Joan Marie Vanover LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021614,Melissa Terese Upholstery & Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018425,Bennett Interiors LLC/Home Philosophie DBA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019281,Blockers Furniture & Carpets Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,175.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1019136,Primis Consulting DBA Amanda Willingham S & I,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019932,Tampa Bay Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024097,Wolfe Rizor Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025862,RareHues,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,7009.3,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1025086,iKitchen,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026680,Classic Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1005.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1036074,Mine Hill Trading Co.,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025258,The Showroom at Lancaster Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9932.0,0.0,6,1,FALSE,N,FALSE,FALSE,N
+1036659,Taylormade Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037267,MINT HOME DECOR LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037355,Copenhagen Imports,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038083,Orangerie Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038474,Flow Carpets,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038629,Bacon's Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 6 accounts | $7675.01 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024070,Parapet Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,David Glassman,David Glassman,18980.92,2305.0,7,4,FALSE,Y,TRUE,FALSE,N
-1011755,Shannon Brown Real Estate - Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,David Glassman,David Glassman,18647.11,2291.2,10,2,FALSE,Y,TRUE,FALSE,N
-1014515,"D'Shakil Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,David Glassman,David Glassman,22301.5,1645.0,4,1,FALSE,Y,TRUE,FALSE,N
-1018689,One Piece at a time Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,David Glassman,David Glassman,44401.94,1358.81,11,4,FALSE,Y,TRUE,FALSE,N
-1025180,Broad Avenue Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,David Glassman,David Glassman,24668.0,75.0,6,0,FALSE,Y,TRUE,FALSE,N
-1018124,South Trace Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,David Glassman,David Glassman,22183.84,0.0,9,0,FALSE,Y,TRUE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024070,Parapet Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,18980.92,2305.0,7,4,FALSE,Y,TRUE,FALSE,N
+1011755,Shannon Brown Real Estate - Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,18647.11,2291.2,10,2,FALSE,Y,TRUE,FALSE,N
+1014515,"D'Shakil Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,22301.5,1645.0,4,1,FALSE,Y,TRUE,FALSE,N
+1018689,One Piece at a time Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,44401.94,1358.81,11,4,FALSE,Y,TRUE,FALSE,N
+1025180,Broad Avenue Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,24668.0,75.0,6,0,FALSE,Y,TRUE,FALSE,N
+1018124,South Trace Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,22183.84,0.0,9,0,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 527 total accounts,,,,,,,,,,,,,,,
@@ -989,71 +989,71 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 66 accounts (9 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1018124,South Trace Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,David Glassman,David Glassman,22183.84,0.0,9,0,FALSE,Y,TRUE,FALSE,N
-1025258,The Showroom at Lancaster Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,9932.0,0.0,6,1,FALSE,N,FALSE,FALSE,N
-1025862,RareHues,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,7009.3,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1004103,Grove Gallery and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,5515.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1023476,"Cozy Coastal Consignment, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,4602.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
-1008218,"Collage Home - Gribble Interior Grp, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1765.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1014323,Orange Park Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1062.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1026680,Classic Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,1005.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1023403,MDH INTERIORS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,870.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002328,Jaffe Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,772.1,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003560,"Wades Carpets and Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,680.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009847,Savvy Sofa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,470.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1004768,Michael Thomas Muller,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,437.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024337,Pratt Guys,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,435.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1019281,Blockers Furniture & Carpets Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,175.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1009097,"Trovati Studio, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,95.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003845,SS David Glassman,INTERNAL,SALES_REP,Group 3 Low Potential,David Glassman,David Glassman,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008761,DI Coffee Bar,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000720,Rugs Of The World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000619,C. Harbs Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007400,"West to East, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006813,"GWG Outlet, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004789,Gil Walsh Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009208,"Home and Details, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012692,Home Resource,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012231,KB Patio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007595,Weezie's Cottage and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007492,Miller's Dutch Haus Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004319,Medina Rugs and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004254,"Carrie's Design Studio, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000747,Haynes Bros Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002239,Collier's Furniture Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000814,"White Egret, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001331,Hudson Sq Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017709,Corio Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017663,Almost Perfect Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017193,Studiokaza Mobili,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017151,"Elegant Strand, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016348,Aqualuxe Outfitting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015688,Furniture Ideas LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013254,Bamboo Bungalow,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012786,Paynes Furniture Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1020799,Blue Door Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020282,Republic of Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021328,Calimia home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018425,Bennett Interiors LLC/Home Philosophie DBA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019932,Tampa Bay Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020146,Remarkable Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018903,Zaja International,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019136,Primis Consulting DBA Amanda Willingham S & I,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024097,Wolfe Rizor Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1022864,"Paradise of Sarasota Interior Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021614,Melissa Terese Upholstery & Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021807,The Couture Table LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021345,Casual 2 Coastal Decor by Joan Marie Vanover LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024902,"R&A Flooring Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024570,Cocos Perfection,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1024720,Surroundings (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025086,iKitchen,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,David Glassman,David Glassman,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1036074,Mine Hill Trading Co.,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036659,Taylormade Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037267,MINT HOME DECOR LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037355,Copenhagen Imports,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038083,Orangerie Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038474,Flow Carpets,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038629,Bacon's Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,David Glassman,David Glassman,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1018124,South Trace Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,22183.84,0.0,9,0,FALSE,Y,TRUE,FALSE,N
+1025258,The Showroom at Lancaster Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9932.0,0.0,6,1,FALSE,N,FALSE,FALSE,N
+1025862,RareHues,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,7009.3,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004103,Grove Gallery and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5515.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1023476,"Cozy Coastal Consignment, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4602.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1008218,"Collage Home - Gribble Interior Grp, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1765.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1014323,Orange Park Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1062.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1026680,Classic Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1005.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1023403,MDH INTERIORS LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,870.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002328,Jaffe Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,772.1,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003560,"Wades Carpets and Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,680.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009847,Savvy Sofa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,470.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1004768,Michael Thomas Muller,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,437.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024337,Pratt Guys,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,435.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1019281,Blockers Furniture & Carpets Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,175.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1009097,"Trovati Studio, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,95.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003845,SS David Glassman,INTERNAL,SALES_REP,Group 3 Low Potential,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008761,DI Coffee Bar,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,25.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000720,Rugs Of The World,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000619,C. Harbs Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007400,"West to East, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006813,"GWG Outlet, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004789,Gil Walsh Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009208,"Home and Details, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012692,Home Resource,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012231,KB Patio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007595,Weezie's Cottage and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007492,Miller's Dutch Haus Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004319,Medina Rugs and Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004254,"Carrie's Design Studio, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000747,Haynes Bros Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002239,Collier's Furniture Expo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000814,"White Egret, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001331,Hudson Sq Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017709,Corio Design House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017663,Almost Perfect Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017193,Studiokaza Mobili,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017151,"Elegant Strand, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016348,Aqualuxe Outfitting,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015688,Furniture Ideas LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013254,Bamboo Bungalow,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012786,Paynes Furniture Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1020799,Blue Door Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020282,Republic of Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021328,Calimia home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018425,Bennett Interiors LLC/Home Philosophie DBA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019932,Tampa Bay Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020146,Remarkable Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018903,Zaja International,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019136,Primis Consulting DBA Amanda Willingham S & I,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024097,Wolfe Rizor Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022864,"Paradise of Sarasota Interior Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021614,Melissa Terese Upholstery & Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021807,The Couture Table LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021345,Casual 2 Coastal Decor by Joan Marie Vanover LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024902,"R&A Flooring Designs, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024570,Cocos Perfection,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024720,Surroundings (FL),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025086,iKitchen,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1036074,Mine Hill Trading Co.,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036659,Taylormade Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037267,MINT HOME DECOR LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037355,Copenhagen Imports,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038083,Orangerie Home,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038474,Flow Carpets,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038629,Bacon's Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

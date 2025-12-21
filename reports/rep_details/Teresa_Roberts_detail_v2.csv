@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Teresa Roberts,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:53,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:58,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -20,130 +20,130 @@ Totals,117,-304071.99,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 1 accounts | $10469.75 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1017909,HUIS Cayman,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Teresa Roberts,Teresa Roberts,16848.92,10469.75,11,12,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1017909,HUIS Cayman,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,16848.92,10469.75,11,12,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 116 accounts | $-314541.74 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000148,Carpet Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000215,A Wreath Of Franklin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000512,Focal Point Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000677,Israels Designs For Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000687,Beyond Blue Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000947,Artee Collections dba Printer's Alley,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001271,Dalton Carpet One,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001366,Bright World Candle Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001817,Taylor House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002258,Karma Home Accents,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002298,Setting The Space,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002305,Urban Chic West Dba Urban Chic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002395,Accents and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002761,The Home Index,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003340,Alpine Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003494,At Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003827,Photo Shoot,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003851,SS Mindy McEntire,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003852,SS Sheila Roberts,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003853,SS Ginger Shealy,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003862,SS Ken Bassman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003863,SS Koral Baumann,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003864,SS Signe Cascell,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003865,SS Georgia Fea,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003869,SS Peggy Hicklin,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003871,SS Judi Cohen,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003872,SS Helen Tolle,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004194,Louis Bernard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004290,Lucas Patton Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004332,Coralys Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004531,SS Jeanne Turbow,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004975,"Chaffin Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004989,Stone Creek Surfaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005042,SS Aaron Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005122,SS Mary Jane Cashman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005179,"STORY and LEE FURNITURE and APPLIANCE, INC.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005220,Designers Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005331,Quality Furniture Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005487,DeMadera Trading Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005516,"AZ International, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006134,Main Street Nursery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006655,Wallpaper Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006658,"Simply Grande, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006832,SS Ken Sullivan,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006942,Snook's Carpet and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006894,SS Evelyn Proctor,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006909,Pooshan Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006914,Ss Chapel Conley,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007556,Rosenthal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006977,"Riska Furnishings, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008264,Peace Love and Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,701.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008387,SS Carol J. Miller,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017091,Heavens Gate Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,400.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1008435,SS Anna Cumberland,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008644,"Pavilion Home and Floral, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008727,Urban Diversions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008817,Furnish My Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009751,Gallery Etcetera,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009817,Cecil + Finch,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009996,SS Martin Johnson,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010008,Design Ave Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010027,Clarks Building Materials,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010263,SS Tim Zwick,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010847,SS Candace Reed,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011039,"Textile and Timber Furnishings, Ltd",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011196,Dutchmans Designs Chamblee USE 1006348,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011834,Milton & Mane LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011947,"Enjole Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012002,Oak Nashville,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012233,The John Khalil Collection,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012311,Greige Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012621,Ss Darby Cooperman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012955,SS Hannah McClane,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013118,LTS Designs dba Bliss Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013327,One Cottage Way,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013434,CFI Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013829,The Truffle Pig LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014848,SS Amy M Holdman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014850,SS Christy Barton,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014851,SS Tracy A DelGrippo,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015141,Surface Flooring Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015367,SS Jamie Jones,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015562,ABEDNEGO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016247,P374 Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019605,Bungalow on the Ave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017440,TEST Customer NET30,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1017571,Cordill Home dba English Traditions of Cincinnati,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017697,Johnson Hill Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017832,Golden & Pine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017915,"A Davidson & Bros., Inc d/b/a Davidson's Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018458,Bernard Electric,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018498,SS Zachary King,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018501,SS Chelsea Thornton,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018503,SS Jason Lopez,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018837,TestAccountDoNotUse 1018837,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019019,SS Ellen Goodstein,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019020,SS Evelyn Olah,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019056,Grovetown Floors & Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019064,SS Angela Ochoa,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019226,SS Jennifer Stephens,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023596,Pala Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019703,Interior Define,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019728,ReFind Kitchens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019887,Lintot,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,4700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1020484,Southern Design Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021239,Ella Gray Home and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022523,D. Redding Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022525,Premier Office Solutions,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024976,Botanica Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023914,Refined Designs LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,2305.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1024291,ESPACE CONCEPTS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024603,Marc Phillips Decorative Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025881,The Porch In Wildwood duplicate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025752,Arsin Rug Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025946,Rug Plug Corporation,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1006014,Unidentified Customer,INTERNAL,SALES_REP,Group 3 High Potential,Teresa Roberts,Teresa Roberts,-3407.0,-314541.74,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000148,Carpet Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000215,A Wreath Of Franklin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000512,Focal Point Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000677,Israels Designs For Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000687,Beyond Blue Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000947,Artee Collections dba Printer's Alley,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001271,Dalton Carpet One,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001366,Bright World Candle Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001817,Taylor House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002258,Karma Home Accents,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002298,Setting The Space,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002305,Urban Chic West Dba Urban Chic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002395,Accents and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002761,The Home Index,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003340,Alpine Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003494,At Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003827,Photo Shoot,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003851,SS Mindy McEntire,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003852,SS Sheila Roberts,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003853,SS Ginger Shealy,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003862,SS Ken Bassman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003863,SS Koral Baumann,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003864,SS Signe Cascell,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003865,SS Georgia Fea,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003869,SS Peggy Hicklin,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003871,SS Judi Cohen,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003872,SS Helen Tolle,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004194,Louis Bernard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004290,Lucas Patton Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004332,Coralys Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004531,SS Jeanne Turbow,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004975,"Chaffin Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004989,Stone Creek Surfaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005042,SS Aaron Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005122,SS Mary Jane Cashman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005179,"STORY and LEE FURNITURE and APPLIANCE, INC.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005220,Designers Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005331,Quality Furniture Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005487,DeMadera Trading Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005516,"AZ International, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006134,Main Street Nursery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006655,Wallpaper Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006658,"Simply Grande, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006832,SS Ken Sullivan,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006942,Snook's Carpet and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006894,SS Evelyn Proctor,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006909,Pooshan Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006914,Ss Chapel Conley,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007556,Rosenthal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006977,"Riska Furnishings, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008264,Peace Love and Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,701.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008387,SS Carol J. Miller,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017091,Heavens Gate Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,400.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1008435,SS Anna Cumberland,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008644,"Pavilion Home and Floral, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008727,Urban Diversions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008817,Furnish My Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009751,Gallery Etcetera,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009817,Cecil + Finch,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009996,SS Martin Johnson,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010008,Design Ave Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010027,Clarks Building Materials,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010263,SS Tim Zwick,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010847,SS Candace Reed,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011039,"Textile and Timber Furnishings, Ltd",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011196,Dutchmans Designs Chamblee USE 1006348,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011834,Milton & Mane LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011947,"Enjole Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012002,Oak Nashville,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012233,The John Khalil Collection,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012311,Greige Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012621,Ss Darby Cooperman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012955,SS Hannah McClane,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013118,LTS Designs dba Bliss Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013327,One Cottage Way,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013434,CFI Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013829,The Truffle Pig LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014848,SS Amy M Holdman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014850,SS Christy Barton,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014851,SS Tracy A DelGrippo,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015141,Surface Flooring Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015367,SS Jamie Jones,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015562,ABEDNEGO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016247,P374 Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019605,Bungalow on the Ave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017440,TEST Customer NET30,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1017571,Cordill Home dba English Traditions of Cincinnati,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017697,Johnson Hill Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017832,Golden & Pine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017915,"A Davidson & Bros., Inc d/b/a Davidson's Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018458,Bernard Electric,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018498,SS Zachary King,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018501,SS Chelsea Thornton,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018503,SS Jason Lopez,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018837,TestAccountDoNotUse 1018837,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019019,SS Ellen Goodstein,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019020,SS Evelyn Olah,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019056,Grovetown Floors & Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019064,SS Angela Ochoa,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019226,SS Jennifer Stephens,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023596,Pala Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019703,Interior Define,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019728,ReFind Kitchens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019887,Lintot,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1020484,Southern Design Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021239,Ella Gray Home and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022523,D. Redding Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022525,Premier Office Solutions,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024976,Botanica Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023914,Refined Designs LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2305.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1024291,ESPACE CONCEPTS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024603,Marc Phillips Decorative Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025881,The Porch In Wildwood duplicate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025752,Arsin Rug Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025946,Rug Plug Corporation,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006014,Unidentified Customer,INTERNAL,SALES_REP,Group 3 High Potential,-3407.0,-314541.74,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 193 total accounts,,,,,,,,,,,,,,,
@@ -346,120 +346,120 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 115 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1019887,Lintot,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,4700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1023914,Refined Designs LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,2305.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1008264,Peace Love and Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,701.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1017091,Heavens Gate Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,400.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1000677,Israels Designs For Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000947,Artee Collections dba Printer's Alley,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001271,Dalton Carpet One,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001366,Bright World Candle Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000687,Beyond Blue Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002258,Karma Home Accents,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002298,Setting The Space,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002305,Urban Chic West Dba Urban Chic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002395,Accents and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002761,The Home Index,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003340,Alpine Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003494,At Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001817,Taylor House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000215,A Wreath Of Franklin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000148,Carpet Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003852,SS Sheila Roberts,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003853,SS Ginger Shealy,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003863,SS Koral Baumann,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003862,SS Ken Bassman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003865,SS Georgia Fea,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003869,SS Peggy Hicklin,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003871,SS Judi Cohen,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003864,SS Signe Cascell,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004194,Louis Bernard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004290,Lucas Patton Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004332,Coralys Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004531,SS Jeanne Turbow,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004975,"Chaffin Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004989,Stone Creek Surfaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005042,SS Aaron Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003872,SS Helen Tolle,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005122,SS Mary Jane Cashman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005179,"STORY and LEE FURNITURE and APPLIANCE, INC.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005331,Quality Furniture Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005220,Designers Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005516,"AZ International, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006134,Main Street Nursery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006655,Wallpaper Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005487,DeMadera Trading Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006658,"Simply Grande, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006832,SS Ken Sullivan,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006909,Pooshan Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006894,SS Evelyn Proctor,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006914,Ss Chapel Conley,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003827,Photo Shoot,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003851,SS Mindy McEntire,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000512,Focal Point Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007556,Rosenthal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006977,"Riska Furnishings, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006942,Snook's Carpet and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008387,SS Carol J. Miller,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008817,Furnish My Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008435,SS Anna Cumberland,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008644,"Pavilion Home and Floral, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008727,Urban Diversions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010008,Design Ave Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010027,Clarks Building Materials,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010263,SS Tim Zwick,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010847,SS Candace Reed,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011039,"Textile and Timber Furnishings, Ltd",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009751,Gallery Etcetera,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009817,Cecil + Finch,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009996,SS Martin Johnson,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012002,Oak Nashville,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012233,The John Khalil Collection,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012311,Greige Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012621,Ss Darby Cooperman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012955,SS Hannah McClane,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013118,LTS Designs dba Bliss Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013327,One Cottage Way,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013434,CFI Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013829,The Truffle Pig LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014848,SS Amy M Holdman,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014850,SS Christy Barton,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014851,SS Tracy A DelGrippo,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015141,Surface Flooring Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011196,Dutchmans Designs Chamblee USE 1006348,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011834,Milton & Mane LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011947,"Enjole Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016247,P374 Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015562,ABEDNEGO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015367,SS Jamie Jones,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017440,TEST Customer NET30,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1017832,Golden & Pine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017915,"A Davidson & Bros., Inc d/b/a Davidson's Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017571,Cordill Home dba English Traditions of Cincinnati,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017697,Johnson Hill Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018501,SS Chelsea Thornton,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018503,SS Jason Lopez,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018837,TestAccountDoNotUse 1018837,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019019,SS Ellen Goodstein,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019020,SS Evelyn Olah,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019056,Grovetown Floors & Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018458,Bernard Electric,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018498,SS Zachary King,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019226,SS Jennifer Stephens,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019064,SS Angela Ochoa,INTERNAL,SALES_REP,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019703,Interior Define,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019605,Bungalow on the Ave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020484,Southern Design Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021239,Ella Gray Home and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022523,D. Redding Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019728,ReFind Kitchens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022525,Premier Office Solutions,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023596,Pala Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024291,ESPACE CONCEPTS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024603,Marc Phillips Decorative Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024976,Botanica Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025752,Arsin Rug Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025881,The Porch In Wildwood duplicate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025946,Rug Plug Corporation,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Teresa Roberts,Teresa Roberts,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1019887,Lintot,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1023914,Refined Designs LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2305.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1008264,Peace Love and Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,701.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1017091,Heavens Gate Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,400.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1000677,Israels Designs For Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000947,Artee Collections dba Printer's Alley,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001271,Dalton Carpet One,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001366,Bright World Candle Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000687,Beyond Blue Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002258,Karma Home Accents,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002298,Setting The Space,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002305,Urban Chic West Dba Urban Chic,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002395,Accents and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002761,The Home Index,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003340,Alpine Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003494,At Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001817,Taylor House Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000215,A Wreath Of Franklin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000148,Carpet Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003852,SS Sheila Roberts,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003853,SS Ginger Shealy,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003863,SS Koral Baumann,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003862,SS Ken Bassman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003865,SS Georgia Fea,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003869,SS Peggy Hicklin,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003871,SS Judi Cohen,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003864,SS Signe Cascell,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004194,Louis Bernard,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004290,Lucas Patton Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004332,Coralys Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004531,SS Jeanne Turbow,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004975,"Chaffin Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004989,Stone Creek Surfaces,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005042,SS Aaron Kirsch,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003872,SS Helen Tolle,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005122,SS Mary Jane Cashman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005179,"STORY and LEE FURNITURE and APPLIANCE, INC.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005331,Quality Furniture Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005220,Designers Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005516,"AZ International, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006134,Main Street Nursery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006655,Wallpaper Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005487,DeMadera Trading Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006658,"Simply Grande, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006832,SS Ken Sullivan,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006909,Pooshan Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006894,SS Evelyn Proctor,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006914,Ss Chapel Conley,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003827,Photo Shoot,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003851,SS Mindy McEntire,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000512,Focal Point Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007556,Rosenthal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006977,"Riska Furnishings, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006942,Snook's Carpet and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008387,SS Carol J. Miller,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008817,Furnish My Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008435,SS Anna Cumberland,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008644,"Pavilion Home and Floral, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008727,Urban Diversions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010008,Design Ave Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010027,Clarks Building Materials,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010263,SS Tim Zwick,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010847,SS Candace Reed,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011039,"Textile and Timber Furnishings, Ltd",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009751,Gallery Etcetera,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009817,Cecil + Finch,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009996,SS Martin Johnson,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012002,Oak Nashville,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012233,The John Khalil Collection,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012311,Greige Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012621,Ss Darby Cooperman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012955,SS Hannah McClane,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013118,LTS Designs dba Bliss Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013327,One Cottage Way,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013434,CFI Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013829,The Truffle Pig LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014848,SS Amy M Holdman,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014850,SS Christy Barton,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014851,SS Tracy A DelGrippo,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015141,Surface Flooring Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011196,Dutchmans Designs Chamblee USE 1006348,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011834,Milton & Mane LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011947,"Enjole Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016247,P374 Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015562,ABEDNEGO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015367,SS Jamie Jones,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017440,TEST Customer NET30,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1017832,Golden & Pine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017915,"A Davidson & Bros., Inc d/b/a Davidson's Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017571,Cordill Home dba English Traditions of Cincinnati,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017697,Johnson Hill Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018501,SS Chelsea Thornton,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018503,SS Jason Lopez,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018837,TestAccountDoNotUse 1018837,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019019,SS Ellen Goodstein,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019020,SS Evelyn Olah,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019056,Grovetown Floors & Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018458,Bernard Electric,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018498,SS Zachary King,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019226,SS Jennifer Stephens,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019064,SS Angela Ochoa,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019703,Interior Define,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019605,Bungalow on the Ave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020484,Southern Design Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021239,Ella Gray Home and Gifts,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022523,D. Redding Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019728,ReFind Kitchens,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022525,Premier Office Solutions,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023596,Pala Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024291,ESPACE CONCEPTS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024603,Marc Phillips Decorative Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024976,Botanica Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025752,Arsin Rug Gallery,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025881,The Porch In Wildwood duplicate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025946,Rug Plug Corporation,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

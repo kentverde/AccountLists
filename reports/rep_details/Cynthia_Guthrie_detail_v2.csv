@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Cynthia Guthrie,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -24,200 +24,200 @@ Totals,106,161211.44,67,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $26266.00 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000623,The Villages Commercial Design,DESIGN,HOSPITALITY,Group 1 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,20689.0,26266.0,6,8,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000623,The Villages Commercial Design,DESIGN,HOSPITALITY,Group 1 Medium Potential,20689.0,26266.0,6,8,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 18 accounts | $124586.04 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1002889,Mountainside Design,DESIGN,HOSPITALITY,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,7766.5,15902.2,7,6,FALSE,N,FALSE,FALSE,N
-1036469,Travel + Leisure Operations Inc.,DESIGN,HOSPITALITY,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,14898.85,0,11,TRUE,N,FALSE,FALSE,N
-1035393,H Supply,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,11982.35,0,4,TRUE,N,FALSE,FALSE,N
-1026116,Gatlin Development Company Inc,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,6934.0,11335.0,3,2,FALSE,N,FALSE,FALSE,N
-1037363,Vault Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,10000.0,0,3,TRUE,N,FALSE,FALSE,N
-1011376,"JKL Design Group, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,7660.5,8850.2,5,8,FALSE,N,FALSE,FALSE,N
-1023702,Carroll Adams Group,DESIGN,HOSPITALITY,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,3615.0,8632.8,1,2,FALSE,N,FALSE,FALSE,N
-1009794,The Design Resource Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,7393.0,5280.0,9,2,FALSE,N,FALSE,FALSE,N
-1027936,SkyCon Group LLC,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,2160.0,5030.0,2,3,FALSE,N,FALSE,FALSE,N
-1026929,The Schimberg Group,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,4651.32,0,1,FALSE,N,FALSE,FALSE,N
-1036951,Chris Rossi Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,4108.0,0,1,TRUE,N,FALSE,FALSE,N
-1027451,HPA Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,3961.0,0,5,TRUE,N,FALSE,FALSE,N
-1035189,Gensler- Tampa,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,3933.0,1,0,FALSE,N,FALSE,FALSE,N
-1013402,Beasley and Henley Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,3028.0,3605.0,1,4,FALSE,N,FALSE,FALSE,N
-1012422,Peacock + Lewis Architects Planners,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,2725.0,3414.32,3,2,FALSE,N,FALSE,FALSE,N
-1019591,Beyer Brown & Associates LP,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,3333.0,1,0,FALSE,N,FALSE,FALSE,N
-1024826,Circuit Florida Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,3140.0,2860.0,4,2,FALSE,N,FALSE,FALSE,N
-1027105,A Squared Design Studio,DESIGN,HOSPITALITY,Group 2 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,2075.0,2809.0,2,2,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1002889,Mountainside Design,DESIGN,HOSPITALITY,Group 2 High Potential,7766.5,15902.2,7,6,FALSE,N,FALSE,FALSE,N
+1036469,Travel + Leisure Operations Inc.,DESIGN,HOSPITALITY,Group 2 High Potential,0.0,14898.85,0,11,TRUE,N,FALSE,FALSE,N
+1035393,H Supply,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,11982.35,0,4,TRUE,N,FALSE,FALSE,N
+1026116,Gatlin Development Company Inc,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,6934.0,11335.0,3,2,FALSE,N,FALSE,FALSE,N
+1037363,Vault Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,10000.0,0,3,TRUE,N,FALSE,FALSE,N
+1011376,"JKL Design Group, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7660.5,8850.2,5,8,FALSE,N,FALSE,FALSE,N
+1023702,Carroll Adams Group,DESIGN,HOSPITALITY,Group 2 Medium Potential,3615.0,8632.8,1,2,FALSE,N,FALSE,FALSE,N
+1009794,The Design Resource Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7393.0,5280.0,9,2,FALSE,N,FALSE,FALSE,N
+1027936,SkyCon Group LLC,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,2160.0,5030.0,2,3,FALSE,N,FALSE,FALSE,N
+1026929,The Schimberg Group,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,0.0,4651.32,0,1,FALSE,N,FALSE,FALSE,N
+1036951,Chris Rossi Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,4108.0,0,1,TRUE,N,FALSE,FALSE,N
+1027451,HPA Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3961.0,0,5,TRUE,N,FALSE,FALSE,N
+1035189,Gensler- Tampa,DESIGN,DESIGN_FIRM,Group 2 Low Potential,0.0,3933.0,1,0,FALSE,N,FALSE,FALSE,N
+1013402,Beasley and Henley Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3028.0,3605.0,1,4,FALSE,N,FALSE,FALSE,N
+1012422,Peacock + Lewis Architects Planners,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,2725.0,3414.32,3,2,FALSE,N,FALSE,FALSE,N
+1019591,Beyer Brown & Associates LP,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3333.0,1,0,FALSE,N,FALSE,FALSE,N
+1024826,Circuit Florida Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,3140.0,2860.0,4,2,FALSE,N,FALSE,FALSE,N
+1027105,A Squared Design Studio,DESIGN,HOSPITALITY,Group 2 Medium Potential,2075.0,2809.0,2,2,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 20 accounts | $8701.90 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1038062,Asthetique,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,2065.0,0,1,TRUE,N,FALSE,FALSE,N
-1036179,ClearPH,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,1856.4,0,2,TRUE,N,FALSE,FALSE,N
-1037055,3101880050 P&L Sens Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,1780.0,0,1,TRUE,N,FALSE,FALSE,N
-1037106,Elements of Design International,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,1713.0,0,1,TRUE,N,FALSE,FALSE,N
-1036968,"Spectra Holdings, LLC (FL)",RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,545.0,0,1,TRUE,N,FALSE,FALSE,N
-1035668,"RPS Capital Investments, LLC",DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,375.0,0,1,TRUE,N,FALSE,FALSE,N
-1027441,Place Architecture,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,304.5,0,1,TRUE,N,FALSE,FALSE,N
-1037139,Brooke J Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,63.0,0,1,TRUE,N,FALSE,FALSE,N
-1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027443,The Cormia Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1038062,Asthetique,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,2065.0,0,1,TRUE,N,FALSE,FALSE,N
+1036179,ClearPH,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,1856.4,0,2,TRUE,N,FALSE,FALSE,N
+1037055,3101880050 P&L Sens Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1780.0,0,1,TRUE,N,FALSE,FALSE,N
+1037106,Elements of Design International,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1713.0,0,1,TRUE,N,FALSE,FALSE,N
+1036968,"Spectra Holdings, LLC (FL)",RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,545.0,0,1,TRUE,N,FALSE,FALSE,N
+1035668,"RPS Capital Investments, LLC",DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,375.0,0,1,TRUE,N,FALSE,FALSE,N
+1027441,Place Architecture,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,304.5,0,1,TRUE,N,FALSE,FALSE,N
+1037139,Brooke J Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,63.0,0,1,TRUE,N,FALSE,FALSE,N
+1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027443,The Cormia Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 67 accounts | $1657.50 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1004799,Patience Purchasing Agency LLC MIVASA,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Cynthia Guthrie,Cynthia Guthrie,14066.7,1657.5,6,3,FALSE,Y,TRUE,FALSE,N
-1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
-1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
-1023302,ITG Export & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,13745.26,0.0,5,0,FALSE,Y,TRUE,FALSE,N
-1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026672,Baskervill,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027710,Create & Company,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035163,Arcadis,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035864,DAC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036738,Little(FL),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037201,CI Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1004799,Patience Purchasing Agency LLC MIVASA,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,14066.7,1657.5,6,3,FALSE,Y,TRUE,FALSE,N
+1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
+1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
+1023302,ITG Export & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,13745.26,0.0,5,0,FALSE,Y,TRUE,FALSE,N
+1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026672,Baskervill,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027710,Create & Company,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035163,Arcadis,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035864,DAC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036738,Little(FL),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037201,CI Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SF EX BI ACCOUNTS (DORMANT): 64 accounts | $0.00 revenue,,,,,,,,,,,,,,,
 (In Salesforce but not in BI - no transaction data),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1026672,Baskervill,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027710,Create & Company,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035163,Arcadis,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035864,DAC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036738,Little(FL),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037201,CI Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1026672,Baskervill,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027710,Create & Company,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035163,Arcadis,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035864,DAC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036738,Little(FL),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037201,CI Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 30 total accounts,,,,,,,,,,,,,,,
@@ -257,83 +257,83 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 78 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1023302,ITG Export & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,13745.26,0.0,5,0,FALSE,Y,TRUE,FALSE,N
-1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
-1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
-1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1027443,The Cormia Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1026672,Baskervill,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027710,Create & Company,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035163,Arcadis,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1035864,DAC,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036738,Little(FL),Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037201,CI Group,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,Cynthia Guthrie,Cynthia Guthrie,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023302,ITG Export & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,13745.26,0.0,5,0,FALSE,Y,TRUE,FALSE,N
+1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
+1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
+1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027443,The Cormia Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037781,Rosen Hotels and Resorts,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038103,Seaward Consulting,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038643,Allure Designs Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1004468,"Studio B Design Concepts, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1008871,Group 4 Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010069,Wyndham Worldwide Corp.,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1010768,"Smart Supply International, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018993,Olsson-Fernandez Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022237,2nd Wave Development,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025974,Wellbilt Industries,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026095,Suzanne Nichols Design Group INC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026502,JC White Architectural Interiors,Retail,Multiple locations,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1026672,Baskervill,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027289,"L2 Studios, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027290,Schenkel Shutlz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027291,TJNG Partners,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027292,Gravity Architecture and Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027294,Hospitality Resources& Design (HRD),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027420,Caminos & Company LLC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027428,"DAG Architects, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027429,Joko Designs,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027431,Deacon Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027433,David L. Wallace & Associates,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027434,HDB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027435,Besselo Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027436,Design Cooperative,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027437,"Designmind, LLC",Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027438,Create & Co.,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027439,Joiner Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027440,Disney Cruise Line,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027442,Graham Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027444,Rhodes + Brito,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027445,Ebb & Flow Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027446,Schenkel Schultz,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027449,Donna Watson-Rossmore Design,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027450,LB Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027465,DSDG Architects,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027557,Micamy Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027612,ASDSKY,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027710,Create & Company,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027712,Holiday Inn Club Vacations,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027713,Jacki Arena Interiors,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027790,Bermello Ajamil,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035080,Casario Design Studio LLC,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035163,Arcadis,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035184,Arruda Design Studio,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035278,Universal Creative,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035451,Little Dversified,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035864,DAC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036409,Pradere Designer Workspaces,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1036581,"Aire + Partners, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036738,Little(FL),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036850,IV Atelier,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036901,TVS (Tampa),Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037148,Finfrock,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037201,CI Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037296,The Fechtel Company,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037312,IJF PROMOTIONS,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037396,Comex Industries Inc,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037610,Robert Reid Wedding Architects & Planners,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037835,Studio Seven Interiors,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037883,Studio Gaia (Miami Office),Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038245,Lane Architecture,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,

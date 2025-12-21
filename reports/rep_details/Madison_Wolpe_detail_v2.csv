@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Madison Wolpe,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:51,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -25,358 +25,358 @@ Totals,342,1915728.94,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 18 accounts | $549860.70 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1014941,Angeline Guido Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Amanda Kistela,Madison Wolpe,45777.0,75303.14,17,24,FALSE,N,FALSE,FALSE,N
-1025111,Millie Staging and Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Hana Nassri,Madison Wolpe,11763.0,67022.0,3,19,FALSE,N,FALSE,FALSE,N
-1012416,Art of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Amanda Kistela,Madison Wolpe,63480.7,64199.5,54,56,FALSE,N,FALSE,FALSE,N
-1011611,LL Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Kyra Williamson,Madison Wolpe,2523.0,31525.0,1,3,FALSE,N,FALSE,FALSE,N
-1014815,Home Simple Goods + Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Anna Hudspeth,Madison Wolpe,12660.0,27916.62,12,8,FALSE,N,FALSE,FALSE,N
-1023450,HOD Homes,DESIGN,DESIGN_FIRM,Group 1 High Potential,Anna Hudspeth,Madison Wolpe,6347.0,25884.19,2,9,FALSE,N,FALSE,FALSE,N
-1014068,Darden Ent dba Elements of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Madison Wolpe,27370.5,25409.35,13,14,FALSE,N,FALSE,FALSE,N
-1023775,Alexandra Killion Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Madison Wolpe,14233.0,24928.0,3,4,FALSE,N,FALSE,FALSE,N
-1026795,Bluejack Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Madison Wolpe,6509.0,24113.75,4,12,FALSE,N,FALSE,FALSE,N
-1014607,Ashby Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,Vandana Kaku,Madison Wolpe,10905.76,23821.42,2,11,FALSE,N,FALSE,FALSE,N
-1014868,Edith Snell Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Anna Hudspeth,Madison Wolpe,10264.28,21554.2,12,15,FALSE,N,FALSE,FALSE,N
-1009754,"BWC Studio, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Kyra Williamson,Madison Wolpe,5390.0,21526.88,3,1,FALSE,N,FALSE,FALSE,N
-1003702,"Linda Eyles Design, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Madison Wolpe,5106.0,21342.6,3,12,FALSE,N,FALSE,FALSE,N
-1024595,JJB Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Kyra Williamson,Madison Wolpe,21663.7,19547.55,13,18,FALSE,N,FALSE,FALSE,N
-1021664,Easton | Michael Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,Kyra Williamson,Madison Wolpe,2397.52,19267.2,2,5,FALSE,N,FALSE,FALSE,N
-1026991,Melanie P. Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Hana Nassri,Madison Wolpe,3064.5,19083.0,2,5,FALSE,N,FALSE,FALSE,N
-1022463,Dwelling92,DESIGN,DESIGN_FIRM,Group 1 High Potential,Madison Wolpe,Madison Wolpe,104.0,18854.3,1,7,FALSE,N,FALSE,FALSE,N
-1012591,"JHR Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Vandana Kaku,Madison Wolpe,16323.5,18562.0,10,15,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014941,Angeline Guido Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,45777.0,75303.14,17,24,FALSE,N,FALSE,FALSE,N
+1025111,Millie Staging and Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,11763.0,67022.0,3,19,FALSE,N,FALSE,FALSE,N
+1012416,Art of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,63480.7,64199.5,54,56,FALSE,N,FALSE,FALSE,N
+1011611,LL Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,2523.0,31525.0,1,3,FALSE,N,FALSE,FALSE,N
+1014815,Home Simple Goods + Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,12660.0,27916.62,12,8,FALSE,N,FALSE,FALSE,N
+1023450,HOD Homes,DESIGN,DESIGN_FIRM,Group 1 High Potential,6347.0,25884.19,2,9,FALSE,N,FALSE,FALSE,N
+1014068,Darden Ent dba Elements of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,27370.5,25409.35,13,14,FALSE,N,FALSE,FALSE,N
+1023775,Alexandra Killion Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,14233.0,24928.0,3,4,FALSE,N,FALSE,FALSE,N
+1026795,Bluejack Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,6509.0,24113.75,4,12,FALSE,N,FALSE,FALSE,N
+1014607,Ashby Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,10905.76,23821.42,2,11,FALSE,N,FALSE,FALSE,N
+1014868,Edith Snell Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,10264.28,21554.2,12,15,FALSE,N,FALSE,FALSE,N
+1009754,"BWC Studio, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,5390.0,21526.88,3,1,FALSE,N,FALSE,FALSE,N
+1003702,"Linda Eyles Design, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,5106.0,21342.6,3,12,FALSE,N,FALSE,FALSE,N
+1024595,JJB Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,21663.7,19547.55,13,18,FALSE,N,FALSE,FALSE,N
+1021664,Easton | Michael Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,2397.52,19267.2,2,5,FALSE,N,FALSE,FALSE,N
+1026991,Melanie P. Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,3064.5,19083.0,2,5,FALSE,N,FALSE,FALSE,N
+1022463,Dwelling92,DESIGN,DESIGN_FIRM,Group 1 High Potential,104.0,18854.3,1,7,FALSE,N,FALSE,FALSE,N
+1012591,"JHR Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,16323.5,18562.0,10,15,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 188 accounts | $1300816.43 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1021934,Donna Mark Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,676.0,17422.0,1,6,FALSE,N,FALSE,FALSE,N
-1019766,Nuance Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,3175.2,17307.81,1,10,FALSE,N,FALSE,FALSE,N
-1015442,Upside Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,47259.55,17127.0,18,6,FALSE,N,FALSE,FALSE,N
-1003970,"Taylor Borsari, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,12039.5,17005.0,3,6,FALSE,N,FALSE,FALSE,N
-1027774,Chelsea Jane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,3437.0,16910.84,5,5,FALSE,N,FALSE,FALSE,N
-1002539,Denise Mcgaha Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Madison Wolpe,3947.0,16700.32,1,5,FALSE,N,FALSE,FALSE,N
-1009623,"Chesterfields Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,2891.0,15732.3,2,11,FALSE,N,FALSE,FALSE,N
-1009664,"M Grace at Home, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Amanda Kistela,Madison Wolpe,30709.32,15302.0,20,17,FALSE,N,FALSE,FALSE,N
-1025594,Bradley Beach Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,12334.77,15280.27,9,18,FALSE,N,FALSE,FALSE,N
-1025507,McLean Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,8538.0,15239.8,6,13,FALSE,N,FALSE,FALSE,N
-1017362,"Lark Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,3615.0,15116.44,1,4,FALSE,N,FALSE,FALSE,N
-1013579,J Fuller Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,14519.75,0,5,FALSE,N,FALSE,FALSE,N
-1024331,Tiny Haven Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,50.0,14398.3,1,8,FALSE,N,FALSE,FALSE,N
-1019595,Kizzee Corp LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,8579.5,14358.08,9,9,FALSE,N,FALSE,FALSE,N
-1025435,Kathryn J. LeMaster Art & Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,14049.5,0,8,FALSE,N,FALSE,FALSE,N
-1015858,Wendy Williamson Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,14131.15,14002.0,7,4,FALSE,N,FALSE,FALSE,N
-1035164,Bau-Haus Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,13888.0,0,2,TRUE,N,FALSE,FALSE,N
-1035355,Diana Frankowski Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,13815.75,0,8,TRUE,N,FALSE,FALSE,N
-1024150,K. Lewis Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,18838.64,13475.43,5,6,FALSE,N,FALSE,FALSE,N
-1024712,Emory Mckim Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,20831.78,13150.14,6,4,FALSE,N,FALSE,FALSE,N
-1036477,Sarah Branum interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,13089.0,0,6,TRUE,N,FALSE,FALSE,N
-1015010,Mel Bean Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kimberly Myers,Madison Wolpe,3974.91,13056.44,7,9,FALSE,N,FALSE,FALSE,N
-1036595,"Dawn Patterson Interiors, LLC.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,13008.27,0,5,TRUE,N,FALSE,FALSE,N
-1035705,Reno Grossi Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Amanda Kistela,Madison Wolpe,0.0,12868.0,0,6,TRUE,N,FALSE,FALSE,N
-1008099,Vignettes Custom Interiors/CB Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Kyra Williamson,Madison Wolpe,1635.0,12793.0,1,5,FALSE,N,FALSE,FALSE,N
-1016722,Edwards Interiors & Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,9963.0,12777.25,4,6,FALSE,N,FALSE,FALSE,N
-1021014,Kris Betts Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Madison Wolpe,8526.5,12546.54,14,8,FALSE,N,FALSE,FALSE,N
-1024500,Hannah Sutter Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,5808.5,12257.4,3,4,FALSE,N,FALSE,FALSE,N
-1022456,Lindsey Craig Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,16414.0,11551.0,5,10,FALSE,N,FALSE,FALSE,N
-1035868,Epic Contractors Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,11472.3,0,2,TRUE,N,FALSE,FALSE,N
-1025912,HOUSE OF FRIDAY,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,5751.0,11410.0,3,7,FALSE,N,FALSE,FALSE,N
-1021095,Brooke Sipe Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,1368.5,11095.0,9,8,FALSE,N,FALSE,FALSE,N
-1023233,Maude Haus,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,10797.0,0,3,FALSE,N,FALSE,FALSE,N
-1020547,Jossette Droz Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,1105.0,10322.15,1,10,FALSE,N,FALSE,FALSE,N
-1023694,HOMES BY HADLEY,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,7469.5,10205.5,3,3,FALSE,N,FALSE,FALSE,N
-1022869,Pimell Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,9977.0,0,3,FALSE,N,FALSE,FALSE,N
-1014754,Alexis Pearl Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,4659.0,9958.0,3,4,FALSE,N,FALSE,FALSE,N
-1022849,Katie Postel Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,168.0,9931.0,1,3,FALSE,N,FALSE,FALSE,N
-1020950,Marna Design Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,17456.5,9514.35,7,5,FALSE,N,FALSE,FALSE,N
-1019761,Het Hout Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,480.0,9465.0,1,3,FALSE,N,FALSE,FALSE,N
-1010662,Paradigm Texas,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,9422.0,0,2,FALSE,N,FALSE,FALSE,N
-1035128,Mary Margaret Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,5255.0,9105.0,1,2,FALSE,N,FALSE,FALSE,N
-1014760,Katie Grace Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,7283.0,9090.0,2,1,FALSE,N,FALSE,FALSE,N
-1015925,Curated Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,4037.0,8960.0,2,11,FALSE,N,FALSE,FALSE,N
-1003323,Dana Stringer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,57816.3,8947.6,27,10,FALSE,N,FALSE,FALSE,N
-1022570,cottage industry,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,8921.0,0,6,FALSE,N,FALSE,FALSE,N
-1038270,"Ashley ReDesign/BRBRANDING, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,8855.0,0,1,TRUE,N,FALSE,FALSE,N
-1020643,Madison Goss Lifestyle Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,20784.51,8698.0,8,10,FALSE,N,FALSE,FALSE,N
-1012320,Canon and Dean,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,3457.0,8643.0,3,9,FALSE,N,FALSE,FALSE,N
-1026280,Phoenix Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,3903.5,8519.78,4,2,FALSE,N,FALSE,FALSE,N
-1027262,Lefler Teeter Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,1245.0,8405.0,2,7,FALSE,N,FALSE,FALSE,N
-1011198,Jordan Madison Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,6430.0,8325.0,3,6,FALSE,N,FALSE,FALSE,N
-1024292,Janet Baker Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,1400.5,8223.8,3,5,FALSE,N,FALSE,FALSE,N
-1016094,NB Creative LLC  (dba Nataliya Borener Interiors),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,3400.0,8185.0,1,2,FALSE,N,FALSE,FALSE,N
-1014085,Holly Wright,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,990.0,8178.0,1,2,FALSE,N,FALSE,FALSE,N
-1016727,Meredith Owen Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,2719.0,8155.0,1,3,FALSE,N,FALSE,FALSE,N
-1036195,Avenue Design Company,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,0.0,8057.0,0,4,TRUE,N,FALSE,FALSE,N
-1006463,Allison Burke Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,7809.0,0,4,TRUE,N,FALSE,FALSE,N
-1015516,Diamonds In The Desert,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,481.0,7681.0,3,2,FALSE,N,FALSE,FALSE,N
-1011431,Creative Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Vandana Kaku,Madison Wolpe,2335.0,7670.0,2,9,FALSE,N,FALSE,FALSE,N
-1027282,"O.M. Design Group, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,878.0,7650.0,1,4,FALSE,N,FALSE,FALSE,N
-1022976,Marigold House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,18038.0,7392.0,6,3,FALSE,N,FALSE,FALSE,N
-1036339,"Enliven Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,7355.69,0,3,TRUE,N,FALSE,FALSE,N
-1023116,DuLany Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,2241.0,7329.75,4,6,FALSE,N,FALSE,FALSE,N
-1023813,Interior Ideas,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,7181.0,0,4,FALSE,N,FALSE,FALSE,N
-1019850,Round Table Design Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,4225.0,7175.0,1,2,FALSE,N,FALSE,FALSE,N
-1035136,NDG Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,7168.0,0,3,FALSE,N,FALSE,FALSE,N
-1018551,Herringbone Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,15343.1,6965.2,7,7,FALSE,N,FALSE,FALSE,N
-1020384,Amanda Beard Home and Event Styling LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Amanda Kistela,Madison Wolpe,23513.4,6936.0,6,2,FALSE,N,FALSE,FALSE,N
-1013500,"Neighbor Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,16523.5,6930.5,9,6,FALSE,N,FALSE,FALSE,N
-1025773,Wolfe Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,5098.0,6745.0,3,3,FALSE,N,FALSE,FALSE,N
-1011242,Unique Spaces,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,1221.0,6717.0,1,4,FALSE,N,FALSE,FALSE,N
-1017224,"Rebecca Castillo Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,9100.5,6712.4,9,5,FALSE,N,FALSE,FALSE,N
-1017716,Just the Thing Decorating,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,672.5,6688.0,2,9,FALSE,N,FALSE,FALSE,N
-1026572,West Haven Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,19286.0,6605.0,9,4,FALSE,N,FALSE,FALSE,N
-1027144,"Ducharme Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,6679.0,6580.0,2,4,FALSE,N,FALSE,FALSE,N
-1019369,Marion Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,4323.0,6577.67,3,3,FALSE,N,FALSE,FALSE,N
-1018444,Nikki Chu Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Amanda Kistela,Madison Wolpe,13842.3,6554.5,5,2,FALSE,N,FALSE,FALSE,N
-1009743,PL Hinners Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,6549.5,0,4,TRUE,N,FALSE,FALSE,N
-1036982,Desert Engineers,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,0.0,6536.08,0,2,TRUE,N,FALSE,FALSE,N
-1004584,Kimberly Becker Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,1375.0,6528.5,2,1,FALSE,N,FALSE,FALSE,N
-1014020,KB Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Vandana Kaku,Madison Wolpe,6321.0,6376.51,8,6,FALSE,N,FALSE,FALSE,N
-1025737,JANA SCHLEIF INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,6375.0,0,2,FALSE,N,FALSE,FALSE,N
-1025266,Casey Sarkin Interior Design/ Luna Inc,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Anna Hudspeth,Madison Wolpe,7330.0,6305.0,3,0,FALSE,N,FALSE,FALSE,N
-1010026,"Kevin Robert Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,2608.0,6183.0,1,6,FALSE,N,FALSE,FALSE,N
-1012901,The Noble Nest,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,6095.0,0,3,TRUE,N,FALSE,FALSE,N
-1011191,Before Your Eyes Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,6725.0,6016.26,4,6,FALSE,N,FALSE,FALSE,N
-1013716,Makr Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,7955.0,5963.98,4,4,FALSE,N,FALSE,FALSE,N
-1002785,Kim Ledlie,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,3122.0,5866.0,2,3,FALSE,N,FALSE,FALSE,N
-1000615,Jennifer Sher Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,11064.0,5810.0,6,1,FALSE,N,FALSE,FALSE,N
-1036030,Lou Paradou,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,5759.6,0,2,TRUE,N,FALSE,FALSE,N
-1035490,C.C. Burling Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,5750.0,0,2,FALSE,N,FALSE,FALSE,N
-1026378,Janelle Burns Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,4660.0,5733.0,3,2,FALSE,N,FALSE,FALSE,N
-1035975,Home Town Window Coverings,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,5617.0,0,11,TRUE,N,FALSE,FALSE,N
-1036937,Schott Country Store,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,5605.75,0,1,TRUE,N,FALSE,FALSE,N
-1012099,Kory Blum Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,10108.0,5587.75,8,1,FALSE,N,FALSE,FALSE,N
-1014608,Shayla Copas Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,2138.25,5564.11,0,4,FALSE,N,FALSE,FALSE,N
-1006611,Statements Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,8313.0,5527.5,6,6,FALSE,N,FALSE,FALSE,N
-1037419,Convive.,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,5394.28,0,2,TRUE,N,FALSE,FALSE,N
-1010520,The Idea Room,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,14917.24,5392.0,16,8,FALSE,N,FALSE,FALSE,N
-1000379,Tara Dobrec Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,2033.0,5366.0,2,4,FALSE,N,FALSE,FALSE,N
-1035805,Grace Lauren Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,5363.0,0,9,TRUE,N,FALSE,FALSE,N
-1011456,"Amy Williams Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,12139.5,5351.0,4,5,FALSE,N,FALSE,FALSE,N
-1023661,Roberts Studio Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,6790.0,5320.0,4,3,FALSE,N,FALSE,FALSE,N
-1001289,"The Style Source, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,9124.0,5270.0,4,1,FALSE,N,FALSE,FALSE,N
-1026577,"Christina Simon Studio, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,14285.0,5266.8,6,2,FALSE,N,FALSE,FALSE,N
-1019621,Aveon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,11527.0,5143.92,6,0,FALSE,N,FALSE,FALSE,N
-1019045,Christina Ackerman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,9625.0,5128.5,3,3,FALSE,N,FALSE,FALSE,N
-1022033,Lacie Grace Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,6308.0,5081.87,3,1,FALSE,N,FALSE,FALSE,N
-1034810,Tara Richards Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,5080.99,1,0,FALSE,N,FALSE,FALSE,N
-1025872,Megan Pittman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,9386.0,5045.0,3,2,FALSE,N,FALSE,FALSE,N
-1020592,Niche Design Co. LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Hana Nassri,Madison Wolpe,7695.0,4921.0,2,2,FALSE,N,FALSE,FALSE,N
-1022893,Kate Blocker Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,4825.0,4893.0,1,1,FALSE,N,FALSE,FALSE,N
-1027458,B. Parker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,1345.85,4832.68,4,0,FALSE,N,FALSE,FALSE,N
-1014807,Shauna Glenn Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,4825.0,0,2,FALSE,N,FALSE,FALSE,N
-1026847,Lindsey Mathias Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,4793.0,0,6,FALSE,N,FALSE,FALSE,N
-1022261,Holloway Design Group,DESIGN,DESIGNER_NO_SHOWROOM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,7340.2,4783.25,2,2,FALSE,N,FALSE,FALSE,N
-1015011,LA Weddings & Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,7982.2,4779.8,6,3,FALSE,N,FALSE,FALSE,N
-1023159,Rhonda Perry Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,14345.4,4776.8,12,6,FALSE,N,FALSE,FALSE,N
-1004646,Kyle Knight Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,4510.0,4710.0,2,2,FALSE,N,FALSE,FALSE,N
-1036698,Cost Plus Furniture/Studio West Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,0.0,4705.0,0,3,TRUE,N,FALSE,FALSE,N
-1004437,Hawley Design Furnishings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,150.0,4692.0,0,4,FALSE,N,FALSE,FALSE,N
-1024456,Clark Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,5830.0,4634.55,1,4,FALSE,N,FALSE,FALSE,N
-1011027,Decore Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,614.0,4628.0,2,3,FALSE,N,FALSE,FALSE,N
-1019916,sg designs houston,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,1545.0,4578.0,1,1,FALSE,N,FALSE,FALSE,N
-1038250,LIV Custom Homes & Design,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,4504.0,0,1,TRUE,N,FALSE,FALSE,N
-1036911,DiFrancesco Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,0.0,4503.75,0,3,TRUE,N,FALSE,FALSE,N
-1015521,Style and Stage LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Hana Nassri,Madison Wolpe,81.0,4483.0,1,2,FALSE,N,FALSE,FALSE,N
-1035942,Sydney Shea Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,4447.96,0,4,TRUE,N,FALSE,FALSE,N
-1023679,Veca Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,50.0,4441.0,0,2,FALSE,N,FALSE,FALSE,N
-1035308,Hillary Matthews Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,4352.0,0,3,FALSE,N,FALSE,FALSE,N
-1026796,Design with Moxie,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,4912.0,4289.0,2,4,FALSE,N,FALSE,FALSE,N
-1016482,"Marjorie Ellis Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,4268.0,0,2,FALSE,N,FALSE,FALSE,N
-1026422,Triple Heart Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,3421.75,4215.96,3,0,FALSE,N,FALSE,FALSE,N
-1015555,Studio T Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,183.0,4198.0,2,1,FALSE,N,FALSE,FALSE,N
-1036426,DreamVilla LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,4137.0,0,2,TRUE,N,FALSE,FALSE,N
-1001427,SB Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,0.0,4114.26,0,3,FALSE,N,FALSE,FALSE,N
-1017945,JS Dwellings,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,14262.1,4087.0,11,2,FALSE,N,FALSE,FALSE,N
-1016792,Elizabeth L'Esperance Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Madison Wolpe,8773.86,4030.5,5,4,FALSE,N,FALSE,FALSE,N
-1026999,Living Oak Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,1720.0,3952.7,3,5,FALSE,N,FALSE,FALSE,N
-1025359,Design Group LV,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,3875.0,1,1,FALSE,N,FALSE,FALSE,N
-1038120,Perry Homes,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,3675.0,0,2,TRUE,N,FALSE,FALSE,N
-1023343,Shawna Kuykendall Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,3662.0,0,6,FALSE,N,FALSE,FALSE,N
-1028153,"RLS Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,3662.0,0,2,TRUE,N,FALSE,FALSE,N
-1005156,"Sheila Evans Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,0.0,3657.0,0,1,FALSE,N,FALSE,FALSE,N
-1019896,Francis and Saint Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,1134.0,3649.0,0,4,FALSE,N,FALSE,FALSE,N
-1035962,Julie Williams Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Anna Hudspeth,Madison Wolpe,0.0,3611.0,0,5,TRUE,N,FALSE,FALSE,N
-1022281,Simply Inspired Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,3603.0,0,1,FALSE,N,FALSE,FALSE,N
-1035346,STUDIO Three One Four LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,3597.0,0,1,TRUE,N,FALSE,FALSE,N
-1025482,Unique Indoor,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,3517.0,0,3,TRUE,N,FALSE,FALSE,N
-1024923,Pulpan Perspective LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Kyra Williamson,Madison Wolpe,752.0,3460.0,1,5,FALSE,N,FALSE,FALSE,N
-1011041,Julie Langford Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,112.5,3450.0,0,1,FALSE,N,FALSE,FALSE,N
-1018290,Madame Butterfly Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,20696.0,3449.0,6,4,FALSE,N,FALSE,FALSE,N
-1015710,Layered Dimensions Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,15358.42,3415.0,6,1,FALSE,N,FALSE,FALSE,N
-1024272,Goulding Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,2607.72,3402.9,4,0,FALSE,N,FALSE,FALSE,N
-1035358,Wil and Faye Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Kyra Williamson,Madison Wolpe,2175.0,3400.0,1,1,FALSE,N,FALSE,FALSE,N
-1025261,Tenth House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,4112.0,3367.0,2,2,FALSE,N,FALSE,FALSE,N
-1035234,Blake Wags LLC dba BP Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,810.0,3358.26,1,1,FALSE,N,FALSE,FALSE,N
-1019118,Allie Wood Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,3160.0,3350.0,2,2,FALSE,N,FALSE,FALSE,N
-1014331,Cyndi Hopkins Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,0.0,3335.0,0,1,FALSE,N,FALSE,FALSE,N
-1024416,Jeff Luther Construction,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,7935.01,3321.0,5,1,FALSE,N,FALSE,FALSE,N
-1011533,Lauren Allyn Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Vandana Kaku,Madison Wolpe,2010.0,3318.0,2,2,FALSE,N,FALSE,FALSE,N
-1037976,Kirby Home Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Hana Nassri,Madison Wolpe,0.0,3295.0,0,2,TRUE,N,FALSE,FALSE,N
-1025170,Studio Seale Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,3591.5,3287.5,4,3,FALSE,N,FALSE,FALSE,N
-1016356,Make True Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,12694.0,3230.5,16,8,FALSE,N,FALSE,FALSE,N
-1015132,Susan Simpson Home (SC),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kimberly Myers,Madison Wolpe,3164.0,3222.5,7,3,FALSE,N,FALSE,FALSE,N
-1022914,Winteriors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,3149.0,0,2,FALSE,N,FALSE,FALSE,N
-1028114,Rockin Couture,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,3135.0,2,0,FALSE,N,FALSE,FALSE,N
-1001345,Kaki Hockersmith Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,8670.0,3121.0,2,1,FALSE,N,FALSE,FALSE,N
-1025131,Paula Dixon Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,1825.0,3100.0,1,1,FALSE,N,FALSE,FALSE,N
-1035569,Katie Johnson interior design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,3085.0,0,1,TRUE,N,FALSE,FALSE,N
-1035909,"J.T. Design Eye, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,3084.34,0,3,TRUE,N,FALSE,FALSE,N
-1013601,"Teya Cantwell Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,188.0,3055.0,1,2,FALSE,N,FALSE,FALSE,N
-1025162,Meghan Kardow Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,3050.0,0,1,FALSE,N,FALSE,FALSE,N
-1016516,Design L'Atelier,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,3621.0,3008.0,2,2,FALSE,N,FALSE,FALSE,N
-1038276,Element 321 Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,2970.0,0,1,TRUE,N,FALSE,FALSE,N
-1022715,THE DECOROOM,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,2934.0,0,5,FALSE,N,FALSE,FALSE,N
-1016111,A. Walker Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,12085.1,2903.0,8,6,FALSE,N,FALSE,FALSE,N
-1025478,Studio Park Nine,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,2863.0,0,1,FALSE,N,FALSE,FALSE,N
-1026211,Ashley Higgins Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,12179.0,2852.5,5,4,FALSE,N,FALSE,FALSE,N
-1035894,Golden Gray,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Madison Wolpe,Madison Wolpe,0.0,2850.0,0,4,TRUE,N,FALSE,FALSE,N
-1021732,SenHoma,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,2800.5,0,4,FALSE,N,FALSE,FALSE,N
-1038454,Sandalwood Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,2790.0,0,2,TRUE,N,FALSE,FALSE,N
-1019014,"Neely+Queen Design, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Hana Nassri,Madison Wolpe,0.0,2777.0,0,1,FALSE,N,FALSE,FALSE,N
-1036099,W+H Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Kyra Williamson,Madison Wolpe,0.0,2700.0,0,1,TRUE,N,FALSE,FALSE,N
-1026419,Cailey Pock Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,Kyra Williamson,Madison Wolpe,5140.0,2700.0,2,1,FALSE,N,FALSE,FALSE,N
-1015713,Holly Hickey Moore Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,2592.5,0,1,FALSE,N,FALSE,FALSE,N
-1025028,Kristen Sweek Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,2590.0,0,2,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1021934,Donna Mark Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,676.0,17422.0,1,6,FALSE,N,FALSE,FALSE,N
+1019766,Nuance Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,3175.2,17307.81,1,10,FALSE,N,FALSE,FALSE,N
+1015442,Upside Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,47259.55,17127.0,18,6,FALSE,N,FALSE,FALSE,N
+1003970,"Taylor Borsari, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,12039.5,17005.0,3,6,FALSE,N,FALSE,FALSE,N
+1027774,Chelsea Jane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3437.0,16910.84,5,5,FALSE,N,FALSE,FALSE,N
+1002539,Denise Mcgaha Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,3947.0,16700.32,1,5,FALSE,N,FALSE,FALSE,N
+1009623,"Chesterfields Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2891.0,15732.3,2,11,FALSE,N,FALSE,FALSE,N
+1009664,"M Grace at Home, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,30709.32,15302.0,20,17,FALSE,N,FALSE,FALSE,N
+1025594,Bradley Beach Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12334.77,15280.27,9,18,FALSE,N,FALSE,FALSE,N
+1025507,McLean Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,8538.0,15239.8,6,13,FALSE,N,FALSE,FALSE,N
+1017362,"Lark Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3615.0,15116.44,1,4,FALSE,N,FALSE,FALSE,N
+1013579,J Fuller Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,14519.75,0,5,FALSE,N,FALSE,FALSE,N
+1024331,Tiny Haven Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,50.0,14398.3,1,8,FALSE,N,FALSE,FALSE,N
+1019595,Kizzee Corp LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,8579.5,14358.08,9,9,FALSE,N,FALSE,FALSE,N
+1025435,Kathryn J. LeMaster Art & Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,14049.5,0,8,FALSE,N,FALSE,FALSE,N
+1015858,Wendy Williamson Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14131.15,14002.0,7,4,FALSE,N,FALSE,FALSE,N
+1035164,Bau-Haus Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,13888.0,0,2,TRUE,N,FALSE,FALSE,N
+1035355,Diana Frankowski Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,13815.75,0,8,TRUE,N,FALSE,FALSE,N
+1024150,K. Lewis Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,18838.64,13475.43,5,6,FALSE,N,FALSE,FALSE,N
+1024712,Emory Mckim Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,20831.78,13150.14,6,4,FALSE,N,FALSE,FALSE,N
+1036477,Sarah Branum interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,13089.0,0,6,TRUE,N,FALSE,FALSE,N
+1015010,Mel Bean Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,3974.91,13056.44,7,9,FALSE,N,FALSE,FALSE,N
+1036595,"Dawn Patterson Interiors, LLC.",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,13008.27,0,5,TRUE,N,FALSE,FALSE,N
+1035705,Reno Grossi Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,12868.0,0,6,TRUE,N,FALSE,FALSE,N
+1008099,Vignettes Custom Interiors/CB Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1635.0,12793.0,1,5,FALSE,N,FALSE,FALSE,N
+1016722,Edwards Interiors & Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9963.0,12777.25,4,6,FALSE,N,FALSE,FALSE,N
+1021014,Kris Betts Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,8526.5,12546.54,14,8,FALSE,N,FALSE,FALSE,N
+1024500,Hannah Sutter Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5808.5,12257.4,3,4,FALSE,N,FALSE,FALSE,N
+1022456,Lindsey Craig Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,16414.0,11551.0,5,10,FALSE,N,FALSE,FALSE,N
+1035868,Epic Contractors Inc.,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,11472.3,0,2,TRUE,N,FALSE,FALSE,N
+1025912,HOUSE OF FRIDAY,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,5751.0,11410.0,3,7,FALSE,N,FALSE,FALSE,N
+1021095,Brooke Sipe Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1368.5,11095.0,9,8,FALSE,N,FALSE,FALSE,N
+1023233,Maude Haus,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,10797.0,0,3,FALSE,N,FALSE,FALSE,N
+1020547,Jossette Droz Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1105.0,10322.15,1,10,FALSE,N,FALSE,FALSE,N
+1023694,HOMES BY HADLEY,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7469.5,10205.5,3,3,FALSE,N,FALSE,FALSE,N
+1022869,Pimell Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,9977.0,0,3,FALSE,N,FALSE,FALSE,N
+1014754,Alexis Pearl Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4659.0,9958.0,3,4,FALSE,N,FALSE,FALSE,N
+1022849,Katie Postel Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,168.0,9931.0,1,3,FALSE,N,FALSE,FALSE,N
+1020950,Marna Design Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,17456.5,9514.35,7,5,FALSE,N,FALSE,FALSE,N
+1019761,Het Hout Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,480.0,9465.0,1,3,FALSE,N,FALSE,FALSE,N
+1010662,Paradigm Texas,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,9422.0,0,2,FALSE,N,FALSE,FALSE,N
+1035128,Mary Margaret Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5255.0,9105.0,1,2,FALSE,N,FALSE,FALSE,N
+1014760,Katie Grace Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7283.0,9090.0,2,1,FALSE,N,FALSE,FALSE,N
+1015925,Curated Studio,DESIGN,DESIGN_FIRM,Group 2 High Potential,4037.0,8960.0,2,11,FALSE,N,FALSE,FALSE,N
+1003323,Dana Stringer Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,57816.3,8947.6,27,10,FALSE,N,FALSE,FALSE,N
+1022570,cottage industry,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,8921.0,0,6,FALSE,N,FALSE,FALSE,N
+1038270,"Ashley ReDesign/BRBRANDING, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,8855.0,0,1,TRUE,N,FALSE,FALSE,N
+1020643,Madison Goss Lifestyle Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,20784.51,8698.0,8,10,FALSE,N,FALSE,FALSE,N
+1012320,Canon and Dean,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,3457.0,8643.0,3,9,FALSE,N,FALSE,FALSE,N
+1026280,Phoenix Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3903.5,8519.78,4,2,FALSE,N,FALSE,FALSE,N
+1027262,Lefler Teeter Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,1245.0,8405.0,2,7,FALSE,N,FALSE,FALSE,N
+1011198,Jordan Madison Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6430.0,8325.0,3,6,FALSE,N,FALSE,FALSE,N
+1024292,Janet Baker Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1400.5,8223.8,3,5,FALSE,N,FALSE,FALSE,N
+1016094,NB Creative LLC  (dba Nataliya Borener Interiors),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3400.0,8185.0,1,2,FALSE,N,FALSE,FALSE,N
+1014085,Holly Wright,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,990.0,8178.0,1,2,FALSE,N,FALSE,FALSE,N
+1016727,Meredith Owen Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,2719.0,8155.0,1,3,FALSE,N,FALSE,FALSE,N
+1036195,Avenue Design Company,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,8057.0,0,4,TRUE,N,FALSE,FALSE,N
+1006463,Allison Burke Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,7809.0,0,4,TRUE,N,FALSE,FALSE,N
+1015516,Diamonds In The Desert,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,481.0,7681.0,3,2,FALSE,N,FALSE,FALSE,N
+1011431,Creative Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,2335.0,7670.0,2,9,FALSE,N,FALSE,FALSE,N
+1027282,"O.M. Design Group, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,878.0,7650.0,1,4,FALSE,N,FALSE,FALSE,N
+1022976,Marigold House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,18038.0,7392.0,6,3,FALSE,N,FALSE,FALSE,N
+1036339,"Enliven Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,7355.69,0,3,TRUE,N,FALSE,FALSE,N
+1023116,DuLany Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2241.0,7329.75,4,6,FALSE,N,FALSE,FALSE,N
+1023813,Interior Ideas,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,7181.0,0,4,FALSE,N,FALSE,FALSE,N
+1019850,Round Table Design Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4225.0,7175.0,1,2,FALSE,N,FALSE,FALSE,N
+1035136,NDG Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,7168.0,0,3,FALSE,N,FALSE,FALSE,N
+1018551,Herringbone Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15343.1,6965.2,7,7,FALSE,N,FALSE,FALSE,N
+1020384,Amanda Beard Home and Event Styling LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,23513.4,6936.0,6,2,FALSE,N,FALSE,FALSE,N
+1013500,"Neighbor Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,16523.5,6930.5,9,6,FALSE,N,FALSE,FALSE,N
+1025773,Wolfe Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5098.0,6745.0,3,3,FALSE,N,FALSE,FALSE,N
+1011242,Unique Spaces,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1221.0,6717.0,1,4,FALSE,N,FALSE,FALSE,N
+1017224,"Rebecca Castillo Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,9100.5,6712.4,9,5,FALSE,N,FALSE,FALSE,N
+1017716,Just the Thing Decorating,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,672.5,6688.0,2,9,FALSE,N,FALSE,FALSE,N
+1026572,West Haven Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,19286.0,6605.0,9,4,FALSE,N,FALSE,FALSE,N
+1027144,"Ducharme Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6679.0,6580.0,2,4,FALSE,N,FALSE,FALSE,N
+1019369,Marion Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4323.0,6577.67,3,3,FALSE,N,FALSE,FALSE,N
+1018444,Nikki Chu Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13842.3,6554.5,5,2,FALSE,N,FALSE,FALSE,N
+1009743,PL Hinners Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,6549.5,0,4,TRUE,N,FALSE,FALSE,N
+1036982,Desert Engineers,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,6536.08,0,2,TRUE,N,FALSE,FALSE,N
+1004584,Kimberly Becker Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1375.0,6528.5,2,1,FALSE,N,FALSE,FALSE,N
+1014020,KB Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,6321.0,6376.51,8,6,FALSE,N,FALSE,FALSE,N
+1025737,JANA SCHLEIF INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6375.0,0,2,FALSE,N,FALSE,FALSE,N
+1025266,Casey Sarkin Interior Design/ Luna Inc,DESIGN,DESIGN_FIRM,Group 2 Low Potential,7330.0,6305.0,3,0,FALSE,N,FALSE,FALSE,N
+1010026,"Kevin Robert Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2608.0,6183.0,1,6,FALSE,N,FALSE,FALSE,N
+1012901,The Noble Nest,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,6095.0,0,3,TRUE,N,FALSE,FALSE,N
+1011191,Before Your Eyes Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6725.0,6016.26,4,6,FALSE,N,FALSE,FALSE,N
+1013716,Makr Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7955.0,5963.98,4,4,FALSE,N,FALSE,FALSE,N
+1002785,Kim Ledlie,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3122.0,5866.0,2,3,FALSE,N,FALSE,FALSE,N
+1000615,Jennifer Sher Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11064.0,5810.0,6,1,FALSE,N,FALSE,FALSE,N
+1036030,Lou Paradou,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5759.6,0,2,TRUE,N,FALSE,FALSE,N
+1035490,C.C. Burling Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,5750.0,0,2,FALSE,N,FALSE,FALSE,N
+1026378,Janelle Burns Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4660.0,5733.0,3,2,FALSE,N,FALSE,FALSE,N
+1035975,Home Town Window Coverings,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5617.0,0,11,TRUE,N,FALSE,FALSE,N
+1036937,Schott Country Store,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5605.75,0,1,TRUE,N,FALSE,FALSE,N
+1012099,Kory Blum Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10108.0,5587.75,8,1,FALSE,N,FALSE,FALSE,N
+1014608,Shayla Copas Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2138.25,5564.11,0,4,FALSE,N,FALSE,FALSE,N
+1006611,Statements Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8313.0,5527.5,6,6,FALSE,N,FALSE,FALSE,N
+1037419,Convive.,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5394.28,0,2,TRUE,N,FALSE,FALSE,N
+1010520,The Idea Room,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,14917.24,5392.0,16,8,FALSE,N,FALSE,FALSE,N
+1000379,Tara Dobrec Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2033.0,5366.0,2,4,FALSE,N,FALSE,FALSE,N
+1035805,Grace Lauren Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5363.0,0,9,TRUE,N,FALSE,FALSE,N
+1011456,"Amy Williams Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12139.5,5351.0,4,5,FALSE,N,FALSE,FALSE,N
+1023661,Roberts Studio Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6790.0,5320.0,4,3,FALSE,N,FALSE,FALSE,N
+1001289,"The Style Source, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9124.0,5270.0,4,1,FALSE,N,FALSE,FALSE,N
+1026577,"Christina Simon Studio, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,14285.0,5266.8,6,2,FALSE,N,FALSE,FALSE,N
+1019621,Aveon Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11527.0,5143.92,6,0,FALSE,N,FALSE,FALSE,N
+1019045,Christina Ackerman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,9625.0,5128.5,3,3,FALSE,N,FALSE,FALSE,N
+1022033,Lacie Grace Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6308.0,5081.87,3,1,FALSE,N,FALSE,FALSE,N
+1034810,Tara Richards Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,5080.99,1,0,FALSE,N,FALSE,FALSE,N
+1025872,Megan Pittman Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,9386.0,5045.0,3,2,FALSE,N,FALSE,FALSE,N
+1020592,Niche Design Co. LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,7695.0,4921.0,2,2,FALSE,N,FALSE,FALSE,N
+1022893,Kate Blocker Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4825.0,4893.0,1,1,FALSE,N,FALSE,FALSE,N
+1027458,B. Parker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1345.85,4832.68,4,0,FALSE,N,FALSE,FALSE,N
+1014807,Shauna Glenn Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,4825.0,0,2,FALSE,N,FALSE,FALSE,N
+1026847,Lindsey Mathias Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,4793.0,0,6,FALSE,N,FALSE,FALSE,N
+1022261,Holloway Design Group,DESIGN,DESIGNER_NO_SHOWROOM,Group 2 Medium Potential,7340.2,4783.25,2,2,FALSE,N,FALSE,FALSE,N
+1015011,LA Weddings & Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7982.2,4779.8,6,3,FALSE,N,FALSE,FALSE,N
+1023159,Rhonda Perry Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,14345.4,4776.8,12,6,FALSE,N,FALSE,FALSE,N
+1004646,Kyle Knight Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4510.0,4710.0,2,2,FALSE,N,FALSE,FALSE,N
+1036698,Cost Plus Furniture/Studio West Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,0.0,4705.0,0,3,TRUE,N,FALSE,FALSE,N
+1004437,Hawley Design Furnishings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,150.0,4692.0,0,4,FALSE,N,FALSE,FALSE,N
+1024456,Clark Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5830.0,4634.55,1,4,FALSE,N,FALSE,FALSE,N
+1011027,Decore Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,614.0,4628.0,2,3,FALSE,N,FALSE,FALSE,N
+1019916,sg designs houston,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1545.0,4578.0,1,1,FALSE,N,FALSE,FALSE,N
+1038250,LIV Custom Homes & Design,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,4504.0,0,1,TRUE,N,FALSE,FALSE,N
+1036911,DiFrancesco Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,4503.75,0,3,TRUE,N,FALSE,FALSE,N
+1015521,Style and Stage LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,81.0,4483.0,1,2,FALSE,N,FALSE,FALSE,N
+1035942,Sydney Shea Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,4447.96,0,4,TRUE,N,FALSE,FALSE,N
+1023679,Veca Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,50.0,4441.0,0,2,FALSE,N,FALSE,FALSE,N
+1035308,Hillary Matthews Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,4352.0,0,3,FALSE,N,FALSE,FALSE,N
+1026796,Design with Moxie,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,4912.0,4289.0,2,4,FALSE,N,FALSE,FALSE,N
+1016482,"Marjorie Ellis Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,4268.0,0,2,FALSE,N,FALSE,FALSE,N
+1026422,Triple Heart Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3421.75,4215.96,3,0,FALSE,N,FALSE,FALSE,N
+1015555,Studio T Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,183.0,4198.0,2,1,FALSE,N,FALSE,FALSE,N
+1036426,DreamVilla LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,4137.0,0,2,TRUE,N,FALSE,FALSE,N
+1001427,SB Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,4114.26,0,3,FALSE,N,FALSE,FALSE,N
+1017945,JS Dwellings,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14262.1,4087.0,11,2,FALSE,N,FALSE,FALSE,N
+1016792,Elizabeth L'Esperance Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,8773.86,4030.5,5,4,FALSE,N,FALSE,FALSE,N
+1026999,Living Oak Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1720.0,3952.7,3,5,FALSE,N,FALSE,FALSE,N
+1025359,Design Group LV,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3875.0,1,1,FALSE,N,FALSE,FALSE,N
+1038120,Perry Homes,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,3675.0,0,2,TRUE,N,FALSE,FALSE,N
+1023343,Shawna Kuykendall Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3662.0,0,6,FALSE,N,FALSE,FALSE,N
+1028153,"RLS Designs, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,3662.0,0,2,TRUE,N,FALSE,FALSE,N
+1005156,"Sheila Evans Interiors, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3657.0,0,1,FALSE,N,FALSE,FALSE,N
+1019896,Francis and Saint Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1134.0,3649.0,0,4,FALSE,N,FALSE,FALSE,N
+1035962,Julie Williams Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,3611.0,0,5,TRUE,N,FALSE,FALSE,N
+1022281,Simply Inspired Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3603.0,0,1,FALSE,N,FALSE,FALSE,N
+1035346,STUDIO Three One Four LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,3597.0,0,1,TRUE,N,FALSE,FALSE,N
+1025482,Unique Indoor,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3517.0,0,3,TRUE,N,FALSE,FALSE,N
+1024923,Pulpan Perspective LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,752.0,3460.0,1,5,FALSE,N,FALSE,FALSE,N
+1011041,Julie Langford Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,112.5,3450.0,0,1,FALSE,N,FALSE,FALSE,N
+1018290,Madame Butterfly Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,20696.0,3449.0,6,4,FALSE,N,FALSE,FALSE,N
+1015710,Layered Dimensions Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15358.42,3415.0,6,1,FALSE,N,FALSE,FALSE,N
+1024272,Goulding Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2607.72,3402.9,4,0,FALSE,N,FALSE,FALSE,N
+1035358,Wil and Faye Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,2175.0,3400.0,1,1,FALSE,N,FALSE,FALSE,N
+1025261,Tenth House,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4112.0,3367.0,2,2,FALSE,N,FALSE,FALSE,N
+1035234,Blake Wags LLC dba BP Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,810.0,3358.26,1,1,FALSE,N,FALSE,FALSE,N
+1019118,Allie Wood Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3160.0,3350.0,2,2,FALSE,N,FALSE,FALSE,N
+1014331,Cyndi Hopkins Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3335.0,0,1,FALSE,N,FALSE,FALSE,N
+1024416,Jeff Luther Construction,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,7935.01,3321.0,5,1,FALSE,N,FALSE,FALSE,N
+1011533,Lauren Allyn Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2010.0,3318.0,2,2,FALSE,N,FALSE,FALSE,N
+1037976,Kirby Home Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3295.0,0,2,TRUE,N,FALSE,FALSE,N
+1025170,Studio Seale Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3591.5,3287.5,4,3,FALSE,N,FALSE,FALSE,N
+1016356,Make True Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,12694.0,3230.5,16,8,FALSE,N,FALSE,FALSE,N
+1015132,Susan Simpson Home (SC),DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3164.0,3222.5,7,3,FALSE,N,FALSE,FALSE,N
+1022914,Winteriors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3149.0,0,2,FALSE,N,FALSE,FALSE,N
+1028114,Rockin Couture,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3135.0,2,0,FALSE,N,FALSE,FALSE,N
+1001345,Kaki Hockersmith Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8670.0,3121.0,2,1,FALSE,N,FALSE,FALSE,N
+1025131,Paula Dixon Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1825.0,3100.0,1,1,FALSE,N,FALSE,FALSE,N
+1035569,Katie Johnson interior design,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3085.0,0,1,TRUE,N,FALSE,FALSE,N
+1035909,"J.T. Design Eye, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3084.34,0,3,TRUE,N,FALSE,FALSE,N
+1013601,"Teya Cantwell Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,188.0,3055.0,1,2,FALSE,N,FALSE,FALSE,N
+1025162,Meghan Kardow Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3050.0,0,1,FALSE,N,FALSE,FALSE,N
+1016516,Design L'Atelier,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3621.0,3008.0,2,2,FALSE,N,FALSE,FALSE,N
+1038276,Element 321 Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2970.0,0,1,TRUE,N,FALSE,FALSE,N
+1022715,THE DECOROOM,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2934.0,0,5,FALSE,N,FALSE,FALSE,N
+1016111,A. Walker Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12085.1,2903.0,8,6,FALSE,N,FALSE,FALSE,N
+1025478,Studio Park Nine,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2863.0,0,1,FALSE,N,FALSE,FALSE,N
+1026211,Ashley Higgins Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,12179.0,2852.5,5,4,FALSE,N,FALSE,FALSE,N
+1035894,Golden Gray,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,2850.0,0,4,TRUE,N,FALSE,FALSE,N
+1021732,SenHoma,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,2800.5,0,4,FALSE,N,FALSE,FALSE,N
+1038454,Sandalwood Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2790.0,0,2,TRUE,N,FALSE,FALSE,N
+1019014,"Neely+Queen Design, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2777.0,0,1,FALSE,N,FALSE,FALSE,N
+1036099,W+H Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2700.0,0,1,TRUE,N,FALSE,FALSE,N
+1026419,Cailey Pock Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Low Potential,5140.0,2700.0,2,1,FALSE,N,FALSE,FALSE,N
+1015713,Holly Hickey Moore Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2592.5,0,1,FALSE,N,FALSE,FALSE,N
+1025028,Kristen Sweek Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2590.0,0,2,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 134 accounts | $64164.81 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1004388,"Jeffco, Inc-La Z Boy",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,4250.0,2474.0,5,4,FALSE,N,FALSE,FALSE,N
-1037182,"B-Squared Properties and Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,2470.0,0,2,TRUE,N,FALSE,FALSE,N
-1036022,Andrea Perry Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,2330.0,0,1,TRUE,N,FALSE,FALSE,N
-1024110,Gina Fray Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,2205.0,0,1,TRUE,N,FALSE,FALSE,N
-1035324,Two Ten Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,2110.0,0,1,TRUE,N,FALSE,FALSE,N
-1037207,Home Style by Jamie,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,2091.0,0,1,TRUE,N,FALSE,FALSE,N
-1036106,Room at Haus of Eden Corp DBA Form & Furnish,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,2037.93,0,8,TRUE,N,FALSE,FALSE,N
-1024956,Sunset Home and Patio,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,1961.0,0,3,FALSE,N,FALSE,FALSE,N
-1003182,Designer's Brew,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,11884.4,1950.5,7,2,FALSE,N,FALSE,FALSE,N
-1038248,"Dixon and Dixon Design Group, LLC Dixon & Odell Interior Des",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1777.0,0,3,TRUE,N,FALSE,FALSE,N
-1036167,Design Guild Studio llc,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,1773.0,0,1,TRUE,N,FALSE,FALSE,N
-1037879,Orgnx Moderism,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1761.0,0,2,TRUE,N,FALSE,FALSE,N
-1009861,Woodbine Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Vandana Kaku,Madison Wolpe,560.0,1749.72,1,4,FALSE,N,FALSE,FALSE,N
-1036024,Callie Windle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1683.0,0,1,TRUE,N,FALSE,FALSE,N
-1037113,French & French Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Madison Wolpe,0.0,1599.4,0,4,TRUE,N,FALSE,FALSE,N
-1035407,MMP OK,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,1570.0,0,2,TRUE,N,FALSE,FALSE,N
-1028052,Fox Marketing and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,1556.0,0,2,TRUE,N,FALSE,FALSE,N
-1035835,"Anthem Interiors, LLC",DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,1515.0,0,2,TRUE,N,FALSE,FALSE,N
-1036966,Erin Wright Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1515.0,0,1,TRUE,N,FALSE,FALSE,N
-1036122,Abbey Duncan Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1489.5,0,2,TRUE,N,FALSE,FALSE,N
-1021229,Oak Street Holdings,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Kyra Williamson,Madison Wolpe,695.0,1460.0,2,5,FALSE,N,FALSE,FALSE,N
-1003708,Hess Furniture Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,1440.0,0,3,FALSE,N,FALSE,FALSE,N
-1002360,Parlours,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,1352.0,1328.75,1,1,FALSE,N,FALSE,FALSE,N
-1035789,Hand and Heart,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,1260.0,0,1,TRUE,N,FALSE,FALSE,N
-1036472,Kate Longley Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,1215.0,0,1,TRUE,N,FALSE,FALSE,N
-1036665,Ravenhouse Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,1207.4,0,3,TRUE,N,FALSE,FALSE,N
-1036416,Indigo Interiors(AZ),DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1180.0,0,1,TRUE,N,FALSE,FALSE,N
-1019801,"The Vibe Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,1085.0,0,2,FALSE,N,FALSE,FALSE,N
-1035466,Platinum Ranches,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,1084.4,0,2,TRUE,N,FALSE,FALSE,N
-1037451,Nolen Homes & Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,1060.0,0,1,TRUE,N,FALSE,FALSE,N
-1026634,"Park Avenue Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,1037.0,0,1,TRUE,N,FALSE,FALSE,N
-1003382,Malooly's Flooring Company,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,998.5,0,2,FALSE,N,FALSE,FALSE,N
-1018941,Reverie Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,950.5,0,1,TRUE,N,FALSE,FALSE,N
-1036188,Voltaire Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,914.91,0,3,TRUE,N,FALSE,FALSE,N
-1021715,"Fiesta, The Whimsical Corp",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Madison Wolpe,Madison Wolpe,0.0,823.0,0,1,FALSE,N,FALSE,FALSE,N
-1027202,Marlo Daubs Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,755.0,0,1,TRUE,N,FALSE,FALSE,N
-1036692,CHM Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,677.5,0,2,TRUE,N,FALSE,FALSE,N
-1027302,LLG Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,672.0,0,3,TRUE,N,FALSE,FALSE,N
-1035738,Carrie Todd Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,644.3,0,3,TRUE,N,FALSE,FALSE,N
-1003434,Hillsons On Main,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kyra Williamson,Madison Wolpe,605.0,629.0,0,1,FALSE,N,FALSE,FALSE,N
-1007607,The Design Source,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Kyra Williamson,Madison Wolpe,0.0,620.0,0,1,FALSE,N,FALSE,FALSE,N
-1036447,Tower Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,610.0,0,1,TRUE,N,FALSE,FALSE,N
-1038066,"Bruce Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,525.0,0,1,TRUE,N,FALSE,FALSE,N
-1038432,Proximity Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Anna Hudspeth,Madison Wolpe,0.0,500.0,0,1,TRUE,N,FALSE,FALSE,N
-1036402,Paige Woolbright Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,475.0,0,1,TRUE,N,FALSE,FALSE,N
-1017897,Le Vivant E320 LLC DBA DH Design House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Anna Hudspeth,Madison Wolpe,0.0,445.0,0,1,FALSE,N,FALSE,FALSE,N
-1036570,Neutra Design Studio/Minimal Construction LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,421.0,0,1,TRUE,N,FALSE,FALSE,N
-1035865,LEC Unique Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,380.0,0,1,TRUE,N,FALSE,FALSE,N
-1035506,Sandra Siegel Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,370.0,0,1,TRUE,N,FALSE,FALSE,N
-1024926,"Hellquist Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,349.5,0,2,TRUE,N,FALSE,FALSE,N
-1037104,Laura Cate Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,324.0,0,1,TRUE,N,FALSE,FALSE,N
-1035454,Haus Collective ATX,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,175.0,0,0,TRUE,N,FALSE,FALSE,N
-1011945,Southwest Mattress,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,1255.0,175.0,2,1,FALSE,N,FALSE,FALSE,N
-1027517,Evensen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,157.0,0,1,TRUE,N,FALSE,FALSE,N
-1035663,CWDesigns,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,138.0,0,1,TRUE,N,FALSE,FALSE,N
-1026115,Farmhouse on Main Street,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,116.0,0,1,TRUE,N,FALSE,FALSE,N
-1036014,Acanthus Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,100.0,0,0,TRUE,N,FALSE,FALSE,N
-1036031,WILD JUNIPER STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,94.0,0,1,TRUE,N,FALSE,FALSE,N
-1027129,Martha Odell Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Vandana Kaku,Madison Wolpe,0.0,67.5,0,0,TRUE,N,FALSE,FALSE,N
-1035092,Galloway Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,50.0,0,0,TRUE,N,FALSE,FALSE,N
-1036441,Calla Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
-1007843,Beth Cohen Design Office,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
-1035958,Paige Arnold Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Anna Hudspeth,Madison Wolpe,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
-1003130,Heenan's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,855.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001988,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Amanda Kistela,Madison Wolpe,3928.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1038530,Discount Carpet Brokers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lisa Lowder,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1027353,Oakstreet Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Marti Hovater,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1002070,Sowell's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,543.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1018734,Kaskas Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006224,"James & James, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,17793.1,0.0,37,0,FALSE,N,FALSE,FALSE,N
-1003368,Grays Home Fashion Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,1274.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1035107,Dream Design Build LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1034833,KMayhorn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035245,Virginia Turner ID,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027676,A Designed Habit,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027811,Lightly Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027944,CLE Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1035018,Emily Lauren Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027406,Atelier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1024268,AZinterior DBA RUG TREASURES,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023543,Lyn Ranch LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025490,3R Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026527,TATE studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026189,Corporate Interior Systems-DUPL USE 1026448,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026636,Fig Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1027956,Enlightened Curated Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1022790,Black and White Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023953,Direct Consulting & Purchasing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025001,Noma Design Studio/ CC&CO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007997,CH Interior Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,3371.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1005149,Nu Area,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004540,Chesapeake Interiors Two LP dba The Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,6184.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1003467,"Mister Robert, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011707,Rugs and More,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021165,THERE'S NO PLACE LIKE HOME FUR,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015334,The Collective Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Madison Wolpe,5513.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1009118,Hyde Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1020941,Fife Design Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022166,Haus of Sabo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021862,K&N Interior Fabrics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022675,"Business Interiors, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026761,"Metamorphosis, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,1056.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1036256,Nicole Dubree Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1007516,ME Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009065,Johnson's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,609.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1036208,Bex Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036175,DesignsbySimoni LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036166,Reese & Co Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036119,Britt McKee Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036193,Collected Design Studio/HHR Operating,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035853,Styled By Rainie,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035669,Melius Llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035473,Emily Virginia Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035492,Vivre home styling,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035861,Stacey Yezek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035842,Cindy Sontag Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035928,Tanya Taylor Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036158,HORINE GROUP LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036695,Lopez Watts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036227,Cameron Barker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036467,"Sanders Furniture Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036626,Lauren Henderson Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036394,Harris Sanders Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036337,Curated Impact Design Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036316,Krystal Cooper Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1036265,Whitford Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037223,Something Kindred Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036650,"Wingrove Designs, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036768,Citrine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036728,Kristen Fegale Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037880,Nicole Archer Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037045,Habitat Modern Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1004170,AB Design Elements,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,-8.5,0,0,TRUE,N,FALSE,FALSE,N
-1036784,Toon Co Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,-34.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1004388,"Jeffco, Inc-La Z Boy",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,4250.0,2474.0,5,4,FALSE,N,FALSE,FALSE,N
+1037182,"B-Squared Properties and Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2470.0,0,2,TRUE,N,FALSE,FALSE,N
+1036022,Andrea Perry Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2330.0,0,1,TRUE,N,FALSE,FALSE,N
+1024110,Gina Fray Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,2205.0,0,1,TRUE,N,FALSE,FALSE,N
+1035324,Two Ten Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2110.0,0,1,TRUE,N,FALSE,FALSE,N
+1037207,Home Style by Jamie,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2091.0,0,1,TRUE,N,FALSE,FALSE,N
+1036106,Room at Haus of Eden Corp DBA Form & Furnish,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2037.93,0,8,TRUE,N,FALSE,FALSE,N
+1024956,Sunset Home and Patio,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1961.0,0,3,FALSE,N,FALSE,FALSE,N
+1003182,Designer's Brew,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11884.4,1950.5,7,2,FALSE,N,FALSE,FALSE,N
+1038248,"Dixon and Dixon Design Group, LLC Dixon & Odell Interior Des",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1777.0,0,3,TRUE,N,FALSE,FALSE,N
+1036167,Design Guild Studio llc,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1773.0,0,1,TRUE,N,FALSE,FALSE,N
+1037879,Orgnx Moderism,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1761.0,0,2,TRUE,N,FALSE,FALSE,N
+1009861,Woodbine Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,560.0,1749.72,1,4,FALSE,N,FALSE,FALSE,N
+1036024,Callie Windle Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1683.0,0,1,TRUE,N,FALSE,FALSE,N
+1037113,French & French Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1599.4,0,4,TRUE,N,FALSE,FALSE,N
+1035407,MMP OK,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1570.0,0,2,TRUE,N,FALSE,FALSE,N
+1028052,Fox Marketing and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1556.0,0,2,TRUE,N,FALSE,FALSE,N
+1035835,"Anthem Interiors, LLC",DESIGN,DESIGNER_NO_SHOWROOM,Group 3 High Potential,0.0,1515.0,0,2,TRUE,N,FALSE,FALSE,N
+1036966,Erin Wright Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1515.0,0,1,TRUE,N,FALSE,FALSE,N
+1036122,Abbey Duncan Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1489.5,0,2,TRUE,N,FALSE,FALSE,N
+1021229,Oak Street Holdings,RETAIL,SINGLE_LOCATION,Group 3 High Potential,695.0,1460.0,2,5,FALSE,N,FALSE,FALSE,N
+1003708,Hess Furniture Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1440.0,0,3,FALSE,N,FALSE,FALSE,N
+1002360,Parlours,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1352.0,1328.75,1,1,FALSE,N,FALSE,FALSE,N
+1035789,Hand and Heart,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1260.0,0,1,TRUE,N,FALSE,FALSE,N
+1036472,Kate Longley Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1215.0,0,1,TRUE,N,FALSE,FALSE,N
+1036665,Ravenhouse Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1207.4,0,3,TRUE,N,FALSE,FALSE,N
+1036416,Indigo Interiors(AZ),DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1180.0,0,1,TRUE,N,FALSE,FALSE,N
+1019801,"The Vibe Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1085.0,0,2,FALSE,N,FALSE,FALSE,N
+1035466,Platinum Ranches,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1084.4,0,2,TRUE,N,FALSE,FALSE,N
+1037451,Nolen Homes & Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1060.0,0,1,TRUE,N,FALSE,FALSE,N
+1026634,"Park Avenue Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1037.0,0,1,TRUE,N,FALSE,FALSE,N
+1003382,Malooly's Flooring Company,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,998.5,0,2,FALSE,N,FALSE,FALSE,N
+1018941,Reverie Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,950.5,0,1,TRUE,N,FALSE,FALSE,N
+1036188,Voltaire Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,914.91,0,3,TRUE,N,FALSE,FALSE,N
+1021715,"Fiesta, The Whimsical Corp",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,823.0,0,1,FALSE,N,FALSE,FALSE,N
+1027202,Marlo Daubs Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,755.0,0,1,TRUE,N,FALSE,FALSE,N
+1036692,CHM Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,677.5,0,2,TRUE,N,FALSE,FALSE,N
+1027302,LLG Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,672.0,0,3,TRUE,N,FALSE,FALSE,N
+1035738,Carrie Todd Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,644.3,0,3,TRUE,N,FALSE,FALSE,N
+1003434,Hillsons On Main,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,605.0,629.0,0,1,FALSE,N,FALSE,FALSE,N
+1007607,The Design Source,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,620.0,0,1,FALSE,N,FALSE,FALSE,N
+1036447,Tower Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,610.0,0,1,TRUE,N,FALSE,FALSE,N
+1038066,"Bruce Interiors, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,525.0,0,1,TRUE,N,FALSE,FALSE,N
+1038432,Proximity Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,500.0,0,1,TRUE,N,FALSE,FALSE,N
+1036402,Paige Woolbright Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,475.0,0,1,TRUE,N,FALSE,FALSE,N
+1017897,Le Vivant E320 LLC DBA DH Design House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,445.0,0,1,FALSE,N,FALSE,FALSE,N
+1036570,Neutra Design Studio/Minimal Construction LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,421.0,0,1,TRUE,N,FALSE,FALSE,N
+1035865,LEC Unique Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,380.0,0,1,TRUE,N,FALSE,FALSE,N
+1035506,Sandra Siegel Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,370.0,0,1,TRUE,N,FALSE,FALSE,N
+1024926,"Hellquist Interiors, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,349.5,0,2,TRUE,N,FALSE,FALSE,N
+1037104,Laura Cate Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,324.0,0,1,TRUE,N,FALSE,FALSE,N
+1035454,Haus Collective ATX,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,175.0,0,0,TRUE,N,FALSE,FALSE,N
+1011945,Southwest Mattress,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1255.0,175.0,2,1,FALSE,N,FALSE,FALSE,N
+1027517,Evensen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,157.0,0,1,TRUE,N,FALSE,FALSE,N
+1035663,CWDesigns,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,138.0,0,1,TRUE,N,FALSE,FALSE,N
+1026115,Farmhouse on Main Street,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,116.0,0,1,TRUE,N,FALSE,FALSE,N
+1036014,Acanthus Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,100.0,0,0,TRUE,N,FALSE,FALSE,N
+1036031,WILD JUNIPER STUDIO,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,94.0,0,1,TRUE,N,FALSE,FALSE,N
+1027129,Martha Odell Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,67.5,0,0,TRUE,N,FALSE,FALSE,N
+1035092,Galloway Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,50.0,0,0,TRUE,N,FALSE,FALSE,N
+1036441,Calla Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1007843,Beth Cohen Design Office,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1035958,Paige Arnold Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1003130,Heenan's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,855.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001988,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3928.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1038530,Discount Carpet Brokers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1027353,Oakstreet Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002070,Sowell's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,543.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1018734,Kaskas Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006224,"James & James, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,17793.1,0.0,37,0,FALSE,N,FALSE,FALSE,N
+1003368,Grays Home Fashion Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1274.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1035107,Dream Design Build LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1034833,KMayhorn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035245,Virginia Turner ID,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027676,A Designed Habit,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027811,Lightly Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027944,CLE Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035018,Emily Lauren Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027406,Atelier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024268,AZinterior DBA RUG TREASURES,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023543,Lyn Ranch LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025490,3R Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026527,TATE studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026189,Corporate Interior Systems-DUPL USE 1026448,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026636,Fig Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027956,Enlightened Curated Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022790,Black and White Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023953,Direct Consulting & Purchasing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025001,Noma Design Studio/ CC&CO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007997,CH Interior Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3371.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005149,Nu Area,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004540,Chesapeake Interiors Two LP dba The Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6184.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1003467,"Mister Robert, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011707,Rugs and More,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021165,THERE'S NO PLACE LIKE HOME FUR,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015334,The Collective Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5513.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1009118,Hyde Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1020941,Fife Design Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022166,Haus of Sabo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021862,K&N Interior Fabrics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022675,"Business Interiors, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026761,"Metamorphosis, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1056.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1036256,Nicole Dubree Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1007516,ME Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009065,Johnson's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,609.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1036208,Bex Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036175,DesignsbySimoni LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036166,Reese & Co Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036119,Britt McKee Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036193,Collected Design Studio/HHR Operating,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035853,Styled By Rainie,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035669,Melius Llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035473,Emily Virginia Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035492,Vivre home styling,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035861,Stacey Yezek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035842,Cindy Sontag Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035928,Tanya Taylor Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036158,HORINE GROUP LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036695,Lopez Watts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036227,Cameron Barker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036467,"Sanders Furniture Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036626,Lauren Henderson Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036394,Harris Sanders Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036337,Curated Impact Design Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036316,Krystal Cooper Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036265,Whitford Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037223,Something Kindred Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036650,"Wingrove Designs, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036768,Citrine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036728,Kristen Fegale Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037880,Nicole Archer Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037045,Habitat Modern Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004170,AB Design Elements,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,-8.5,0,0,TRUE,N,FALSE,FALSE,N
+1036784,Toon Co Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,-34.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 2421 total accounts,,,,,,,,,,,,,,,
@@ -2807,75 +2807,75 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 70 accounts (42 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1022224,Wayfinder Design LLC,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,29435.5,0.0,8,0,FALSE,Y,FALSE,TRUE,N
-1006224,"James & James, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,17793.1,0.0,37,0,FALSE,N,FALSE,FALSE,N
-1004540,Chesapeake Interiors Two LP dba The Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,6184.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1015334,The Collective Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Vandana Kaku,Madison Wolpe,5513.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1001988,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Amanda Kistela,Madison Wolpe,3928.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1007997,CH Interior Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,3371.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1003368,Grays Home Fashion Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,1274.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1026761,"Metamorphosis, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,1056.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003130,Heenan's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,855.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009065,Johnson's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,609.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002070,Sowell's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,543.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026636,Fig Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1027353,Oakstreet Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Marti Hovater,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038530,Discount Carpet Brokers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lisa Lowder,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1009118,Hyde Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1011707,Rugs and More,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018734,Kaskas Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020941,Fife Design Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021165,THERE'S NO PLACE LIKE HOME FUR,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005149,Nu Area,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007516,ME Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003467,"Mister Robert, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022675,"Business Interiors, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022166,Haus of Sabo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021862,K&N Interior Fabrics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022790,Black and White Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025001,Noma Design Studio/ CC&CO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023543,Lyn Ranch LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023953,Direct Consulting & Purchasing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024268,AZinterior DBA RUG TREASURES,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026527,TATE studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026189,Corporate Interior Systems-DUPL USE 1026448,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Anna Hudspeth,Madison Wolpe,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025490,3R Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027406,Atelier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027676,A Designed Habit,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027811,Lightly Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027944,CLE Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1027956,Enlightened Curated Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1034833,KMayhorn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035018,Emily Lauren Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035107,Dream Design Build LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1035245,Virginia Turner ID,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035473,Emily Virginia Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035492,Vivre home styling,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035669,Melius Llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035842,Cindy Sontag Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035853,Styled By Rainie,DESIGN,DESIGN_FIRM,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035861,Stacey Yezek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035928,Tanya Taylor Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Madison Wolpe,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036119,Britt McKee Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036158,HORINE GROUP LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036166,Reese & Co Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036175,DesignsbySimoni LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036193,Collected Design Studio/HHR Operating,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036208,Bex Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036227,Cameron Barker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036256,Nicole Dubree Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036265,Whitford Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036316,Krystal Cooper Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1036337,Curated Impact Design Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Hana Nassri,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036394,Harris Sanders Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Vandana Kaku,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036467,"Sanders Furniture Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036626,Lauren Henderson Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036650,"Wingrove Designs, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036695,Lopez Watts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036728,Kristen Fegale Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036768,Citrine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037045,Habitat Modern Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037223,Something Kindred Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037880,Nicole Archer Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Kyra Williamson,Madison Wolpe,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1022224,Wayfinder Design LLC,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,29435.5,0.0,8,0,FALSE,Y,FALSE,TRUE,N
+1006224,"James & James, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,17793.1,0.0,37,0,FALSE,N,FALSE,FALSE,N
+1004540,Chesapeake Interiors Two LP dba The Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6184.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1015334,The Collective Outdoors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5513.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1001988,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3928.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1007997,CH Interior Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3371.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1003368,Grays Home Fashion Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1274.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026761,"Metamorphosis, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1056.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003130,Heenan's Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,855.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1009065,Johnson's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,609.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002070,Sowell's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,543.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026636,Fig Modern,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027353,Oakstreet Shoppe,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038530,Discount Carpet Brokers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1009118,Hyde Park Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1011707,Rugs and More,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018734,Kaskas Rug Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020941,Fife Design Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021165,THERE'S NO PLACE LIKE HOME FUR,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005149,Nu Area,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007516,ME Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003467,"Mister Robert, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022675,"Business Interiors, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022166,Haus of Sabo,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021862,K&N Interior Fabrics,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022790,Black and White Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025001,Noma Design Studio/ CC&CO,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023543,Lyn Ranch LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023953,Direct Consulting & Purchasing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024268,AZinterior DBA RUG TREASURES,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026527,TATE studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026189,Corporate Interior Systems-DUPL USE 1026448,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025490,3R Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027406,Atelier Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027676,A Designed Habit,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027811,Lightly Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027944,CLE Studio LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1027956,Enlightened Curated Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1034833,KMayhorn Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035018,Emily Lauren Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035107,Dream Design Build LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1035245,Virginia Turner ID,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035473,Emily Virginia Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035492,Vivre home styling,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035669,Melius Llc,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035842,Cindy Sontag Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035853,Styled By Rainie,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035861,Stacey Yezek Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035928,Tanya Taylor Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036119,Britt McKee Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036158,HORINE GROUP LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036166,Reese & Co Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036175,DesignsbySimoni LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036193,Collected Design Studio/HHR Operating,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036208,Bex Collective,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036227,Cameron Barker Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036256,Nicole Dubree Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036265,Whitford Studios,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036316,Krystal Cooper Interior Design LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1036337,Curated Impact Design Consulting,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036394,Harris Sanders Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036467,"Sanders Furniture Designs, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036626,Lauren Henderson Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036650,"Wingrove Designs, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036695,Lopez Watts Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036728,Kristen Fegale Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036768,Citrine Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037045,Habitat Modern Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037223,Something Kindred Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037880,Nicole Archer Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

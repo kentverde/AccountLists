@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Adam Paurowski,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -19,20 +19,20 @@ Totals,3,121755.02,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $123132.02 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035206,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,Adam Paurowski,Adam Paurowski,23659.0,123132.02,7,8,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035206,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,23659.0,123132.02,7,8,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 2 accounts | $-1377.00 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Adam Paurowski,Adam Paurowski,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Adam Paurowski,Adam Paurowski,0.0,-1377.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,-1377.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 1 accounts (1 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Adam Paurowski,Adam Paurowski,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

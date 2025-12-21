@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Amelia Wall,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -18,6 +18,6 @@ Totals,1,267631.85,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $267631.85 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1003794,Amazon.Com (Dropship),E-TAILER,MASS,Group 1 Medium Potential,Amelia Wall,Amelia Wall,505662.63,267631.85,3075,1814,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003794,Amazon.Com (Dropship),E-TAILER,MASS,Group 1 Medium Potential,505662.63,267631.85,3075,1814,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

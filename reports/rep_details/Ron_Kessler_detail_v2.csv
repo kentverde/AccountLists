@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Ron Kessler,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:52,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -24,132 +24,132 @@ Totals,114,1098787.02,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 20 accounts | $612685.05 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1008203,Designs on Madison,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,48861.74,54047.38,27,39,FALSE,N,FALSE,FALSE,N
-1009771,Ellwood Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,16318.85,49136.72,9,14,FALSE,N,FALSE,FALSE,N
-1012441,"Surround In Design, OH",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Ron Kessler,Ron Kessler,68471.5,42310.0,53,52,FALSE,N,FALSE,FALSE,N
-1005965,Design Trade Solutions,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Ron Kessler,Ron Kessler,38947.2,39919.37,31,33,FALSE,N,FALSE,FALSE,N
-1008023,Trove Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Ron Kessler,Ron Kessler,26729.14,39028.6,29,38,FALSE,N,FALSE,FALSE,N
-1011048,Shine Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ron Kessler,Ron Kessler,43602.2,33739.1,40,42,FALSE,N,FALSE,FALSE,N
-1002650,"Via Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,11003.49,32191.35,18,25,FALSE,N,FALSE,FALSE,N
-1000301,Hagopian World Of Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Ron Kessler,Ron Kessler,20668.0,29464.64,15,23,FALSE,N,FALSE,FALSE,N
-1000921,Dwellings (MI),RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ron Kessler,Ron Kessler,245.0,29350.0,2,8,FALSE,N,FALSE,FALSE,N
-1019554,SB Home Staging and Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,11354.7,29223.85,10,22,FALSE,N,FALSE,FALSE,N
-1007969,The Quiet Moose and Compass Interiors,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Ron Kessler,Ron Kessler,32579.85,28497.76,31,38,FALSE,N,FALSE,FALSE,N
-1011214,KP Designs and Associates,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Ron Kessler,Ron Kessler,41443.0,27730.0,45,36,FALSE,N,FALSE,FALSE,N
-1007096,J Gauker Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,18619.5,26012.0,15,17,FALSE,N,FALSE,FALSE,N
-1012472,Jean Stoffer Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ron Kessler,Ron Kessler,26846.54,25657.0,14,8,FALSE,N,FALSE,FALSE,N
-1019705,Raye Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Ron Kessler,Ron Kessler,10965.0,23815.0,20,21,FALSE,N,FALSE,FALSE,N
-1002023,John Kirk Furniture Galleries,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ron Kessler,Ron Kessler,11321.0,23542.6,9,21,FALSE,N,FALSE,FALSE,N
-1018522,Parallel Design Group,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ron Kessler,Ron Kessler,50532.0,20706.8,30,16,FALSE,N,FALSE,FALSE,N
-1000475,Home Interiors Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Ron Kessler,Ron Kessler,29069.06,20240.5,46,31,FALSE,N,FALSE,FALSE,N
-1018919,Tiffany Skilling Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Ron Kessler,Ron Kessler,51391.17,19061.78,19,4,FALSE,N,FALSE,FALSE,N
-1001920,The Home Studio,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Ron Kessler,Ron Kessler,5495.0,19010.6,3,19,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1008203,Designs on Madison,DESIGN,DESIGN_FIRM,Group 1 High Potential,48861.74,54047.38,27,39,FALSE,N,FALSE,FALSE,N
+1009771,Ellwood Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,16318.85,49136.72,9,14,FALSE,N,FALSE,FALSE,N
+1012441,"Surround In Design, OH",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,68471.5,42310.0,53,52,FALSE,N,FALSE,FALSE,N
+1005965,Design Trade Solutions,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,38947.2,39919.37,31,33,FALSE,N,FALSE,FALSE,N
+1008023,Trove Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,26729.14,39028.6,29,38,FALSE,N,FALSE,FALSE,N
+1011048,Shine Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,43602.2,33739.1,40,42,FALSE,N,FALSE,FALSE,N
+1002650,"Via Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,11003.49,32191.35,18,25,FALSE,N,FALSE,FALSE,N
+1000301,Hagopian World Of Rugs,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,20668.0,29464.64,15,23,FALSE,N,FALSE,FALSE,N
+1000921,Dwellings (MI),RETAIL,SINGLE_LOCATION,Group 1 High Potential,245.0,29350.0,2,8,FALSE,N,FALSE,FALSE,N
+1019554,SB Home Staging and Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,11354.7,29223.85,10,22,FALSE,N,FALSE,FALSE,N
+1007969,The Quiet Moose and Compass Interiors,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,32579.85,28497.76,31,38,FALSE,N,FALSE,FALSE,N
+1011214,KP Designs and Associates,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,41443.0,27730.0,45,36,FALSE,N,FALSE,FALSE,N
+1007096,J Gauker Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,18619.5,26012.0,15,17,FALSE,N,FALSE,FALSE,N
+1012472,Jean Stoffer Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,26846.54,25657.0,14,8,FALSE,N,FALSE,FALSE,N
+1019705,Raye Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,10965.0,23815.0,20,21,FALSE,N,FALSE,FALSE,N
+1002023,John Kirk Furniture Galleries,RETAIL,SINGLE_LOCATION,Group 1 High Potential,11321.0,23542.6,9,21,FALSE,N,FALSE,FALSE,N
+1018522,Parallel Design Group,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,50532.0,20706.8,30,16,FALSE,N,FALSE,FALSE,N
+1000475,Home Interiors Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,29069.06,20240.5,46,31,FALSE,N,FALSE,FALSE,N
+1018919,Tiffany Skilling Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,51391.17,19061.78,19,4,FALSE,N,FALSE,FALSE,N
+1001920,The Home Studio,RETAIL,SINGLE_LOCATION,Group 1 High Potential,5495.0,19010.6,3,19,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 58 accounts | $467046.61 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1021640,Gardella Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,17095.34,17568.5,9,11,FALSE,N,FALSE,FALSE,N
-1002119,"Cri Interiors, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,25105.53,16718.12,15,13,FALSE,N,FALSE,FALSE,N
-1011680,"Design 2, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,15634.0,14830.5,19,10,FALSE,N,FALSE,FALSE,N
-1002008,Benchmark Wood Studio Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ron Kessler,Ron Kessler,5309.75,14100.44,7,13,FALSE,N,FALSE,FALSE,N
-1020373,DMC Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,0.0,13983.0,0,4,FALSE,N,FALSE,FALSE,N
-1001556,Acquisitions For The Home,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ron Kessler,Ron Kessler,7041.0,13333.91,14,22,FALSE,N,FALSE,FALSE,N
-1009536,"Designs Unlimited Int., Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,0.0,13040.48,0,2,FALSE,N,FALSE,FALSE,N
-1012256,Renee Guthrie Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,13925.9,13038.0,11,17,FALSE,N,FALSE,FALSE,N
-1000678,Klingman's Furniture Company,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,9967.0,12921.2,8,11,FALSE,N,FALSE,FALSE,N
-1023617,North + Birch,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ron Kessler,Ron Kessler,3795.5,12913.0,2,8,FALSE,N,FALSE,FALSE,N
-1010190,Kelly Hansen Interiors/State Street Blinds&Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,10000.9,12264.89,11,11,FALSE,N,FALSE,FALSE,N
-1021317,JD Home,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,5842.0,12243.1,4,15,FALSE,N,FALSE,FALSE,N
-1012228,Watson's of Cincinnati,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14309.3,11912.14,17,12,FALSE,N,FALSE,FALSE,N
-1011437,Francesca Owings Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,27520.5,11849.0,13,8,FALSE,N,FALSE,FALSE,N
-1002113,Copper Creek Canyon,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14828.0,10403.0,6,5,FALSE,N,FALSE,FALSE,N
-1020343,Werbrichs Landscaping,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Ron Kessler,Ron Kessler,11683.6,10138.59,8,9,FALSE,N,FALSE,FALSE,N
-1009329,Cloth and Kind,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,460.0,10061.0,1,2,FALSE,N,FALSE,FALSE,N
-1010825,Designs to the Nth Degree,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,15180.5,9641.2,21,14,FALSE,N,FALSE,FALSE,N
-1006937,Crimson Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,33181.8,9577.6,34,14,FALSE,N,FALSE,FALSE,N
-1015589,Meg Corley Premier Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,18752.67,9315.09,14,3,FALSE,N,FALSE,FALSE,N
-1009279,"Everything Home, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,9614.6,9004.13,10,16,FALSE,N,FALSE,FALSE,N
-1024663,Greene & Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,16253.4,8512.8,9,10,FALSE,N,FALSE,FALSE,N
-1003478,Urban Styles,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,5844.5,8504.0,6,11,FALSE,N,FALSE,FALSE,N
-1013156,"Direct Plus, Inc",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,2535.0,8478.0,2,7,FALSE,N,FALSE,FALSE,N
-1004640,"Rectangles, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,12537.5,8374.1,26,17,FALSE,N,FALSE,FALSE,N
-1021234,Bishop Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,18393.5,8196.6,7,8,FALSE,N,FALSE,FALSE,N
-1010591,Marc T Nielsen,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,3447.6,7862.0,3,6,FALSE,N,FALSE,FALSE,N
-1009113,"KBD, Inc dba Kitchens By Design",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,2641.0,7831.26,4,9,FALSE,N,FALSE,FALSE,N
-1006231,Chatham Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,2153.0,7495.0,2,1,FALSE,N,FALSE,FALSE,N
-1005753,Interiors by Julie Bell and Associates,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ron Kessler,Ron Kessler,4699.45,7445.8,5,3,FALSE,N,FALSE,FALSE,N
-1037281,Vier Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ron Kessler,Ron Kessler,0.0,7092.0,0,3,TRUE,N,FALSE,FALSE,N
-1003715,Dj Interiors LLC Dba Id Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14760.3,6747.6,7,8,FALSE,N,FALSE,FALSE,N
-1015323,Swatch Interior Concepts,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Ron Kessler,Ron Kessler,7640.9,6664.0,6,3,FALSE,N,FALSE,FALSE,N
-1000339,Sugar Bakers Home Fashions,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,17646.0,6602.5,16,6,FALSE,N,FALSE,FALSE,N
-1019471,Stellas Finishing Touches,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14754.0,6599.0,11,9,FALSE,N,FALSE,FALSE,N
-1007058,Finishing Touches (IN),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,8864.0,6560.23,5,10,FALSE,N,FALSE,FALSE,N
-1015876,Hartzog Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,5603.0,6048.68,8,5,FALSE,N,FALSE,FALSE,N
-1014017,RG Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,8099.71,5875.5,12,12,FALSE,N,FALSE,FALSE,N
-1024435,Petrella Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,3517.0,5855.0,2,2,FALSE,N,FALSE,FALSE,N
-1021270,Stephanie Wiott Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,3940.0,5711.36,1,4,FALSE,N,FALSE,FALSE,N
-1010482,Gilberg Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,8993.1,5614.0,6,4,FALSE,N,FALSE,FALSE,N
-1003141,Savvy Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,10410.49,5369.14,14,6,FALSE,N,FALSE,FALSE,N
-1023780,Clare Kennedy Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,6105.0,4993.0,3,3,FALSE,N,FALSE,FALSE,N
-1019399,Kirkshire Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,11679.0,4952.0,6,6,FALSE,N,FALSE,FALSE,N
-1018362,M and M Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Ron Kessler,Ron Kessler,3613.0,4907.35,5,2,FALSE,N,FALSE,FALSE,N
-1035319,Stonesthrow,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Ron Kessler,Ron Kessler,0.0,4821.0,0,5,TRUE,N,FALSE,FALSE,N
-1013353,Mallory Hoggard Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14821.5,4705.23,11,6,FALSE,N,FALSE,FALSE,N
-1021193,"The Studio of John B. Mitchell, Inc.",DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Ron Kessler,Ron Kessler,1800.0,4465.0,1,1,FALSE,N,FALSE,FALSE,N
-1037361,Carrelli Furniture & Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Ron Kessler,Ron Kessler,0.0,4173.0,0,3,TRUE,N,FALSE,FALSE,N
-1021005,Wildwood Designs Incorporated,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,4416.86,3887.0,3,6,FALSE,N,FALSE,FALSE,N
-1021563,Verce Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,14437.0,3490.0,15,7,FALSE,N,FALSE,FALSE,N
-1003095,"Design Studio, Inc.  (OH)",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,291.0,3193.24,1,2,FALSE,N,FALSE,FALSE,N
-1011774,Winding Lane Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Ron Kessler,Ron Kessler,0.0,3113.83,0,3,FALSE,N,FALSE,FALSE,N
-1006324,"KLK Partners, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,4900.0,2979.5,2,3,FALSE,N,FALSE,FALSE,N
-1021247,Dare 2 Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,4674.0,2867.5,4,3,FALSE,N,FALSE,FALSE,N
-1009873,"Ada Rose Design, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,868.5,2856.0,2,2,FALSE,N,FALSE,FALSE,N
-1012611,Julie O'Brien Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,2315.0,2792.5,2,2,FALSE,N,FALSE,FALSE,N
-1022841,i.Kahn Bespoke Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Ron Kessler,Ron Kessler,0.0,2555.0,0,1,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1021640,Gardella Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,17095.34,17568.5,9,11,FALSE,N,FALSE,FALSE,N
+1002119,"Cri Interiors, Inc",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,25105.53,16718.12,15,13,FALSE,N,FALSE,FALSE,N
+1011680,"Design 2, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15634.0,14830.5,19,10,FALSE,N,FALSE,FALSE,N
+1002008,Benchmark Wood Studio Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,5309.75,14100.44,7,13,FALSE,N,FALSE,FALSE,N
+1020373,DMC Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,13983.0,0,4,FALSE,N,FALSE,FALSE,N
+1001556,Acquisitions For The Home,DESIGN,DESIGN_FIRM,Group 2 High Potential,7041.0,13333.91,14,22,FALSE,N,FALSE,FALSE,N
+1009536,"Designs Unlimited Int., Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,13040.48,0,2,FALSE,N,FALSE,FALSE,N
+1012256,Renee Guthrie Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,13925.9,13038.0,11,17,FALSE,N,FALSE,FALSE,N
+1000678,Klingman's Furniture Company,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9967.0,12921.2,8,11,FALSE,N,FALSE,FALSE,N
+1023617,North + Birch,DESIGN,DESIGN_FIRM,Group 2 High Potential,3795.5,12913.0,2,8,FALSE,N,FALSE,FALSE,N
+1010190,Kelly Hansen Interiors/State Street Blinds&Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,10000.9,12264.89,11,11,FALSE,N,FALSE,FALSE,N
+1021317,JD Home,RETAIL,SINGLE_LOCATION,Group 2 High Potential,5842.0,12243.1,4,15,FALSE,N,FALSE,FALSE,N
+1012228,Watson's of Cincinnati,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,14309.3,11912.14,17,12,FALSE,N,FALSE,FALSE,N
+1011437,Francesca Owings Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,27520.5,11849.0,13,8,FALSE,N,FALSE,FALSE,N
+1002113,Copper Creek Canyon,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,14828.0,10403.0,6,5,FALSE,N,FALSE,FALSE,N
+1020343,Werbrichs Landscaping,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,11683.6,10138.59,8,9,FALSE,N,FALSE,FALSE,N
+1009329,Cloth and Kind,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,460.0,10061.0,1,2,FALSE,N,FALSE,FALSE,N
+1010825,Designs to the Nth Degree,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15180.5,9641.2,21,14,FALSE,N,FALSE,FALSE,N
+1006937,Crimson Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,33181.8,9577.6,34,14,FALSE,N,FALSE,FALSE,N
+1015589,Meg Corley Premier Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,18752.67,9315.09,14,3,FALSE,N,FALSE,FALSE,N
+1009279,"Everything Home, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9614.6,9004.13,10,16,FALSE,N,FALSE,FALSE,N
+1024663,Greene & Company,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,16253.4,8512.8,9,10,FALSE,N,FALSE,FALSE,N
+1003478,Urban Styles,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5844.5,8504.0,6,11,FALSE,N,FALSE,FALSE,N
+1013156,"Direct Plus, Inc",RETAIL,SINGLE_LOCATION,Group 2 High Potential,2535.0,8478.0,2,7,FALSE,N,FALSE,FALSE,N
+1004640,"Rectangles, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,12537.5,8374.1,26,17,FALSE,N,FALSE,FALSE,N
+1021234,Bishop Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,18393.5,8196.6,7,8,FALSE,N,FALSE,FALSE,N
+1010591,Marc T Nielsen,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3447.6,7862.0,3,6,FALSE,N,FALSE,FALSE,N
+1009113,"KBD, Inc dba Kitchens By Design",RETAIL,SINGLE_LOCATION,Group 2 High Potential,2641.0,7831.26,4,9,FALSE,N,FALSE,FALSE,N
+1006231,Chatham Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,2153.0,7495.0,2,1,FALSE,N,FALSE,FALSE,N
+1005753,Interiors by Julie Bell and Associates,DESIGN,DESIGN_FIRM,Group 2 High Potential,4699.45,7445.8,5,3,FALSE,N,FALSE,FALSE,N
+1037281,Vier Design Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,7092.0,0,3,TRUE,N,FALSE,FALSE,N
+1003715,Dj Interiors LLC Dba Id Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14760.3,6747.6,7,8,FALSE,N,FALSE,FALSE,N
+1015323,Swatch Interior Concepts,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,7640.9,6664.0,6,3,FALSE,N,FALSE,FALSE,N
+1000339,Sugar Bakers Home Fashions,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,17646.0,6602.5,16,6,FALSE,N,FALSE,FALSE,N
+1019471,Stellas Finishing Touches,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,14754.0,6599.0,11,9,FALSE,N,FALSE,FALSE,N
+1007058,Finishing Touches (IN),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,8864.0,6560.23,5,10,FALSE,N,FALSE,FALSE,N
+1015876,Hartzog Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,5603.0,6048.68,8,5,FALSE,N,FALSE,FALSE,N
+1014017,RG Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,8099.71,5875.5,12,12,FALSE,N,FALSE,FALSE,N
+1024435,Petrella Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3517.0,5855.0,2,2,FALSE,N,FALSE,FALSE,N
+1021270,Stephanie Wiott Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3940.0,5711.36,1,4,FALSE,N,FALSE,FALSE,N
+1010482,Gilberg Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,8993.1,5614.0,6,4,FALSE,N,FALSE,FALSE,N
+1003141,Savvy Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,10410.49,5369.14,14,6,FALSE,N,FALSE,FALSE,N
+1023780,Clare Kennedy Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6105.0,4993.0,3,3,FALSE,N,FALSE,FALSE,N
+1019399,Kirkshire Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11679.0,4952.0,6,6,FALSE,N,FALSE,FALSE,N
+1018362,M and M Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,3613.0,4907.35,5,2,FALSE,N,FALSE,FALSE,N
+1035319,Stonesthrow,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,0.0,4821.0,0,5,TRUE,N,FALSE,FALSE,N
+1013353,Mallory Hoggard Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14821.5,4705.23,11,6,FALSE,N,FALSE,FALSE,N
+1021193,"The Studio of John B. Mitchell, Inc.",DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,1800.0,4465.0,1,1,FALSE,N,FALSE,FALSE,N
+1037361,Carrelli Furniture & Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,4173.0,0,3,TRUE,N,FALSE,FALSE,N
+1021005,Wildwood Designs Incorporated,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,4416.86,3887.0,3,6,FALSE,N,FALSE,FALSE,N
+1021563,Verce Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14437.0,3490.0,15,7,FALSE,N,FALSE,FALSE,N
+1003095,"Design Studio, Inc.  (OH)",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,291.0,3193.24,1,2,FALSE,N,FALSE,FALSE,N
+1011774,Winding Lane Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,3113.83,0,3,FALSE,N,FALSE,FALSE,N
+1006324,"KLK Partners, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4900.0,2979.5,2,3,FALSE,N,FALSE,FALSE,N
+1021247,Dare 2 Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4674.0,2867.5,4,3,FALSE,N,FALSE,FALSE,N
+1009873,"Ada Rose Design, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,868.5,2856.0,2,2,FALSE,N,FALSE,FALSE,N
+1012611,Julie O'Brien Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2315.0,2792.5,2,2,FALSE,N,FALSE,FALSE,N
+1022841,i.Kahn Bespoke Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2555.0,0,1,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 36 accounts | $19055.36 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035575,Northville Home Warehouse,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,2236.8,0,5,TRUE,N,FALSE,FALSE,N
-1006693,"Deanna Hoskins Interior Design, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,61.0,2136.0,1,2,FALSE,N,FALSE,FALSE,N
-1022696,The Bay House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,0.0,2030.0,0,2,FALSE,N,FALSE,FALSE,N
-1012975,Mettlers Design Group,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,457.5,1764.0,1,1,FALSE,N,FALSE,FALSE,N
-1012569,The Barefoot Cottage (IN),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,2360.78,1550.0,4,1,FALSE,N,FALSE,FALSE,N
-1002153,"Gormans Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,1350.0,0,1,TRUE,N,FALSE,FALSE,N
-1003135,Hutchison Fine Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,1770.0,1235.0,1,1,FALSE,N,FALSE,FALSE,N
-1007836,"Karen Koester Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ron Kessler,Ron Kessler,114.5,1200.0,1,2,FALSE,N,FALSE,FALSE,N
-1017252,Burlwick & Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,10946.7,1106.0,16,3,FALSE,N,FALSE,FALSE,N
-1007266,"Pine Tree Furniture and Lighting, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,866.0,0,1,TRUE,N,FALSE,FALSE,N
-1013295,Open Gate LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,13236.8,691.5,13,3,FALSE,N,FALSE,FALSE,N
-1006803,Earla's Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,0.0,595.0,0,1,FALSE,N,FALSE,FALSE,N
-1004890,"Creative Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,0.0,556.0,0,1,FALSE,N,FALSE,FALSE,N
-1002333,"Kh Home, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Ron Kessler,Ron Kessler,10215.94,551.56,11,6,FALSE,N,FALSE,FALSE,N
-1008924,Studio J LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,9701.0,460.0,7,2,FALSE,N,FALSE,FALSE,N
-1035944,IOS,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,360.0,0,1,TRUE,N,FALSE,FALSE,N
-1006279,Gray's Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,2585.0,347.0,2,1,FALSE,N,FALSE,FALSE,N
-1027843,Bay View Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,8578.3,335.0,1,1,FALSE,N,FALSE,FALSE,N
-1006591,"KA Menendian, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Ron Kessler,Ron Kessler,0.0,80.0,0,1,FALSE,N,FALSE,FALSE,N
-1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,1753.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,1290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,2963.32,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Ron Kessler,Ron Kessler,1324.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1002020,Space Expressions Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,1315.0,-394.5,1,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035575,Northville Home Warehouse,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,2236.8,0,5,TRUE,N,FALSE,FALSE,N
+1006693,"Deanna Hoskins Interior Design, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,61.0,2136.0,1,2,FALSE,N,FALSE,FALSE,N
+1022696,The Bay House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,2030.0,0,2,FALSE,N,FALSE,FALSE,N
+1012975,Mettlers Design Group,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,457.5,1764.0,1,1,FALSE,N,FALSE,FALSE,N
+1012569,The Barefoot Cottage (IN),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2360.78,1550.0,4,1,FALSE,N,FALSE,FALSE,N
+1002153,"Gormans Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1350.0,0,1,TRUE,N,FALSE,FALSE,N
+1003135,Hutchison Fine Furniture,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1770.0,1235.0,1,1,FALSE,N,FALSE,FALSE,N
+1007836,"Karen Koester Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 High Potential,114.5,1200.0,1,2,FALSE,N,FALSE,FALSE,N
+1017252,Burlwick & Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,10946.7,1106.0,16,3,FALSE,N,FALSE,FALSE,N
+1007266,"Pine Tree Furniture and Lighting, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,866.0,0,1,TRUE,N,FALSE,FALSE,N
+1013295,Open Gate LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,13236.8,691.5,13,3,FALSE,N,FALSE,FALSE,N
+1006803,Earla's Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,595.0,0,1,FALSE,N,FALSE,FALSE,N
+1004890,"Creative Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,556.0,0,1,FALSE,N,FALSE,FALSE,N
+1002333,"Kh Home, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,10215.94,551.56,11,6,FALSE,N,FALSE,FALSE,N
+1008924,Studio J LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9701.0,460.0,7,2,FALSE,N,FALSE,FALSE,N
+1035944,IOS,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,360.0,0,1,TRUE,N,FALSE,FALSE,N
+1006279,Gray's Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2585.0,347.0,2,1,FALSE,N,FALSE,FALSE,N
+1027843,Bay View Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8578.3,335.0,1,1,FALSE,N,FALSE,FALSE,N
+1006591,"KA Menendian, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,80.0,0,1,FALSE,N,FALSE,FALSE,N
+1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1753.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2963.32,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1324.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1002020,Space Expressions Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1315.0,-394.5,1,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 79 total accounts,,,,,,,,,,,,,,,
@@ -238,21 +238,21 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 16 accounts (3 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,2963.32,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,1753.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Ron Kessler,Ron Kessler,1324.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,1290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Ron Kessler,Ron Kessler,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2963.32,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1753.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1324.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

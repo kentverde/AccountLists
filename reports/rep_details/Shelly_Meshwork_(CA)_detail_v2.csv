@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Shelly Meshwork (CA),,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:53,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -25,294 +25,294 @@ Totals,270,2102595.86,12,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 30 accounts | $1308150.86 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1008030,Canadian Heritage Designs,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),220446.82,197147.04,268,323,FALSE,N,FALSE,FALSE,N
-1014842,Rockwood Custom Homes,DESIGN,DESIGN_FIRM,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),122962.9,171169.0,36,51,FALSE,N,FALSE,FALSE,N
-1007535,"Once a Tree Furniture, Ltd.",RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),75202.02,102754.85,72,58,FALSE,N,FALSE,FALSE,N
-1001735,Ambienti Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),107066.11,85233.1,104,86,FALSE,N,FALSE,FALSE,N
-1002917,La Z Boy Furniture Galleries-Boomco,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),78222.2,74665.0,65,59,FALSE,N,FALSE,FALSE,N
-1009556,Direct Interiors Furn Warehouse,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),29113.0,56458.5,43,42,FALSE,N,FALSE,FALSE,N
-1009250,122 West,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),26669.4,41970.45,20,36,FALSE,N,FALSE,FALSE,N
-1020972,Lexi + Lake Home,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),36036.0,38219.41,25,28,FALSE,N,FALSE,FALSE,N
-1004821,Rochelle Cote Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),18096.6,34678.85,19,34,FALSE,N,FALSE,FALSE,N
-1000620,Norma King Designs (Canada),DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),18720.0,32601.48,2,1,FALSE,N,FALSE,FALSE,N
-1007049,"Royal Interior Designs, Ltd.",DESIGN,DESIGN_FIRM,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),25711.8,30154.02,11,13,FALSE,N,FALSE,FALSE,N
-1016514,Gild & Co.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),26558.09,30083.79,20,15,FALSE,N,FALSE,FALSE,N
-1004634,Xibit,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),29898.32,28368.05,15,10,FALSE,N,FALSE,FALSE,N
-1014486,Dala Decor,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),20027.7,28216.37,19,19,FALSE,N,FALSE,FALSE,N
-1002426,Cadieux Ltd.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),35815.0,26796.5,31,23,FALSE,N,FALSE,FALSE,N
-1012631,Style Libre Design,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15893.0,25762.7,14,17,FALSE,N,FALSE,FALSE,N
-1015930,BONDARS FURNTURE,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),23377.0,25211.68,27,23,FALSE,N,FALSE,FALSE,N
-1000788,Alexanian Carpet and Flooring,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),22441.2,25102.0,35,27,FALSE,N,FALSE,FALSE,N
-1008937,Beige,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13628.5,24903.78,17,22,FALSE,N,FALSE,FALSE,N
-1001567,Maria Tomas Corp (Canada),RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15389.2,24183.19,19,18,FALSE,N,FALSE,FALSE,N
-1007803,Interior Living Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),23977.64,23958.2,16,16,FALSE,N,FALSE,FALSE,N
-1009011,Design Loft,DESIGN,DESIGN_FIRM,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),29258.68,23170.71,22,17,FALSE,N,FALSE,FALSE,N
-1003516,"Farrow Arcaro Design (Fad, Inc.)",RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13033.2,22177.05,11,10,FALSE,N,FALSE,FALSE,N
-1008403,Modern Living London,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7235.0,20160.0,6,13,FALSE,N,FALSE,FALSE,N
-1025430,mazen studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4192.0,20045.0,4,10,FALSE,N,FALSE,FALSE,N
-1027065,SCAN DESIGNS,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),12046.5,20035.82,3,14,FALSE,N,FALSE,FALSE,N
-1017024,MYHome Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),19512.0,19309.92,18,16,FALSE,N,FALSE,FALSE,N
-1001701,Polanco Furniture (Canada),RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),21921.1,19260.6,16,25,FALSE,N,FALSE,FALSE,N
-1012225,Accents for Living,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7505.0,18263.0,19,14,FALSE,N,FALSE,FALSE,N
-1009393,Jenny Martin Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),46729.03,18090.8,14,12,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1008030,Canadian Heritage Designs,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,220446.82,197147.04,268,323,FALSE,N,FALSE,FALSE,N
+1014842,Rockwood Custom Homes,DESIGN,DESIGN_FIRM,Group 1 High Potential,122962.9,171169.0,36,51,FALSE,N,FALSE,FALSE,N
+1007535,"Once a Tree Furniture, Ltd.",RETAIL,SINGLE_LOCATION,Group 1 High Potential,75202.02,102754.85,72,58,FALSE,N,FALSE,FALSE,N
+1001735,Ambienti Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,107066.11,85233.1,104,86,FALSE,N,FALSE,FALSE,N
+1002917,La Z Boy Furniture Galleries-Boomco,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,78222.2,74665.0,65,59,FALSE,N,FALSE,FALSE,N
+1009556,Direct Interiors Furn Warehouse,RETAIL,SINGLE_LOCATION,Group 1 High Potential,29113.0,56458.5,43,42,FALSE,N,FALSE,FALSE,N
+1009250,122 West,RETAIL,SINGLE_LOCATION,Group 1 High Potential,26669.4,41970.45,20,36,FALSE,N,FALSE,FALSE,N
+1020972,Lexi + Lake Home,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,36036.0,38219.41,25,28,FALSE,N,FALSE,FALSE,N
+1004821,Rochelle Cote Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,18096.6,34678.85,19,34,FALSE,N,FALSE,FALSE,N
+1000620,Norma King Designs (Canada),DESIGN,DESIGN_FIRM,Group 1 Medium Potential,18720.0,32601.48,2,1,FALSE,N,FALSE,FALSE,N
+1007049,"Royal Interior Designs, Ltd.",DESIGN,DESIGN_FIRM,Group 1 High Potential,25711.8,30154.02,11,13,FALSE,N,FALSE,FALSE,N
+1016514,Gild & Co.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,26558.09,30083.79,20,15,FALSE,N,FALSE,FALSE,N
+1004634,Xibit,RETAIL,SINGLE_LOCATION,Group 1 High Potential,29898.32,28368.05,15,10,FALSE,N,FALSE,FALSE,N
+1014486,Dala Decor,RETAIL,SINGLE_LOCATION,Group 1 High Potential,20027.7,28216.37,19,19,FALSE,N,FALSE,FALSE,N
+1002426,Cadieux Ltd.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,35815.0,26796.5,31,23,FALSE,N,FALSE,FALSE,N
+1012631,Style Libre Design,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,15893.0,25762.7,14,17,FALSE,N,FALSE,FALSE,N
+1015930,BONDARS FURNTURE,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,23377.0,25211.68,27,23,FALSE,N,FALSE,FALSE,N
+1000788,Alexanian Carpet and Flooring,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,22441.2,25102.0,35,27,FALSE,N,FALSE,FALSE,N
+1008937,Beige,RETAIL,SINGLE_LOCATION,Group 1 High Potential,13628.5,24903.78,17,22,FALSE,N,FALSE,FALSE,N
+1001567,Maria Tomas Corp (Canada),RETAIL,SINGLE_LOCATION,Group 1 High Potential,15389.2,24183.19,19,18,FALSE,N,FALSE,FALSE,N
+1007803,Interior Living Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,23977.64,23958.2,16,16,FALSE,N,FALSE,FALSE,N
+1009011,Design Loft,DESIGN,DESIGN_FIRM,Group 1 High Potential,29258.68,23170.71,22,17,FALSE,N,FALSE,FALSE,N
+1003516,"Farrow Arcaro Design (Fad, Inc.)",RETAIL,SINGLE_LOCATION,Group 1 High Potential,13033.2,22177.05,11,10,FALSE,N,FALSE,FALSE,N
+1008403,Modern Living London,RETAIL,SINGLE_LOCATION,Group 1 High Potential,7235.0,20160.0,6,13,FALSE,N,FALSE,FALSE,N
+1025430,mazen studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,4192.0,20045.0,4,10,FALSE,N,FALSE,FALSE,N
+1027065,SCAN DESIGNS,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,12046.5,20035.82,3,14,FALSE,N,FALSE,FALSE,N
+1017024,MYHome Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,19512.0,19309.92,18,16,FALSE,N,FALSE,FALSE,N
+1001701,Polanco Furniture (Canada),RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,21921.1,19260.6,16,25,FALSE,N,FALSE,FALSE,N
+1012225,Accents for Living,RETAIL,SINGLE_LOCATION,Group 1 High Potential,7505.0,18263.0,19,14,FALSE,N,FALSE,FALSE,N
+1009393,Jenny Martin Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,46729.03,18090.8,14,12,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 98 accounts | $748983.94 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1019447,Arcadia Modern Home Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),22370.0,17074.7,31,27,FALSE,N,FALSE,FALSE,N
-1003367,Parliament Design Inc.,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13265.9,16811.05,25,22,FALSE,N,FALSE,FALSE,N
-1022214,Madeleine Design Group Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),20174.7,16344.95,12,18,FALSE,N,FALSE,FALSE,N
-1008599,Procure By Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,16207.5,0,4,FALSE,N,FALSE,FALSE,N
-1035134,Domaine Furnishings+ Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2685.0,15820.6,1,13,FALSE,N,FALSE,FALSE,N
-1027389,Cocoon Furnishings,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,15440.25,0,5,TRUE,N,FALSE,FALSE,N
-1016467,Stephenson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15569.26,15412.36,14,5,FALSE,N,FALSE,FALSE,N
-1008471,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6702.0,14926.0,4,3,FALSE,N,FALSE,FALSE,N
-1011593,West of Main,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7148.2,14711.96,24,21,FALSE,N,FALSE,FALSE,N
-1011779,ACM Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),27673.1,14700.0,26,17,FALSE,N,FALSE,FALSE,N
-1034962,Simone & Ivy,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),590.0,14638.0,2,17,FALSE,N,FALSE,FALSE,N
-1036732,Home Craft Decor,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,14557.8,0,33,TRUE,N,FALSE,FALSE,N
-1025728,Symbiose boutique,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),46777.2,14149.38,24,10,FALSE,N,FALSE,FALSE,N
-1008468,DaVinci's Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15106.9,13442.6,9,16,FALSE,N,FALSE,FALSE,N
-1011088,Lionheart Home Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),11803.0,13324.8,10,11,FALSE,N,FALSE,FALSE,N
-1009424,Luxe Home Interiors (BC),RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4013.0,13170.09,8,7,FALSE,N,FALSE,FALSE,N
-1018883,Olly + Em,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5515.0,12675.0,3,5,FALSE,N,FALSE,FALSE,N
-1005925,"The Cross Decor and Design, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),10437.6,12661.0,17,22,FALSE,N,FALSE,FALSE,N
-1011656,Cameo Collection,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1825.0,12568.0,5,9,FALSE,N,FALSE,FALSE,N
-1002053,Interior Design House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),20252.0,12299.0,24,16,FALSE,N,FALSE,FALSE,N
-1006186,Dekora Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),21537.0,11884.5,9,11,FALSE,N,FALSE,FALSE,N
-1005501,Garden Architecture and Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8086.1,11811.0,8,14,FALSE,N,FALSE,FALSE,N
-1015973,Purity Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,11534.05,0,2,FALSE,N,FALSE,FALSE,N
-1009870,Hibou Design & Co,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),12414.61,11300.0,12,8,FALSE,N,FALSE,FALSE,N
-1025789,R3casa Furniture inc,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4093.0,10491.9,10,13,FALSE,N,FALSE,FALSE,N
-1010269,Kimmberly Capone Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),21492.0,10155.3,39,40,FALSE,N,FALSE,FALSE,N
-1038058,Lorraine Franklin Designs Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,10079.3,0,4,TRUE,N,FALSE,FALSE,N
-1011739,Cornerstone Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2888.0,9933.2,2,1,FALSE,N,FALSE,FALSE,N
-1013106,Curated Home By Chrissy and Co,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),14554.4,9647.1,9,4,FALSE,N,FALSE,FALSE,N
-1004565,Scan Decor,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6168.0,9300.0,8,4,FALSE,N,FALSE,FALSE,N
-1036775,Treehouse Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,9023.3,0,13,TRUE,N,FALSE,FALSE,N
-1014726,Mountain Home Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13667.3,8424.9,6,5,FALSE,N,FALSE,FALSE,N
-1006200,Endless Ideas Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),3827.0,8323.6,11,8,FALSE,N,FALSE,FALSE,N
-1016359,Bella Moda Home Furnishings Ltd,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),34090.13,8233.48,28,13,FALSE,N,FALSE,FALSE,N
-1036410,J Gibson Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,8096.5,0,5,TRUE,N,FALSE,FALSE,N
-1004404,Zilli Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),19365.0,8006.5,38,21,FALSE,N,FALSE,FALSE,N
-1001497,DOVETAIL INTERIORS DESIGN INC.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7805.0,7882.0,1,2,FALSE,N,FALSE,FALSE,N
-1018056,Van Allan Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),11779.0,7795.2,11,11,FALSE,N,FALSE,FALSE,N
-1012560,Parkyn Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8030.0,7700.0,8,7,FALSE,N,FALSE,FALSE,N
-1020356,Karger.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),3585.0,7685.0,1,2,FALSE,N,FALSE,FALSE,N
-1011920,Procuratorial,DESIGN,HOSPITALITY,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5660.0,7679.2,5,0,FALSE,N,FALSE,FALSE,N
-1019250,PURE Design Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),12985.5,7289.5,10,10,FALSE,N,FALSE,FALSE,N
-1005128,Bespoke Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),11394.69,7190.05,16,8,FALSE,N,FALSE,FALSE,N
-1008587,La Compania,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),3795.5,7109.9,2,7,FALSE,N,FALSE,FALSE,N
-1003094,"Interior Illusions, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2496.2,7090.0,4,6,FALSE,N,FALSE,FALSE,N
-1005398,"Layers and Layers Showroom, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4005.0,7020.1,4,4,FALSE,N,FALSE,FALSE,N
-1011871,Joyce Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),18600.6,6754.8,3,2,FALSE,N,FALSE,FALSE,N
-1011447,Niche Decor New Market,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),11696.0,6730.0,9,8,FALSE,N,FALSE,FALSE,N
-1006527,The Design Project,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7923.0,6728.0,7,5,FALSE,N,FALSE,FALSE,N
-1017613,"Living Environments Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4164.0,6726.0,2,5,FALSE,N,FALSE,FALSE,N
-1027527,Valley Ridge Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7188.0,6695.0,7,3,FALSE,N,FALSE,FALSE,N
-1006829,Kelly Harvey Living inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,6643.6,0,3,FALSE,N,FALSE,FALSE,N
-1036118,Bold Beautiful Spaces Inc.,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,6375.0,0,2,TRUE,N,FALSE,FALSE,N
-1021062,Shoppe JV Interiors - Jessica Velikovsky Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4082.5,6238.0,6,10,FALSE,N,FALSE,FALSE,N
-1012125,Jadco Construction,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),14525.0,6140.0,4,3,FALSE,N,FALSE,FALSE,N
-1012369,Studio Ridge Residential,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),920.0,6090.0,1,3,FALSE,N,FALSE,FALSE,N
-1021763,Figure3,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,6040.0,0,1,TRUE,N,FALSE,FALSE,N
-1035814,Trove Living,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,5860.0,0,5,TRUE,N,FALSE,FALSE,N
-1001519,Windows Of Fashion (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7708.7,5516.15,3,7,FALSE,N,FALSE,FALSE,N
-1019287,Tamara Wouters Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,5456.0,0,5,TRUE,N,FALSE,FALSE,N
-1009165,Decorating Den Interiors - CPI Team,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6229.75,5066.4,16,10,FALSE,N,FALSE,FALSE,N
-1006934,Portobello Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5981.25,4823.0,8,14,FALSE,N,FALSE,FALSE,N
-1005199,Inhabit Interiors and Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),699.0,4670.0,2,3,FALSE,N,FALSE,FALSE,N
-1016199,BSW Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1210.0,4490.48,2,2,FALSE,N,FALSE,FALSE,N
-1010931,Portico Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7633.5,4390.0,3,5,FALSE,N,FALSE,FALSE,N
-1018487,Ann Johnston Design Consultants,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,4380.0,0,2,FALSE,N,FALSE,FALSE,N
-1017694,Maison Blonde,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,4380.0,0,2,FALSE,N,FALSE,FALSE,N
-1017661,Key Concepts Interior Design Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),798.25,4352.5,2,3,FALSE,N,FALSE,FALSE,N
-1025366,NAS Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,4323.5,0,2,TRUE,N,FALSE,FALSE,N
-1015591,CUSTOM HOME DECOR LTD,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2686.0,4208.67,3,6,FALSE,N,FALSE,FALSE,N
-1016184,Erik MaillÃ© design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),14769.0,4115.0,4,9,FALSE,N,FALSE,FALSE,N
-1020890,Magpie Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),19130.57,4061.0,3,4,FALSE,N,FALSE,FALSE,N
-1010012,Lumar Decorating,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6152.0,4025.0,6,5,FALSE,N,FALSE,FALSE,N
-1025899,Marshall's Home Living,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),7093.0,3990.0,7,4,FALSE,N,FALSE,FALSE,N
-1014703,DMV Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3974.0,0,1,FALSE,N,FALSE,FALSE,N
-1014720,Attica Furnishings Limited,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2778.5,3920.97,2,6,FALSE,N,FALSE,FALSE,N
-1018244,Warm Welcome,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6505.0,3835.0,3,2,FALSE,N,FALSE,FALSE,N
-1034787,The Cardy Group,DESIGN,HOSPITALITY,Group 2 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3834.68,1,0,FALSE,N,FALSE,FALSE,N
-1003324,Metro Element,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3830.6,1,3,FALSE,N,FALSE,FALSE,N
-1014594,Acres Market & Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),3771.0,3735.9,5,5,FALSE,N,FALSE,FALSE,N
-1009638,"Cridland Associates, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3715.0,1,2,FALSE,N,FALSE,FALSE,N
-1025933,Home and Cottages,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3694.0,0,7,TRUE,N,FALSE,FALSE,N
-1022810,R-EID Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),380.0,3645.0,1,2,FALSE,N,FALSE,FALSE,N
-1015730,STYLEHAUS INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1030.0,3587.0,1,1,FALSE,N,FALSE,FALSE,N
-1013125,Dwell Living (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),10973.7,3505.0,9,1,FALSE,N,FALSE,FALSE,N
-1001682,Details Home Apparel (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),190.0,3420.0,0,2,FALSE,N,FALSE,FALSE,N
-1020353,IVISH INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1289.5,3154.0,2,3,FALSE,N,FALSE,FALSE,N
-1014862,Maison Vogue,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3034.75,0,5,FALSE,N,FALSE,FALSE,N
-1035614,Scherba & Co,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,3013.5,0,2,TRUE,N,FALSE,FALSE,N
-1004085,Tapis du Monde,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6867.5,2979.2,7,7,FALSE,N,FALSE,FALSE,N
-1035300,Proper Goods Club,DESIGN,DESIGN_FIRM,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,2790.0,0,5,TRUE,N,FALSE,FALSE,N
-1035132,"Paul Hardy Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,2701.6,0,5,TRUE,N,FALSE,FALSE,N
-1005793,Barnard + Speziale,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),12289.0,2695.0,9,3,FALSE,N,FALSE,FALSE,N
-1009307,Black Rooster Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1535.0,2694.5,1,1,FALSE,N,FALSE,FALSE,N
-1020951,Your Space By Design Incorporated,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,2616.0,0,2,FALSE,N,FALSE,FALSE,N
-1014705,Dlux Design Co,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2871.0,2588.0,1,1,FALSE,N,FALSE,FALSE,N
-1023252,Studio ABD,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2080.0,2578.72,3,4,FALSE,N,FALSE,FALSE,N
-1015037,Harbour Home Interiors.com,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),9813.0,2552.8,4,4,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1019447,Arcadia Modern Home Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,22370.0,17074.7,31,27,FALSE,N,FALSE,FALSE,N
+1003367,Parliament Design Inc.,RETAIL,SINGLE_LOCATION,Group 2 High Potential,13265.9,16811.05,25,22,FALSE,N,FALSE,FALSE,N
+1022214,Madeleine Design Group Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,20174.7,16344.95,12,18,FALSE,N,FALSE,FALSE,N
+1008599,Procure By Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,16207.5,0,4,FALSE,N,FALSE,FALSE,N
+1035134,Domaine Furnishings+ Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,2685.0,15820.6,1,13,FALSE,N,FALSE,FALSE,N
+1027389,Cocoon Furnishings,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,15440.25,0,5,TRUE,N,FALSE,FALSE,N
+1016467,Stephenson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15569.26,15412.36,14,5,FALSE,N,FALSE,FALSE,N
+1008471,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6702.0,14926.0,4,3,FALSE,N,FALSE,FALSE,N
+1011593,West of Main,DESIGN,DESIGN_FIRM,Group 2 High Potential,7148.2,14711.96,24,21,FALSE,N,FALSE,FALSE,N
+1011779,ACM Designs,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,27673.1,14700.0,26,17,FALSE,N,FALSE,FALSE,N
+1034962,Simone & Ivy,RETAIL,SINGLE_LOCATION,Group 2 High Potential,590.0,14638.0,2,17,FALSE,N,FALSE,FALSE,N
+1036732,Home Craft Decor,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,0.0,14557.8,0,33,TRUE,N,FALSE,FALSE,N
+1025728,Symbiose boutique,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,46777.2,14149.38,24,10,FALSE,N,FALSE,FALSE,N
+1008468,DaVinci's Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,15106.9,13442.6,9,16,FALSE,N,FALSE,FALSE,N
+1011088,Lionheart Home Collection,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11803.0,13324.8,10,11,FALSE,N,FALSE,FALSE,N
+1009424,Luxe Home Interiors (BC),RETAIL,SINGLE_LOCATION,Group 2 High Potential,4013.0,13170.09,8,7,FALSE,N,FALSE,FALSE,N
+1018883,Olly + Em,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5515.0,12675.0,3,5,FALSE,N,FALSE,FALSE,N
+1005925,"The Cross Decor and Design, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,10437.6,12661.0,17,22,FALSE,N,FALSE,FALSE,N
+1011656,Cameo Collection,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1825.0,12568.0,5,9,FALSE,N,FALSE,FALSE,N
+1002053,Interior Design House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,20252.0,12299.0,24,16,FALSE,N,FALSE,FALSE,N
+1006186,Dekora Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,21537.0,11884.5,9,11,FALSE,N,FALSE,FALSE,N
+1005501,Garden Architecture and Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,8086.1,11811.0,8,14,FALSE,N,FALSE,FALSE,N
+1015973,Purity Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,11534.05,0,2,FALSE,N,FALSE,FALSE,N
+1009870,Hibou Design & Co,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,12414.61,11300.0,12,8,FALSE,N,FALSE,FALSE,N
+1025789,R3casa Furniture inc,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,4093.0,10491.9,10,13,FALSE,N,FALSE,FALSE,N
+1010269,Kimmberly Capone Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,21492.0,10155.3,39,40,FALSE,N,FALSE,FALSE,N
+1038058,Lorraine Franklin Designs Inc,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,10079.3,0,4,TRUE,N,FALSE,FALSE,N
+1011739,Cornerstone Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,2888.0,9933.2,2,1,FALSE,N,FALSE,FALSE,N
+1013106,Curated Home By Chrissy and Co,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14554.4,9647.1,9,4,FALSE,N,FALSE,FALSE,N
+1004565,Scan Decor,RETAIL,SINGLE_LOCATION,Group 2 High Potential,6168.0,9300.0,8,4,FALSE,N,FALSE,FALSE,N
+1036775,Treehouse Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,9023.3,0,13,TRUE,N,FALSE,FALSE,N
+1014726,Mountain Home Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,13667.3,8424.9,6,5,FALSE,N,FALSE,FALSE,N
+1006200,Endless Ideas Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,3827.0,8323.6,11,8,FALSE,N,FALSE,FALSE,N
+1016359,Bella Moda Home Furnishings Ltd,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,34090.13,8233.48,28,13,FALSE,N,FALSE,FALSE,N
+1036410,J Gibson Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,8096.5,0,5,TRUE,N,FALSE,FALSE,N
+1004404,Zilli Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Low Potential,19365.0,8006.5,38,21,FALSE,N,FALSE,FALSE,N
+1001497,DOVETAIL INTERIORS DESIGN INC.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7805.0,7882.0,1,2,FALSE,N,FALSE,FALSE,N
+1018056,Van Allan Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11779.0,7795.2,11,11,FALSE,N,FALSE,FALSE,N
+1012560,Parkyn Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8030.0,7700.0,8,7,FALSE,N,FALSE,FALSE,N
+1020356,Karger.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3585.0,7685.0,1,2,FALSE,N,FALSE,FALSE,N
+1011920,Procuratorial,DESIGN,HOSPITALITY,Group 2 Medium Potential,5660.0,7679.2,5,0,FALSE,N,FALSE,FALSE,N
+1019250,PURE Design Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12985.5,7289.5,10,10,FALSE,N,FALSE,FALSE,N
+1005128,Bespoke Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,11394.69,7190.05,16,8,FALSE,N,FALSE,FALSE,N
+1008587,La Compania,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3795.5,7109.9,2,7,FALSE,N,FALSE,FALSE,N
+1003094,"Interior Illusions, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,2496.2,7090.0,4,6,FALSE,N,FALSE,FALSE,N
+1005398,"Layers and Layers Showroom, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,4005.0,7020.1,4,4,FALSE,N,FALSE,FALSE,N
+1011871,Joyce Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,18600.6,6754.8,3,2,FALSE,N,FALSE,FALSE,N
+1011447,Niche Decor New Market,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,11696.0,6730.0,9,8,FALSE,N,FALSE,FALSE,N
+1006527,The Design Project,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7923.0,6728.0,7,5,FALSE,N,FALSE,FALSE,N
+1017613,"Living Environments Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4164.0,6726.0,2,5,FALSE,N,FALSE,FALSE,N
+1027527,Valley Ridge Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7188.0,6695.0,7,3,FALSE,N,FALSE,FALSE,N
+1006829,Kelly Harvey Living inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6643.6,0,3,FALSE,N,FALSE,FALSE,N
+1036118,Bold Beautiful Spaces Inc.,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,6375.0,0,2,TRUE,N,FALSE,FALSE,N
+1021062,Shoppe JV Interiors - Jessica Velikovsky Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,4082.5,6238.0,6,10,FALSE,N,FALSE,FALSE,N
+1012125,Jadco Construction,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,14525.0,6140.0,4,3,FALSE,N,FALSE,FALSE,N
+1012369,Studio Ridge Residential,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,920.0,6090.0,1,3,FALSE,N,FALSE,FALSE,N
+1021763,Figure3,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,6040.0,0,1,TRUE,N,FALSE,FALSE,N
+1035814,Trove Living,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,5860.0,0,5,TRUE,N,FALSE,FALSE,N
+1001519,Windows Of Fashion (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7708.7,5516.15,3,7,FALSE,N,FALSE,FALSE,N
+1019287,Tamara Wouters Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,5456.0,0,5,TRUE,N,FALSE,FALSE,N
+1009165,Decorating Den Interiors - CPI Team,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6229.75,5066.4,16,10,FALSE,N,FALSE,FALSE,N
+1006934,Portobello Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5981.25,4823.0,8,14,FALSE,N,FALSE,FALSE,N
+1005199,Inhabit Interiors and Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,699.0,4670.0,2,3,FALSE,N,FALSE,FALSE,N
+1016199,BSW Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,1210.0,4490.48,2,2,FALSE,N,FALSE,FALSE,N
+1010931,Portico Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7633.5,4390.0,3,5,FALSE,N,FALSE,FALSE,N
+1018487,Ann Johnston Design Consultants,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,4380.0,0,2,FALSE,N,FALSE,FALSE,N
+1017694,Maison Blonde,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,4380.0,0,2,FALSE,N,FALSE,FALSE,N
+1017661,Key Concepts Interior Design Inc.,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,798.25,4352.5,2,3,FALSE,N,FALSE,FALSE,N
+1025366,NAS Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,4323.5,0,2,TRUE,N,FALSE,FALSE,N
+1015591,CUSTOM HOME DECOR LTD,RETAIL,SINGLE_LOCATION,Group 2 High Potential,2686.0,4208.67,3,6,FALSE,N,FALSE,FALSE,N
+1016184,Erik MaillÃ© design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14769.0,4115.0,4,9,FALSE,N,FALSE,FALSE,N
+1020890,Magpie Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,19130.57,4061.0,3,4,FALSE,N,FALSE,FALSE,N
+1010012,Lumar Decorating,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6152.0,4025.0,6,5,FALSE,N,FALSE,FALSE,N
+1025899,Marshall's Home Living,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7093.0,3990.0,7,4,FALSE,N,FALSE,FALSE,N
+1014703,DMV Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3974.0,0,1,FALSE,N,FALSE,FALSE,N
+1014720,Attica Furnishings Limited,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,2778.5,3920.97,2,6,FALSE,N,FALSE,FALSE,N
+1018244,Warm Welcome,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,6505.0,3835.0,3,2,FALSE,N,FALSE,FALSE,N
+1034787,The Cardy Group,DESIGN,HOSPITALITY,Group 2 Low Potential,0.0,3834.68,1,0,FALSE,N,FALSE,FALSE,N
+1003324,Metro Element,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,3830.6,1,3,FALSE,N,FALSE,FALSE,N
+1014594,Acres Market & Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3771.0,3735.9,5,5,FALSE,N,FALSE,FALSE,N
+1009638,"Cridland Associates, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3715.0,1,2,FALSE,N,FALSE,FALSE,N
+1025933,Home and Cottages,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,3694.0,0,7,TRUE,N,FALSE,FALSE,N
+1022810,R-EID Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,380.0,3645.0,1,2,FALSE,N,FALSE,FALSE,N
+1015730,STYLEHAUS INTERIORS,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1030.0,3587.0,1,1,FALSE,N,FALSE,FALSE,N
+1013125,Dwell Living (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,10973.7,3505.0,9,1,FALSE,N,FALSE,FALSE,N
+1001682,Details Home Apparel (Canada),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,190.0,3420.0,0,2,FALSE,N,FALSE,FALSE,N
+1020353,IVISH INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1289.5,3154.0,2,3,FALSE,N,FALSE,FALSE,N
+1014862,Maison Vogue,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,3034.75,0,5,FALSE,N,FALSE,FALSE,N
+1035614,Scherba & Co,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,0.0,3013.5,0,2,TRUE,N,FALSE,FALSE,N
+1004085,Tapis du Monde,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6867.5,2979.2,7,7,FALSE,N,FALSE,FALSE,N
+1035300,Proper Goods Club,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,2790.0,0,5,TRUE,N,FALSE,FALSE,N
+1035132,"Paul Hardy Design, Inc",DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,2701.6,0,5,TRUE,N,FALSE,FALSE,N
+1005793,Barnard + Speziale,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12289.0,2695.0,9,3,FALSE,N,FALSE,FALSE,N
+1009307,Black Rooster Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,1535.0,2694.5,1,1,FALSE,N,FALSE,FALSE,N
+1020951,Your Space By Design Incorporated,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2616.0,0,2,FALSE,N,FALSE,FALSE,N
+1014705,Dlux Design Co,DESIGN,DESIGN_FIRM,Group 2 Low Potential,2871.0,2588.0,1,1,FALSE,N,FALSE,FALSE,N
+1023252,Studio ABD,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2080.0,2578.72,3,4,FALSE,N,FALSE,FALSE,N
+1015037,Harbour Home Interiors.com,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9813.0,2552.8,4,4,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 130 accounts | $39602.56 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1037546,Curation Nation Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,2295.0,0,1,TRUE,N,FALSE,FALSE,N
-1017111,ah-bohd Home Store,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6751.68,2239.5,12,4,FALSE,N,FALSE,FALSE,N
-1037334,Maison Roseaux Inc.,E-TAILER,SPECIALTY,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,2146.0,0,4,TRUE,N,FALSE,FALSE,N
-1003773,"Artcompose, Inc",E-TAILER,SPECIALTY,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1970.0,0,1,TRUE,N,FALSE,FALSE,N
-1000051,Jordans Rugs (Canada),RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1790.0,0,2,TRUE,N,FALSE,FALSE,N
-1011837,L'Atelier Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1701.05,0,3,FALSE,N,FALSE,FALSE,N
-1004856,The Heather Company,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),18561.73,1690.2,11,2,FALSE,N,FALSE,FALSE,N
-1001147,Allan Rug Co (Canada),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4941.3,1681.0,3,1,FALSE,N,FALSE,FALSE,N
-1012412,Habitat Decor,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),-1630.0,1546.5,2,3,FALSE,N,FALSE,FALSE,N
-1012445,Bracko Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1580.0,1370.0,2,2,FALSE,N,FALSE,FALSE,N
-1003311,"Flora Di Menna Designs, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1360.0,0,1,TRUE,N,FALSE,FALSE,N
-1024464,MISTER HQ GROUP,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2008.0,1350.0,2,2,FALSE,N,FALSE,FALSE,N
-1021666,G2MC Inc. Div Maison Corbeil,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4092.6,1276.0,7,3,FALSE,N,FALSE,FALSE,N
-1038174,Jayman BUILT,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1179.0,0,1,TRUE,N,FALSE,FALSE,N
-1038685,Stacey Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1165.0,0,1,TRUE,N,FALSE,FALSE,N
-1023015,Rainsford Company Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1996.0,1144.0,8,5,FALSE,N,FALSE,FALSE,N
-1011253,Decor Haute Look (Roxy Furniture),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1100.0,0,2,FALSE,N,FALSE,FALSE,N
-1014269,ADM Design Inc,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5785.8,1010.0,3,1,FALSE,N,FALSE,FALSE,N
-1022642,Stephanie Hilton Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,1005.0,0,1,TRUE,N,FALSE,FALSE,N
-1023852,Susan Carducci Design Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6521.0,985.0,2,1,FALSE,N,FALSE,FALSE,N
-1014596,Westhill Enterprises Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2645.0,930.0,2,1,FALSE,N,FALSE,FALSE,N
-1013196,Mobilart Decor,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),3320.0,825.0,6,3,FALSE,N,FALSE,FALSE,N
-1022622,Conifer Shop,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,825.0,0,1,FALSE,N,FALSE,FALSE,N
-1009977,Boutique Cassine,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,690.0,0,3,FALSE,N,FALSE,FALSE,N
-1014654,Darlene Janeiro Design Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5620.0,637.0,3,1,FALSE,N,FALSE,FALSE,N
-1012137,Dusk to Dawn Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4395.0,630.0,8,1,FALSE,N,FALSE,FALSE,N
-1012976,Designs For Life,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,610.0,0,1,FALSE,N,FALSE,FALSE,N
-1003602,Jennings Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1455.0,595.0,1,2,FALSE,N,FALSE,FALSE,N
-1007864,"M Studio Design Consultants, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,567.75,0,1,TRUE,N,FALSE,FALSE,N
-1000893,Tapis Andre Viau (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),610.0,475.0,2,2,FALSE,N,FALSE,FALSE,N
-1006115,Anthology Home Collection,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,440.0,0,1,FALSE,N,FALSE,FALSE,N
-1025588,Curated Living Co,E-TAILER,SPECIALTY,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),898.5,420.0,1,1,FALSE,N,FALSE,FALSE,N
-1020743,lighting centre,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,412.0,0,1,FALSE,N,FALSE,FALSE,N
-1025192,CHICLUSSO CASA HOLDING LTD.( CHICLUSSO HOME),RETAIL,SINGLE_LOCATION,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,300.0,0,0,TRUE,N,FALSE,FALSE,N
-1036638,Patines et Soies,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,280.0,0,1,TRUE,N,FALSE,FALSE,N
-1017198,BRONTE MARKETING,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,210.0,1,0,FALSE,N,FALSE,FALSE,N
-1027017,Landen Furniture and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8727.0,175.0,3,0,FALSE,N,FALSE,FALSE,N
-1038135,Element Landscaping,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,170.0,0,1,TRUE,N,FALSE,FALSE,N
-1004121,Pineapple Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),4782.0,105.0,3,1,FALSE,N,FALSE,FALSE,N
-1012584,Decor Chantilly,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,100.0,0,0,FALSE,N,FALSE,FALSE,N
-1023557,Rose and Funk Interiors Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,75.0,0,0,FALSE,N,FALSE,FALSE,N
-1014173,Studio V Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),75.0,75.0,0,0,FALSE,N,FALSE,FALSE,N
-1027127,LAURA FELSTINER - Kitchens & Baths,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,50.0,0,0,TRUE,N,FALSE,FALSE,N
-1002233,Lakehouse,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),24291.52,25.0,18,0,FALSE,N,FALSE,FALSE,N
-1038524,LightForm Canada,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
-1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004077,Domicile Interiors Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004552,FD and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1248.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1004980,Cosafina for Gift and Home Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007223,Anderson Carpet and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011336,"LeClair Decor, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),425.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007558,"Carpette Multi-Design CMD, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007247,PlaidFox Library,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007454,Decor West Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1735.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1006754,Hay Design Incorporated,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006047,"Union Electric Lighting Co, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003013,"Import Temptations, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003591,Un Fauteuil Pour Deux,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1002264,Design Manitoba,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1145.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001858,Tapis National (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),526.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1021688,Vivre Ici DÃ©cor (Retail Store),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1972.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1017051,Bruton's Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016418,Benali Enterprises Ltd/Allison Winter Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016922,Gilded cage boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015122,Rug & Weave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012977,Flaunt Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013272,Rochelle Lynne Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1016006,HAVEN,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013067,Oben Shops,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6651.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
-1009958,Designers Resource Centre,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009356,In House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008791,"Sklar Peppler, AW Mfg",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1259.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1008754,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011520,Facade Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1011244,"Quantum Verdi, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014212,European House Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008419,The Living Lab,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),890.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1008779,Leonâ€™s Furniture Ltd c/o Furniture.ca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1173.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
-1009968,Greenpark Homes,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1003025,Henry's Purveyor Of Fine Things,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1005379,Park Lighting and Furniture Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019893,Kevin Muise INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017653,Design Gallery Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017744,Granola Village,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018359,The Curated Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8241.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1018779,Urban Home Windsor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019097,Candace Plotz Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019130,Linen and Lore Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017812,Beckwith Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018024,Layered Home & Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018120,Smythe Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1018348,STUDIO 222 CALGARY LTD,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025591,All Things Wonderful,E-TAILER,SPECIALTY,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),340.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1022360,Chez Nous Chez Vous,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021409,Lighthouse Cabinetry,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),9425.5,0.0,22,0,FALSE,N,FALSE,FALSE,N
-1021544,Hilary Ramsay Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1021079,TrouvÃ© Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020490,An Honest Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020661,Cocoon Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1020720,Ultra Luxe Linens Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020044,Parklanesofa Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020127,JACQUES LAFERTE LTEE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020017,blueprint home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5621.6,0.0,7,0,FALSE,N,FALSE,FALSE,N
-1020369,thestylewell,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019249,CINTEX INTERNATIONAL (CANADA) LIMITED,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019379,The Nest Collingwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019804,decorchic Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023102,Keep & co c/o Brian McCourt Design Build,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022654,Curate Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025337,weaversplus carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025328,dekor butik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),580.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024319,Brizo Interiors Inc / DBA Duxiana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024462,"MLI USA, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023089,Circa Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023303,Gallerno Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1024133,Stride Design Collective  (TRADE WHOLESALER),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1410.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1025813,Angela Wheeler Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1027863,Arche Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036011,Luxe Co Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026418,Ross St. Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2544.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1027562,Arcade Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026246,CARLYLE INTERIORS INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1037704,Rothschild West Design Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1003856,SS Shelly Meshwork (Canada),INTERNAL,SALES_REP,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,-47.44,1,1,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1037546,Curation Nation Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,2295.0,0,1,TRUE,N,FALSE,FALSE,N
+1017111,ah-bohd Home Store,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,6751.68,2239.5,12,4,FALSE,N,FALSE,FALSE,N
+1037334,Maison Roseaux Inc.,E-TAILER,SPECIALTY,Group 3 High Potential,0.0,2146.0,0,4,TRUE,N,FALSE,FALSE,N
+1003773,"Artcompose, Inc",E-TAILER,SPECIALTY,Group 3 High Potential,0.0,1970.0,0,1,TRUE,N,FALSE,FALSE,N
+1000051,Jordans Rugs (Canada),RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,1790.0,0,2,TRUE,N,FALSE,FALSE,N
+1011837,L'Atelier Home,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1701.05,0,3,FALSE,N,FALSE,FALSE,N
+1004856,The Heather Company,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,18561.73,1690.2,11,2,FALSE,N,FALSE,FALSE,N
+1001147,Allan Rug Co (Canada),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,4941.3,1681.0,3,1,FALSE,N,FALSE,FALSE,N
+1012412,Habitat Decor,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,-1630.0,1546.5,2,3,FALSE,N,FALSE,FALSE,N
+1012445,Bracko Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1580.0,1370.0,2,2,FALSE,N,FALSE,FALSE,N
+1003311,"Flora Di Menna Designs, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1360.0,0,1,TRUE,N,FALSE,FALSE,N
+1024464,MISTER HQ GROUP,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2008.0,1350.0,2,2,FALSE,N,FALSE,FALSE,N
+1021666,G2MC Inc. Div Maison Corbeil,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,4092.6,1276.0,7,3,FALSE,N,FALSE,FALSE,N
+1038174,Jayman BUILT,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,1179.0,0,1,TRUE,N,FALSE,FALSE,N
+1038685,Stacey Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1165.0,0,1,TRUE,N,FALSE,FALSE,N
+1023015,Rainsford Company Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1996.0,1144.0,8,5,FALSE,N,FALSE,FALSE,N
+1011253,Decor Haute Look (Roxy Furniture),RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,1100.0,0,2,FALSE,N,FALSE,FALSE,N
+1014269,ADM Design Inc,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,5785.8,1010.0,3,1,FALSE,N,FALSE,FALSE,N
+1022642,Stephanie Hilton Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1005.0,0,1,TRUE,N,FALSE,FALSE,N
+1023852,Susan Carducci Design Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6521.0,985.0,2,1,FALSE,N,FALSE,FALSE,N
+1014596,Westhill Enterprises Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2645.0,930.0,2,1,FALSE,N,FALSE,FALSE,N
+1013196,Mobilart Decor,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,3320.0,825.0,6,3,FALSE,N,FALSE,FALSE,N
+1022622,Conifer Shop,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,825.0,0,1,FALSE,N,FALSE,FALSE,N
+1009977,Boutique Cassine,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,690.0,0,3,FALSE,N,FALSE,FALSE,N
+1014654,Darlene Janeiro Design Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5620.0,637.0,3,1,FALSE,N,FALSE,FALSE,N
+1012137,Dusk to Dawn Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4395.0,630.0,8,1,FALSE,N,FALSE,FALSE,N
+1012976,Designs For Life,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,610.0,0,1,FALSE,N,FALSE,FALSE,N
+1003602,Jennings Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1455.0,595.0,1,2,FALSE,N,FALSE,FALSE,N
+1007864,"M Studio Design Consultants, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,567.75,0,1,TRUE,N,FALSE,FALSE,N
+1000893,Tapis Andre Viau (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,610.0,475.0,2,2,FALSE,N,FALSE,FALSE,N
+1006115,Anthology Home Collection,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,440.0,0,1,FALSE,N,FALSE,FALSE,N
+1025588,Curated Living Co,E-TAILER,SPECIALTY,Group 3 Low Potential,898.5,420.0,1,1,FALSE,N,FALSE,FALSE,N
+1020743,lighting centre,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,412.0,0,1,FALSE,N,FALSE,FALSE,N
+1025192,CHICLUSSO CASA HOLDING LTD.( CHICLUSSO HOME),RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,300.0,0,0,TRUE,N,FALSE,FALSE,N
+1036638,Patines et Soies,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,280.0,0,1,TRUE,N,FALSE,FALSE,N
+1017198,BRONTE MARKETING,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,210.0,1,0,FALSE,N,FALSE,FALSE,N
+1027017,Landen Furniture and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8727.0,175.0,3,0,FALSE,N,FALSE,FALSE,N
+1038135,Element Landscaping,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,170.0,0,1,TRUE,N,FALSE,FALSE,N
+1004121,Pineapple Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4782.0,105.0,3,1,FALSE,N,FALSE,FALSE,N
+1012584,Decor Chantilly,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,100.0,0,0,FALSE,N,FALSE,FALSE,N
+1023557,Rose and Funk Interiors Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,75.0,0,0,FALSE,N,FALSE,FALSE,N
+1014173,Studio V Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,75.0,75.0,0,0,FALSE,N,FALSE,FALSE,N
+1027127,LAURA FELSTINER - Kitchens & Baths,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,50.0,0,0,TRUE,N,FALSE,FALSE,N
+1002233,Lakehouse,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,24291.52,25.0,18,0,FALSE,N,FALSE,FALSE,N
+1038524,LightForm Canada,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,25.0,0,0,TRUE,N,FALSE,FALSE,N
+1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004077,Domicile Interiors Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004552,FD and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1248.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1004980,Cosafina for Gift and Home Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007223,Anderson Carpet and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011336,"LeClair Decor, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,425.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007558,"Carpette Multi-Design CMD, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007247,PlaidFox Library,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007454,Decor West Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1735.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1006754,Hay Design Incorporated,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006047,"Union Electric Lighting Co, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003013,"Import Temptations, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003591,Un Fauteuil Pour Deux,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1002264,Design Manitoba,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1145.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001858,Tapis National (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,526.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021688,Vivre Ici DÃ©cor (Retail Store),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1972.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1017051,Bruton's Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016418,Benali Enterprises Ltd/Allison Winter Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016922,Gilded cage boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015122,Rug & Weave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012977,Flaunt Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013272,Rochelle Lynne Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1016006,HAVEN,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013067,Oben Shops,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6651.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
+1009958,Designers Resource Centre,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009356,In House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008791,"Sklar Peppler, AW Mfg",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1259.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1008754,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011520,Facade Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1011244,"Quantum Verdi, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014212,European House Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008419,The Living Lab,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,890.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1008779,Leonâ€™s Furniture Ltd c/o Furniture.ca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1173.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
+1009968,Greenpark Homes,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1003025,Henry's Purveyor Of Fine Things,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005379,Park Lighting and Furniture Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019893,Kevin Muise INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017653,Design Gallery Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017744,Granola Village,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018359,The Curated Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8241.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1018779,Urban Home Windsor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019097,Candace Plotz Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019130,Linen and Lore Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017812,Beckwith Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018024,Layered Home & Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018120,Smythe Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018348,STUDIO 222 CALGARY LTD,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025591,All Things Wonderful,E-TAILER,SPECIALTY,Group 3 Low Potential,340.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022360,Chez Nous Chez Vous,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021409,Lighthouse Cabinetry,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9425.5,0.0,22,0,FALSE,N,FALSE,FALSE,N
+1021544,Hilary Ramsay Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1021079,TrouvÃ© Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020490,An Honest Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020661,Cocoon Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1020720,Ultra Luxe Linens Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020044,Parklanesofa Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020127,JACQUES LAFERTE LTEE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020017,blueprint home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5621.6,0.0,7,0,FALSE,N,FALSE,FALSE,N
+1020369,thestylewell,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019249,CINTEX INTERNATIONAL (CANADA) LIMITED,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019379,The Nest Collingwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019804,decorchic Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023102,Keep & co c/o Brian McCourt Design Build,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022654,Curate Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025337,weaversplus carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025328,dekor butik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,580.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024319,Brizo Interiors Inc / DBA Duxiana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024462,"MLI USA, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023089,Circa Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023303,Gallerno Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1024133,Stride Design Collective  (TRADE WHOLESALER),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1410.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1025813,Angela Wheeler Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027863,Arche Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036011,Luxe Co Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026418,Ross St. Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2544.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1027562,Arcade Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026246,CARLYLE INTERIORS INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1037704,Rothschild West Design Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1003856,SS Shelly Meshwork (Canada),INTERNAL,SALES_REP,Group 3 Low Potential,0.0,-47.44,1,1,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 12 accounts | $5858.50 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1017683,Dezin,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),23180.5,2059.5,8,3,FALSE,Y,TRUE,FALSE,N
-1007364,2Co.DesignStudio,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),10095.0,1135.0,3,2,FALSE,Y,TRUE,FALSE,N
-1017983,NUVO DESIGN STUDIO INC dba DECORATING DEN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6835.4,953.0,7,2,FALSE,Y,TRUE,FALSE,N
-1016103,The Dickson Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),11434.0,886.0,6,1,FALSE,Y,TRUE,FALSE,N
-1022486,UpStaged Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8391.5,760.0,7,1,FALSE,Y,TRUE,FALSE,N
-1010854,Farmer's Daughter Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),10739.0,80.0,2,1,FALSE,Y,TRUE,FALSE,N
-1027179,Cas Roy Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15078.8,0.0,4,0,FALSE,Y,TRUE,FALSE,N
-1004984,"Square Footage Custom Kitchens and Baths, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13380.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1026387,Natalie Fuglestveit Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),300.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1024448,Boss Design Ltd.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15318.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1026485,ANNE & MAY DESIGN CORPORATION,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1008110,Atmosphere Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8355.5,-15.0,4,1,FALSE,Y,TRUE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1017683,Dezin,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,23180.5,2059.5,8,3,FALSE,Y,TRUE,FALSE,N
+1007364,2Co.DesignStudio,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,10095.0,1135.0,3,2,FALSE,Y,TRUE,FALSE,N
+1017983,NUVO DESIGN STUDIO INC dba DECORATING DEN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,6835.4,953.0,7,2,FALSE,Y,TRUE,FALSE,N
+1016103,The Dickson Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,11434.0,886.0,6,1,FALSE,Y,TRUE,FALSE,N
+1022486,UpStaged Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,8391.5,760.0,7,1,FALSE,Y,TRUE,FALSE,N
+1010854,Farmer's Daughter Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,10739.0,80.0,2,1,FALSE,Y,TRUE,FALSE,N
+1027179,Cas Roy Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,15078.8,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+1004984,"Square Footage Custom Kitchens and Baths, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,13380.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1026387,Natalie Fuglestveit Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,300.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024448,Boss Design Ltd.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,15318.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1026485,ANNE & MAY DESIGN CORPORATION,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1008110,Atmosphere Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8355.5,-15.0,4,1,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 205 total accounts,,,,,,,,,,,,,,,
@@ -527,94 +527,94 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 89 accounts (10 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024448,Boss Design Ltd.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15318.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1027179,Cas Roy Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),15078.8,0.0,4,0,FALSE,Y,TRUE,FALSE,N
-1004984,"Square Footage Custom Kitchens and Baths, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),13380.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1021409,Lighthouse Cabinetry,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),9425.5,0.0,22,0,FALSE,N,FALSE,FALSE,N
-1018359,The Curated Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),8241.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1013067,Oben Shops,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),6651.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
-1020017,blueprint home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),5621.6,0.0,7,0,FALSE,N,FALSE,FALSE,N
-1026418,Ross St. Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),2544.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1021688,Vivre Ici DÃ©cor (Retail Store),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1972.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1007454,Decor West Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1735.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1020661,Cocoon Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024133,Stride Design Collective  (TRADE WHOLESALER),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1410.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1008791,"Sklar Peppler, AW Mfg",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1259.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1004552,FD and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1248.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008779,Leonâ€™s Furniture Ltd c/o Furniture.ca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1173.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
-1002264,Design Manitoba,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),1145.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003025,Henry's Purveyor Of Fine Things,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008419,The Living Lab,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),890.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1026246,CARLYLE INTERIORS INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025328,dekor butik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),580.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),526.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1011336,"LeClair Decor, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),425.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025591,All Things Wonderful,E-TAILER,SPECIALTY,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),340.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026387,Natalie Fuglestveit Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),300.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008754,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007558,"Carpette Multi-Design CMD, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007223,Anderson Carpet and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007247,PlaidFox Library,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006754,Hay Design Incorporated,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005379,Park Lighting and Furniture Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006047,"Union Electric Lighting Co, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1004077,Domicile Interiors Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003591,Un Fauteuil Pour Deux,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1004980,Cosafina for Gift and Home Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1001858,Tapis National (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003013,"Import Temptations, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016922,Gilded cage boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017812,Beckwith Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017653,Design Gallery Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017051,Bruton's Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011244,"Quantum Verdi, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009968,Greenpark Homes,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1009958,Designers Resource Centre,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012977,Flaunt Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013272,Rochelle Lynne Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1014212,European House Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015122,Rug & Weave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016006,HAVEN,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016418,Benali Enterprises Ltd/Allison Winter Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011520,Facade Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1009356,In House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020044,Parklanesofa Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019893,Kevin Muise INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019804,decorchic Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019379,The Nest Collingwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019130,Linen and Lore Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019249,CINTEX INTERNATIONAL (CANADA) LIMITED,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019097,Candace Plotz Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018779,Urban Home Windsor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017744,Granola Village,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018348,STUDIO 222 CALGARY LTD,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018120,Smythe Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1018024,Layered Home & Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021079,TrouvÃ© Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020369,thestylewell,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020490,An Honest Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020127,JACQUES LAFERTE LTEE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023303,Gallerno Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1023102,Keep & co c/o Brian McCourt Design Build,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023089,Circa Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022654,Curate Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021544,Hilary Ramsay Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1022360,Chez Nous Chez Vous,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020720,Ultra Luxe Linens Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024462,"MLI USA, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025813,Angela Wheeler Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1025337,weaversplus carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024319,Brizo Interiors Inc / DBA Duxiana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026485,ANNE & MAY DESIGN CORPORATION,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1027562,Arcade Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027863,Arche Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036011,Luxe Co Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037704,Rothschild West Design Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,Shelly Meshwork (CA),Shelly Meshwork (CA),0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024448,Boss Design Ltd.,DESIGN,DESIGN_FIRM,Group 3 Low Potential,15318.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1027179,Cas Roy Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,15078.8,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+1004984,"Square Footage Custom Kitchens and Baths, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,13380.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1021409,Lighthouse Cabinetry,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9425.5,0.0,22,0,FALSE,N,FALSE,FALSE,N
+1018359,The Curated Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8241.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1013067,Oben Shops,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6651.0,0.0,2,1,FALSE,N,FALSE,FALSE,N
+1020017,blueprint home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5621.6,0.0,7,0,FALSE,N,FALSE,FALSE,N
+1026418,Ross St. Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2544.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1021688,Vivre Ici DÃ©cor (Retail Store),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1972.5,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1007454,Decor West Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1735.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1020661,Cocoon Interiors Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1465.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024133,Stride Design Collective  (TRADE WHOLESALER),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1410.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1008791,"Sklar Peppler, AW Mfg",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1259.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004552,FD and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1248.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008779,Leonâ€™s Furniture Ltd c/o Furniture.ca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1173.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
+1002264,Design Manitoba,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1145.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003025,Henry's Purveyor Of Fine Things,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008419,The Living Lab,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,890.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1026246,CARLYLE INTERIORS INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1025328,dekor butik,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,580.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,526.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011336,"LeClair Decor, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,425.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025591,All Things Wonderful,E-TAILER,SPECIALTY,Group 3 Low Potential,340.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026387,Natalie Fuglestveit Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,300.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008754,Cardinal Floor Coverings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007558,"Carpette Multi-Design CMD, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007223,Anderson Carpet and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007247,PlaidFox Library,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006754,Hay Design Incorporated,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005379,Park Lighting and Furniture Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006047,"Union Electric Lighting Co, Ltd.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1004077,Domicile Interiors Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003591,Un Fauteuil Pour Deux,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1004980,Cosafina for Gift and Home Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001858,Tapis National (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003013,"Import Temptations, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016922,Gilded cage boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017812,Beckwith Galleries,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017653,Design Gallery Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017051,Bruton's Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011244,"Quantum Verdi, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009968,Greenpark Homes,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009958,Designers Resource Centre,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012977,Flaunt Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013272,Rochelle Lynne Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1014212,European House Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015122,Rug & Weave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016006,HAVEN,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016418,Benali Enterprises Ltd/Allison Winter Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011520,Facade Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009356,In House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020044,Parklanesofa Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019893,Kevin Muise INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019804,decorchic Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019379,The Nest Collingwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019130,Linen and Lore Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019249,CINTEX INTERNATIONAL (CANADA) LIMITED,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019097,Candace Plotz Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018779,Urban Home Windsor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017744,Granola Village,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018348,STUDIO 222 CALGARY LTD,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018120,Smythe Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1018024,Layered Home & Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021079,TrouvÃ© Home Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020369,thestylewell,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020490,An Honest Room,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020127,JACQUES LAFERTE LTEE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023303,Gallerno Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
+1023102,Keep & co c/o Brian McCourt Design Build,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023089,Circa Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022654,Curate Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021544,Hilary Ramsay Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022360,Chez Nous Chez Vous,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020720,Ultra Luxe Linens Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024462,"MLI USA, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025813,Angela Wheeler Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1025337,weaversplus carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024319,Brizo Interiors Inc / DBA Duxiana,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026485,ANNE & MAY DESIGN CORPORATION,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027562,Arcade Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027863,Arche Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036011,Luxe Co Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037704,Rothschild West Design Inc,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

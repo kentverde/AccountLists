@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Test SalesRep,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:53,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:58,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -21,10 +21,10 @@ Totals,3,2.05,0,0,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 3 accounts | $2.05 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Medium Potential,Test SalesRep,Test SalesRep,2.05,2.05,14,7,FALSE,N,FALSE,FALSE,N
-1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Test SalesRep,Test SalesRep,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Test SalesRep,Test SalesRep,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Medium Potential,2.05,2.05,14,7,FALSE,N,FALSE,FALSE,N
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 6 total accounts,,,,,,,,,,,,,,,
@@ -40,7 +40,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 2 accounts (1 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Test SalesRep,Test SalesRep,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Test SalesRep,Test SalesRep,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

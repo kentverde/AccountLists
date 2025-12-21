@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Lauren Smith,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:51,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -24,163 +24,163 @@ Totals,145,1591742.81,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 29 accounts | $1015074.35 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1011232,Nancy Hefner Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,194601.72,110033.94,139,83,FALSE,N,FALSE,FALSE,N
-1015409,Swine Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,68084.8,76380.99,28,28,FALSE,N,FALSE,FALSE,N
-1009384,Stephanie Kraus Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,75064.23,75923.43,46,40,FALSE,N,FALSE,FALSE,N
-1006576,"Studio 882, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,51441.08,52747.5,49,35,FALSE,N,FALSE,FALSE,N
-1016761,REMY Creative,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,17301.16,49322.45,14,29,FALSE,N,FALSE,FALSE,N
-1001646,Oskar Huber Furniture and Design,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,Lauren Smith,Lauren Smith,36931.5,42354.93,22,23,FALSE,N,FALSE,FALSE,N
-1012493,Voila Design Home Services LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,21942.1,42099.0,15,29,FALSE,N,FALSE,FALSE,N
-1016642,SLS Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,7094.0,39708.0,4,16,FALSE,N,FALSE,FALSE,N
-1001954,Meadowbank Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,42951.67,38184.37,18,9,FALSE,N,FALSE,FALSE,N
-1005230,Host,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,Lauren Smith,Lauren Smith,69270.35,34624.5,38,20,FALSE,N,FALSE,FALSE,N
-1018475,SMC design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,8132.0,31706.9,5,11,FALSE,N,FALSE,FALSE,N
-1006229,Kurlancheek Home Furnishings,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Lauren Smith,Lauren Smith,26725.9,30422.35,36,39,FALSE,N,FALSE,FALSE,N
-1010788,Donald McGill Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Lauren Smith,Lauren Smith,11146.53,29848.34,13,13,FALSE,N,FALSE,FALSE,N
-1008481,Laura Yeager Smith Home and Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,9465.94,26179.43,2,9,FALSE,N,FALSE,FALSE,N
-1010686,Vintage Home LLC,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Lauren Smith,Lauren Smith,34423.98,26056.0,27,24,FALSE,N,FALSE,FALSE,N
-1010328,Adeas Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,6466.0,25273.0,7,7,FALSE,N,FALSE,FALSE,N
-1006333,Kaminski and Pew,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,23008.9,24734.96,10,12,FALSE,N,FALSE,FALSE,N
-1021744,"Z Domus Designs, LLC",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Lauren Smith,Lauren Smith,38513.76,24711.11,16,15,FALSE,N,FALSE,FALSE,N
-1008794,"Henck Design, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,15790.0,24511.0,8,17,FALSE,N,FALSE,FALSE,N
-1011975,Andreas Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Lauren Smith,Lauren Smith,18277.0,24178.94,27,26,FALSE,N,FALSE,FALSE,N
-1012486,Mabry Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Lauren Smith,Lauren Smith,14121.5,23947.92,9,6,FALSE,N,FALSE,FALSE,N
-1002380,W Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,1805.0,22590.06,2,12,FALSE,N,FALSE,FALSE,N
-1015766,Laken Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,10673.5,21688.9,9,17,FALSE,N,FALSE,FALSE,N
-1001381,Diehl Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,6226.33,20834.8,9,22,FALSE,N,FALSE,FALSE,N
-1023713,Brightwater Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,700.73,20659.0,3,4,FALSE,N,FALSE,FALSE,N
-1013991,Michelle Gage Interiors LLC,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Lauren Smith,Lauren Smith,35821.47,20064.41,19,20,FALSE,N,FALSE,FALSE,N
-1010174,"Design Manifest, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Lauren Smith,Lauren Smith,38914.54,19739.62,13,5,FALSE,N,FALSE,FALSE,N
-1022506,Babb and Mack Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Lauren Smith,Lauren Smith,1067.3,18435.0,4,6,FALSE,N,FALSE,FALSE,N
-1009970,Room Service 360,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Lauren Smith,Lauren Smith,27941.28,18113.5,32,25,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1011232,Nancy Hefner Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,194601.72,110033.94,139,83,FALSE,N,FALSE,FALSE,N
+1015409,Swine Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,68084.8,76380.99,28,28,FALSE,N,FALSE,FALSE,N
+1009384,Stephanie Kraus Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,75064.23,75923.43,46,40,FALSE,N,FALSE,FALSE,N
+1006576,"Studio 882, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,51441.08,52747.5,49,35,FALSE,N,FALSE,FALSE,N
+1016761,REMY Creative,DESIGN,DESIGN_FIRM,Group 1 High Potential,17301.16,49322.45,14,29,FALSE,N,FALSE,FALSE,N
+1001646,Oskar Huber Furniture and Design,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,36931.5,42354.93,22,23,FALSE,N,FALSE,FALSE,N
+1012493,Voila Design Home Services LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,21942.1,42099.0,15,29,FALSE,N,FALSE,FALSE,N
+1016642,SLS Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,7094.0,39708.0,4,16,FALSE,N,FALSE,FALSE,N
+1001954,Meadowbank Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,42951.67,38184.37,18,9,FALSE,N,FALSE,FALSE,N
+1005230,Host,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,69270.35,34624.5,38,20,FALSE,N,FALSE,FALSE,N
+1018475,SMC design,DESIGN,DESIGN_FIRM,Group 1 High Potential,8132.0,31706.9,5,11,FALSE,N,FALSE,FALSE,N
+1006229,Kurlancheek Home Furnishings,RETAIL,SINGLE_LOCATION,Group 1 High Potential,26725.9,30422.35,36,39,FALSE,N,FALSE,FALSE,N
+1010788,Donald McGill Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,11146.53,29848.34,13,13,FALSE,N,FALSE,FALSE,N
+1008481,Laura Yeager Smith Home and Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,9465.94,26179.43,2,9,FALSE,N,FALSE,FALSE,N
+1010686,Vintage Home LLC,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,34423.98,26056.0,27,24,FALSE,N,FALSE,FALSE,N
+1010328,Adeas Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,6466.0,25273.0,7,7,FALSE,N,FALSE,FALSE,N
+1006333,Kaminski and Pew,DESIGN,DESIGN_FIRM,Group 1 High Potential,23008.9,24734.96,10,12,FALSE,N,FALSE,FALSE,N
+1021744,"Z Domus Designs, LLC",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,38513.76,24711.11,16,15,FALSE,N,FALSE,FALSE,N
+1008794,"Henck Design, LLC",DESIGN,DESIGN_FIRM,Group 1 High Potential,15790.0,24511.0,8,17,FALSE,N,FALSE,FALSE,N
+1011975,Andreas Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,18277.0,24178.94,27,26,FALSE,N,FALSE,FALSE,N
+1012486,Mabry Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,14121.5,23947.92,9,6,FALSE,N,FALSE,FALSE,N
+1002380,W Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,1805.0,22590.06,2,12,FALSE,N,FALSE,FALSE,N
+1015766,Laken Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,10673.5,21688.9,9,17,FALSE,N,FALSE,FALSE,N
+1001381,Diehl Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,6226.33,20834.8,9,22,FALSE,N,FALSE,FALSE,N
+1023713,Brightwater Interior Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,700.73,20659.0,3,4,FALSE,N,FALSE,FALSE,N
+1013991,Michelle Gage Interiors LLC,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,35821.47,20064.41,19,20,FALSE,N,FALSE,FALSE,N
+1010174,"Design Manifest, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,38914.54,19739.62,13,5,FALSE,N,FALSE,FALSE,N
+1022506,Babb and Mack Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,1067.3,18435.0,4,6,FALSE,N,FALSE,FALSE,N
+1009970,Room Service 360,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,27941.28,18113.5,32,25,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 72 accounts | $553684.77 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1014130,Rittenhouse Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,13230.0,17356.15,12,22,FALSE,N,FALSE,FALSE,N
-1021187,Old Soul Decor LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Lauren Smith,Lauren Smith,8214.2,16927.06,12,15,FALSE,N,FALSE,FALSE,N
-1010717,Gacek Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,8042.0,16493.0,2,7,FALSE,N,FALSE,FALSE,N
-1013873,Phillips Window Workroom Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,15203.5,15984.9,7,12,FALSE,N,FALSE,FALSE,N
-1005815,Interiors For The Home (DBA Proximity Interiors),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,14214.1,15878.4,14,12,FALSE,N,FALSE,FALSE,N
-1009737,Hendrixson's Furniture Ltd,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,13994.0,15482.19,13,11,FALSE,N,FALSE,FALSE,N
-1019489,Far Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,14985.0,0,5,FALSE,N,FALSE,FALSE,N
-1010554,Coco Curtain Studio (PA),DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,10995.15,14199.3,7,16,FALSE,N,FALSE,FALSE,N
-1010222,Studio K Interior Design + Furniture,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,11198.0,14037.0,6,8,FALSE,N,FALSE,FALSE,N
-1025668,"White House Development, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,9174.2,13857.5,9,12,FALSE,N,FALSE,FALSE,N
-1016286,Hendren House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,7678.0,12530.0,9,10,FALSE,N,FALSE,FALSE,N
-1012181,Payne & Tompkins Construction Design Renovations,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,4572.0,12391.0,3,4,FALSE,N,FALSE,FALSE,N
-1009338,Deborah Bettcher - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Lauren Smith,Lauren Smith,5380.0,12179.04,6,6,FALSE,N,FALSE,FALSE,N
-1035028,Stillman Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Lauren Smith,Lauren Smith,0.0,11250.6,0,10,TRUE,N,FALSE,FALSE,N
-1028151,Nicole Bailey Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,11095.4,0,12,FALSE,N,FALSE,FALSE,N
-1020609,Curate Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Lauren Smith,Lauren Smith,19125.0,10998.2,13,10,FALSE,N,FALSE,FALSE,N
-1000309,Leopold Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,26100.5,10919.0,18,10,FALSE,N,FALSE,FALSE,N
-1015758,vestige HOME,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,28273.95,10748.93,16,23,FALSE,N,FALSE,FALSE,N
-1009227,"BF Interior Design Studio, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,1341.0,10713.0,2,10,FALSE,N,FALSE,FALSE,N
-1006713,Linda Morgan Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,5856.6,10249.6,7,11,FALSE,N,FALSE,FALSE,N
-1013224,Sharon Ryan Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,5436.0,10068.6,4,5,FALSE,N,FALSE,FALSE,N
-1005675,Suzanne Perilli Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,21173.65,9615.7,15,7,FALSE,N,FALSE,FALSE,N
-1015810,"Kathleen L. Penney Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,13704.8,9480.0,12,11,FALSE,N,FALSE,FALSE,N
-1000540,Diane Bishop Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,16383.51,9117.25,13,11,FALSE,N,FALSE,FALSE,N
-1002300,Jennifer Hendrickson Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,25115.96,9016.0,8,3,FALSE,N,FALSE,FALSE,N
-1036760,Ville & Rue,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Lauren Smith,Lauren Smith,0.0,8684.0,0,7,TRUE,N,FALSE,FALSE,N
-1027485,Gish's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Lauren Smith,Lauren Smith,4167.0,8043.67,7,16,FALSE,N,FALSE,FALSE,N
-1000288,David's Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,29068.6,7987.2,43,15,FALSE,N,FALSE,FALSE,N
-1005071,Black Eyed Susan,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,15495.55,7875.4,22,10,FALSE,N,FALSE,FALSE,N
-1004457,House of L,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,42346.2,7868.52,22,14,FALSE,N,FALSE,FALSE,N
-1036016,David Lyall Home & Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Lauren Smith,Lauren Smith,0.0,7586.5,0,1,TRUE,N,FALSE,FALSE,N
-1035145,Ainsley Brookins Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,4113.4,7437.0,3,8,FALSE,N,FALSE,FALSE,N
-1015834,Fern.ish Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,19563.15,7388.5,34,19,FALSE,N,FALSE,FALSE,N
-1009247,Olio Design (PA),DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,1450.5,7352.25,1,4,FALSE,N,FALSE,FALSE,N
-1003901,"Posh Places, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,Lauren Smith,Lauren Smith,2660.0,7169.0,8,12,FALSE,N,FALSE,FALSE,N
-1011029,"Decoration Unlimited, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,8264.15,6991.0,2,3,FALSE,N,FALSE,FALSE,N
-1011320,Cocalico Creek Home LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,18671.0,6862.0,30,17,FALSE,N,FALSE,FALSE,N
-1002213,Laura Of Pembroke,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Lauren Smith,Lauren Smith,3589.5,6744.4,10,12,FALSE,N,FALSE,FALSE,N
-1001191,M.A.M. Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,7488.0,6419.0,5,4,FALSE,N,FALSE,FALSE,N
-1015755,Darby Mill Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,1275.0,6096.4,3,6,FALSE,N,FALSE,FALSE,N
-1007509,High Street Market - Home design studio,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,4298.0,5908.0,2,3,FALSE,N,FALSE,FALSE,N
-1000807,Chuck's Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Lauren Smith,Lauren Smith,4864.0,5537.5,6,8,FALSE,N,FALSE,FALSE,N
-1012143,Davin Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,5365.0,0,1,FALSE,N,FALSE,FALSE,N
-1019941,Beautiful Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,2759.0,5256.0,2,5,FALSE,N,FALSE,FALSE,N
-1001512,Karen Morris Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,6388.0,5255.0,9,5,FALSE,N,FALSE,FALSE,N
-1005241,"Shrawder Restorations, Inc. -Sheffield's Furniture",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,22348.59,5148.77,28,2,FALSE,N,FALSE,FALSE,N
-1000727,Weisshouse,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,9179.0,5109.1,5,5,FALSE,N,FALSE,FALSE,N
-1005076,Copper Leaf Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,11033.8,4908.9,11,7,FALSE,N,FALSE,FALSE,N
-1000452,Parisa's Decorative Rugs Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,3062.0,4873.0,2,4,FALSE,N,FALSE,FALSE,N
-1037909,Knob Hill Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Lauren Smith,Lauren Smith,0.0,4668.0,0,3,TRUE,N,FALSE,FALSE,N
-1007409,Stonewood Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,14064.9,4600.0,8,3,FALSE,N,FALSE,FALSE,N
-1005192,Meera Thomas Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,4880.0,4370.0,4,4,FALSE,N,FALSE,FALSE,N
-1011004,"Wayne Simpson Architect, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,926.0,4335.0,2,4,FALSE,N,FALSE,FALSE,N
-1009504,"Kate Lee Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,-644.84,4185.0,4,6,FALSE,N,FALSE,FALSE,N
-1017361,Kat Robbins Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,2336.0,4141.0,2,4,FALSE,N,FALSE,FALSE,N
-1025565,FUNCY DECOR LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,4100.0,0,1,FALSE,N,FALSE,FALSE,N
-1007361,JAB Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Lauren Smith,Lauren Smith,3900.0,4044.5,2,6,FALSE,N,FALSE,FALSE,N
-1000825,Grossman Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,580.0,3680.0,1,3,FALSE,N,FALSE,FALSE,N
-1007190,Dee Hurford Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Lauren Smith,Lauren Smith,995.6,3548.0,3,1,FALSE,N,FALSE,FALSE,N
-1021529,Tara Ryan Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,5005.0,3545.0,1,1,FALSE,N,FALSE,FALSE,N
-1019878,"Europa Interiors and Gifts, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,500.0,3408.0,1,6,FALSE,N,FALSE,FALSE,N
-1026564,PerLora,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,Lauren Smith,Lauren Smith,2940.0,3337.0,2,3,FALSE,N,FALSE,FALSE,N
-1007929,Bella Home Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,746.0,3277.24,2,3,FALSE,N,FALSE,FALSE,N
-1008141,"NGD Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,3277.0,0,1,FALSE,N,FALSE,FALSE,N
-1027097,Fella Studios & Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Lauren Smith,Lauren Smith,0.0,2914.6,1,2,FALSE,N,FALSE,FALSE,N
-1012646,Barbara Hayman Designs Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,3297.0,2810.5,4,5,FALSE,N,FALSE,FALSE,N
-1008685,Kristen Fireman Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,207.0,2803.5,1,1,FALSE,N,FALSE,FALSE,N
-1006450,NKM Design-Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Lauren Smith,Lauren Smith,10834.0,2789.0,19,4,FALSE,N,FALSE,FALSE,N
-1013333,Design Trade Resources,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,7125.0,2685.0,3,2,FALSE,N,FALSE,FALSE,N
-1007841,Susan Costin Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Lauren Smith,Lauren Smith,1626.0,2677.0,2,2,FALSE,N,FALSE,FALSE,N
-1015425,"Spayds Greenhouses, Nursery & Floral Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,1075.0,2528.0,1,3,FALSE,N,FALSE,FALSE,N
-1005494,Holland Floor Covering-Newton Store,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Lauren Smith,Lauren Smith,5867.28,2522.5,8,6,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014130,Rittenhouse Home,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,13230.0,17356.15,12,22,FALSE,N,FALSE,FALSE,N
+1021187,Old Soul Decor LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,8214.2,16927.06,12,15,FALSE,N,FALSE,FALSE,N
+1010717,Gacek Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8042.0,16493.0,2,7,FALSE,N,FALSE,FALSE,N
+1013873,Phillips Window Workroom Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15203.5,15984.9,7,12,FALSE,N,FALSE,FALSE,N
+1005815,Interiors For The Home (DBA Proximity Interiors),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14214.1,15878.4,14,12,FALSE,N,FALSE,FALSE,N
+1009737,Hendrixson's Furniture Ltd,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,13994.0,15482.19,13,11,FALSE,N,FALSE,FALSE,N
+1019489,Far Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,14985.0,0,5,FALSE,N,FALSE,FALSE,N
+1010554,Coco Curtain Studio (PA),DESIGN,DESIGN_FIRM,Group 2 High Potential,10995.15,14199.3,7,16,FALSE,N,FALSE,FALSE,N
+1010222,Studio K Interior Design + Furniture,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11198.0,14037.0,6,8,FALSE,N,FALSE,FALSE,N
+1025668,"White House Development, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9174.2,13857.5,9,12,FALSE,N,FALSE,FALSE,N
+1016286,Hendren House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7678.0,12530.0,9,10,FALSE,N,FALSE,FALSE,N
+1012181,Payne & Tompkins Construction Design Renovations,DESIGN,DESIGN_FIRM,Group 2 High Potential,4572.0,12391.0,3,4,FALSE,N,FALSE,FALSE,N
+1009338,Deborah Bettcher - Decorating Den,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,5380.0,12179.04,6,6,FALSE,N,FALSE,FALSE,N
+1035028,Stillman Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,11250.6,0,10,TRUE,N,FALSE,FALSE,N
+1028151,Nicole Bailey Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,11095.4,0,12,FALSE,N,FALSE,FALSE,N
+1020609,Curate Designs LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,19125.0,10998.2,13,10,FALSE,N,FALSE,FALSE,N
+1000309,Leopold Brothers Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,26100.5,10919.0,18,10,FALSE,N,FALSE,FALSE,N
+1015758,vestige HOME,DESIGN,DESIGN_FIRM,Group 2 High Potential,28273.95,10748.93,16,23,FALSE,N,FALSE,FALSE,N
+1009227,"BF Interior Design Studio, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,1341.0,10713.0,2,10,FALSE,N,FALSE,FALSE,N
+1006713,Linda Morgan Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,5856.6,10249.6,7,11,FALSE,N,FALSE,FALSE,N
+1013224,Sharon Ryan Design,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5436.0,10068.6,4,5,FALSE,N,FALSE,FALSE,N
+1005675,Suzanne Perilli Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,21173.65,9615.7,15,7,FALSE,N,FALSE,FALSE,N
+1015810,"Kathleen L. Penney Interiors, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,13704.8,9480.0,12,11,FALSE,N,FALSE,FALSE,N
+1000540,Diane Bishop Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,16383.51,9117.25,13,11,FALSE,N,FALSE,FALSE,N
+1002300,Jennifer Hendrickson Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,25115.96,9016.0,8,3,FALSE,N,FALSE,FALSE,N
+1036760,Ville & Rue,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,8684.0,0,7,TRUE,N,FALSE,FALSE,N
+1027485,Gish's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,4167.0,8043.67,7,16,FALSE,N,FALSE,FALSE,N
+1000288,David's Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,29068.6,7987.2,43,15,FALSE,N,FALSE,FALSE,N
+1005071,Black Eyed Susan,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,15495.55,7875.4,22,10,FALSE,N,FALSE,FALSE,N
+1004457,House of L,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,42346.2,7868.52,22,14,FALSE,N,FALSE,FALSE,N
+1036016,David Lyall Home & Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,7586.5,0,1,TRUE,N,FALSE,FALSE,N
+1035145,Ainsley Brookins Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4113.4,7437.0,3,8,FALSE,N,FALSE,FALSE,N
+1015834,Fern.ish Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,19563.15,7388.5,34,19,FALSE,N,FALSE,FALSE,N
+1009247,Olio Design (PA),DESIGN,DESIGN_FIRM,Group 2 High Potential,1450.5,7352.25,1,4,FALSE,N,FALSE,FALSE,N
+1003901,"Posh Places, Inc.",RETAIL,SINGLE_LOCATION,Group 2 High Potential,2660.0,7169.0,8,12,FALSE,N,FALSE,FALSE,N
+1011029,"Decoration Unlimited, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8264.15,6991.0,2,3,FALSE,N,FALSE,FALSE,N
+1011320,Cocalico Creek Home LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,18671.0,6862.0,30,17,FALSE,N,FALSE,FALSE,N
+1002213,Laura Of Pembroke,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,3589.5,6744.4,10,12,FALSE,N,FALSE,FALSE,N
+1001191,M.A.M. Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7488.0,6419.0,5,4,FALSE,N,FALSE,FALSE,N
+1015755,Darby Mill Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,1275.0,6096.4,3,6,FALSE,N,FALSE,FALSE,N
+1007509,High Street Market - Home design studio,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,4298.0,5908.0,2,3,FALSE,N,FALSE,FALSE,N
+1000807,Chuck's Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,4864.0,5537.5,6,8,FALSE,N,FALSE,FALSE,N
+1012143,Davin Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,5365.0,0,1,FALSE,N,FALSE,FALSE,N
+1019941,Beautiful Home Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,2759.0,5256.0,2,5,FALSE,N,FALSE,FALSE,N
+1001512,Karen Morris Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6388.0,5255.0,9,5,FALSE,N,FALSE,FALSE,N
+1005241,"Shrawder Restorations, Inc. -Sheffield's Furniture",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,22348.59,5148.77,28,2,FALSE,N,FALSE,FALSE,N
+1000727,Weisshouse,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9179.0,5109.1,5,5,FALSE,N,FALSE,FALSE,N
+1005076,Copper Leaf Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11033.8,4908.9,11,7,FALSE,N,FALSE,FALSE,N
+1000452,Parisa's Decorative Rugs Inc.,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3062.0,4873.0,2,4,FALSE,N,FALSE,FALSE,N
+1037909,Knob Hill Design,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,4668.0,0,3,TRUE,N,FALSE,FALSE,N
+1007409,Stonewood Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14064.9,4600.0,8,3,FALSE,N,FALSE,FALSE,N
+1005192,Meera Thomas Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4880.0,4370.0,4,4,FALSE,N,FALSE,FALSE,N
+1011004,"Wayne Simpson Architect, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,926.0,4335.0,2,4,FALSE,N,FALSE,FALSE,N
+1009504,"Kate Lee Designs, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,-644.84,4185.0,4,6,FALSE,N,FALSE,FALSE,N
+1017361,Kat Robbins Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,2336.0,4141.0,2,4,FALSE,N,FALSE,FALSE,N
+1025565,FUNCY DECOR LLC,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,4100.0,0,1,FALSE,N,FALSE,FALSE,N
+1007361,JAB Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,3900.0,4044.5,2,6,FALSE,N,FALSE,FALSE,N
+1000825,Grossman Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,580.0,3680.0,1,3,FALSE,N,FALSE,FALSE,N
+1007190,Dee Hurford Designs,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,995.6,3548.0,3,1,FALSE,N,FALSE,FALSE,N
+1021529,Tara Ryan Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5005.0,3545.0,1,1,FALSE,N,FALSE,FALSE,N
+1019878,"Europa Interiors and Gifts, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,500.0,3408.0,1,6,FALSE,N,FALSE,FALSE,N
+1026564,PerLora,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,2940.0,3337.0,2,3,FALSE,N,FALSE,FALSE,N
+1007929,Bella Home Decor,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,746.0,3277.24,2,3,FALSE,N,FALSE,FALSE,N
+1008141,"NGD Interiors, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3277.0,0,1,FALSE,N,FALSE,FALSE,N
+1027097,Fella Studios & Co,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2914.6,1,2,FALSE,N,FALSE,FALSE,N
+1012646,Barbara Hayman Designs Decorating Den,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3297.0,2810.5,4,5,FALSE,N,FALSE,FALSE,N
+1008685,Kristen Fireman Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,207.0,2803.5,1,1,FALSE,N,FALSE,FALSE,N
+1006450,NKM Design-Decorating Den Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,10834.0,2789.0,19,4,FALSE,N,FALSE,FALSE,N
+1013333,Design Trade Resources,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,7125.0,2685.0,3,2,FALSE,N,FALSE,FALSE,N
+1007841,Susan Costin Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1626.0,2677.0,2,2,FALSE,N,FALSE,FALSE,N
+1015425,"Spayds Greenhouses, Nursery & Floral Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,1075.0,2528.0,1,3,FALSE,N,FALSE,FALSE,N
+1005494,Holland Floor Covering-Newton Store,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5867.28,2522.5,8,6,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 44 accounts | $22983.69 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1027367,stout carpeting inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,220.0,2186.4,1,2,FALSE,N,FALSE,FALSE,N
-1002046,Perrino Furnishings and Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,4686.0,1929.0,9,6,FALSE,N,FALSE,FALSE,N
-1037079,Ashli Mizell,DESIGN,DESIGN_FIRM,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,1810.0,0,1,TRUE,N,FALSE,FALSE,N
-1000026,Albed Rug Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,5737.5,1785.0,4,1,FALSE,N,FALSE,FALSE,N
-1022037,Home Tonic LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,1678.25,0,3,TRUE,N,FALSE,FALSE,N
-1027576,Dahlhaus Design Co. LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,1678.0,0,4,TRUE,N,FALSE,FALSE,N
-1011097,Dewey Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,4240.0,1602.0,7,3,FALSE,N,FALSE,FALSE,N
-1021537,Salvatore Outdoor LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,147.0,1570.0,1,1,FALSE,N,FALSE,FALSE,N
-1016001,Brenda Friday Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,2155.0,1233.5,2,1,FALSE,N,FALSE,FALSE,N
-1007539,Saylor House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,2150.0,1195.0,2,1,FALSE,N,FALSE,FALSE,N
-1011247,Pine Tree Barn,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,5601.27,1183.5,11,3,FALSE,N,FALSE,FALSE,N
-1035689,Marvista Design Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,1138.2,0,3,TRUE,N,FALSE,FALSE,N
-1019211,Marche,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,1400.0,914.0,1,4,FALSE,N,FALSE,FALSE,N
-1014759,John Strauss Furniture Showroom,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,0.0,572.84,0,1,FALSE,N,FALSE,FALSE,N
-1021286,37 Summerwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,4515.7,555.0,3,1,FALSE,N,FALSE,FALSE,N
-1015048,buckingham floor llc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,0.0,471.0,0,1,FALSE,N,FALSE,FALSE,N
-1008214,Gracious Living Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Lauren Smith,Lauren Smith,150.0,468.4,0,3,FALSE,N,FALSE,FALSE,N
-1023365,The Nue Look,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,1075.0,320.0,2,1,FALSE,N,FALSE,FALSE,N
-1004439,Calvetta Brothers Floor Show,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,Lauren Smith,Lauren Smith,4800.0,225.0,4,3,FALSE,N,FALSE,FALSE,N
-1005428,Homestead Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,2132.0,200.0,6,1,FALSE,N,FALSE,FALSE,N
-1026787,ALGARD CERAMIC TILE,RETAIL,SINGLE_LOCATION,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,168.6,0,1,TRUE,N,FALSE,FALSE,N
-1037887,Thornton Interior Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,Lauren Smith,Lauren Smith,0.0,100.0,0,0,TRUE,N,FALSE,FALSE,N
-1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,499.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,1415.2,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,740.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,3422.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,597.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,10296.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1027367,stout carpeting inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,220.0,2186.4,1,2,FALSE,N,FALSE,FALSE,N
+1002046,Perrino Furnishings and Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,4686.0,1929.0,9,6,FALSE,N,FALSE,FALSE,N
+1037079,Ashli Mizell,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1810.0,0,1,TRUE,N,FALSE,FALSE,N
+1000026,Albed Rug Co.,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5737.5,1785.0,4,1,FALSE,N,FALSE,FALSE,N
+1022037,Home Tonic LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,1678.25,0,3,TRUE,N,FALSE,FALSE,N
+1027576,Dahlhaus Design Co. LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1678.0,0,4,TRUE,N,FALSE,FALSE,N
+1011097,Dewey Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4240.0,1602.0,7,3,FALSE,N,FALSE,FALSE,N
+1021537,Salvatore Outdoor LLC,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,147.0,1570.0,1,1,FALSE,N,FALSE,FALSE,N
+1016001,Brenda Friday Design,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2155.0,1233.5,2,1,FALSE,N,FALSE,FALSE,N
+1007539,Saylor House,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2150.0,1195.0,2,1,FALSE,N,FALSE,FALSE,N
+1011247,Pine Tree Barn,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5601.27,1183.5,11,3,FALSE,N,FALSE,FALSE,N
+1035689,Marvista Design Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1138.2,0,3,TRUE,N,FALSE,FALSE,N
+1019211,Marche,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1400.0,914.0,1,4,FALSE,N,FALSE,FALSE,N
+1014759,John Strauss Furniture Showroom,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,572.84,0,1,FALSE,N,FALSE,FALSE,N
+1021286,37 Summerwood,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4515.7,555.0,3,1,FALSE,N,FALSE,FALSE,N
+1015048,buckingham floor llc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,471.0,0,1,FALSE,N,FALSE,FALSE,N
+1008214,Gracious Living Interiors,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,150.0,468.4,0,3,FALSE,N,FALSE,FALSE,N
+1023365,The Nue Look,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1075.0,320.0,2,1,FALSE,N,FALSE,FALSE,N
+1004439,Calvetta Brothers Floor Show,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,4800.0,225.0,4,3,FALSE,N,FALSE,FALSE,N
+1005428,Homestead Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2132.0,200.0,6,1,FALSE,N,FALSE,FALSE,N
+1026787,ALGARD CERAMIC TILE,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,168.6,0,1,TRUE,N,FALSE,FALSE,N
+1037887,Thornton Interior Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,100.0,0,0,TRUE,N,FALSE,FALSE,N
+1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,499.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1415.2,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3422.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,597.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10296.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 79 total accounts,,,,,,,,,,,,,,,
@@ -269,27 +269,27 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 22 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,10296.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,3422.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,1415.2,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,740.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,597.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,499.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Lauren Smith,Lauren Smith,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10296.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3422.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1415.2,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,597.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,499.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

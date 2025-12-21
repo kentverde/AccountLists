@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Chapel Conley,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:43:50,,,,,,,,,,,,,,,
+Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -25,139 +25,139 @@ Totals,121,1589714.56,0,0,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 28 accounts | $997160.52 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1012295,Moxie Design Studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,45706.26,89069.53,33,49,FALSE,N,FALSE,FALSE,N
-1001367,Sunrise Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,42462.24,78238.23,60,57,FALSE,N,FALSE,FALSE,N
-1020823,Happy Hour Design Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,63929.5,70970.79,53,57,FALSE,N,FALSE,FALSE,N
-1021260,Pacaso,DESIGN,HOSPITALITY,Group 1 High Potential,Chapel Conley,Chapel Conley,58180.3,68615.52,22,25,FALSE,N,FALSE,FALSE,N
-1013869,KTG Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,30872.76,51122.96,19,19,FALSE,N,FALSE,FALSE,N
-1001154,Pacific Design Group Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,42894.65,48416.52,15,28,FALSE,N,FALSE,FALSE,N
-1013151,Tama Bell Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,19695.72,42340.36,9,17,FALSE,N,FALSE,FALSE,N
-1002756,Henderson Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,14940.63,40541.39,18,15,FALSE,N,FALSE,FALSE,N
-1001379,Saint Dizier Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,4820.0,37646.87,8,27,FALSE,N,FALSE,FALSE,N
-1001252,Suzanne Hanzal Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,24093.7,32731.5,16,15,FALSE,N,FALSE,FALSE,N
-1003114,"Myra Hoefer Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,18721.7,32575.0,16,13,FALSE,N,FALSE,FALSE,N
-1019296,Lauren Jacobsen Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Chapel Conley,Chapel Conley,0.0,30769.4,0,8,FALSE,N,FALSE,FALSE,N
-1010127,The Feathered Nest,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,Chapel Conley,Chapel Conley,55293.1,30629.52,25,27,FALSE,N,FALSE,FALSE,N
-1007490,Four Design dba Katrina Stumbos Interior Designs,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,13552.5,28204.25,16,20,FALSE,N,FALSE,FALSE,N
-1017833,Simply Savvy,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,18227.2,27877.16,31,10,FALSE,N,FALSE,FALSE,N
-1003220,Lmb Interiors Inc,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,10486.0,26734.75,2,9,FALSE,N,FALSE,FALSE,N
-1008633,Design Shop Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Chapel Conley,Chapel Conley,40914.92,26612.0,16,30,FALSE,N,FALSE,FALSE,N
-1004056,Studio D,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Chapel Conley,Chapel Conley,9300.0,24683.5,6,11,FALSE,N,FALSE,FALSE,N
-1015172,Pearl Design Co.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,79321.7,24033.6,140,78,FALSE,N,FALSE,FALSE,N
-1014356,Holt Design house,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Chapel Conley,Chapel Conley,8921.5,23303.0,7,8,FALSE,N,FALSE,FALSE,N
-1011236,"Banner Day Consulting, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Chapel Conley,Chapel Conley,5605.0,22339.0,4,6,FALSE,N,FALSE,FALSE,N
-1023355,"Designs with You in Mind, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Chapel Conley,Chapel Conley,7317.2,22291.0,6,9,FALSE,N,FALSE,FALSE,N
-1006264,Walton Arch & Eng,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,Chapel Conley,Chapel Conley,12244.58,20831.84,2,12,FALSE,N,FALSE,FALSE,N
-1011494,5 West Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Chapel Conley,Chapel Conley,28750.14,20766.43,18,13,FALSE,N,FALSE,FALSE,N
-1001238,Donald Joseph Inc,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,Chapel Conley,Chapel Conley,9950.0,20578.0,2,5,FALSE,N,FALSE,FALSE,N
-1036596,Tahoe Modern,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Chapel Conley,Chapel Conley,0.0,18771.0,0,18,TRUE,N,FALSE,FALSE,N
-1009237,Nash Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,Chapel Conley,Chapel Conley,70890.05,18430.4,24,9,FALSE,N,FALSE,FALSE,N
-1011386,Shop the Studio at Design Mart,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Chapel Conley,Chapel Conley,22295.57,18037.0,15,14,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1012295,Moxie Design Studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,45706.26,89069.53,33,49,FALSE,N,FALSE,FALSE,N
+1001367,Sunrise Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,42462.24,78238.23,60,57,FALSE,N,FALSE,FALSE,N
+1020823,Happy Hour Design Collective,DESIGN,DESIGN_FIRM,Group 1 High Potential,63929.5,70970.79,53,57,FALSE,N,FALSE,FALSE,N
+1021260,Pacaso,DESIGN,HOSPITALITY,Group 1 High Potential,58180.3,68615.52,22,25,FALSE,N,FALSE,FALSE,N
+1013869,KTG Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,30872.76,51122.96,19,19,FALSE,N,FALSE,FALSE,N
+1001154,Pacific Design Group Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,42894.65,48416.52,15,28,FALSE,N,FALSE,FALSE,N
+1013151,Tama Bell Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,19695.72,42340.36,9,17,FALSE,N,FALSE,FALSE,N
+1002756,Henderson Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,14940.63,40541.39,18,15,FALSE,N,FALSE,FALSE,N
+1001379,Saint Dizier Home,RETAIL,SINGLE_LOCATION,Group 1 High Potential,4820.0,37646.87,8,27,FALSE,N,FALSE,FALSE,N
+1001252,Suzanne Hanzal Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,24093.7,32731.5,16,15,FALSE,N,FALSE,FALSE,N
+1003114,"Myra Hoefer Design, Inc.",DESIGN,DESIGN_FIRM,Group 1 High Potential,18721.7,32575.0,16,13,FALSE,N,FALSE,FALSE,N
+1019296,Lauren Jacobsen Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,0.0,30769.4,0,8,FALSE,N,FALSE,FALSE,N
+1010127,The Feathered Nest,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,55293.1,30629.52,25,27,FALSE,N,FALSE,FALSE,N
+1007490,Four Design dba Katrina Stumbos Interior Designs,RETAIL,SINGLE_LOCATION,Group 1 High Potential,13552.5,28204.25,16,20,FALSE,N,FALSE,FALSE,N
+1017833,Simply Savvy,RETAIL,SINGLE_LOCATION,Group 1 High Potential,18227.2,27877.16,31,10,FALSE,N,FALSE,FALSE,N
+1003220,Lmb Interiors Inc,DESIGN,DESIGN_FIRM,Group 1 High Potential,10486.0,26734.75,2,9,FALSE,N,FALSE,FALSE,N
+1008633,Design Shop Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,40914.92,26612.0,16,30,FALSE,N,FALSE,FALSE,N
+1004056,Studio D,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,9300.0,24683.5,6,11,FALSE,N,FALSE,FALSE,N
+1015172,Pearl Design Co.,RETAIL,SINGLE_LOCATION,Group 1 High Potential,79321.7,24033.6,140,78,FALSE,N,FALSE,FALSE,N
+1014356,Holt Design house,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,8921.5,23303.0,7,8,FALSE,N,FALSE,FALSE,N
+1011236,"Banner Day Consulting, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,5605.0,22339.0,4,6,FALSE,N,FALSE,FALSE,N
+1023355,"Designs with You in Mind, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,7317.2,22291.0,6,9,FALSE,N,FALSE,FALSE,N
+1006264,Walton Arch & Eng,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,12244.58,20831.84,2,12,FALSE,N,FALSE,FALSE,N
+1011494,5 West Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,28750.14,20766.43,18,13,FALSE,N,FALSE,FALSE,N
+1001238,Donald Joseph Inc,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,9950.0,20578.0,2,5,FALSE,N,FALSE,FALSE,N
+1036596,Tahoe Modern,RETAIL,SINGLE_LOCATION,Group 1 High Potential,0.0,18771.0,0,18,TRUE,N,FALSE,FALSE,N
+1009237,Nash Design Group,DESIGN,DESIGN_FIRM,Group 1 High Potential,70890.05,18430.4,24,9,FALSE,N,FALSE,FALSE,N
+1011386,Shop the Studio at Design Mart,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,22295.57,18037.0,15,14,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 72 accounts | $581762.74 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1014340,Ambiance Interiors  Carmel,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,20737.6,17651.68,5,1,FALSE,N,FALSE,FALSE,N
-1015495,31 Chapters LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,1017.03,17234.52,2,11,FALSE,N,FALSE,FALSE,N
-1014563,Veritas Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,1980.0,17167.0,1,2,FALSE,N,FALSE,FALSE,N
-1005973,Mannisto Enterprises. Inc. dba Designers Only,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,11413.0,16762.0,8,11,FALSE,N,FALSE,FALSE,N
-1016764,Elizabeth C. Style,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,1782.5,16144.46,2,4,FALSE,N,FALSE,FALSE,N
-1002293,Tineke Triggs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,16095.35,0,13,FALSE,N,FALSE,FALSE,N
-1024183,KTJ Design Co,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,5121.8,15943.7,5,6,FALSE,N,FALSE,FALSE,N
-1024120,Ceto Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,16616.19,15926.28,21,22,FALSE,N,FALSE,FALSE,N
-1001475,Slater's Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Chapel Conley,Chapel Conley,7157.88,15205.25,5,15,FALSE,N,FALSE,FALSE,N
-1011766,Pepperjack Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,92.0,14845.0,1,2,FALSE,N,FALSE,FALSE,N
-1024058,Lazboy Furniture Galleries,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,Chapel Conley,Chapel Conley,34437.0,13896.5,13,10,FALSE,N,FALSE,FALSE,N
-1013236,Diablo Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,5535.0,13637.0,4,11,FALSE,N,FALSE,FALSE,N
-1017216,Casey Howard Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,9336.0,13319.0,2,14,FALSE,N,FALSE,FALSE,N
-1001641,Juniper Hill Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,8298.0,12532.0,4,8,FALSE,N,FALSE,FALSE,N
-1004458,Coddington Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,1245.2,12448.37,1,7,FALSE,N,FALSE,FALSE,N
-1016863,"Altitude Design Co, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,33891.56,12087.72,14,4,FALSE,N,FALSE,FALSE,N
-1007292,"Design Matters of Los Gatos, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,7183.0,11675.0,8,10,FALSE,N,FALSE,FALSE,N
-1011488,Erin Melkonian Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,5062.0,11022.0,3,5,FALSE,N,FALSE,FALSE,N
-1006583,Khrysten Kent Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,577.0,9787.75,1,6,FALSE,N,FALSE,FALSE,N
-1011699,Joy Street Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,11471.0,9773.25,8,4,FALSE,N,FALSE,FALSE,N
-1001324,Hemmings & Jarrett,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,3407.0,9495.5,3,4,FALSE,N,FALSE,FALSE,N
-1027247,Catherine Kwong Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,9373.01,0,2,FALSE,N,FALSE,FALSE,N
-1018817,Studio Connolly,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,14485.22,9325.68,9,3,FALSE,N,FALSE,FALSE,N
-1012052,Emerson Grace Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,4766.0,8908.0,7,5,FALSE,N,FALSE,FALSE,N
-1012248,Rambeau Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,7816.26,8886.0,3,4,FALSE,N,FALSE,FALSE,N
-1016892,Brittin del Valle Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,15975.2,8737.52,15,5,FALSE,N,FALSE,FALSE,N
-1005410,"Molly Erin Designs, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,9803.1,8539.0,8,10,FALSE,N,FALSE,FALSE,N
-1003589,Benning Design Assoc,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,3691.0,8521.0,5,9,FALSE,N,FALSE,FALSE,N
-1015975,Joanna Branzell Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,13573.0,8262.3,9,4,FALSE,N,FALSE,FALSE,N
-1009223,Kimberley Harrison Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,7498.32,8175.0,4,8,FALSE,N,FALSE,FALSE,N
-1000874,Nantucket Home,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,2295.0,8018.1,6,6,FALSE,N,FALSE,FALSE,N
-1003012,High Camp Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,7771.5,0,1,FALSE,N,FALSE,FALSE,N
-1012989,Design Bar,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,34108.46,7638.0,18,7,FALSE,N,FALSE,FALSE,N
-1005136,Elena Calabrese,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,847.0,7415.4,3,3,FALSE,N,FALSE,FALSE,N
-1011905,EM Design dba Fletcher Rhodes,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,7169.0,0,3,FALSE,N,FALSE,FALSE,N
-1023546,Aspen Leaf Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,7110.55,0,5,FALSE,N,FALSE,FALSE,N
-1002778,Molie Malone Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,3298.0,7083.0,2,6,FALSE,N,FALSE,FALSE,N
-1023825,"Henry Mae, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,2591.0,6953.0,2,8,FALSE,N,FALSE,FALSE,N
-1011716,Interior Design by JJH,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,12840.5,6856.0,8,6,FALSE,N,FALSE,FALSE,N
-1009134,AYI and Associates formerly +Olive,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,9088.6,6456.0,9,4,FALSE,N,FALSE,FALSE,N
-1007282,Giorgi Bros. Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,5815.0,6379.5,4,3,FALSE,N,FALSE,FALSE,N
-1017239,Studio seventy-nine interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,6183.0,0,3,FALSE,N,FALSE,FALSE,N
-1002101,Laura Fryer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,2185.0,6095.0,1,5,FALSE,N,FALSE,FALSE,N
-1007585,"Harvest Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,13517.0,5766.0,19,6,FALSE,N,FALSE,FALSE,N
-1011677,DLB Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,5709.0,0,1,FALSE,N,FALSE,FALSE,N
-1017023,ABODE - CAL,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,6118.8,5646.5,3,3,FALSE,N,FALSE,FALSE,N
-1019038,Plan A Design Group LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,9340.0,5620.5,6,4,FALSE,N,FALSE,FALSE,N
-1022760,SILVER ASPEN INTERIORS,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,0.0,5542.0,0,3,FALSE,N,FALSE,FALSE,N
-1011086,Jeffrey Neve Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,23527.2,5438.86,9,9,FALSE,N,FALSE,FALSE,N
-1010602,Urban 57,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,1525.67,5409.0,1,3,FALSE,N,FALSE,FALSE,N
-1018611,Finds Design & Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,8399.9,4953.0,11,9,FALSE,N,FALSE,FALSE,N
-1020398,Kelly Archer Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,7689.0,4933.0,14,6,FALSE,N,FALSE,FALSE,N
-1013651,Talie Jane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,5897.0,4662.0,8,3,FALSE,N,FALSE,FALSE,N
-1036826,Along Came Lennox,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,0.0,4443.0,0,1,TRUE,N,FALSE,FALSE,N
-1007084,House of Values,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,9121.0,4165.0,7,3,FALSE,N,FALSE,FALSE,N
-1016149,Jeffery Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,3371.0,3895.0,4,3,FALSE,N,FALSE,FALSE,N
-1005087,LMK Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,1930.8,3865.0,2,1,FALSE,N,FALSE,FALSE,N
-1007672,Design Alchemy,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,12418.0,3720.0,7,4,FALSE,N,FALSE,FALSE,N
-1000968,Countrywood Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,Chapel Conley,Chapel Conley,3534.0,3710.9,4,7,FALSE,N,FALSE,FALSE,N
-1009168,Villa Terrazaza Patio and Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,4784.7,3581.44,3,3,FALSE,N,FALSE,FALSE,N
-1037547,Studio Maduell,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,0.0,3495.0,0,2,TRUE,N,FALSE,FALSE,N
-1001676,Cole's Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,Chapel Conley,Chapel Conley,5980.0,3485.0,6,3,FALSE,N,FALSE,FALSE,N
-1020960,Christina Telles,DESIGN,DESIGN_FIRM,Group 2 Low Potential,Chapel Conley,Chapel Conley,9611.2,3402.0,5,1,FALSE,N,FALSE,FALSE,N
-1006647,Michele Bonnie Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,2110.0,3380.0,1,1,FALSE,N,FALSE,FALSE,N
-1036593,Taylored Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,Chapel Conley,Chapel Conley,0.0,3367.4,0,2,TRUE,N,FALSE,FALSE,N
-1037998,Studio Munroe Inc.,DESIGN,DESIGN_FIRM,Group 2 High Potential,Chapel Conley,Chapel Conley,0.0,3305.0,0,1,TRUE,N,FALSE,FALSE,N
-1012873,AND Interior Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,680.0,3177.0,1,3,FALSE,N,FALSE,FALSE,N
-1012164,Lauren O'Donnell Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,11493.0,3115.0,12,3,FALSE,N,FALSE,FALSE,N
-1010566,Kristen Elizabeth Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,3565.0,3056.0,9,4,FALSE,N,FALSE,FALSE,N
-1015958,Bette Abbott Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,11255.06,2902.25,4,5,FALSE,N,FALSE,FALSE,N
-1013948,Randall Design and Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,Chapel Conley,Chapel Conley,0.0,2790.0,0,1,FALSE,N,FALSE,FALSE,N
-1017631,Hills Home Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,Chapel Conley,Chapel Conley,6032.04,2723.0,3,1,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014340,Ambiance Interiors  Carmel,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,20737.6,17651.68,5,1,FALSE,N,FALSE,FALSE,N
+1015495,31 Chapters LLC,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1017.03,17234.52,2,11,FALSE,N,FALSE,FALSE,N
+1014563,Veritas Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1980.0,17167.0,1,2,FALSE,N,FALSE,FALSE,N
+1005973,Mannisto Enterprises. Inc. dba Designers Only,DESIGN,DESIGN_FIRM,Group 2 High Potential,11413.0,16762.0,8,11,FALSE,N,FALSE,FALSE,N
+1016764,Elizabeth C. Style,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,1782.5,16144.46,2,4,FALSE,N,FALSE,FALSE,N
+1002293,Tineke Triggs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,16095.35,0,13,FALSE,N,FALSE,FALSE,N
+1024183,KTJ Design Co,DESIGN,DESIGN_FIRM,Group 2 High Potential,5121.8,15943.7,5,6,FALSE,N,FALSE,FALSE,N
+1024120,Ceto Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,16616.19,15926.28,21,22,FALSE,N,FALSE,FALSE,N
+1001475,Slater's Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,7157.88,15205.25,5,15,FALSE,N,FALSE,FALSE,N
+1011766,Pepperjack Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,92.0,14845.0,1,2,FALSE,N,FALSE,FALSE,N
+1024058,Lazboy Furniture Galleries,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,34437.0,13896.5,13,10,FALSE,N,FALSE,FALSE,N
+1013236,Diablo Design Group,DESIGN,DESIGN_FIRM,Group 2 High Potential,5535.0,13637.0,4,11,FALSE,N,FALSE,FALSE,N
+1017216,Casey Howard Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,9336.0,13319.0,2,14,FALSE,N,FALSE,FALSE,N
+1001641,Juniper Hill Furniture,RETAIL,SINGLE_LOCATION,Group 2 High Potential,8298.0,12532.0,4,8,FALSE,N,FALSE,FALSE,N
+1004458,Coddington Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,1245.2,12448.37,1,7,FALSE,N,FALSE,FALSE,N
+1016863,"Altitude Design Co, LLC",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,33891.56,12087.72,14,4,FALSE,N,FALSE,FALSE,N
+1007292,"Design Matters of Los Gatos, Inc.",DESIGN,DESIGN_FIRM,Group 2 High Potential,7183.0,11675.0,8,10,FALSE,N,FALSE,FALSE,N
+1011488,Erin Melkonian Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5062.0,11022.0,3,5,FALSE,N,FALSE,FALSE,N
+1006583,Khrysten Kent Interiors,DESIGN,DESIGN_FIRM,Group 2 High Potential,577.0,9787.75,1,6,FALSE,N,FALSE,FALSE,N
+1011699,Joy Street Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,11471.0,9773.25,8,4,FALSE,N,FALSE,FALSE,N
+1001324,Hemmings & Jarrett,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,3407.0,9495.5,3,4,FALSE,N,FALSE,FALSE,N
+1027247,Catherine Kwong Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,9373.01,0,2,FALSE,N,FALSE,FALSE,N
+1018817,Studio Connolly,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,14485.22,9325.68,9,3,FALSE,N,FALSE,FALSE,N
+1012052,Emerson Grace Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,4766.0,8908.0,7,5,FALSE,N,FALSE,FALSE,N
+1012248,Rambeau Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,7816.26,8886.0,3,4,FALSE,N,FALSE,FALSE,N
+1016892,Brittin del Valle Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15975.2,8737.52,15,5,FALSE,N,FALSE,FALSE,N
+1005410,"Molly Erin Designs, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9803.1,8539.0,8,10,FALSE,N,FALSE,FALSE,N
+1003589,Benning Design Assoc,DESIGN,DESIGN_FIRM,Group 2 High Potential,3691.0,8521.0,5,9,FALSE,N,FALSE,FALSE,N
+1015975,Joanna Branzell Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13573.0,8262.3,9,4,FALSE,N,FALSE,FALSE,N
+1009223,Kimberley Harrison Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7498.32,8175.0,4,8,FALSE,N,FALSE,FALSE,N
+1000874,Nantucket Home,RETAIL,SINGLE_LOCATION,Group 2 High Potential,2295.0,8018.1,6,6,FALSE,N,FALSE,FALSE,N
+1003012,High Camp Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,7771.5,0,1,FALSE,N,FALSE,FALSE,N
+1012989,Design Bar,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,34108.46,7638.0,18,7,FALSE,N,FALSE,FALSE,N
+1005136,Elena Calabrese,DESIGN,DESIGN_FIRM,Group 2 High Potential,847.0,7415.4,3,3,FALSE,N,FALSE,FALSE,N
+1011905,EM Design dba Fletcher Rhodes,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,7169.0,0,3,FALSE,N,FALSE,FALSE,N
+1023546,Aspen Leaf Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,7110.55,0,5,FALSE,N,FALSE,FALSE,N
+1002778,Molie Malone Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,3298.0,7083.0,2,6,FALSE,N,FALSE,FALSE,N
+1023825,"Henry Mae, LLC",DESIGN,DESIGN_FIRM,Group 2 High Potential,2591.0,6953.0,2,8,FALSE,N,FALSE,FALSE,N
+1011716,Interior Design by JJH,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,12840.5,6856.0,8,6,FALSE,N,FALSE,FALSE,N
+1009134,AYI and Associates formerly +Olive,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9088.6,6456.0,9,4,FALSE,N,FALSE,FALSE,N
+1007282,Giorgi Bros. Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5815.0,6379.5,4,3,FALSE,N,FALSE,FALSE,N
+1017239,Studio seventy-nine interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,6183.0,0,3,FALSE,N,FALSE,FALSE,N
+1002101,Laura Fryer Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,2185.0,6095.0,1,5,FALSE,N,FALSE,FALSE,N
+1007585,"Harvest Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,13517.0,5766.0,19,6,FALSE,N,FALSE,FALSE,N
+1011677,DLB Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,5709.0,0,1,FALSE,N,FALSE,FALSE,N
+1017023,ABODE - CAL,RETAIL,SINGLE_LOCATION,Group 2 High Potential,6118.8,5646.5,3,3,FALSE,N,FALSE,FALSE,N
+1019038,Plan A Design Group LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,9340.0,5620.5,6,4,FALSE,N,FALSE,FALSE,N
+1022760,SILVER ASPEN INTERIORS,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,5542.0,0,3,FALSE,N,FALSE,FALSE,N
+1011086,Jeffrey Neve Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,23527.2,5438.86,9,9,FALSE,N,FALSE,FALSE,N
+1010602,Urban 57,RETAIL,SINGLE_LOCATION,Group 2 High Potential,1525.67,5409.0,1,3,FALSE,N,FALSE,FALSE,N
+1018611,Finds Design & Decor,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,8399.9,4953.0,11,9,FALSE,N,FALSE,FALSE,N
+1020398,Kelly Archer Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,7689.0,4933.0,14,6,FALSE,N,FALSE,FALSE,N
+1013651,Talie Jane Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5897.0,4662.0,8,3,FALSE,N,FALSE,FALSE,N
+1036826,Along Came Lennox,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,4443.0,0,1,TRUE,N,FALSE,FALSE,N
+1007084,House of Values,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9121.0,4165.0,7,3,FALSE,N,FALSE,FALSE,N
+1016149,Jeffery Design Group,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3371.0,3895.0,4,3,FALSE,N,FALSE,FALSE,N
+1005087,LMK Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1930.8,3865.0,2,1,FALSE,N,FALSE,FALSE,N
+1007672,Design Alchemy,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,12418.0,3720.0,7,4,FALSE,N,FALSE,FALSE,N
+1000968,Countrywood Interiors,RETAIL,SINGLE_LOCATION,Group 2 High Potential,3534.0,3710.9,4,7,FALSE,N,FALSE,FALSE,N
+1009168,Villa Terrazaza Patio and Home,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,4784.7,3581.44,3,3,FALSE,N,FALSE,FALSE,N
+1037547,Studio Maduell,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,3495.0,0,2,TRUE,N,FALSE,FALSE,N
+1001676,Cole's Interiors,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5980.0,3485.0,6,3,FALSE,N,FALSE,FALSE,N
+1020960,Christina Telles,DESIGN,DESIGN_FIRM,Group 2 Low Potential,9611.2,3402.0,5,1,FALSE,N,FALSE,FALSE,N
+1006647,Michele Bonnie Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2110.0,3380.0,1,1,FALSE,N,FALSE,FALSE,N
+1036593,Taylored Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,3367.4,0,2,TRUE,N,FALSE,FALSE,N
+1037998,Studio Munroe Inc.,DESIGN,DESIGN_FIRM,Group 2 High Potential,0.0,3305.0,0,1,TRUE,N,FALSE,FALSE,N
+1012873,AND Interior Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,680.0,3177.0,1,3,FALSE,N,FALSE,FALSE,N
+1012164,Lauren O'Donnell Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11493.0,3115.0,12,3,FALSE,N,FALSE,FALSE,N
+1010566,Kristen Elizabeth Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,3565.0,3056.0,9,4,FALSE,N,FALSE,FALSE,N
+1015958,Bette Abbott Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11255.06,2902.25,4,5,FALSE,N,FALSE,FALSE,N
+1013948,Randall Design and Company,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2790.0,0,1,FALSE,N,FALSE,FALSE,N
+1017631,Hills Home Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,6032.04,2723.0,3,1,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 21 accounts | $10791.30 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1016735,"Model Home Furnishings, Inc. dba Modelhom",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,5078.25,1922.0,10,9,FALSE,N,FALSE,FALSE,N
-1037908,Stein Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,1895.0,0,2,TRUE,N,FALSE,FALSE,N
-1004942,Carpet One of San Ramone,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,2217.5,1420.0,3,1,FALSE,N,FALSE,FALSE,N
-1001043,Sonoma Country Antiques,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,3429.74,1128.0,4,3,FALSE,N,FALSE,FALSE,N
-1024262,Plaza Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,4675.0,980.0,3,1,FALSE,N,FALSE,FALSE,N
-1002655,Gratitudes,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,1903.0,817.0,2,1,FALSE,N,FALSE,FALSE,N
-1004202,Cokas Diko LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Chapel Conley,Chapel Conley,4053.6,726.3,6,1,FALSE,N,FALSE,FALSE,N
-1035023,Northbay Kitchen & Bath,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,892.0,650.0,2,3,FALSE,N,FALSE,FALSE,N
-1018231,STAG & MANOR,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,485.0,492.0,2,2,FALSE,N,FALSE,FALSE,N
-1037633,k. papageorge designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,369.0,0,1,TRUE,N,FALSE,FALSE,N
-1011194,Norwalk Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,3415.5,317.0,3,1,FALSE,N,FALSE,FALSE,N
-1020991,Good Ave Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,Chapel Conley,Chapel Conley,9538.0,75.0,3,0,FALSE,N,FALSE,FALSE,N
-1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Chapel Conley,Chapel Conley,3009.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,740.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,4050.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,2351.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,825.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1016735,"Model Home Furnishings, Inc. dba Modelhom",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5078.25,1922.0,10,9,FALSE,N,FALSE,FALSE,N
+1037908,Stein Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1895.0,0,2,TRUE,N,FALSE,FALSE,N
+1004942,Carpet One of San Ramone,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,2217.5,1420.0,3,1,FALSE,N,FALSE,FALSE,N
+1001043,Sonoma Country Antiques,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,3429.74,1128.0,4,3,FALSE,N,FALSE,FALSE,N
+1024262,Plaza Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4675.0,980.0,3,1,FALSE,N,FALSE,FALSE,N
+1002655,Gratitudes,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,1903.0,817.0,2,1,FALSE,N,FALSE,FALSE,N
+1004202,Cokas Diko LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,4053.6,726.3,6,1,FALSE,N,FALSE,FALSE,N
+1035023,Northbay Kitchen & Bath,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,892.0,650.0,2,3,FALSE,N,FALSE,FALSE,N
+1018231,STAG & MANOR,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,485.0,492.0,2,2,FALSE,N,FALSE,FALSE,N
+1037633,k. papageorge designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,369.0,0,1,TRUE,N,FALSE,FALSE,N
+1011194,Norwalk Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,3415.5,317.0,3,1,FALSE,N,FALSE,FALSE,N
+1020991,Good Ave Design Studio,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,9538.0,75.0,3,0,FALSE,N,FALSE,FALSE,N
+1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3009.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4050.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2351.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,825.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ACCOUNTS LOST - SUMMARY: 70 total accounts,,,,,,,,,,,,,,,
@@ -237,14 +237,14 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 9 accounts (3 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Assigned_Rep_Name,Final_Rep_Name,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,4050.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,Chapel Conley,Chapel Conley,3009.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,2351.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,825.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,740.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,Chapel Conley,Chapel Conley,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4050.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3009.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2351.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,825.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
