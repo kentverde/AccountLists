@@ -50,8 +50,9 @@ python generate_reports_v2.py Account_Segmentation_V3_3_Final_SOT_12-21-25.csv .
 
 One row per rep showing:
 - **Before State**: Starting accounts/revenue (using `Assigned_Rep_Name`)
-- **Account Movement**: How many accounts moved in/out and revenue impact
+- **Account Movement**: How many accounts moved in/out, revenue impact, and % change metrics
 - **After State**: Final accounts/revenue (using `Final_Rep_Name`)
+- **Change Percentages**: % change relative to starting accounts/revenue
 - **Floor Exceptions**: BTF='Y' accounts kept as exceptions (not removed)
 - **SF ex BI Accounts**: Dormant accounts in Salesforce but not in BI
 - **Zero Revenue**: New 2025 customers with $0 revenue
@@ -100,6 +101,23 @@ One file per rep containing:
 5. **Zero Revenue (Total_Rev_2025 = $0)**:
    - No revenue in 2025 (may be new customers or inactive)
    - Flagged for special attention
+
+### Change Percentage Calculations
+
+Two new columns provide context for account and revenue movements:
+
+**Account_Change_Pct:**
+- Formula: `(Net_Account_Change / Before_Accounts) × 100`
+- Shows what % of starting accounts the net change represents
+- Example: Lisa Lowder lost 159 accounts from 364 starting accounts = **-43.68%**
+- Interpretation: Negative % = accounts lost, Positive % = accounts gained
+
+**Revenue_Change_Pct:**
+- Formula: `(Net_Rev_Change / Before_Rev_2025) × 100`
+- Shows what % of starting 2025 revenue the net change represents
+- Example: Lisa Lowder's -$47,985.22 change from $3,089,300.76 revenue = **-1.55%**
+- Interpretation: Negative % = revenue lost, Positive % = revenue gained
+- Note: Can be positive even if accounts decreased (better accounts kept, lower-value ones moved out)
 
 ### Input Column Requirements
 

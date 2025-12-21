@@ -335,13 +335,32 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
         # These have no transaction history but exist in the CRM
         sf_ex_bi = after_accounts[after_accounts['Is_SF_Ex_BI']]
         sf_ex_bi_count = len(sf_ex_bi)
-        sf_ex_bi_rev = sf_ex_bi[COL_TOTAL_REV_2025].sum()
+        
+        # SF EX BI ACCOUNTS BEFORE: Count of dormant accounts originally assigned to this rep
+        # These accounts existed in the BEFORE state
+        sf_ex_bi_before = before_accounts[before_accounts['Is_SF_Ex_BI']]
+        sf_ex_bi_before_count = len(sf_ex_bi_before)
         
         # ZERO REVENUE ACCOUNTS: 2025 revenue = $0
         # These might be new customers or inactive accounts
         zero_rev_all = after_accounts[after_accounts[COL_TOTAL_REV_2025] == 0]
         zero_rev_count = len(zero_rev_all)
         zero_rev_new_2025 = len(zero_rev_all[zero_rev_all['Is_New_2025']])  # New 2025 customers with $0 revenue
+
+        # ===== CALCULATE PERCENTAGE CHANGES =====
+        # Account Change %: What % of starting accounts does the net change represent?
+        # For Lisa Lowder example: -159 accounts / starting accounts * 100
+        if before_count > 0:
+            account_change_pct = (net_account_change / before_count) * 100
+        else:
+            account_change_pct = 0  # Can't calculate % if no starting accounts
+        
+        # Revenue Change %: What % of starting revenue does the net change represent?
+        # For Lisa Lowder example: 47985.22 / 3089300.76 * 100 = ~1.55%
+        if before_rev_2025 > 0:
+            revenue_change_pct = (net_rev_change / before_rev_2025) * 100
+        else:
+            revenue_change_pct = 0  # Can't calculate % if no starting revenue
 
         # ===== GET REP TYPE FOR DISPLAY =====
         # Rep type should be consistent for a given rep (all their accounts have same type)
@@ -364,6 +383,7 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
             
             # ===== BEFORE STATE COLUMNS =====
             'Before_Accounts': before_count,                    # Accounts originally assigned to this rep
+            'Before_SF_Ex_BI': sf_ex_bi_before_count,           # SF ex BI accounts originally assigned
             'Before_Rev_2024': round(before_rev_2024, 2),       # Their 2024 revenue (before alignment)
             'Before_Rev_2025': round(before_rev_2025, 2),       # Their 2025 revenue (before alignment)
             
@@ -371,9 +391,11 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
             'Accounts_Moved_In': accounts_moved_in,             # Accounts this rep gained from others
             'Accounts_Moved_Out': accounts_moved_out,           # Accounts this rep gave away
             'Net_Account_Change': net_account_change,           # Positive = gained, negative = lost
+            'Account_Change_Pct': round(account_change_pct, 2), # % change relative to starting accounts
             'Rev_Moved_In': round(rev_moved_in, 2),             # 2025 revenue of accounts moved in
             'Rev_Moved_Out': round(rev_moved_out, 2),           # 2025 revenue of accounts moved out
             'Net_Rev_Change': round(net_rev_change, 2),         # Net revenue impact from moves
+            'Revenue_Change_Pct': round(revenue_change_pct, 2), # % change relative to starting 2025 revenue
             
             # ===== AFTER STATE COLUMNS =====
             'After_Accounts': after_count,                      # Final account count (after all moves)
@@ -384,8 +406,7 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
             'Floor_Exception_Rev': round(exception_rev, 2),     # Revenue of those exceptions
             
             # ===== SF EX BI ACCOUNTS (DORMANT) COLUMNS =====
-            'SF_Ex_BI_Accounts': sf_ex_bi_count,                # Accounts in Salesforce but not BI
-            'SF_Ex_BI_Rev': round(sf_ex_bi_rev, 2),             # Revenue of those dormant accounts
+            'SF_Ex_BI_Accounts': sf_ex_bi_count,                # Dormant accounts this rep has in AFTER state
             
             # ===== ZERO REVENUE COLUMNS =====
             'Zero_Rev_Accounts': zero_rev_count,                # Accounts with $0 2025 revenue
