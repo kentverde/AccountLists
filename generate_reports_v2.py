@@ -377,7 +377,6 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
             
             # ===== AFTER STATE COLUMNS =====
             'After_Accounts': after_count,                      # Final account count (after all moves)
-            'After_Rev_2024': round(after_rev_2024, 2),         # Final 2024 revenue (for reference)
             'After_Rev_2025': round(after_rev_2025, 2),         # Final 2025 revenue (after all moves)
             
             # ===== FLOOR EXCEPTIONS COLUMNS =====
