@@ -1,0 +1,234 @@
+﻿Erin Kennedy,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
+120,233747.99,258135.61,-27,-4340.2,93," $253,795.41 ",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+,Accounts,Revenue,,,,,,,,,
+Group 1,4,168642.68,,,,,,,,,
+Group 2,9,75948.72,,,,,,,,,
+Group 3,80,9204.01,,,,,,,,,
+Totals,93,253795.41,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 4 accounts | $168642.68 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1007999,"Vida Design, LLC",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,139084.72,71125.5,57,49,FALSE,N,FALSE
+1028058,LRS Architects,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,0.0,37539.0,0,6,FALSE,N,FALSE
+1026859,Etc. Studio,DESIGN,DESIGN_FIRM,Group 1 High Potential,13029.0,34627.18,6,18,FALSE,N,FALSE
+1021531,DAHLIN Group,DESIGN,ARCHITECT_BUILDER,Group 1 High Potential,0.0,25351.0,0,20,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 9 accounts | $75948.72 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1037481,"MJS Commercial Properties, LLC",DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,17009.0,0,3,TRUE,N,FALSE
+1009986,SEVA Home,DESIGN,HOSPITALITY,Group 2 Medium Potential,10078.5,12156.0,6,9,FALSE,N,FALSE
+1036320,MG West,DESIGN,HOSPITALITY,Group 2 High Potential,0.0,10134.0,0,3,TRUE,N,FALSE
+1027009,54 Four Commercial Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,1487.72,8030.0,2,3,FALSE,N,FALSE
+1017882,Facility Designs,DESIGN,DESIGN_FIRM,Group 2 High Potential,910.0,7495.9,1,4,FALSE,N,FALSE
+1016259,Severin Group,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,659.0,7142.82,2,15,FALSE,N,FALSE
+1035277,Presidio Lodging,DESIGN,HOSPITALITY,Group 2 Medium Potential,0.0,6474.0,2,1,FALSE,N,FALSE
+1014917,One Workplace L Ferrari LLC,DESIGN,DESIGN_FIRM,Group 2 High Potential,1370.0,3845.0,3,3,FALSE,N,FALSE
+1038679,Steinhauer Properties SoDo Builders,DESIGN,HOSPITALITY,Group 2 High Potential,0.0,3662.0,0,1,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 80 accounts | $9204.01 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1037214,Ken Fulk Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1976.0,0,2,TRUE,N,FALSE
+1026247,"ACB Design Consulting Group, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1730.5,0,3,TRUE,N,FALSE
+1037083,The Cliffs Hotel and Spa,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,1675.0,0,1,TRUE,N,FALSE
+1037372,JAB Design Build,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,1096.0,0,1,TRUE,N,FALSE
+1026933,Hacker Architects,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,753.81,0,1,TRUE,N,FALSE
+1036245,Miles Treaster and Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,724.0,0,2,TRUE,N,FALSE
+1035895,David Baker,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,533.7,0,1,TRUE,N,FALSE
+1037012,The Charette Group LLC,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,400.0,0,2,TRUE,N,FALSE
+1011211,Amie Anderson,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,235.0,0,1,TRUE,N,FALSE
+1036923,Lord Nelson,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,80.0,0,0,TRUE,N,FALSE
+1028099,EDG(CA),DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1022688,Freeform Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,4385.55,0.0,0,0,FALSE,N,FALSE
+1036315,Degen & Degen Architecture and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1028077,Blu Canyon,DESIGN,HOSPITALITY,Group 3 Low Potential,32794.0,0.0,3,0,FALSE,Y,TRUE
+1027125,Ankrom Moisan,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1012910,"The Inside Source, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037048,Studio Schicketanz,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036400,PeopleSpace(OR),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036082,HBA-SF,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037526,OTJ(California),DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038131,Gensler,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1001615,Foley Family Wines,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1002428,"Entrada Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1003441,Baron and Baron Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1006773,Hart Howerton Designs,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1007772,ballonSTUDIO,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1009359,Roberts Resorts,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1011988,Corporate Furniture Solutions,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1012572,The Landing Hotel,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1016047,MBI,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1017747,Creative Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1019032,Urban Chalet (CA),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1019168,SERA,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1021217,Nossa Norman Design Studio,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1023023,LGINTERIORS,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1023684,Mister Important Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1023759,David Baker Architects,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024632,BraytonHughes Design Studios,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024648,Ideal Wild LLC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025445,SKB Architects,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025526,PG Long Floorcovering LLC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1026690,Robert Ball Design,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1026891,SAJ Architecture,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027041,Hill Devine,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027083,"Shatto Rentals, Inc.",Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027228,Be. Workplace Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027378,SLOANE Company,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027658,Pomescikova,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027752,WALDOS DESIGNS,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027754,Fisher and Janisse Builders LLC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027759,Studio O + A,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027760,Cedar Line Staging,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027968,Clausen-Collaborative Interior Design,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027985,ObjectSpace,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1028043,OneStudio D+A,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1034788,VIP Hospitality Group,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1034829,DLR Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035038,Hyphn LLC,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035064,Uppercase Interior Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035099,Lucy Winn Studios,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035435,Noble House Hotels,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035587,Trillary Designs,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035687,Floor Solutions,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035829,JPC Architects,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036006,Philpotts Interiors,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036009,Summa International Hawaii,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036039,"Kirsti Wolfe Designs, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036086,Uppercase Studio,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036088,G70,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036197,Fifty Fifty Interior Design,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037077,DLC-ID,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037242,Board & Vellum,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037457,Crescent Heights,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037588,Color Folio Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037618,Two Furnish,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037905,Studio Silva,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038132,Studio Luray,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038151,Projex Corp,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038507,One Workplace,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038626,Porter,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 27 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1025892,Wander Studio,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3358.0,1475.0,1,3,FALSE,Y,FALSE,TRUE,N
+1019124,MGWEST,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,1420.8,0,1,FALSE,Y,FALSE,TRUE,N
+1026223,SS Erin Kennedy,DESIGN,HOSPITALITY,Group 3 Medium Potential,Floor Removal - Active,0.0,723.0,0,1,FALSE,Y,FALSE,TRUE,N
+1027391,To the Source,DESIGN,HOSPITALITY,Group 3 Medium Potential,Floor Removal - Active,346.0,680.0,3,2,FALSE,Y,FALSE,TRUE,N
+1034828,EB- Creative,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,41.4,0,1,FALSE,Y,FALSE,TRUE,N
+1017575,Sechrist Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015643,Touchmark Development,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014731,KBM Office Equipment dba KBM Hogue,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015284,Entrada Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1805.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1002955,"Marketshare, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1015.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1002054,Carter Design Group,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,5930.0,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1022131,Complete Design Services LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,4610.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1021399,Studio 3Twelve,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1018931,Mosser Companies and Mosser Capital,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017646,GBD Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024237,URBAN PATTERNS,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,2105.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022738,Devcon,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,3692.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023422,Laura Cook Interiors,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,2,FALSE,Y,FALSE,TRUE,N
+1022739,HPG International,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,2697.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1024978,HYF Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024890,BHI Residential Corporation,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024662,E Cobb Architects,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026887,HPG International,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,3771.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1027298,Wilson Meany,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027482,Studio Plow,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027817,JK & Co.,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,620.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1028094,GARRET CORD WERNER LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 70 accounts (9 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1012910,"The Inside Source, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1022688,Freeform Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,4385.55,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027125,Ankrom Moisan,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1028077,Blu Canyon,DESIGN,HOSPITALITY,Group 3 Low Potential,32794.0,0.0,3,0,FALSE,Y,TRUE,FALSE,N
+1028099,EDG(CA),DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036082,HBA-SF,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036315,Degen & Degen Architecture and Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1036400,PeopleSpace(OR),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037048,Studio Schicketanz,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1037526,OTJ(California),DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038131,Gensler,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1001615,Foley Family Wines,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1002428,"Entrada Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1003441,Baron and Baron Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1006773,Hart Howerton Designs,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1007772,ballonSTUDIO,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1009359,Roberts Resorts,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1011988,Corporate Furniture Solutions,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1012572,The Landing Hotel,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1016047,MBI,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1017747,Creative Design Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1019032,Urban Chalet (CA),Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1019168,SERA,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1021217,Nossa Norman Design Studio,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1023023,LGINTERIORS,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1023684,Mister Important Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1023759,David Baker Architects,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024632,BraytonHughes Design Studios,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024648,Ideal Wild LLC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025445,SKB Architects,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025526,PG Long Floorcovering LLC,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026690,Robert Ball Design,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026891,SAJ Architecture,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027041,Hill Devine,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027083,"Shatto Rentals, Inc.",Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027228,Be. Workplace Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027378,SLOANE Company,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027658,Pomescikova,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027752,WALDOS DESIGNS,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027754,Fisher and Janisse Builders LLC,Design,Architect/Builder,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027759,Studio O + A,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027760,Cedar Line Staging,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027968,Clausen-Collaborative Interior Design,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027985,ObjectSpace,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1028043,OneStudio D+A,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034788,VIP Hospitality Group,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1034829,DLR Group,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035038,Hyphn LLC,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035064,Uppercase Interior Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035099,Lucy Winn Studios,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035435,Noble House Hotels,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035587,Trillary Designs,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035687,Floor Solutions,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035829,JPC Architects,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036006,Philpotts Interiors,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036009,Summa International Hawaii,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036039,"Kirsti Wolfe Designs, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036086,Uppercase Studio,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036088,G70,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036197,Fifty Fifty Interior Design,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037077,DLC-ID,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037242,Board & Vellum,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037457,Crescent Heights,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037588,Color Folio Design,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037618,Two Furnish,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037905,Studio Silva,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038132,Studio Luray,Design,Independent Designer,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038151,Projex Corp,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038507,One Workplace,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038626,Porter,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,
