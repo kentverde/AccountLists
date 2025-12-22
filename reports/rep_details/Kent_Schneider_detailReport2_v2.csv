@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Kent Schneider,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -28,4 +28,10 @@ GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | $1266.50 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
 1012464,"Verde Home, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,46534.86,1266.5,30,1,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 1 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1025958,Robert Kaner Interior Design,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
 ,,,,,,,,,,,

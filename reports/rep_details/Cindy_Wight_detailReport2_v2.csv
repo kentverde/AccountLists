@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Cindy Wight,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -175,4 +175,58 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026632,Dove Morgan Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
 1036639,Roam Homeware,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 1038166,R&R FURNITURE GALLERY,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 37 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1020560,Jen Samson Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,2488.0,0,1,FALSE,Y,FALSE,TRUE,N
+1018565,JY DESIGN INTERIORS,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,12594.23,2325.7,10,6,FALSE,Y,FALSE,TRUE,N
+1002755,Christopher Kennedy,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1631.0,2258.5,5,3,FALSE,Y,FALSE,TRUE,N
+1012453,Susan Thiel Design Build LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,1600.0,2207.0,1,3,FALSE,Y,FALSE,TRUE,N
+1023210,SS Cindy Wight,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,97.5,2131.24,8,10,FALSE,Y,FALSE,TRUE,N
+1009786,Interior Design By Tiffany,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,1658.0,0,1,FALSE,Y,FALSE,TRUE,N
+1034974,"Principle Design and Construction, Inc.",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,12047.3,1450.8,4,2,FALSE,Y,FALSE,TRUE,N
+1019704,Acacia and Spruce,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1671.0,1220.0,2,3,FALSE,Y,FALSE,TRUE,N
+1024682,Tally & Wolf Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,6680.0,820.0,4,1,FALSE,Y,FALSE,TRUE,N
+1004542,Room By Room (CA),DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3349.0,689.0,7,2,FALSE,Y,FALSE,TRUE,N
+1019759,Lennar Homes,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,1491.0,552.0,5,2,FALSE,Y,FALSE,TRUE,N
+1016138,JG Color Studios,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,5453.5,529.0,5,2,FALSE,Y,FALSE,TRUE,N
+1025653,Damon Canfield Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,5862.0,400.0,3,0,FALSE,Y,FALSE,TRUE,N
+1019837,Vance Design Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,6682.0,252.6,7,3,FALSE,Y,FALSE,TRUE,N
+1038774,Littrell Flooring,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1017360,The Citizen House,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1004527,Amy Meier Design,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1000360,Shiraz Rug Gallery,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038320,The Curated Life,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1013865,Luxe-Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,4000.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1004583,"Design Studio, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,6406.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022678,MID,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3540.5,0.0,3,0,FALSE,Y,FALSE,TRUE,N
+1011330,Paschall Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,6132.4,0.0,7,1,FALSE,Y,FALSE,TRUE,N
+1012351,Blake Riley Homes,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,433.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1023608,Josies Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,-668.8,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025095,KH Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025557,SOTA SUPPLY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,1,FALSE,Y,FALSE,TRUE,N
+1027854,ASR Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,310.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1034993,MHD Studio Inc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1644.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013258,Jess Jones Design Group,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1027931,Ross Thiele & Son,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036187,John Ruggiero Studio,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036627,"OUR OWN DESIGN, LLC.",Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1036927,MD Margya Design Studio,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037846,Covey Gardens,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1038641,Louise Neyer Interiors,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1038706,"Andrea Bruley, Inc.",Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 7 accounts (4 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1001501,Woven Treasures (CA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,985.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002228,Design Studio and Staging,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3849.0,0.0,10,0,FALSE,N,FALSE,FALSE,N
+1026070,California Cushion and Carpet,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1026632,Dove Morgan Interiors,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1027336,"Premier Flooring Solutions, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,250.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1036639,Roam Homeware,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038166,R&R FURNITURE GALLERY,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

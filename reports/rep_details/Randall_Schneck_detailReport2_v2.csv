@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Randall Schneck,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -161,4 +161,61 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1027036,BVH Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 1037654,Greyten LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 1038176,Southern Loft LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 31 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1022918,Temple and Hentz,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3386.0,2451.0,6,1,FALSE,Y,FALSE,TRUE,N
+1011289,Sandra Burroughs - Decorating Den,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1135.0,2160.6,3,7,FALSE,Y,FALSE,TRUE,N
+1020289,Weltner Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3561.5,1445.0,3,9,FALSE,Y,FALSE,TRUE,N
+1005329,Interior Resources,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,2125.49,1320.25,2,2,FALSE,Y,FALSE,TRUE,N
+1035330,Linnea Interiors LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,199.0,1015.0,1,3,FALSE,Y,FALSE,TRUE,N
+1024195,Align Creative Design Co (DBA of Elements Design),DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,827.0,0,2,FALSE,Y,FALSE,TRUE,N
+1026812,Omaha Interiors & Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,1503.0,725.0,4,0,FALSE,Y,FALSE,TRUE,N
+1015246,Home Style (IA),DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1522.0,595.0,2,1,FALSE,Y,FALSE,TRUE,N
+1013479,KHL Design Studio,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,2488.5,572.0,5,3,FALSE,Y,FALSE,TRUE,N
+1015764,Align Design Inc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,5375.54,555.0,0,1,FALSE,Y,FALSE,TRUE,N
+1013463,Joplin Decorating Center,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,495.0,0,1,FALSE,Y,FALSE,TRUE,N
+1011074,Salt Creek Interior Design LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,622.5,385.6,4,3,FALSE,Y,FALSE,TRUE,N
+1025741,SS REP Randall Schneck,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,261.0,1.0,4,4,FALSE,Y,FALSE,TRUE,N
+1001978,Lighting Emporium,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037918,SHEPPARD'S BUSINESS INTERIORS,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1012982,M Sudermann Interior Design DBA Sid and Company,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1148.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1006141,"The Goddard Design Group, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1006365,"The Resource Room, Ltd",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1372.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1010431,LK2 Kaim Kisner Studio LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1207.5,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1024269,"Bocote, LLC",Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1000658,Major Interiors LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,946.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1018829,Youtopia Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,7836.0,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1004551,"Rust and Martin, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,785.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1003216,Sommers Interiors,Retail,Single location,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1016493,Madi Mali Homes LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,840.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1015276,Elizabeth Erin Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,420.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1019581,Kara Kersten Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1027764,"Flair Home Stagings & Displays, LLC",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,485.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1037365,Cicada Company,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1037863,Zeus4u llc dba Cure Design Group,Design,Design Firm,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+1038648,Rooted Interior Design,Design,Independent Designer,Group 3 Low Potential,Floor Removal - Dormant,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,Y
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 16 accounts (5 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000851,Interior Perfection Design Group,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1119.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1002105,Plantation Antiques and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4178.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1007661,Basket of Daisies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1734.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1007962,5908,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2703.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1012535,Artis Home Gallerie,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015549,Pearson & Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016181,KBuild Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8200.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1016980,Blooming Keepsakes,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,667.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022413,Solsbury Hill Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1270.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1023528,Kenilworth House,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024513,Sage,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4045.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1025954,"The Rauch House, LLC/Decorating Den",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027036,BVH Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027114,Nahla lala dba Nahla Madison Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6612.5,0.0,5,0,FALSE,N,FALSE,FALSE,N
+1037654,Greyten LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1038176,Southern Loft LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

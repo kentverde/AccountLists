@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Archana Chaudhary,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -39,4 +39,20 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE
 1006160,Sample - Media,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,5188.5,-17069.18,72,76,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 1 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014393,TestAccountDoNotUse 1014393,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 5 accounts (0 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1003829,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1019727,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022843,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

@@ -942,7 +942,7 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
     # OPEN FILE WITH UTF-8 ENCODING
     with open(output_file, 'w', encoding='utf-8-sig', newline='') as f:
         # WRITE HEADER
-        f.write(f"REP NAME ONLY,,,,,,,,,,,\n")
+        f.write(f"{rep_name},,,,,,,,,,,\n")
         f.write(f",,,,,,,,,,,\n")
         f.write(f",,,,,,,,,,,\n")
         
@@ -1032,6 +1032,90 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
             group3_formatted = format_accounts_for_output(group3_sorted)
             group3_formatted.to_csv(f, index=False, lineterminator='\n')
             f.write(f",,,,,,,,,,,\n")
+
+        # ===== REDIRECT TO SDR (accounts the rep is losing) =====
+        accounts_redirected_all = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)].copy()
+        if len(accounts_redirected_all) > 0:
+            redirected_territory = accounts_redirected_all[~accounts_redirected_all['Floor_Removed']].copy()
+            redirected_floor_active = accounts_redirected_all[(accounts_redirected_all['Floor_Removed']) & (~accounts_redirected_all['Is_SF_Ex_BI'])].copy()
+            redirected_floor_dormant = accounts_redirected_all[(accounts_redirected_all['Floor_Removed']) & (accounts_redirected_all['Is_SF_Ex_BI'])].copy()
+
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            f.write(f"REDIRECT TO SDR: {len(accounts_redirected_all)} total accounts,,,,,,,,,,,\n")
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+
+            # Tag categories and combine
+            redirected_territory['Redirect_Category'] = 'Territory Realignment'
+            redirected_floor_active['Redirect_Category'] = 'Floor Removal - Active'
+            redirected_floor_dormant['Redirect_Category'] = 'Floor Removal - Dormant'
+
+            all_redirected = pd.concat([redirected_territory, redirected_floor_active, redirected_floor_dormant], ignore_index=True)
+            all_redirected_sorted = all_redirected.sort_values(COL_TOTAL_REV_2025, ascending=False)
+
+            # Select columns similar to original report layout
+            output_columns = [
+                COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
+                'Segment_Label', 'Redirect_Category',
+                COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
+                COL_ORDERS_2024, COL_ORDERS_2025,
+                'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed', COL_SF_EX_BI
+            ]
+            output_columns = [c for c in output_columns if c in all_redirected_sorted.columns]
+            all_redirected_out = all_redirected_sorted[output_columns].copy()
+
+            # Format numeric and boolean columns
+            if COL_TOTAL_REV_2024 in all_redirected_out.columns:
+                all_redirected_out[COL_TOTAL_REV_2024] = all_redirected_out[COL_TOTAL_REV_2024].round(2)
+            if COL_TOTAL_REV_2025 in all_redirected_out.columns:
+                all_redirected_out[COL_TOTAL_REV_2025] = all_redirected_out[COL_TOTAL_REV_2025].round(2)
+            if COL_ORDERS_2024 in all_redirected_out.columns:
+                all_redirected_out[COL_ORDERS_2024] = all_redirected_out[COL_ORDERS_2024].fillna(0).astype(int)
+            if COL_ORDERS_2025 in all_redirected_out.columns:
+                all_redirected_out[COL_ORDERS_2025] = all_redirected_out[COL_ORDERS_2025].fillna(0).astype(int)
+            if 'Is_New_2025' in all_redirected_out.columns:
+                all_redirected_out['Is_New_2025'] = all_redirected_out['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+            if 'Floor_Exception' in all_redirected_out.columns:
+                all_redirected_out['Floor_Exception'] = all_redirected_out['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
+            if 'Floor_Removed' in all_redirected_out.columns:
+                all_redirected_out['Floor_Removed'] = all_redirected_out['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
+
+            all_redirected_out.to_csv(f, index=False, lineterminator='\n')
+            f.write(f",,,,,,,,,,,\n")
+
+        # ===== ZERO REVENUE =====
+        zero_rev = rep_accounts[rep_accounts[COL_TOTAL_REV_2025] == 0]
+        if len(zero_rev) > 0:
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            f.write(f"ZERO REVENUE: {len(zero_rev)} accounts ({len(zero_rev[zero_rev['Is_New_2025']])} are new 2025 customers),,,,,,,,,,\n")
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+
+            # Format similar to original
+            zero_out = zero_rev.copy()
+            output_columns = [
+                COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
+                'Segment_Label', COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
+                COL_ORDERS_2024, COL_ORDERS_2025, 'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed', COL_SF_EX_BI
+            ]
+            output_columns = [c for c in output_columns if c in zero_out.columns]
+            zero_out = zero_out[output_columns]
+
+            if COL_TOTAL_REV_2024 in zero_out.columns:
+                zero_out[COL_TOTAL_REV_2024] = zero_out[COL_TOTAL_REV_2024].round(2)
+            if COL_TOTAL_REV_2025 in zero_out.columns:
+                zero_out[COL_TOTAL_REV_2025] = zero_out[COL_TOTAL_REV_2025].round(2)
+            if COL_ORDERS_2024 in zero_out.columns:
+                zero_out[COL_ORDERS_2024] = zero_out[COL_ORDERS_2024].fillna(0).astype(int)
+            if COL_ORDERS_2025 in zero_out.columns:
+                zero_out[COL_ORDERS_2025] = zero_out[COL_ORDERS_2025].fillna(0).astype(int)
+            if 'Is_New_2025' in zero_out.columns:
+                zero_out['Is_New_2025'] = zero_out['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+            if 'Floor_Exception' in zero_out.columns:
+                zero_out['Floor_Exception'] = zero_out['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
+            if 'Floor_Removed' in zero_out.columns:
+                zero_out['Floor_Removed'] = zero_out['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
+
+            zero_out.to_csv(f, index=False, lineterminator='\n')
+            f.write(f",,,,,,,,,,,\n")
     
     print(f"  Report 2 for {rep_name}: {output_file}")
 
@@ -1060,10 +1144,10 @@ def validate_reports(df: pd.DataFrame, summary_df: pd.DataFrame) -> bool:
     # CHECK IF THEY MATCH (within rounding tolerance)
     tolerance = 0.01
     if abs(input_total - summary_total) < tolerance:
-        print("✓ Validation PASSED: Totals match")
+        print("[PASS] Validation PASSED: Totals match")
         return True
     else:
-        print("✗ Validation FAILED: Totals do not match")
+        print("[FAIL] Validation FAILED: Totals do not match")
         print(f"  Difference: ${abs(input_total - summary_total):,.2f}")
         return False
 

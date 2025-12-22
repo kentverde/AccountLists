@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Peter Tischner,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -61,4 +61,23 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1014885,Mitchell Gold + Bob Williams - DTC,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1034945,"Ollie's Bargain Outlet, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,20865.0,0.0,2,0,FALSE,N,FALSE
 1003907,Rug and Home,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,-3971.4,0,0,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 14 accounts (0 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1001250,"Kenneth L Mink and Sons, Inc",RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001715,Mitchell Gold + Bob Williams - DI,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002141,The Home Depot B&M,MASS,HOME_CENTERS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002829,Menard Buying Office,MASS,HOME_CENTERS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003740,"Directbuy Home Improvement, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,6619.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1003911,Crate And Barrel  Cross Dock,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003920,Hom Furniture DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003932,Rug and Home (Kannapolis) DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006411,"Directbuy Home Improvement, Inc dba  Z Gallerie",RETAIL,NATIONAL,Group 3 Low Potential,14952.0,0.0,24,0,FALSE,N,FALSE,FALSE,N
+1012544,"Groms, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013613,Bloomingdales - Mink,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014885,Mitchell Gold + Bob Williams - DTC,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015316,Arhaus LLC,RETAIL,NATIONAL,Group 3 Low Potential,25650.0,0.0,9,0,FALSE,N,FALSE,FALSE,N
+1034945,"Ollie's Bargain Outlet, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,20865.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

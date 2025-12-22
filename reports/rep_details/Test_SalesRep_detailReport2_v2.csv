@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Test SalesRep,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -24,4 +24,22 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1010252,TestAccountDoNotUse 1010252,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Medium Potential,2.05,2.05,14,7,FALSE,N,FALSE
 1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
 1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 6 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1014931,TestAccountDoNotUse 1014931,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1014960,TestAccountDoNotUse 1014960,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1021199,Doruk Test Account 1021199,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,5,FALSE,Y,FALSE,TRUE,N
+1024138,TestAccountDoNotUse 1024138,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,1,FALSE,Y,FALSE,TRUE,N
+1022769,TestAccountDoNotUse 1022769,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,2.83,-4.83,61,11,FALSE,Y,FALSE,TRUE,N
+1026972,PreranaTestAccountApr14,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,7.45,-15.65,2,20,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 2 accounts (1 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

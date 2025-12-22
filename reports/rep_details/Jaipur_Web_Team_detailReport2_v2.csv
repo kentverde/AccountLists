@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Jaipur Web Team,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -116,4 +116,75 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1023737,"Design Trade Service, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,2517.5,0.0,2,0,FALSE,N,FALSE
 1020747,BAZAARVOICE,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1021022,The Spree USA LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 1 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1019743,Lucille Buell Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 60 accounts (0 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000311,Rugs Galore,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001260,Macys.Com,E-TAILER,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001361,"Bed, Bath and Beyond",E-TAILER,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003733,Rugsdoneright.Com,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003734,Rugsusa.Com,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003751,Net Shops.Com-Hayneedle,E-TAILER,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003756,Bellacor.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,925.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
+1003762,Rugsale.Com LLC,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003803,"Rugs Direct Usa, Inc.",E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004122,Caron's Beach House,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004691,"Unbeatablesale.com, Inc.",E-TAILER,MASS,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005190,"StudioLX, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,307.5,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1005495,Zola,E-TAILER,SPECIALTY,Group 3 Low Potential,1330.5,0.0,23,0,FALSE,N,FALSE,FALSE,N
+1005637,Sit Down NY - Memoky.com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005743,Homelement,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005774,"Froy Group, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005804,"DB Industrial Supply, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005813,Hooker Furniture dba Homeware,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005814,"Defining Elegance, LLC",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005971,TSCSHOPS.com dba Peazz.com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006037,"Jeanne K Chung, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006530,Robot Foods dba Boldrugs.com,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006699,Mintwood Home LLC - mintwoodhome.com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006867,Black Forest Decor,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007284,Handloom Emporium dba The Rug Mall,E-TAILER,NICHE,Group 3 Low Potential,885.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1007808,Christmas Central,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008181,"Mond'art, Inc. dba Rugman.com",E-TAILER,NICHE,Group 3 Low Potential,4760.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
+1008573,Universe Rugs,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008894,Cymax Group Technologies Ltd,E-TAILER,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009299,National Business Furniture,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009423,dearkeaton.com,E-TAILER,SPECIALTY,Group 3 Low Potential,5696.01,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1010038,Anani Designs LLC DBA CottageandBungalow.com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010193,"Rugs and Art, Inc. - ECOMM - DO NOT RE-OPEN",E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011788,Belle and June,E-TAILER,SPECIALTY,Group 3 Low Potential,75.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011902,"Bed, Bath and Beyond LTL",E-TAILER,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012596,Chairish,E-TAILER,SPECIALTY,Group 3 Low Potential,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1013082,Resident Home LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013646,Home Shopping Malls dba Totally Furniture,E-TAILER,SPECIALTY,Group 3 Low Potential,3551.24,0.0,12,0,FALSE,N,FALSE,FALSE,N
+1014308,Kirkland's,E-TAILER,SPECIALTY,Group 3 Low Potential,6833.0,0.0,23,0,FALSE,N,FALSE,FALSE,N
+1015058,Sundial Home Products LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,2085.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1015206,Riveting Rugs,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015472,Painted Fox Home,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015716,Ecture LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015725,Uber Bazaar Inc,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016501,Soft and Cozy Rugs,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016723,Studio Beaublanc,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017281,Southwestern Rugs Depot,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017309,Living Deep,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017693,JM Home,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1017763,CASPO LLC    - rugmerica.com,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018356,TDKLINKS LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018830,WHOLE9YARDS USA LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019024,Rugfire.com,E-TAILER,NICHE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019128,Abodelux,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019818,SE Brands Inc.,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019921,"Pencil & Pixel, Inc. dba Modsy",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020437,RETAILHUT,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020747,BAZAARVOICE,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021022,The Spree USA LLC,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1023737,"Design Trade Service, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,2517.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

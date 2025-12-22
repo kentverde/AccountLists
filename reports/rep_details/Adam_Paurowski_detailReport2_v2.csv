@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Adam Paurowski,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -29,4 +29,10 @@ GROUP 3 (LOW REVENUE) - KEEPING: 2 accounts | $-1377.00 revenue,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
 1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,-1377.0,0,0,TRUE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 1 accounts (1 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

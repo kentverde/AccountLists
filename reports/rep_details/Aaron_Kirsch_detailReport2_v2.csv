@@ -1,4 +1,4 @@
-﻿REP NAME ONLY,,,,,,,,,,,
+﻿Aaron Kirsch,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -144,4 +144,126 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038470,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1038587,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+REDIRECT TO SDR: 38 total accounts,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1013690,Studio Design By SMF SRL,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3703.2,2332.0,3,3,FALSE,Y,FALSE,TRUE,N
+1026187,Dos Aguas Arquitectura,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,465.0,965.0,1,2,FALSE,Y,FALSE,TRUE,N
+1027560,CTX Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,665.0,750.0,2,1,FALSE,Y,FALSE,TRUE,N
+1018384,By Design Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,-2238.0,600.0,5,2,FALSE,Y,FALSE,TRUE,N
+1014407,Estrategias En Espacio AD,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,0.0,583.0,0,2,FALSE,Y,FALSE,TRUE,N
+1008632,Design Studio - Provo,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,1597.0,468.0,2,2,FALSE,Y,FALSE,TRUE,N
+1008980,OG Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,2743.5,440.0,4,3,FALSE,Y,FALSE,TRUE,N
+1022546,Island House Ltd,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3984.5,405.0,2,2,FALSE,Y,FALSE,TRUE,N
+1020117,Kate- Ashley Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3060.0,203.0,3,1,FALSE,Y,FALSE,TRUE,N
+1006071,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1000713,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,1090.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1037608,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Territory Realignment,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1002134,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1000875,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1006084,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1013349,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1011648,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1295.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1010147,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1015215,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1012183,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1008185,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1009568,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1020227,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1017117,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1013364,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,276.5,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1022341,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1023981,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1024118,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022354,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1022953,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,3374.0,0.0,5,0,FALSE,Y,FALSE,TRUE,N
+1025755,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1025008,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026207,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1085.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1026711,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,3610.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1028080,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1035057,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,41.4,0.0,2,0,FALSE,Y,FALSE,TRUE,N
+1035150,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1035235,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,554.6,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 74 accounts (0 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1000570,Epocas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1280.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1002589,Contemporani Sa De Cv,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002893,Silk Greenery Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003493,Casa Y Estilo Sociedad Anonima DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,144328.34,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003607,Life Home And Office,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003962,Charo Decoraciones,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004211,Brenda Machado Orrantia,RETAIL,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005102,Arte San Ramon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13941.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005470,Abu Naba'a,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005773,El Armario,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006205,"Innovaciones Pitic, S.A. De C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007367,Muebles E Interiores FL Sde RLCV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007565,"Levy and Company, SA",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007737,Grupo E2X. SA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008683,Andani Imports S.A.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008976,Comercializadora Grupo Bahmoz SA de CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,127690.76,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1009364,Giralinea Sac,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009836,Metropolitan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009883,Maria Virginia Alanis Cantu,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010144,Beds and Feathers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,18430.0,0.0,7,0,FALSE,N,FALSE,FALSE,N
+1010402,Jarp Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010915,"Home Collection Panama, S.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,445.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011070,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012082,Arte En Decoracion de Interiores SA DE CV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013307,"QUERENCIA REAL ESTATE, S DE RL DE CV",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013460,Dekorahora,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014350,Twinkle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014753,"Corporacion Patio 2013, C.A",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014757,"Linea M Muebles, C.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014809,DT Industries,RETAIL,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020421,Zona E Home (FL),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022174,Lula & Luke Baby-Child,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022208,Diane Eden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1024504,"Decorarte, S.A. de C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025011,FERRETERIA OCHOA SA,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025809,Casa Bonita de Guaymas,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1026958,Antonio P. Hache & Co.,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,6469.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027396,Francisco Guzman Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9369.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1005235,AHCorp Ecuador CIA LTDA,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1005246,Joel Valenzuela,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1018774,Prodecor S.A. de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1019614,Arte y Decoracion,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020132,TAJ Designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020782,IHO Espacios,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021629,Spice islands dream properties ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021774,Sevilla Home,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021908,Studio Armin,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022887,Burbeck Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1023650,Dominican Interior Designers,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024584,Eclectique Home,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024883,Afalconi-Design,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1024885,Farte decoracion,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1025270,mov art studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025425,Casa Tropikana,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025905,Salvador Perez Rangel,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1026015,Veciiin Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026098,Ana Basalo Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027060,Branco interiorismo,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027062,Island Nest Ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027241,Norma Redo,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027264,Boutique designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027479,Abstracto S.A de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1035129,WRT WORLD ENTERPRISES,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1035224,Collignon living,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036084,ORBITARQ,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036578,Arquit Cover,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037494,ALIADESIGNSTUDIO S.A.S.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037892,dELACRUZ PROJECTS,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038126,Marsala Haus,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038413,Souk Decoration,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038466,IDesign Studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038470,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038587,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,
