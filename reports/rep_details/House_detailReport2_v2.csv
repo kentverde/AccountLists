@@ -68,27 +68,27 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 22 accounts (3 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1026486,Sketch Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,782.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026451,Sara Fant Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026456,CCV INteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,730.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026458,LK Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,5640.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-1026461,Design & Dwell Homes LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,130.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026467,Elements Corporation,DESIGN,DESIGN_FIRM,Group 3 Low Potential,6016.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026471,"Design Etc,",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026478,JANE CLARK INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,2244.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-1026500,Margaret Shattuck,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026501,At Home Design Llc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,737.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-1026503,Christian J Alexander Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026506,Cumberland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026507,Olivia Westbrooks interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,4397.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026510,The Sturgeon House Work Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1026700,Renee Horst Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,5789.5,0.0,3,1,FALSE,Y,FALSE,TRUE,N
-1026508,Fusion Architectural Interior Design/FAID Procurmt,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1026486,Sketch Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,782.0,0.0,1,0,FALSE,Y,FALSE
+1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE
+1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026451,Sara Fant Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026456,CCV INteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,730.0,0.0,1,0,FALSE,Y,FALSE
+1026458,LK Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,5640.0,0.0,2,0,FALSE,Y,FALSE
+1026461,Design & Dwell Homes LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,130.0,0.0,1,0,FALSE,Y,FALSE
+1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1026467,Elements Corporation,DESIGN,DESIGN_FIRM,Group 3 Low Potential,6016.0,0.0,1,0,FALSE,Y,FALSE
+1026471,"Design Etc,",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026478,JANE CLARK INTERIORS,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,2244.0,0.0,2,0,FALSE,Y,FALSE
+1026500,Margaret Shattuck,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026501,At Home Design Llc,DESIGN,DESIGN_FIRM,Group 3 Low Potential,737.0,0.0,2,0,FALSE,Y,FALSE
+1026503,Christian J Alexander Inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
+1026506,Cumberland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1026507,Olivia Westbrooks interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,4397.0,0.0,1,0,FALSE,Y,FALSE
+1026510,The Sturgeon House Work Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1026700,Renee Horst Designs,DESIGN,DESIGN_FIRM,Group 3 Low Potential,5789.5,0.0,3,1,FALSE,Y,FALSE
+1026508,Fusion Architectural Interior Design/FAID Procurmt,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 ,,,,,,,,,,,

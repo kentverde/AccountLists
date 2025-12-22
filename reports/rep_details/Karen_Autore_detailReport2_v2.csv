@@ -258,23 +258,23 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 18 accounts (0 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000005,"Carpet One By Henry, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1515.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000427,"Rug Masters, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000505,Kpm Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1070.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1001392,Elements of Style dba Jessica Dauray Int.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8360.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1004393,"Elite Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006233,Today and Tomorrow Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,16853.93,0.0,10,0,FALSE,N,FALSE,FALSE,N
-1008623,Dwellings (NC),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,30631.12,0.0,37,0,FALSE,N,FALSE,FALSE,N
-1009007,Cox Quality Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2713.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1009739,Legacy Classic Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,635.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014298,Charleston Amish Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1680.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1014547,Sugar Creek Amish Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1019280,West Fork Woodsmen DBA 3oak Handcrafted,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,14692.4,0.0,34,0,FALSE,N,FALSE,FALSE,N
-1020120,Century Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020389,Furniture Specialties,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022249,Universal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024209,CAROLINA FABRIC AND INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024307,Accent prone,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035604,"Englewood Carpetland, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000005,"Carpet One By Henry, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1515.0,0.0,1,0,FALSE,N,FALSE
+1000427,"Rug Masters, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000505,Kpm Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1070.0,0.0,3,0,FALSE,N,FALSE
+1001392,Elements of Style dba Jessica Dauray Int.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8360.0,0.0,4,0,FALSE,N,FALSE
+1004393,"Elite Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006233,Today and Tomorrow Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,16853.93,0.0,10,0,FALSE,N,FALSE
+1008623,Dwellings (NC),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,30631.12,0.0,37,0,FALSE,N,FALSE
+1009007,Cox Quality Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2713.0,0.0,4,0,FALSE,N,FALSE
+1009739,Legacy Classic Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,635.0,0.0,0,0,FALSE,N,FALSE
+1014298,Charleston Amish Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1680.0,0.0,2,0,FALSE,N,FALSE
+1014547,Sugar Creek Amish Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,490.0,0.0,1,0,FALSE,N,FALSE
+1019280,West Fork Woodsmen DBA 3oak Handcrafted,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,14692.4,0.0,34,0,FALSE,N,FALSE
+1020120,Century Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020389,Furniture Specialties,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022249,Universal Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024209,CAROLINA FABRIC AND INTERIORS,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024307,Accent prone,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035604,"Englewood Carpetland, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 ,,,,,,,,,,,

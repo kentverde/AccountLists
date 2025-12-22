@@ -233,21 +233,21 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 16 accounts (3 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1753.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2963.32,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1290.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1324.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000335,Rugs By Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1753.5,0.0,1,0,FALSE,N,FALSE
+1002473,Bloomington Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002582,Rug Bazaar of West Chester,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002747,Jb's Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1004263,HAUS Love,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2963.32,0.0,5,0,FALSE,N,FALSE
+1005521,Banfich Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006575,The Rug Merchant (IN),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006849,"Smith Furniture Co, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1290.0,0.0,1,0,FALSE,N,FALSE
+1014919,The Granary Gift and Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1015376,Watson's of Dayton,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1324.0,0.0,3,0,FALSE,N,FALSE
+1020131,Willa Gray Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024582,Persimmon Avenue,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025659,Italmoda,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035482,"Perlmutter-Freiwald, Inc",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037859,Jones-Keena,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038666,SKP Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

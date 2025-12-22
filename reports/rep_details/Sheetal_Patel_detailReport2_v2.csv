@@ -240,26 +240,26 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 21 accounts (7 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1004053,Trumeau Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004086,610 Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2151.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008046,Careful Peach Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009092,SG Geneva,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,50.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1009802,"ABT Electronics, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010824,"Family Flooring America dba GT Flooring, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1014472,Sasha Adler Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1015000,"Interior Investments, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE,FALSE,N
-1015458,Hearthstone & Terrace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2230.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1015529,Hazel James Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016479,Jayson Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019359,Leah & Mack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020055,OFFICE REVOLUTION LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021925,Ewald Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022308,CAMBIA INC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023967,KWOWKdesign,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035807,Jessica Lagrange Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036026,Studio Mak,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037282,Michael Abrams Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037368,"Zach Hayes Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037837,Liam Brex Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1004053,Trumeau Ltd,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1004086,610 Home LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2151.0,0.0,1,0,FALSE,N,FALSE
+1008046,Careful Peach Boutique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009092,SG Geneva,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,50.0,0.0,0,1,FALSE,N,FALSE
+1009802,"ABT Electronics, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010824,"Family Flooring America dba GT Flooring, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE
+1014472,Sasha Adler Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1015000,"Interior Investments, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,1,FALSE,N,FALSE
+1015458,Hearthstone & Terrace,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2230.0,0.0,1,0,FALSE,N,FALSE
+1015529,Hazel James Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1016479,Jayson Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1019359,Leah & Mack,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020055,OFFICE REVOLUTION LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021925,Ewald Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022308,CAMBIA INC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023967,KWOWKdesign,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035807,Jessica Lagrange Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036026,Studio Mak,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037282,Michael Abrams Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037368,"Zach Hayes Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037837,Liam Brex Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
 ,,,,,,,,,,,

@@ -231,14 +231,14 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 9 accounts (3 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3009.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4050.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2351.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,825.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1003166,Ruby Living Design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3009.0,0.0,5,0,FALSE,N,FALSE
+1012974,Anthem,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013882,KPV Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4050.0,0.0,2,0,FALSE,N,FALSE
+1015102,Buttercup Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2351.0,0.0,3,0,FALSE,N,FALSE
+1018749,Janeen's Furniture Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.0,0.0,1,0,FALSE,N,FALSE
+1025849,HT Home Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,825.0,0.0,4,0,FALSE,N,FALSE
+1037845,Together Home Design Studio,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037946,Sabah Mansoor Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1038269,FURNITURE REPUBLIC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

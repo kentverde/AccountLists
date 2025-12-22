@@ -204,13 +204,13 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 8 accounts (1 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1001134,Garden Fever,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009931,Kitchen Kaboodle,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012620,"Gates Furniture of Grants Pass, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021259,Green Acres Landscaping,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021945,Domov I.D.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023502,HomePlace Furniture & Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,47.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009585,The Collective â€“ OnStage,DESIGN,DESIGN_FIRM,Group 3 Low Potential,26004.2,0.0,3,0,FALSE,Y,TRUE,FALSE,N
-1036468,Sharon Hocking Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1001134,Garden Fever,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009931,Kitchen Kaboodle,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1012620,"Gates Furniture of Grants Pass, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021259,Green Acres Landscaping,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021945,Domov I.D.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023502,HomePlace Furniture & Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,47.0,0.0,1,0,FALSE,N,FALSE
+1009585,The Collective â€“ OnStage,DESIGN,DESIGN_FIRM,Group 3 Low Potential,26004.2,0.0,3,0,FALSE,Y,TRUE
+1036468,Sharon Hocking Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

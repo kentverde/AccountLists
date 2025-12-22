@@ -81,24 +81,24 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 19 accounts (0 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000429,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000524,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000676,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003912,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003921,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003928,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005347,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005707,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008087,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009864,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018683,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019109,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1020006,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021236,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027946,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000429,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000524,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000676,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
+1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003912,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003921,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003928,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005347,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005707,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE
+1008087,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009864,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018683,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1019109,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE
+1020006,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021236,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027946,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 ,,,,,,,,,,,

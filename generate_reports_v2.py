@@ -1052,7 +1052,7 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
             all_redirected = pd.concat([redirected_territory, redirected_floor_active, redirected_floor_dormant], ignore_index=True)
             all_redirected_sorted = all_redirected.sort_values(COL_TOTAL_REV_2025, ascending=False)
 
-            # Select columns similar to original report layout
+            # Select columns in the exact order matching the template
             output_columns = [
                 COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
                 'Segment_Label', 'Redirect_Category',
@@ -1060,6 +1060,7 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
                 COL_ORDERS_2024, COL_ORDERS_2025,
                 'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed', COL_SF_EX_BI
             ]
+            # Keep only columns that exist (preserves order)
             output_columns = [c for c in output_columns if c in all_redirected_sorted.columns]
             all_redirected_out = all_redirected_sorted[output_columns].copy()
 
@@ -1089,15 +1090,15 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
             f.write(f"ZERO REVENUE: {len(zero_rev)} accounts ({len(zero_rev[zero_rev['Is_New_2025']])} are new 2025 customers),,,,,,,,,,\n")
             f.write(f"================================================================================,,,,,,,,,,,\n")
 
-            # Format similar to original
+            # Format similar to template for ZERO REVENUE (exclude Floor_Removed and In SF ex BI)
             zero_out = zero_rev.copy()
-            output_columns = [
+            zero_columns = [
                 COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
                 'Segment_Label', COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
-                COL_ORDERS_2024, COL_ORDERS_2025, 'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed', COL_SF_EX_BI
+                COL_ORDERS_2024, COL_ORDERS_2025, 'Is_New_2025', COL_BTF, 'Floor_Exception'
             ]
-            output_columns = [c for c in output_columns if c in zero_out.columns]
-            zero_out = zero_out[output_columns]
+            zero_columns = [c for c in zero_columns if c in zero_out.columns]
+            zero_out = zero_out[zero_columns]
 
             if COL_TOTAL_REV_2024 in zero_out.columns:
                 zero_out[COL_TOTAL_REV_2024] = zero_out[COL_TOTAL_REV_2024].round(2)
@@ -1111,8 +1112,6 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
                 zero_out['Is_New_2025'] = zero_out['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
             if 'Floor_Exception' in zero_out.columns:
                 zero_out['Floor_Exception'] = zero_out['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
-            if 'Floor_Removed' in zero_out.columns:
-                zero_out['Floor_Removed'] = zero_out['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
 
             zero_out.to_csv(f, index=False, lineterminator='\n')
             f.write(f",,,,,,,,,,,\n")

@@ -404,24 +404,24 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 19 accounts (3 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000169,"Ruggs Benedict, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000171,Watson and Co. Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000439,Cathers Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4460.7,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1001476,Inside Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9345.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1002329,Domestic Bliss-Found By Domestic Bliss,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004100,"Ninush, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1845.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1006776,Sue Bickerdyke Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2395.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1007311,American Furniture of Colorado Springs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4135.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1010096,"Inside Out, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011402,Lilli's Lighting and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11247.12,0.0,6,0,FALSE,N,FALSE,FALSE,N
-1012008,"Christy Sports, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016592,djuna,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,117.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1023521,Darby Design Studio LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023785,Creative Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,76.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026985,Cleveland Creek Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,110.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1015032,Mendil + Meyer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,62322.76,0.0,15,0,FALSE,Y,TRUE,FALSE,N
-1036787,Huron Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037377,Blooming Daisy Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037401,One Eleven Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000169,"Ruggs Benedict, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000171,Watson and Co. Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000439,Cathers Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4460.7,0.0,2,0,FALSE,N,FALSE
+1001476,Inside Style,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9345.0,0.0,4,0,FALSE,N,FALSE
+1002329,Domestic Bliss-Found By Domestic Bliss,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1004100,"Ninush, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1845.0,0.0,4,0,FALSE,N,FALSE
+1006776,Sue Bickerdyke Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2395.0,0.0,1,0,FALSE,N,FALSE
+1007311,American Furniture of Colorado Springs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4135.0,0.0,2,0,FALSE,N,FALSE
+1010096,"Inside Out, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1011402,Lilli's Lighting and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11247.12,0.0,6,0,FALSE,N,FALSE
+1012008,"Christy Sports, LLC",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1016592,djuna,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,117.0,0.0,1,0,FALSE,N,FALSE
+1023521,Darby Design Studio LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023785,Creative Living,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,76.0,0.0,1,0,FALSE,N,FALSE
+1026985,Cleveland Creek Home Furnishings,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,110.0,0.0,1,0,FALSE,N,FALSE
+1015032,Mendil + Meyer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,62322.76,0.0,15,0,FALSE,Y,TRUE
+1036787,Huron Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037377,Blooming Daisy Interior Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037401,One Eleven Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

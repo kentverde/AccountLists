@@ -59,7 +59,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 2 accounts (0 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1002158,Modernrugs.Com,E-TAILER,NICHE,Group 3 Low Potential,480.3,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1003769,Burkedecor.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,17864.4,0.0,404,1,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1002158,Modernrugs.Com,E-TAILER,NICHE,Group 3 Low Potential,480.3,0.0,3,0,FALSE,N,FALSE
+1003769,Burkedecor.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,17864.4,0.0,404,1,FALSE,N,FALSE
 ,,,,,,,,,,,

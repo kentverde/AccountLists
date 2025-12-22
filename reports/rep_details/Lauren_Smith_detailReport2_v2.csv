@@ -264,27 +264,27 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 22 accounts (0 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1415.2,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,499.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,597.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3422.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,336.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10296.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000338,Sedlak Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000453,Floors Usa,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003654,Interior Fancies,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003682,Giunta's Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1415.2,0.0,3,0,FALSE,N,FALSE
+1004288,Arslanian Brothers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,740.5,0.0,1,0,FALSE,N,FALSE
+1006685,Wells Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,499.5,0.0,1,0,FALSE,N,FALSE
+1008417,Keystone Floor Products,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,597.0,0.0,4,0,FALSE,N,FALSE
+1016969,Gray Apple Market/Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1017341,Rustique,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1017344,Black Cherry Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1017641,three sisters co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1017731,Gracylane,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3422.0,0.0,2,0,FALSE,N,FALSE
+1018549,FanCar Investments/DBA The Treasure Place,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1019225,Smith Village Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021099,7 West Carpet Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022045,Nest Home Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022359,LAND and LAKE PATIO,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023640,"BENJAMIN ZIMMERMAN & SON, INC -Independent",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023770,"RIVERVIEW CARPET AND FLOORING, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,336.0,0.0,1,0,FALSE,N,FALSE
+1023819,Vintage & Soul Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024446,Designer's Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10296.0,0.0,2,0,FALSE,N,FALSE
+1025578,House Splendid,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 ,,,,,,,,,,,

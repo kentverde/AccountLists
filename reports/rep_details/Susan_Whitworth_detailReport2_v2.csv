@@ -203,27 +203,27 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 22 accounts (5 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1001100,Collectic Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,860.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1001908,Cdc Carpets and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002546,"J.D. Hook, Inc. Dba Jaya Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003849,SS Susan Whitworth,INTERNAL,SALES_REP,Group 3 Low Potential,1462.18,0.0,6,1,FALSE,N,FALSE,FALSE,N
-1003927,Bijan Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1980.6,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1006584,Creative Native dba Cactus Flower,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,905.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1008281,JW Cross Investments,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009668,Urbanspace Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,276.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1010276,Joyeux Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014143,Benson Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019396,A Custom House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020195,TRI-SUPPLY LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,202.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1021919,"Schreiner Goods, LLC dbA Keri Kropp Design",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022014,"The Eclective, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022534,"The Drapery Shop of Waco, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024583,Maaribu,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025268,Whitney Schones Design / Estate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1510.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1027661,CF Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035522,Finery & Cake,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036148,CORPORATE INTERNATIONAL DESIGN GROUP IN,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
-1037852,HC Design Co,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038210,Audrey Scheck Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1001100,Collectic Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,860.0,0.0,3,0,FALSE,N,FALSE
+1001908,Cdc Carpets and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002546,"J.D. Hook, Inc. Dba Jaya Furniture",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003849,SS Susan Whitworth,INTERNAL,SALES_REP,Group 3 Low Potential,1462.18,0.0,6,1,FALSE,N,FALSE
+1003927,Bijan Oriental Rugs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1980.6,0.0,5,0,FALSE,N,FALSE
+1006584,Creative Native dba Cactus Flower,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,905.0,0.0,2,0,FALSE,N,FALSE
+1008281,JW Cross Investments,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009668,Urbanspace Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,276.5,0.0,1,0,FALSE,N,FALSE
+1010276,Joyeux Home Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1014143,Benson Co,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1019396,A Custom House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020195,TRI-SUPPLY LLC,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,202.0,0.0,1,0,FALSE,N,FALSE
+1021919,"Schreiner Goods, LLC dbA Keri Kropp Design",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022014,"The Eclective, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022534,"The Drapery Shop of Waco, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024583,Maaribu,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025268,Whitney Schones Design / Estate,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1510.0,0.0,1,0,FALSE,N,FALSE
+1027661,CF Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035522,Finery & Cake,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036148,CORPORATE INTERNATIONAL DESIGN GROUP IN,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE
+1037852,HC Design Co,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038210,Audrey Scheck Design LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

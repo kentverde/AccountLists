@@ -200,38 +200,38 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 33 accounts (30 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024075,GS Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,12791.42,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1026886,Evensonbest,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027120,"Re:Source New Jersey, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1355.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1035561,Belso Design and Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035710,Brookfield Properties,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035723,Avison Young,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035792,Jackson Creative,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1035801,Bentel & Bentel,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035885,HOK (NY),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035926,Gensler - Boston,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1036055,Colliers Phase Zero Design - Hingham,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036059,SCB Solomon Cordwell Buenz (Boston),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036060,CPG Architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036067,MKDA (CT),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036068,Payette Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036090,Stephen. B Jacobs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036142,C2 Design Group Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036189,Morris Adjmi,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1036323,Pembrooke and IVes,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036689,GB Design Consultants,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037010,Nazira Shamah Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037059,Yates Restoration Services,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037120,Granoff Architects,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037489,Charles Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037582,Ovadia Design Group LLC,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037601,west chin architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1037661,MR Architecture & Decor,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037707,LBJ Interior Solutions,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038221,Verderame Cale Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038285,Chesapeake Bay Club,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1038355,bonetti kozerski architecture,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038370,PhiBa Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038637,High Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1024075,GS Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,12791.42,0.0,1,0,FALSE,Y,TRUE
+1026886,Evensonbest,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027120,"Re:Source New Jersey, Inc.",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,1355.0,0.0,1,0,FALSE,N,FALSE
+1035561,Belso Design and Build,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035710,Brookfield Properties,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035723,Avison Young,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035792,Jackson Creative,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1035801,Bentel & Bentel,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035885,HOK (NY),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035926,Gensler - Boston,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1036055,Colliers Phase Zero Design - Hingham,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036059,SCB Solomon Cordwell Buenz (Boston),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036060,CPG Architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036067,MKDA (CT),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036068,Payette Associates,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036090,Stephen. B Jacobs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036142,C2 Design Group Inc.,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036189,Morris Adjmi,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1036323,Pembrooke and IVes,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036689,GB Design Consultants,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037010,Nazira Shamah Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037059,Yates Restoration Services,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037120,Granoff Architects,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037489,Charles Cohen Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037582,Ovadia Design Group LLC,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037601,west chin architects,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1037661,MR Architecture & Decor,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037707,LBJ Interior Solutions,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038221,Verderame Cale Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038285,Chesapeake Bay Club,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1038355,bonetti kozerski architecture,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038370,PhiBa Architecture,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038637,High Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

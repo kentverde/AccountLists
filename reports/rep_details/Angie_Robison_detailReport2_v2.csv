@@ -319,27 +319,27 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 22 accounts (2 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000696,Willis Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,700.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1007213,Urban Home Market,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,945.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008312,Mint Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,755.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008910,Impulse Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009470,LD Linens and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012184,Carpet Den Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,636.6,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1012638,Millennium Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,475.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1017054,Renfrow Decorative Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11965.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1017528,Comeaux Furniture Appliance And Mattress,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018240,The Rug Shop,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018553,SC Richmond,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018660,Summer Classics - Winter Park 311,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10135.0,0.0,6,0,FALSE,N,FALSE,FALSE,N
-1018661,Summer Classics - Jacksonville 310,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8405.0,0.0,6,0,FALSE,N,FALSE,FALSE,N
-1018662,Summer Classics - San Antonio 308,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9125.0,0.0,8,0,FALSE,N,FALSE,FALSE,N
-1019190,Summer Classics home - Austin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9430.0,0.0,7,0,FALSE,N,FALSE,FALSE,N
-1020223,Monica Waechter Design LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024361,Tracy Norton Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4310.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1024667,Howard & Marsh Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,12617.8,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1023264,Lita Belcher Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,29645.2,0.0,5,0,FALSE,Y,TRUE,FALSE,N
-1027475,Rosegate Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3800.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1035810,Mary McBride Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036933,"MILIEU ""A Curated Interior Atelier""",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000696,Willis Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,700.0,0.0,1,0,FALSE,N,FALSE
+1007213,Urban Home Market,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,945.0,0.0,1,0,FALSE,N,FALSE
+1008312,Mint Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,755.0,0.0,1,0,FALSE,N,FALSE
+1008910,Impulse Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009470,LD Linens and Decor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1012184,Carpet Den Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,636.6,0.0,1,0,FALSE,N,FALSE
+1012638,Millennium Home Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,475.0,0.0,1,0,FALSE,N,FALSE
+1017054,Renfrow Decorative Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11965.0,0.0,5,0,FALSE,N,FALSE
+1017528,Comeaux Furniture Appliance And Mattress,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018240,The Rug Shop,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018553,SC Richmond,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018660,Summer Classics - Winter Park 311,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10135.0,0.0,6,0,FALSE,N,FALSE
+1018661,Summer Classics - Jacksonville 310,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,8405.0,0.0,6,0,FALSE,N,FALSE
+1018662,Summer Classics - San Antonio 308,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9125.0,0.0,8,0,FALSE,N,FALSE
+1019190,Summer Classics home - Austin,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9430.0,0.0,7,0,FALSE,N,FALSE
+1020223,Monica Waechter Design LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024361,Tracy Norton Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4310.8,0.0,3,0,FALSE,N,FALSE
+1024667,Howard & Marsh Exchange,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,12617.8,0.0,5,0,FALSE,N,FALSE
+1023264,Lita Belcher Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,29645.2,0.0,5,0,FALSE,Y,TRUE
+1027475,Rosegate Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3800.0,0.0,1,0,FALSE,N,FALSE
+1035810,Mary McBride Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036933,"MILIEU ""A Curated Interior Atelier""",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

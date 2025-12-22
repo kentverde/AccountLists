@@ -196,11 +196,11 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 6 accounts (0 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1017972,Hawthorne House Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,644.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1019529,House + Hide,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,905.0,0.0,1,1,FALSE,N,FALSE,FALSE,N
-1021121,ReVisioned Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2100.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1021879,Haggard Home Group,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3032.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1024012,Signature Floors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,405.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025426,Home Furniture & Mattress Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1258.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1017972,Hawthorne House Inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,644.0,0.0,2,0,FALSE,N,FALSE
+1019529,House + Hide,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,905.0,0.0,1,1,FALSE,N,FALSE
+1021121,ReVisioned Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2100.0,0.0,5,0,FALSE,N,FALSE
+1021879,Haggard Home Group,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3032.0,0.0,2,0,FALSE,N,FALSE
+1024012,Signature Floors and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,405.0,0.0,1,0,FALSE,N,FALSE
+1025426,Home Furniture & Mattress Outlet,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1258.0,0.0,2,0,FALSE,N,FALSE
 ,,,,,,,,,,,

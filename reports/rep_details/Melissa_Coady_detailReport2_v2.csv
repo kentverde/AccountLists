@@ -279,28 +279,28 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 23 accounts (8 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,495.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1125.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,590.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4295.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,24026.75,0.0,10,0,FALSE,N,FALSE,FALSE,N
-1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
-1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2490.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,948.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1235.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,697.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000449,Carpet Impressions,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,495.0,0.0,1,0,FALSE,N,FALSE
+1000890,Fitzsimmons Design Associates,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1125.0,0.0,1,0,FALSE,N,FALSE
+1000901,Ocean Boulevard Furniture Inc,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1001382,Beyond The Mill Studio Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,590.0,0.0,1,0,FALSE,N,FALSE
+1001600,Simply Home (DE),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4295.0,0.0,1,0,FALSE,N,FALSE
+1002035,"Dwelling and Design, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,24026.75,0.0,10,0,FALSE,N,FALSE
+1002677,Finnian's Moon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE
+1005570,"Simply Wesley, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1007078,Galiani Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE
+1007728,"Early's Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2490.0,0.0,1,0,FALSE,N,FALSE
+1009094,"Scotts Furniture, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010495,"Ivy Nursery, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,948.0,0.0,1,0,FALSE,N,FALSE
+1018023,Muller Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1235.0,0.0,2,0,FALSE,N,FALSE
+1018171,Capps Home Building Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,140.0,0.0,1,0,FALSE,N,FALSE
+1024715,HomeWorks,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,697.0,0.0,1,0,FALSE,N,FALSE
+1025139,Peake House,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
+1025551,Domicile(VA),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035185,"Abingdon Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035866,LP and Co,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036483,SS Melissa Coady,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036717,JP Styles,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037585,Laura Hodges Studio,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038130,Theodora Home Studio DBA Grand York,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

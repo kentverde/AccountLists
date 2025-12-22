@@ -224,30 +224,30 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 25 accounts (2 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000212,Yates Flooring Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,500.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000556,Style Rug Expo Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2081.5,0.0,6,0,FALSE,N,FALSE,FALSE,N
-1002193,"Bliss Home and Design (Costa Mesa,CA)",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003458,"Meredith O'Donnell, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1004024,Zuri Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005328,"Bliss Home and Design, Retail Division",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4509.0,0.0,6,0,FALSE,N,FALSE,FALSE,N
-1006266,High Fashion Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006486,Interio Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,2141.1,0.0,9,0,FALSE,N,FALSE,FALSE,N
-1006556,Freedom Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11363.0,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1009147,Casa Vilora Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009371,Cornelson Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,7030.95,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1011503,LAM Bespoke,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012235,Swag,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015086,"Moore House Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6551.5,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1018885,Adesse Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,100.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024374,Sensible Redesign,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024413,Scarlet Reagan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024857,James Craig Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025732,The Luxe Design Group | LXDG,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025869,Noble Furnishings LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2439.0,0.0,4,0,FALSE,N,FALSE,FALSE,N
-1026133,By Grace and Faith,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027215,RENDR,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,300.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027341,RAMSOWERS FURNITURE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13244.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1035026,"Beyondfloors.net, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,325.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1037598,Moore Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000212,Yates Flooring Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,500.0,0.0,1,0,FALSE,N,FALSE
+1000556,Style Rug Expo Inc.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2081.5,0.0,6,0,FALSE,N,FALSE
+1002193,"Bliss Home and Design (Costa Mesa,CA)",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003458,"Meredith O'Donnell, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1004024,Zuri Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005328,"Bliss Home and Design, Retail Division",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4509.0,0.0,6,0,FALSE,N,FALSE
+1006266,High Fashion Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006486,Interio Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,2141.1,0.0,9,0,FALSE,N,FALSE
+1006556,Freedom Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11363.0,0.0,5,0,FALSE,N,FALSE
+1009147,Casa Vilora Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009371,Cornelson Decorating,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,7030.95,0.0,2,0,FALSE,N,FALSE
+1011503,LAM Bespoke,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1012235,Swag,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1015086,"Moore House Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6551.5,0.0,2,0,FALSE,N,FALSE
+1018885,Adesse Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,100.0,0.0,0,0,FALSE,N,FALSE
+1024374,Sensible Redesign,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024413,Scarlet Reagan,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024857,James Craig Furnishings,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025732,The Luxe Design Group | LXDG,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025869,Noble Furnishings LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2439.0,0.0,4,0,FALSE,N,FALSE
+1026133,By Grace and Faith,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027215,RENDR,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,300.0,0.0,0,0,FALSE,N,FALSE
+1027341,RAMSOWERS FURNITURE,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13244.0,0.0,2,0,FALSE,N,FALSE
+1035026,"Beyondfloors.net, INC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,325.0,0.0,1,0,FALSE,N,FALSE
+1037598,Moore Furniture,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

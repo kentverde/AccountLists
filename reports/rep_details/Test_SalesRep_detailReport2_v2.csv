@@ -39,7 +39,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 2 accounts (1 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1018404,TestAccountDoNotUse 1018404,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
+1026206,TestAccountDoNotUse 1026206,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
 ,,,,,,,,,,,

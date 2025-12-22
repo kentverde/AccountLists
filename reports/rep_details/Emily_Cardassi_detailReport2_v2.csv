@@ -171,19 +171,19 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 14 accounts (4 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1002453,Fontaine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002941,"A E Michaels Decorating Center, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003486,Chazin Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006525,"The Home Market, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,27736.84,0.0,5,0,FALSE,N,FALSE,FALSE,N
-1008772,International Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,88.0,0.0,1,1,FALSE,N,FALSE,FALSE,N
-1012868,Habitation Furnishing and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5493.43,0.0,5,1,FALSE,N,FALSE,FALSE,N
-1025107,Callan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1350.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1026071,The June House,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3265.9,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1027528,Commercial Flooring Services,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10252.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1027717,FLOOR360,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3014.0,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1036300,Studio Grey,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036788,Ispiri Decor,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036837,Curio Rugs,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037389,Wray Design Co.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1002453,Fontaine,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002941,"A E Michaels Decorating Center, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003486,Chazin Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006525,"The Home Market, LLC",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,27736.84,0.0,5,0,FALSE,N,FALSE
+1008772,International Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,88.0,0.0,1,1,FALSE,N,FALSE
+1012868,Habitation Furnishing and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,5493.43,0.0,5,1,FALSE,N,FALSE
+1025107,Callan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1350.0,0.0,1,0,FALSE,N,FALSE
+1026071,The June House,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3265.9,0.0,3,0,FALSE,N,FALSE
+1027528,Commercial Flooring Services,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,10252.0,0.0,1,0,FALSE,N,FALSE
+1027717,FLOOR360,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,3014.0,0.0,3,0,FALSE,N,FALSE
+1036300,Studio Grey,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036788,Ispiri Decor,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036837,Curio Rugs,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037389,Wray Design Co.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
 ,,,,,,,,,,,

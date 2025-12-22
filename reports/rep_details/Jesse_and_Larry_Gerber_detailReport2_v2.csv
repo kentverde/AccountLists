@@ -312,21 +312,21 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 16 accounts (8 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1001627,"Ross and Ross, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,494.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1008610,Creative Window Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010303,Design Consultants (NJ),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1011434,Kelley Karpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013663,Route 9 Wickery Inc - The Wickery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014022,Ivanka's Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1021928,Shehadi Commercial Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1023443,Lauren Hope Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026176,MY WAY CARPET INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026229,BESPOKE home + life,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,913.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1010793,Lawrence-Mayer Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,29634.9,0.0,4,0,FALSE,Y,TRUE,FALSE,N
-1036584,"Lotus Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037319,justin odle Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1037989,"Kaleidoscope Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038072,Optimum Flooring,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1038357,JS Interior Design dba JS Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1001627,"Ross and Ross, Inc",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,494.0,0.0,1,0,FALSE,N,FALSE
+1008610,Creative Window Design Center,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010303,Design Consultants (NJ),DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1011434,Kelley Karpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013663,Route 9 Wickery Inc - The Wickery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1014022,Ivanka's Home,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1021928,Shehadi Commercial Flooring,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1023443,Lauren Hope Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1026176,MY WAY CARPET INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1026229,BESPOKE home + life,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,913.5,0.0,1,0,FALSE,N,FALSE
+1010793,Lawrence-Mayer Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,29634.9,0.0,4,0,FALSE,Y,TRUE
+1036584,"Lotus Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037319,justin odle Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1037989,"Kaleidoscope Interior Design, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038072,Optimum Flooring,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1038357,JS Interior Design dba JS Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,

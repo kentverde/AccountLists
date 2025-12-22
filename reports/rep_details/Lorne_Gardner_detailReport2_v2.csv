@@ -369,41 +369,41 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,To
 ================================================================================,,,,,,,,,,,
 ZERO REVENUE: 36 accounts (11 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000737,Gill Carpet Of Southampton,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000771,Lake Placid Rug and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003074,"Designers North Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3195.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1004061,Lillian August Corp.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1845.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1005969,Westchester House and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006412,Just 4 The Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,442.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1006495,Silverwood Home and Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007062,Carpet and Design Emporium,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1007165,"Hammertown Barn, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,860.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1007179,A-1 Interior Carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008324,"Marc Williams Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010534,Spaces By Deborah Baum,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1011382,"M Katz and Sons, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011614,Sam Peter Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013277,Blinds and Beyond,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,310.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1014107,Zimmerman's Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,897.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1016298,Hudson Home (NY),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1016913,Casa Chetta,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018869,Ibo Interiors Corp dba peace + RIOT,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,150.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1019961,United Carpet Brokers inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020141,ESK Corp Dinettes etc DBA Dinetc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1020217,WELLSVILLE CARPET TOWN INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022133,RAM DESIGN LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6830.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024617,The Hamptons Home by Mariana Montesdeoca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9810.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1024788,Davis Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025817,Christine Lawrence/Infinite Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,380.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1028032,"Mastour Galleries, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1035111,Leon Berry Inteiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1035469,"United Carpet Brokers, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036139,Gina Ireland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036314,creative designs by sofia,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036430,Top Rail Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036456,NY Window Fashion,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036462,Warehouse127 home,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036613,Rita Godin Home LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1036774,Magdalena Keck Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000737,Gill Carpet Of Southampton,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000771,Lake Placid Rug and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003074,"Designers North Carpet, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3195.0,0.0,1,0,FALSE,N,FALSE
+1004061,Lillian August Corp.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1845.0,0.0,1,0,FALSE,N,FALSE
+1005969,Westchester House and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006412,Just 4 The Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,442.0,0.0,1,0,FALSE,N,FALSE
+1006495,Silverwood Home and Gallery,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1007062,Carpet and Design Emporium,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1007165,"Hammertown Barn, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,860.0,0.0,2,0,FALSE,N,FALSE
+1007179,A-1 Interior Carpets,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1008324,"Marc Williams Interiors, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010534,Spaces By Deborah Baum,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1011382,"M Katz and Sons, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1011614,Sam Peter Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013277,Blinds and Beyond,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,310.0,0.0,1,0,FALSE,N,FALSE
+1014107,Zimmerman's Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,897.0,0.0,2,0,FALSE,N,FALSE
+1016298,Hudson Home (NY),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1016913,Casa Chetta,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018869,Ibo Interiors Corp dba peace + RIOT,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,150.0,0.0,1,0,FALSE,N,FALSE
+1019961,United Carpet Brokers inc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020141,ESK Corp Dinettes etc DBA Dinetc,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020217,WELLSVILLE CARPET TOWN INC.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022133,RAM DESIGN LLC,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,6830.0,0.0,1,0,FALSE,N,FALSE
+1024617,The Hamptons Home by Mariana Montesdeoca,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9810.0,0.0,1,0,FALSE,N,FALSE
+1024788,Davis Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025817,Christine Lawrence/Infinite Decor,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,380.0,0.0,1,0,FALSE,N,FALSE
+1028032,"Mastour Galleries, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035111,Leon Berry Inteiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035469,"United Carpet Brokers, Inc.",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036139,Gina Ireland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036314,creative designs by sofia,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036430,Top Rail Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036456,NY Window Fashion,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036462,Warehouse127 home,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036613,Rita Godin Home LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1036774,Magdalena Keck Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE
 ,,,,,,,,,,,
