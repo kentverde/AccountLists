@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Angie Robison,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:48,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 279,24,4425393.3,4079564.13,0,46,-46,-16.49,0.0,15119.9,-15119.9,-0.37,233,4064444.23,1,0.0,0,22,2,18,0.0,21,15119.9,7,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -278,9 +278,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1023264,Lita Belcher Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,29645.2,0.0,5,0,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 46 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 46 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1013717,Danielle Andre Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3536.25,2380.0,8,3,FALSE,Y,FALSE,TRUE,N
 1003269,Linsi L Cenac Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,3610.0,2202.0,4,6,FALSE,Y,FALSE,TRUE,N
 1016370,Home with Hechart,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,7515.0,2175.0,11,2,FALSE,Y,FALSE,TRUE,N

@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Melissa Coady,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:49,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 239,23,1684730.14,1584817.02,0,90,-90,-37.66,0.0,29777.81,-29777.81,-1.88,149,1555039.21,1,42.0,0,23,8,6,0.0,67,29777.81,17,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -194,9 +194,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1002760,Lapis Ray,DESIGN,DESIGN_FIRM,Group 3 Low Potential,20751.9,42.0,10,2,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 90 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 90 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1005629,"Frederikes Designs, Inc.",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,2180.25,0,1,FALSE,Y,FALSE,TRUE,N
 1019879,"Studio Rose, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1941.0,2164.74,4,3,FALSE,Y,FALSE,TRUE,N
 1015078,Beyond the Box Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,11001.66,2101.7,11,4,FALSE,Y,FALSE,TRUE,N

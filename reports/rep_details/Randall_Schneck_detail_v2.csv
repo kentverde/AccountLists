@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Randall Schneck,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:50,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 161,6,1735276.45,1512559.56,0,31,-31,-19.25,0.0,12547.45,-12547.45,-0.83,130,1500012.11,0,0.0,0,16,5,4,0.0,24,12547.45,3,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -168,9 +168,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038176,Southern Loft LLC,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 31 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 31 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1022918,Temple and Hentz,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3386.0,2451.0,6,1,FALSE,Y,FALSE,TRUE,N
 1011289,Sandra Burroughs - Decorating Den,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1135.0,2160.6,3,7,FALSE,Y,FALSE,TRUE,N
 1020289,Weltner Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3561.5,1445.0,3,9,FALSE,Y,FALSE,TRUE,N

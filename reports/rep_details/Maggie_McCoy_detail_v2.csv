@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Maggie McCoy,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:49,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 165,77,118676.8,326398.22,0,54,-54,-32.73,0.0,12150.78,-12150.78,-3.72,111,314247.44,74,0.0,77,88,7,0,0.0,54,12150.78,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -238,9 +238,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038788,BOX Studios,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 54 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 54 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1000879,Soucie Horner Ltd,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1749.0,2202.13,1,1,FALSE,Y,FALSE,TRUE,N
 1020860,Antunovich Associates,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,2170.0,0,2,FALSE,Y,FALSE,TRUE,N
 1012044,Curate Design Group,DESIGN,HOSPITALITY,Group 3 Medium Potential,Floor Removal - Active,3803.0,2105.0,3,3,FALSE,Y,FALSE,TRUE,N

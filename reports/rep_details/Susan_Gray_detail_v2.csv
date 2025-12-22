@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Susan Gray,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:57,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:50,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 164,41,838775.52,833953.04,0,98,-98,-59.76,0.0,16680.6,-16680.6,-2.0,66,817272.44,1,0.0,0,8,1,10,0.0,56,16680.6,32,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -110,9 +110,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1009585,The Collective â€“ OnStage,DESIGN,DESIGN_FIRM,Group 3 Low Potential,26004.2,0.0,3,0,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 98 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 98 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1017800,NG Interior,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,17279.5,2452.8,4,1,FALSE,Y,FALSE,TRUE,N
 1010813,Kasse Decor LLC,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,1664.5,2384.8,4,3,FALSE,Y,FALSE,TRUE,N
 1007817,JD Designs,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3624.0,2146.0,3,2,FALSE,Y,FALSE,TRUE,N

@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Madison Wolpe,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:49,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 2490,1087,179461.27,1555673.72,273,2421,-2148,-86.27,1736978.6,1376923.38,360055.22,23.14,342,1915728.94,0,0.0,0,70,42,500,1218783.47,889,158139.91,1032,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -379,9 +379,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1036784,Toon Co Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,-34.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 2421 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 2421 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1024785,Maria Haidamus Interiors,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,Territory Realignment,0.0,35813.0,0,6,FALSE,N,FALSE,FALSE,N
 1027329,Sonderlust LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,50.0,25487.83,2,2,FALSE,N,FALSE,FALSE,N
 1027124,Cam Cooke Designs,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,0.0,25185.34,0,7,TRUE,N,FALSE,FALSE,N

@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Kimberly Myers,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:49,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 938,78,2556804.9,2154258.22,160,728,-568,-60.55,913943.32,1018916.4,-104973.08,-4.87,370,2049285.14,4,5724.56,0,66,32,181,841217.11,473,177699.29,74,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -413,9 +413,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026509,Regan Chappell Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,1442.0,172.0,1,1,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 728 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 728 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1024159,Liz Walton Home,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,9991.5,41648.5,11,20,FALSE,N,FALSE,FALSE,N
 1009762,Kroungolds Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,Territory Realignment,33999.43,36878.2,32,27,FALSE,N,FALSE,FALSE,N
 1035476,Abode VT,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,4988.6,24799.33,3,10,FALSE,N,FALSE,FALSE,N

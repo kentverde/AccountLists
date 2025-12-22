@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Kyra Williamson,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:56,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:49,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 1006,111,2180626.56,2169759.18,304,838,-534,-53.08,1682569.19,1133139.36,549429.83,25.32,472,2719189.01,2,2407.0,0,89,47,181,996271.12,551,136868.24,106,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -516,9 +516,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1011549,Park Home Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,19766.0,380.0,6,1,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 838 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 838 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1011611,LL Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,Territory Realignment,2523.0,31525.0,1,3,FALSE,N,FALSE,FALSE,N
 1014068,Darden Ent dba Elements of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,Territory Realignment,27370.5,25409.35,13,14,FALSE,N,FALSE,FALSE,N
 1023775,Alexandra Killion Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,Territory Realignment,14233.0,24928.0,3,4,FALSE,N,FALSE,FALSE,N

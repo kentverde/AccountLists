@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Emily Cardassi,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:48,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 131,2,1310464.53,1238417.29,0,30,-30,-22.9,0.0,11024.8,-11024.8,-0.89,101,1227392.49,0,0.0,0,14,4,2,0.0,28,11024.8,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -140,9 +140,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1037389,Wray Design Co.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 30 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 30 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1002321,"Partners By Design, WIS",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,1705.0,2417.0,1,3,FALSE,Y,FALSE,TRUE,N
 1007578,"Spider Lake Trading, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3947.5,2035.0,4,7,FALSE,Y,FALSE,TRUE,N
 1001873,House Blend Lighting and Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,10750.65,1839.4,11,6,FALSE,Y,FALSE,TRUE,N

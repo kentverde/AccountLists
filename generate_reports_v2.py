@@ -315,7 +315,7 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
         # These are accounts this rep gave AWAY to other reps
         accounts_moved_out = len(df[(df[COL_ASSIGNED_REP] == rep) & (df[COL_FINAL_REP] != rep)])
         
-        # Net change: positive = gained accounts, negative = lost accounts
+        # Net change: positive = gained accounts, negative = redirected accounts
         net_account_change = accounts_moved_in - accounts_moved_out
         
         # Same logic but for 2025 revenue instead of account counts
@@ -390,7 +390,7 @@ def generate_summary_report(df: pd.DataFrame, output_dir: str) -> pd.DataFrame:
             # ===== MOVEMENT COLUMNS =====
             'Accounts_Moved_In': accounts_moved_in,             # Accounts this rep gained from others
             'Accounts_Moved_Out': accounts_moved_out,           # Accounts this rep gave away
-            'Net_Account_Change': net_account_change,           # Positive = gained, negative = lost
+            'Net_Account_Change': net_account_change,           # Positive = gained, negative = redirected
             'Account_Change_Pct': round(account_change_pct, 2), # % change relative to starting accounts
             'Rev_Moved_In': round(rev_moved_in, 2),             # 2025 revenue of accounts moved in
             'Rev_Moved_Out': round(rev_moved_out, 2),           # 2025 revenue of accounts moved out
@@ -508,33 +508,33 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
     else:
         revenue_change_pct = 0
     
-    # ===== ACCOUNTS LOST - THREE CATEGORIES =====
+    # ===== REDIRECTED - THREE CATEGORIES =====
     # All accounts that moved OUT (Assigned_Rep = this rep, Final_Rep != this rep)
-    accounts_lost_all = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)].copy()
+    accounts_redirected_all = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)].copy()
     
     # Category 1: Territory Realignment (moved out but NOT flagged for floor removal)
     # These are regular accounts moved due to territory changes
-    accounts_lost_territory = accounts_lost_all[~accounts_lost_all['Floor_Removed']].copy()
-    lost_territory_count = len(accounts_lost_territory)
-    lost_territory_rev = accounts_lost_territory[COL_TOTAL_REV_2025].sum()
+    accounts_redirected_territory = accounts_redirected_all[~accounts_redirected_all['Floor_Removed']].copy()
+    redirected_territory_count = len(accounts_redirected_territory)
+    redirected_territory_rev = accounts_redirected_territory[COL_TOTAL_REV_2025].sum()
     
     # Category 2: Floor Removed - Active (BTF='Y', moved out, NOT dormant)
     # These are low-revenue accounts flagged for removal that were actively in the system
-    accounts_lost_floor_active = accounts_lost_all[
-        (accounts_lost_all['Floor_Removed']) & 
-        (~accounts_lost_all['Is_SF_Ex_BI'])
+    accounts_redirected_floor_active = accounts_redirected_all[
+        (accounts_redirected_all['Floor_Removed']) & 
+        (~accounts_redirected_all['Is_SF_Ex_BI'])
     ].copy()
-    lost_floor_active_count = len(accounts_lost_floor_active)
-    lost_floor_active_rev = accounts_lost_floor_active[COL_TOTAL_REV_2025].sum()
+    redirected_floor_active_count = len(accounts_redirected_floor_active)
+    redirected_floor_active_rev = accounts_redirected_floor_active[COL_TOTAL_REV_2025].sum()
     
     # Category 3: Floor Removed - Dormant (BTF='Y', moved out, IS dormant/SF ex BI)
     # These are low-revenue accounts flagged for removal that were already inactive
-    accounts_lost_floor_dormant = accounts_lost_all[
-        (accounts_lost_all['Floor_Removed']) & 
-        (accounts_lost_all['Is_SF_Ex_BI'])
+    accounts_redirected_floor_dormant = accounts_redirected_all[
+        (accounts_redirected_all['Floor_Removed']) & 
+        (accounts_redirected_all['Is_SF_Ex_BI'])
     ].copy()
-    lost_floor_dormant_count = len(accounts_lost_floor_dormant)
-    lost_floor_dormant_rev = accounts_lost_floor_dormant[COL_TOTAL_REV_2025].sum()
+    redirected_floor_dormant_count = len(accounts_redirected_floor_dormant)
+    redirected_floor_dormant_rev = accounts_redirected_floor_dormant[COL_TOTAL_REV_2025].sum()
     # BTF='Y' but account stayed with rep
     floor_exceptions = rep_accounts[rep_accounts['Floor_Exception']]
     exception_count = len(floor_exceptions)
@@ -637,12 +637,12 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             'SF_Ex_BI_Accounts',
             'Zero_Rev_Accounts',
             'Zero_Rev_New_2025',
-            'Accounts_Lost_Territory',
-            'Rev_Lost_Territory',
-            'Accounts_Lost_Floor_Active',
-            'Rev_Lost_Floor_Active',
-            'Accounts_Lost_Floor_Dormant',
-            'Rev_Lost_Floor_Dormant'
+                'Accounts_Redirected_Territory',
+                'Rev_Redirected_Territory',
+                'Accounts_Redirected_Floor_Active',
+                'Rev_Redirected_Floor_Active',
+                'Accounts_Redirected_Floor_Dormant',
+                'Rev_Redirected_Floor_Dormant'
         ]
         
         summary_values = [
@@ -665,12 +665,12 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             sf_ex_bi_count,
             zero_rev_count,
             zero_rev_new_2025,
-            lost_territory_count,
-            round(lost_territory_rev, 2),
-            lost_floor_active_count,
-            round(lost_floor_active_rev, 2),
-            lost_floor_dormant_count,
-            round(lost_floor_dormant_rev, 2)
+            redirected_territory_count,
+            round(redirected_territory_rev, 2),
+            redirected_floor_active_count,
+            round(redirected_floor_active_rev, 2),
+            redirected_floor_dormant_count,
+            round(redirected_floor_dormant_rev, 2)
         ]
         
         # Write header row with column names
@@ -782,36 +782,36 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             format_for_output(sf_ex_bi_sorted).to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
         
-        # ===== ACCOUNTS LOST - CONSOLIDATED SUMMARY =====
+        # ===== REDIRECTED - CONSOLIDATED SUMMARY =====
         # Combine all three loss categories into one table with a category column
-        total_accounts_lost = len(accounts_lost_all)
-        if total_accounts_lost > 0:
+        total_accounts_redirected = len(accounts_redirected_all)
+        if total_accounts_redirected > 0:
             f.write(f"================================================================================{empty_cols}\n")
-            f.write(f"ACCOUNTS LOST - SUMMARY: {total_accounts_lost} total accounts{empty_cols}\n")
+            f.write(f"REDIRECTED - SUMMARY: {total_accounts_redirected} total accounts{empty_cols}\n")
             f.write(f"================================================================================{empty_cols}\n")
             
-            # Add loss category to each account
-            accounts_lost_territory['Loss_Category'] = 'Territory Realignment'
-            accounts_lost_floor_active['Loss_Category'] = 'Floor Removal - Active'
-            accounts_lost_floor_dormant['Loss_Category'] = 'Floor Removal - Dormant'
+            # Add redirect category to each account
+            accounts_redirected_territory['Redirect_Category'] = 'Territory Realignment'
+            accounts_redirected_floor_active['Redirect_Category'] = 'Floor Removal - Active'
+            accounts_redirected_floor_dormant['Redirect_Category'] = 'Floor Removal - Dormant'
             
-            # Combine all lost accounts
-            all_lost = pd.concat([
-                accounts_lost_territory,
-                accounts_lost_floor_active,
-                accounts_lost_floor_dormant
+            # Combine all redirected accounts
+            all_redirected = pd.concat([
+                accounts_redirected_territory,
+                accounts_redirected_floor_active,
+                accounts_redirected_floor_dormant
             ], ignore_index=True)
             
             # Sort by revenue descending
-            all_lost_sorted = all_lost.sort_values(COL_TOTAL_REV_2025, ascending=False)
+            all_redirected_sorted = all_redirected.sort_values(COL_TOTAL_REV_2025, ascending=False)
             
             # Format for output without rep columns
-            all_lost_formatted = all_lost_sorted.copy()
+            all_redirected_formatted = all_redirected_sorted.copy()
             
             # SELECT COLUMNS (exclude Assigned_Rep and Final_Rep)
             output_columns = [
                 COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
-                'Segment_Label', 'Loss_Category',
+                'Segment_Label', 'Redirect_Category',
                 COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
                 COL_ORDERS_2024, COL_ORDERS_2025,
                 'Is_New_2025', COL_BTF, 'Floor_Exception', 'Floor_Removed',
@@ -819,24 +819,24 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
             ]
             
             # Keep only columns that exist
-            output_columns = [col for col in output_columns if col in all_lost_formatted.columns]
-            all_lost_formatted = all_lost_formatted[output_columns]
+            output_columns = [col for col in output_columns if col in all_redirected_formatted.columns]
+            all_redirected_formatted = all_redirected_formatted[output_columns]
             
             # FORMAT REVENUE TO 2 DECIMAL PLACES
-            all_lost_formatted[COL_TOTAL_REV_2024] = all_lost_formatted[COL_TOTAL_REV_2024].round(2)
-            all_lost_formatted[COL_TOTAL_REV_2025] = all_lost_formatted[COL_TOTAL_REV_2025].round(2)
+            all_redirected_formatted[COL_TOTAL_REV_2024] = all_redirected_formatted[COL_TOTAL_REV_2024].round(2)
+            all_redirected_formatted[COL_TOTAL_REV_2025] = all_redirected_formatted[COL_TOTAL_REV_2025].round(2)
             
             # FORMAT ORDER COUNTS AS WHOLE NUMBERS
-            all_lost_formatted[COL_ORDERS_2024] = all_lost_formatted[COL_ORDERS_2024].fillna(0).astype(int)
-            all_lost_formatted[COL_ORDERS_2025] = all_lost_formatted[COL_ORDERS_2025].fillna(0).astype(int)
+            all_redirected_formatted[COL_ORDERS_2024] = all_redirected_formatted[COL_ORDERS_2024].fillna(0).astype(int)
+            all_redirected_formatted[COL_ORDERS_2025] = all_redirected_formatted[COL_ORDERS_2025].fillna(0).astype(int)
             
             # FORMAT BOOLEAN VALUES AS UPPERCASE TEXT
-            all_lost_formatted['Is_New_2025'] = all_lost_formatted['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
-            all_lost_formatted['Floor_Exception'] = all_lost_formatted['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
-            all_lost_formatted['Floor_Removed'] = all_lost_formatted['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
+            all_redirected_formatted['Is_New_2025'] = all_redirected_formatted['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+            all_redirected_formatted['Floor_Exception'] = all_redirected_formatted['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
+            all_redirected_formatted['Floor_Removed'] = all_redirected_formatted['Floor_Removed'].map({True: 'TRUE', False: 'FALSE'})
             
             # Write to CSV
-            all_lost_formatted.to_csv(f, index=False, lineterminator='\n')
+            all_redirected_formatted.to_csv(f, index=False, lineterminator='\n')
             f.write(f"{empty_cols}\n")
         
         # ZERO REVENUE ACCOUNTS

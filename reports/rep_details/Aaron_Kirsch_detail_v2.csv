@@ -1,10 +1,10 @@
 ﻿Rep Detail Report V2: Aaron Kirsch,,,,,,,,,,,,,,,
-Generated: 2025-12-21 18:49:55,,,,,,,,,,,,,,,
+Generated: 2025-12-21 19:02:47,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Lost_Territory,Rev_Lost_Territory,Accounts_Lost_Floor_Active,Rev_Lost_Floor_Active,Accounts_Lost_Floor_Dormant,Rev_Lost_Floor_Dormant
+Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
 151,36,795662.5,512684.85,0,38,-38,-25.17,0.0,6746.0,-6746.0,-1.32,113,505938.85,21,708.4,36,74,0,1,0.0,37,6746.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -201,9 +201,9 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ACCOUNTS LOST - SUMMARY: 38 total accounts,,,,,,,,,,,,,,,
+REDIRECTED - SUMMARY: 38 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Loss_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1013690,Studio Design By SMF SRL,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,3703.2,2332.0,3,3,FALSE,Y,FALSE,TRUE,N
 1026187,Dos Aguas Arquitectura,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,465.0,965.0,1,2,FALSE,Y,FALSE,TRUE,N
 1027560,CTX Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,665.0,750.0,2,1,FALSE,Y,FALSE,TRUE,N

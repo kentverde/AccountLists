@@ -61,20 +61,20 @@ One row per rep showing:
 `reports/rep_details/{Rep_Name}_detail_v2.csv`
 
 One file per rep containing:
-- **Summary Metrics**: Complete before/after comparison with all movement and loss metrics
-  - Before state, movements (in/out), change percentages, and after state
-  - Floor exceptions, SF ex BI dormant accounts, and zero-revenue accounts
-  - **Accounts Lost** breakdown by category (territory realignment, floor removal active, floor removal dormant)
+- **Summary Metrics**: Complete before/after comparison with all movement and redirected metrics
+   - Before state, movements (in/out), change percentages, and after state
+   - Floor exceptions, SF ex BI dormant accounts, and zero-revenue accounts
+   - **Redirected** breakdown by category (territory realignment, floor removal active, floor removal dormant)
 - **Segment Breakdown**: Accounts and revenue by segment (sorted Group 1→2→3, High→Medium→Low)
 - **Group 1 (HIGH_REVENUE)**: All HIGH_REVENUE accounts (always kept)
 - **Group 2 (MID_REVENUE)**: All MID_REVENUE accounts (always kept)
 - **Group 3 (LOW_REVENUE)**: Protected LOW_REVENUE accounts (not flagged for removal)
 - **Floor Exceptions**: BTF='Y' but account was kept with original rep
 - **SF ex BI (Dormant)**: Accounts in Salesforce but with no transaction data
-- **Accounts Lost - Summary**: Consolidated table of all lost accounts with loss category classification:
-  - **Territory Realignment**: Accounts reassigned due to normal territory shifts (not flagged for floor)
-  - **Floor Removal - Active**: Low-revenue accounts flagged for removal that were actively in the system
-  - **Floor Removal - Dormant**: Low-revenue accounts flagged for removal that were already inactive (SF ex BI)
+- **Redirected - Summary**: Consolidated table of all redirected accounts with redirect category classification:
+   - **Territory Realignment**: Accounts reassigned due to normal territory shifts (not flagged for floor)
+   - **Floor Removal - Active**: Low-revenue accounts flagged for removal that were actively in the system
+   - **Floor Removal - Dormant**: Low-revenue accounts flagged for removal that were already inactive (SF ex BI)
 - **Zero Revenue**: Separate section highlighting $0 revenue accounts
 
 ## Business Logic
@@ -116,14 +116,14 @@ Two new columns provide context for account and revenue movements:
 **Account_Change_Pct:**
 - Formula: `(Net_Account_Change / Before_Accounts) × 100`
 - Shows what % of starting accounts the net change represents
-- Example: Lisa Lowder lost 159 accounts from 364 starting accounts = **-43.68%**
-- Interpretation: Negative % = accounts lost, Positive % = accounts gained
+   - Example: Lisa Lowder redirected 159 accounts from 364 starting accounts = **-43.68%**
+   - Interpretation: Negative % = accounts redirected, Positive % = accounts gained
 
 **Revenue_Change_Pct:**
 - Formula: `(Net_Rev_Change / Before_Rev_2025) × 100`
 - Shows what % of starting 2025 revenue the net change represents
 - Example: Lisa Lowder's -$47,985.22 change from $3,089,300.76 revenue = **-1.55%**
-- Interpretation: Negative % = revenue lost, Positive % = revenue gained
+   - Interpretation: Negative % = revenue redirected, Positive % = revenue gained
 - Note: Can be positive even if accounts decreased (better accounts kept, lower-value ones moved out)
 
 ### Input Column Requirements
