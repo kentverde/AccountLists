@@ -1,0 +1,64 @@
+﻿REP NAME ONLY,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
+30,6248721.39,3909234.27,0,0.0,30," $3,909,234.27 ",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+,Accounts,Revenue,,,,,,,,,
+Group 1,9,3853048.78,,,,,,,,,
+Group 2,5,59353.49,,,,,,,,,
+Group 3,16,-3168.0,,,,,,,,,
+Totals,30,3909234.27,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 9 accounts | $3853048.78 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1023007,Lowe's Brick and Mortar,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,5247070.2,3140494.29,955,754,FALSE,N,FALSE
+1007537,Burlington Merchandising Corp.,RETAIL,OFF-PRICE,Group 1 Medium Potential,306282.15,365397.2,17,274,FALSE,N,FALSE
+1019629,Ross - Dress for Less,MASS,OFF-PRICE,Group 1 Low Potential,132856.0,81401.75,8,4,FALSE,N,FALSE
+1003737,Shades Of Light,E-TAILER,SPECIALTY,Group 1 High Potential,39385.6,64838.9,161,238,FALSE,N,FALSE
+1005049,Bassett Furniture,RETAIL,NATIONAL,Group 1 Medium Potential,88298.18,57024.59,241,203,FALSE,N,FALSE
+1009513,"Kravet, Inc.",DESIGN,DESIGN_FIRM,Group 1 Medium Potential,105514.93,55692.76,64,42,FALSE,N,FALSE
+1025793,ESGO TRADING INC dba AB Home,RETAIL,NATIONAL,Group 1 High Potential,28616.0,39089.22,21,24,FALSE,N,FALSE
+1013995,Rug and Home (Pineville),RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,41873.82,25671.76,19,17,FALSE,N,FALSE
+1000019,Rug and Home (Gaffney),RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,23159.28,23438.31,20,22,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts | $59353.49 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000018,Rug and Home (Asheville),RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,27111.66,16753.26,20,16,FALSE,N,FALSE
+1000060,Hom Furniture,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,63884.58,15648.89,69,11,FALSE,N,FALSE
+1005493,Rug and Home (Online),E-TAILER,SPECIALTY,Group 2 Medium Potential,17226.85,13572.25,128,76,FALSE,N,FALSE
+1015594,Rug and Home (Raleigh),RETAIL,MULTIPLE_LOCATIONS,Group 2 Low Potential,41350.25,7549.33,12,11,FALSE,N,FALSE
+1001490,Rug and Home (Kannapolis),RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,17955.84,5829.76,10,9,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | $-3168.00 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1017598,SS Peter Tischner,INTERNAL,SALES_REP,Group 3 Medium Potential,50.05,803.4,3,2,FALSE,N,FALSE
+1001250,"Kenneth L Mink and Sons, Inc",RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002141,The Home Depot B&M,MASS,HOME_CENTERS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1001715,Mitchell Gold + Bob Williams - DI,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003740,"Directbuy Home Improvement, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,6619.0,0.0,9,0,FALSE,N,FALSE
+1003911,Crate And Barrel  Cross Dock,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003920,Hom Furniture DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002829,Menard Buying Office,MASS,HOME_CENTERS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013613,Bloomingdales - Mink,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003932,Rug and Home (Kannapolis) DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1012544,"Groms, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006411,"Directbuy Home Improvement, Inc dba  Z Gallerie",RETAIL,NATIONAL,Group 3 Low Potential,14952.0,0.0,24,0,FALSE,N,FALSE
+1015316,Arhaus LLC,RETAIL,NATIONAL,Group 3 Low Potential,25650.0,0.0,9,0,FALSE,N,FALSE
+1014885,Mitchell Gold + Bob Williams - DTC,RETAIL,NATIONAL,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1034945,"Ollie's Bargain Outlet, Inc",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,20865.0,0.0,2,0,FALSE,N,FALSE
+1003907,Rug and Home,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,-3971.4,0,0,FALSE,N,FALSE
+,,,,,,,,,,,

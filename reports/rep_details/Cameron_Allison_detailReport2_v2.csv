@@ -1,0 +1,58 @@
+﻿REP NAME ONLY,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
+24,11120642.92,8828535.41,0,0.0,24," $8,828,535.41 ",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+,Accounts,Revenue,,,,,,,,,
+Group 1,15,8779764.98,,,,,,,,,
+Group 2,5,45394.43,,,,,,,,,
+Group 3,4,3376.0,,,,,,,,,
+Totals,24,8828535.41,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 15 accounts | $8779764.98 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000734,"Wayfair, LLC",E-TAILER,MASS,Group 1 High Potential,4940008.32,4420455.54,50258,44381,FALSE,N,FALSE
+1003732,Rugsdirect.com,E-TAILER,NICHE,Group 1 High Potential,2208645.85,1968133.09,9622,9240,FALSE,N,FALSE
+1003738,Overstock.Com,E-TAILER,MASS,Group 1 Medium Potential,1074716.78,437526.97,9975,4858,FALSE,N,FALSE
+1003800,Lulu and Georgia,E-TAILER,SPECIALTY,Group 1 Medium Potential,689446.39,417340.64,2708,1396,FALSE,N,FALSE
+1012850,"Lowe's Home Centers, LLC",E-TAILER,SPECIALTY,Group 1 Medium Potential,460406.8,274324.42,2165,1303,FALSE,N,FALSE
+1007839,Homedepot.com,E-TAILER,MASS,Group 1 Medium Potential,391602.23,270061.83,2090,2075,FALSE,N,FALSE
+1003747,Payless Rugs,E-TAILER,NICHE,Group 1 High Potential,125701.2,217686.25,248,418,FALSE,N,FALSE
+1012814,Incredible Rugs and Decor,RETAIL,SINGLE_LOCATION,Group 1 High Potential,343470.59,191662.25,576,388,FALSE,N,FALSE
+1009866,Kathykuohome.com,E-TAILER,SPECIALTY,Group 1 High Potential,98009.95,131664.1,402,509,FALSE,N,FALSE
+1005889,"Havenly, Inc.",E-TAILER,SPECIALTY,Group 1 High Potential,116288.3,113991.9,654,688,FALSE,N,FALSE
+1026773,Amazon 3P,E-TAILER,SPECIALTY,Group 1 High Potential,0.0,103523.86,0,373,TRUE,N,FALSE
+1008800,"Houzz, Inc.",E-TAILER,MASS,Group 1 High Potential,95421.26,98374.95,313,388,FALSE,N,FALSE
+1003750,Plushrugs.Com,E-TAILER,NICHE,Group 1 High Potential,57103.3,93027.09,193,304,FALSE,N,FALSE
+1001889,One Kings Lane,E-TAILER,SPECIALTY,Group 1 Medium Potential,23663.08,21423.71,141,129,FALSE,N,FALSE
+1005713,"DecoratorsBest, LLC",E-TAILER,SPECIALTY,Group 1 Medium Potential,29283.8,20568.38,189,88,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 5 accounts | $45394.43 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1013801,"Wayfair, LLC - CASTLEGATE",E-TAILER,MASS,Group 2 Medium Potential,332759.29,14869.98,5815,277,FALSE,N,FALSE
+1007664,Target Corporation,E-TAILER,MASS,Group 2 Medium Potential,86458.18,13254.15,1310,585,FALSE,N,FALSE
+1037540,Dev Rugs Collection,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 2 High Potential,0.0,7372.8,0,1,TRUE,N,FALSE
+1012640,"Paynes Gray, Inc.",E-TAILER,SPECIALTY,Group 2 High Potential,2687.8,5094.5,15,21,FALSE,N,FALSE
+1008298,"YDesign Group, LLC and lumens.com",E-TAILER,SPECIALTY,Group 2 Medium Potential,6708.6,4803.0,48,33,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 4 accounts | $3376.00 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1005353,"Urban Outfitters, Inc.",E-TAILER,SPECIALTY,Group 3 Low Potential,9697.0,2221.0,134,34,FALSE,N,FALSE
+1003952,Cost Plus World Market,E-TAILER,MASS,Group 3 Low Potential,10219.5,1155.0,76,7,FALSE,N,FALSE
+1003769,Burkedecor.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,17864.4,0.0,404,1,FALSE,N,FALSE
+1002158,Modernrugs.Com,E-TAILER,NICHE,Group 3 Low Potential,480.3,0.0,3,0,FALSE,N,FALSE
+,,,,,,,,,,,

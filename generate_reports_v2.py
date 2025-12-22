@@ -852,6 +852,191 @@ def generate_rep_detail_report(df: pd.DataFrame, rep_name: str, output_dir: str)
 
 
 # =============================================================================
+# REP DETAIL REPORT V2 (SIMPLIFIED FORMAT)
+# =============================================================================
+# Second set of detail reports with simplified format, fewer columns, and cleaner layout.
+# One report per rep with summary metrics, segment breakdown, and group listings.
+
+def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: str):
+    """
+    Generate simplified Report 2 for a single rep.
+    
+    This is a second report with cleaner format showing:
+    - Summary metrics (simpler set than Report 1)
+    - Breakdown by segment (Group 1, 2, 3)
+    - Account listings for each group
+    
+    Uses Final_Rep_Name to determine which accounts belong to the rep (AFTER state).
+    
+    Args:
+        df (pd.DataFrame): Full preprocessed dataset
+        rep_name (str): The rep's name to generate a report for
+        output_dir (str): Directory where the report should be saved
+    """
+    # FILTER TO ACCOUNTS ASSIGNED TO THIS REP (AFTER ALIGNMENT)
+    rep_accounts = df[df[COL_FINAL_REP] == rep_name].copy()
+    
+    if len(rep_accounts) == 0:
+        return
+    
+    # ===== CALCULATE SUMMARY METRICS =====
+    # BEFORE STATE
+    before_accounts = df[df[COL_ASSIGNED_REP] == rep_name].copy()
+    before_count = len(before_accounts)
+    before_rev_2024 = before_accounts[COL_TOTAL_REV_2024].sum()
+    before_rev_2025 = before_accounts[COL_TOTAL_REV_2025].sum()
+    
+    # AFTER STATE
+    after_count = len(rep_accounts)
+    after_rev_2025 = rep_accounts[COL_TOTAL_REV_2025].sum()
+    
+    # MOVEMENTS
+    accounts_moved_in = len(rep_accounts[rep_accounts[COL_ASSIGNED_REP] != rep_name])
+    accounts_moved_out = len(df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)])
+    net_account_change = accounts_moved_in - accounts_moved_out
+    
+    rev_moved_in = rep_accounts[rep_accounts[COL_ASSIGNED_REP] != rep_name][COL_TOTAL_REV_2025].sum()
+    rev_moved_out = df[(df[COL_ASSIGNED_REP] == rep_name) & (df[COL_FINAL_REP] != rep_name)][COL_TOTAL_REV_2025].sum()
+    net_rev_change = rev_moved_in - rev_moved_out
+    
+    # CREATE OUTPUT DIRECTORY
+    detail_dir = os.path.join(output_dir, 'rep_details')
+    os.makedirs(detail_dir, exist_ok=True)
+    
+    # CREATE SAFE FILENAME FOR REPORT 2
+    safe_name = rep_name.replace(' ', '_').replace('/', '_').replace('\\', '_')
+    output_file = os.path.join(detail_dir, f'{safe_name}_detailReport2_v2.csv')
+    
+    # HELPER FUNCTION TO FORMAT ACCOUNTS FOR OUTPUT
+    def format_accounts_for_output(accounts_df):
+        """Format account data for CSV output in Report 2"""
+        out_df = accounts_df.copy()
+        
+        # SELECT AND ORDER COLUMNS FOR REPORT 2
+        output_columns = [
+            COL_ACCOUNT_ID, COL_ACCOUNT_NAME, COL_SEGMENT, COL_SUB_SEGMENT,
+            'Segment_Label',
+            COL_TOTAL_REV_2024, COL_TOTAL_REV_2025,
+            COL_ORDERS_2024, COL_ORDERS_2025,
+            'Is_New_2025', COL_BTF, 'Floor_Exception'
+        ]
+        
+        # Keep only columns that exist
+        output_columns = [col for col in output_columns if col in out_df.columns]
+        out_df = out_df[output_columns]
+        
+        # FORMAT REVENUE TO 2 DECIMAL PLACES
+        out_df[COL_TOTAL_REV_2024] = out_df[COL_TOTAL_REV_2024].round(2)
+        out_df[COL_TOTAL_REV_2025] = out_df[COL_TOTAL_REV_2025].round(2)
+        
+        # FORMAT ORDER COUNTS AS WHOLE NUMBERS
+        out_df[COL_ORDERS_2024] = out_df[COL_ORDERS_2024].fillna(0).astype(int)
+        out_df[COL_ORDERS_2025] = out_df[COL_ORDERS_2025].fillna(0).astype(int)
+        
+        # FORMAT BOOLEAN VALUES AS UPPERCASE TEXT
+        out_df['Is_New_2025'] = out_df['Is_New_2025'].map({True: 'TRUE', False: 'FALSE'})
+        out_df['Floor_Exception'] = out_df['Floor_Exception'].map({True: 'TRUE', False: 'FALSE'})
+        
+        return out_df
+    
+    # OPEN FILE WITH UTF-8 ENCODING
+    with open(output_file, 'w', encoding='utf-8-sig', newline='') as f:
+        # WRITE HEADER
+        f.write(f"REP NAME ONLY,,,,,,,,,,,\n")
+        f.write(f",,,,,,,,,,,\n")
+        f.write(f",,,,,,,,,,,\n")
+        
+        # SUMMARY SECTION HEADER
+        f.write(f"================================================================================,,,,,,,,,,,\n")
+        f.write(f"SUMMARY METRICS,,,,,,,,,,,\n")
+        f.write(f"================================================================================,,,,,,,,,,,\n")
+        
+        # SUMMARY METRICS ROW
+        summary_header = "2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,\n"
+        f.write(summary_header)
+        
+        # Summary values
+        f.write(f"{before_count},{round(before_rev_2024, 2)},{round(before_rev_2025, 2)},{net_account_change},{round(net_rev_change, 2)},{after_count},\" ${after_rev_2025:,.2f} \",,,,,\n")
+        
+        # Blank lines
+        f.write(f",,,,,,,,,,,\n")
+        f.write(f",,,,,,,,,,,\n")
+        
+        # BREAKDOWN BY SEGMENT HEADER
+        f.write(f"================================================================================,,,,,,,,,,,\n")
+        f.write(f"BREAKDOWN BY SEGMENT,,,,,,,,,,,\n")
+        f.write(f"================================================================================,,,,,,,,,,,\n")
+        
+        # Segment breakdown table header
+        f.write(f",Accounts,Revenue,,,,,,,,,\n")
+        
+        # Calculate breakdown by group
+        group1_accounts = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'HIGH_REVENUE']
+        group2_accounts = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'MID_REVENUE']
+        group3_accounts = rep_accounts[rep_accounts[COL_REVENUE_TIER] == 'LOW_REVENUE']
+        
+        group1_count = len(group1_accounts)
+        group1_rev = group1_accounts[COL_TOTAL_REV_2025].sum()
+        group2_count = len(group2_accounts)
+        group2_rev = group2_accounts[COL_TOTAL_REV_2025].sum()
+        group3_count = len(group3_accounts)
+        group3_rev = group3_accounts[COL_TOTAL_REV_2025].sum()
+        
+        # Write segment rows
+        f.write(f"Group 1,{group1_count},{round(group1_rev, 2)},,,,,,,,,\n")
+        f.write(f"Group 2,{group2_count},{round(group2_rev, 2)},,,,,,,,,\n")
+        f.write(f"Group 3,{group3_count},{round(group3_rev, 2)},,,,,,,,,\n")
+        f.write(f"Totals,{after_count},{round(after_rev_2025, 2)},,,,,,,,,\n")
+        
+        # Blank line
+        f.write(f",,,,,,,,,,,\n")
+        
+        # GROUP 1 SECTION
+        if len(group1_accounts) > 0:
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            f.write(f"GROUP 1 (HIGH REVENUE) - KEEPING: {group1_count} accounts | ${group1_rev:.2f} revenue,,,,,,,,,,,\n")
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            
+            # Sort by revenue descending
+            group1_sorted = group1_accounts.sort_values(COL_TOTAL_REV_2025, ascending=False)
+            
+            # Format and write
+            group1_formatted = format_accounts_for_output(group1_sorted)
+            group1_formatted.to_csv(f, index=False, lineterminator='\n')
+            f.write(f",,,,,,,,,,,\n")
+        
+        # GROUP 2 SECTION
+        if len(group2_accounts) > 0:
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            f.write(f"GROUP 2 (MID REVENUE) - KEEPING: {group2_count} accounts | ${group2_rev:.2f} revenue,,,,,,,,,,,\n")
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            
+            # Sort by revenue descending
+            group2_sorted = group2_accounts.sort_values(COL_TOTAL_REV_2025, ascending=False)
+            
+            # Format and write
+            group2_formatted = format_accounts_for_output(group2_sorted)
+            group2_formatted.to_csv(f, index=False, lineterminator='\n')
+            f.write(f",,,,,,,,,,,\n")
+        
+        # GROUP 3 SECTION
+        if len(group3_accounts) > 0:
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            f.write(f"GROUP 3 (LOW REVENUE) - KEEPING: {group3_count} accounts | ${group3_rev:.2f} revenue,,,,,,,,,,,\n")
+            f.write(f"================================================================================,,,,,,,,,,,\n")
+            
+            # Sort by revenue descending
+            group3_sorted = group3_accounts.sort_values(COL_TOTAL_REV_2025, ascending=False)
+            
+            # Format and write
+            group3_formatted = format_accounts_for_output(group3_sorted)
+            group3_formatted.to_csv(f, index=False, lineterminator='\n')
+            f.write(f",,,,,,,,,,,\n")
+    
+    print(f"  Report 2 for {rep_name}: {output_file}")
+
+
+# =============================================================================
 # VALIDATION
 # =============================================================================
 
@@ -917,14 +1102,22 @@ def main():
     # GENERATE SUMMARY REPORT
     summary_df = generate_summary_report(df, output_dir)
     
-    # GENERATE REP DETAIL REPORTS
-    print("\nGenerating rep detail reports...")
+    # GENERATE REP DETAIL REPORTS (Report 1)
+    print("\nGenerating rep detail reports (Report 1)...")
     unique_final_reps = sorted(df[COL_FINAL_REP].unique())
     
     for rep in unique_final_reps:
         generate_rep_detail_report(df, rep, output_dir)
     
-    print(f"\nGenerated {len(unique_final_reps)} rep detail reports")
+    print(f"Generated {len(unique_final_reps)} Report 1 detail reports")
+    
+    # GENERATE REP DETAIL REPORTS V2 (Report 2 - Simplified)
+    print("\nGenerating rep detail reports (Report 2 - Simplified)...")
+    
+    for rep in unique_final_reps:
+        generate_rep_detail_report_v2(df, rep, output_dir)
+    
+    print(f"Generated {len(unique_final_reps)} Report 2 detail reports")
     
     # VALIDATE TOTALS
     validation_passed = validate_reports(df, summary_df)

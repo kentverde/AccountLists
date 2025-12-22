@@ -1,0 +1,94 @@
+﻿REP NAME ONLY,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
+132,602852.37,541001.96,-72,-26481.39,60," $514,520.57 ",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+BREAKDOWN BY SEGMENT,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+,Accounts,Revenue,,,,,,,,,
+Group 1,8,227365.63,,,,,,,,,
+Group 2,36,284597.14,,,,,,,,,
+Group 3,16,2557.8,,,,,,,,,
+Totals,60,514520.57,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 8 accounts | $227365.63 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1013347,NCM Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,24053.0,51334.0,14,28,FALSE,N,FALSE
+1012115,Jeanne Rapone Designs DBA Centerline Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,34281.48,27631.0,23,22,FALSE,N,FALSE
+1007821,Stowe Kitchen Bath and Linens,RETAIL,SINGLE_LOCATION,Group 1 High Potential,26561.8,26218.7,21,18,FALSE,N,FALSE
+1015749,Teaselwood Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,17162.0,26054.7,9,14,FALSE,N,FALSE
+1011390,Summer House Furnishings,DESIGN,DESIGN_FIRM,Group 1 High Potential,19202.0,25590.33,14,16,FALSE,N,FALSE
+1009887,Brenna B Interiors,DESIGN,DESIGN_FIRM,Group 1 High Potential,15513.0,24751.5,10,20,FALSE,N,FALSE
+1015097,"Home, Llc",RETAIL,SINGLE_LOCATION,Group 1 High Potential,12734.54,23622.0,12,23,FALSE,N,FALSE
+1012586,"C Randolph Trainor, LLC",DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,22343.5,22163.4,8,11,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 36 accounts | $284597.14 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1001217,Simply Home (ME),RETAIL,SINGLE_LOCATION,Group 2 High Potential,35346.0,16906.1,20,14,FALSE,N,FALSE
+1011344,"Executive Furnishings, Inc.",DESIGN,HOSPITALITY,Group 2 High Potential,5381.08,16138.0,3,6,FALSE,N,FALSE
+1003410,Annie K Designs LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,41393.45,15860.5,25,9,FALSE,N,FALSE
+1017655,Burlington Furniture,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,40602.38,15834.15,34,19,FALSE,N,FALSE
+1015658,Anniebells Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,17109.55,15379.0,10,18,FALSE,N,FALSE
+1001929,Gilberte Interiors Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,28806.0,14949.0,15,6,FALSE,N,FALSE
+1023322,Sugar House Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13401.7,14364.18,24,17,FALSE,N,FALSE
+1009759,Upcoast Design,DESIGN,DESIGN_FIRM,Group 2 High Potential,8846.5,14152.83,11,14,FALSE,N,FALSE
+1027547,Green Mountain Hospitality,DESIGN,HOSPITALITY,Group 2 Medium Potential,2097.4,13323.75,3,0,FALSE,N,FALSE
+1011478,Upstairs Downstairs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,5940.0,12130.0,9,10,FALSE,N,FALSE
+1007074,Bartlett Design Associates,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,10795.9,0,2,FALSE,N,FALSE
+1021388,Highline Design Studio,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,14719.38,9860.0,6,7,FALSE,N,FALSE
+1005309,Ann Henderson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,8260.0,9164.0,1,4,FALSE,N,FALSE
+1014727,Brooke Michelsen Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,502.81,9026.39,2,5,FALSE,N,FALSE
+1019139,Tim Murphy Studios,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,10767.5,7992.1,21,22,FALSE,N,FALSE
+1018785,"Weston Design, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,2333.0,7245.83,2,6,FALSE,N,FALSE
+1035272,Warrenstreet Architects,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,0.0,6660.0,0,1,FALSE,N,FALSE
+1017550,J Colvin Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4196.4,6505.26,4,5,FALSE,N,FALSE
+1011472,"DPF Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,3435.0,5277.7,2,6,FALSE,N,FALSE
+1013897,Custom Covers,DESIGN,DESIGN_FIRM,Group 2 High Potential,680.0,4779.7,1,2,FALSE,N,FALSE
+1017954,Bostick Design LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4353.0,4685.0,4,5,FALSE,N,FALSE
+1006067,Nicola's Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,8939.0,4608.0,6,2,FALSE,N,FALSE
+1012339,Fiore Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,7312.31,4476.0,15,3,FALSE,N,FALSE
+1007349,MJG Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,11502.1,4373.25,9,3,FALSE,N,FALSE
+1011389,Decorative Interiors (NH),DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9523.0,4239.5,5,6,FALSE,N,FALSE
+1007010,Mandeville Canyon Designs,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,9291.0,4097.0,4,6,FALSE,N,FALSE
+1020229,Northshire Living,DESIGN,DESIGN_FIRM,Group 2 High Potential,50.0,3760.92,0,3,FALSE,N,FALSE
+1006569,Lauras Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,8430.0,3510.0,2,2,FALSE,N,FALSE
+1015339,Redmond Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,5816.04,3375.0,6,4,FALSE,N,FALSE
+1023202,Creative Spaces LLC,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,3344.8,0,4,FALSE,N,FALSE
+1035007,Beckwith Builders,DESIGN,ARCHITECT_BUILDER,Group 2 High Potential,0.0,3325.0,0,1,TRUE,N,FALSE
+1007339,Weekender House,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,6713.6,3113.03,6,8,FALSE,N,FALSE
+1008977,TMS Architects,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,657.0,3110.75,1,2,FALSE,N,FALSE
+1006568,"Thebault Design, Inc.",DESIGN,DESIGN_FIRM,Group 2 Medium Potential,13802.0,2928.5,4,3,FALSE,N,FALSE
+1000235,"HomePort, Ltd.",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,0.0,2672.0,0,2,FALSE,N,FALSE
+1017388,Lauren Milligan DesignDBABackdrop Interior Design,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,4690.0,2634.0,4,4,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 16 accounts | $2557.80 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1037374,HOLSCHER STUDIO ARCHITECTURE & DESIGN LLC,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,1975.0,0,1,TRUE,N,FALSE
+1036960,Volansky Studio,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,350.0,0,1,TRUE,N,FALSE
+1026324,Moss Home Goods,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,168.5,0,1,TRUE,N,FALSE
+1037990,Auger Building Company,DESIGN,ARCHITECT_BUILDER,Group 3 High Potential,0.0,100.0,0,0,TRUE,N,FALSE
+1000273,Tina's Home Designs,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1001856,Christine's Crossing,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002966,Old Brick Furniture-DUPL. USE 1005311,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1008931,The Kimball Shop,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1037141,Cushman Design Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1020634,the willow,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2609.0,0.0,2,0,FALSE,N,FALSE
+1011170,SS MD Rickers,INTERNAL,SALES_REP,Group 3 Low Potential,136.0,0.0,2,0,FALSE,N,FALSE
+1013599,Wall Doctor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1037480,Laurie Coffey Custom Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1026560,New England Home & Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006667,Seacoast Rug and Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4317.0,-8.5,1,0,FALSE,N,FALSE
+1035756,MAO Design,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,-27.2,0,0,TRUE,N,FALSE
+,,,,,,,,,,,
