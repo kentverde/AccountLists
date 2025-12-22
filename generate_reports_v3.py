@@ -962,12 +962,12 @@ def generate_rep_detail_report_v2(df: pd.DataFrame, rep_name: str, output_dir: s
         f.write(f",,,,,,,,,,,\n")
         f.write(f",,,,,,,,,,,\n")
         
-        # BREAKDOWN BY SEGMENT HEADER
+        # BREAKDOWN BY GROUP HEADER
         f.write(f"================================================================================,,,,,,,,,,,\n")
-        f.write(f"BREAKDOWN BY SEGMENT,,,,,,,,,,,\n")
+        f.write(f"BREAKDOWN BY GROUP,,,,,,,,,,,\n")
         f.write(f"================================================================================,,,,,,,,,,,\n")
-        
-        # Segment breakdown table header
+
+        # Group breakdown table header
         f.write(f",Accounts,Revenue,,,,,,,,,\n")
         
         # Calculate breakdown by group
