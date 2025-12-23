@@ -5,7 +5,7 @@
 SUMMARY METRICS,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
-927,2237042.31,2118559.28,-1,0.0,926," $2,118,559.28 ",,,,,
+927,2237042.31,2118559.28,0,0.0,927," $2,118,559.28 ",,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -14,8 +14,8 @@ BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
 ,Accounts,Revenue,,,,,,,,,
 Group 1,30,1308150.86,,,,,,,,,
 Group 2,98,748983.94,,,,,,,,,
-Group 3,798,61424.48,,,,,,,,,
-Totals,926,2118559.28,,,,,,,,,
+Group 3,799,61424.48,,,,,,,,,
+Totals,927,2118559.28,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 30 accounts | $1308150.86 revenue,,,,,,,,,,,
@@ -156,7 +156,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1015037,Harbour Home Interiors.com,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9813.0,2552.8,4,4,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-GROUP 3 (LOW REVENUE) - KEEPING: 798 accounts | $61424.48 revenue,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 799 accounts | $61424.48 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
 1014717,IGorius Inc DBA Lux Decor,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,3485.0,2391.0,3,4,FALSE,Y,TRUE
@@ -200,8 +200,8 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1014654,Darlene Janeiro Design Group Inc,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,5620.0,637.0,3,1,FALSE,N,FALSE
 1012137,Dusk to Dawn Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,4395.0,630.0,8,1,FALSE,N,FALSE
 1012976,Designs For Life,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,610.0,0,1,FALSE,N,FALSE
-1011886,Distinct Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,345.0,595.0,1,1,FALSE,Y,TRUE
 1003602,Jennings Furniture and Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1455.0,595.0,1,2,FALSE,N,FALSE
+1011886,Distinct Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,345.0,595.0,1,1,FALSE,Y,TRUE
 1007864,"M Studio Design Consultants, Inc.",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,567.75,0,1,TRUE,N,FALSE
 1000893,Tapis Andre Viau (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,610.0,475.0,2,2,FALSE,N,FALSE
 1006115,Anthology Home Collection,RETAIL,SINGLE_LOCATION,Group 3 Medium Potential,0.0,440.0,0,1,FALSE,N,FALSE
@@ -234,7 +234,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,526.0,0.0,1,0,FALSE,N,FALSE
 1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1038420,Johnson & Associates Interior Design Inc.,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1002813,Bernacki and Beaudry Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1003013,"Import Temptations, Inc.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1003025,Henry's Purveyor Of Fine Things,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,940.0,0.0,1,0,FALSE,N,FALSE
@@ -244,7 +244,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1004552,FD and Interiors,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1248.0,0.0,1,0,FALSE,N,FALSE
 1004980,Cosafina for Gift and Home Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1005379,Park Lighting and Furniture Ltd.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1036894,East Design House,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1037861,J Mac Interior Design,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1006235,"Paisley Park, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,1854.0,0.0,1,0,FALSE,Y,TRUE
 1006520,"Habermehl Design Group, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
 1006637,Oni One Sourcing and Purchasing,DESIGN,HOSPITALITY,Group 3 Low Potential,3000.0,0.0,0,0,FALSE,Y,TRUE
@@ -300,6 +300,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1014303,Refined Living By Sarah Baeumler,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1014387,DFS Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1014569,D. Janzen Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,2184.0,0.0,1,0,FALSE,Y,TRUE
+1038783,CHG DESIGN,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1014896,Caroline Erez Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1014947,LILLY HOME + DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,135.0,0.0,1,0,FALSE,Y,TRUE
 1015122,Rug & Weave,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
@@ -754,7 +755,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1024776,Tomlenovich Design,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1024805,Urbanomic Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1024924,Covet Interiors,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1024930,Maison Pretty Living,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1024939,Twohey Home/Select Furniture,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1024947,Yassein Interiors Inc.,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1024967,Silva Custom Inc,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
@@ -853,7 +854,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1027847,Supermarket Studio,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1027871,Memia Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1027929,Sloan mauran interior design inc,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1027964,Gnar Inc.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024930,Maison Pretty Living,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1028064,Tatianna Taylor-Tait Ltd.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1028067,Can Do Studio Inc.,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1027111,Elizabeth & Grace Design,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
@@ -921,7 +922,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1037599,Laura Grist Interior Design Inc.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1037640,Nyla Free Designs Inc.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1035937,Procure Design Studio,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1038783,CHG DESIGN,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036894,East Design House,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1037897,Annie and Flora,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1037947,Fireside Design Build,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1037959,Sam Scott Interior Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
@@ -933,11 +934,11 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038306,Allyse Haley Design,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038312,Losani Homes,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038387,Lemon Lane Interiors,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
 1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1001088,Gicor Lodging Projects Ltd. (Canada),DESIGN,DESIGN_FIRM,Group 3 Low Potential,1743.4,0.0,3,0,FALSE,Y,TRUE
 1001858,Tapis National (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1038420,Johnson & Associates Interior Design Inc.,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038404,Galdo & Co,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1037861,J Mac Interior Design,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038545,Procurity Design Inc.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038576,Olendia Design Ltd.,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038593,Spaces by Dee,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
@@ -952,24 +953,19 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038758,Leigh Marie Interiors,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1038780,Luxe Creative,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1002264,Design Manitoba,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1145.0,0.0,1,0,FALSE,N,FALSE
-1001840,Tapis Normandy,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027964,Gnar Inc.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 1008110,Atmosphere Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8355.5,-15.0,4,1,FALSE,Y,TRUE
 1024478,Hali Macdonald interiors inc,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,1053.0,-30.0,0,0,FALSE,Y,TRUE
 1003856,SS Shelly Meshwork (Canada),INTERNAL,SALES_REP,Group 3 Low Potential,0.0,-47.44,1,1,FALSE,N,FALSE
 1021434,Amanda Evans Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,50.0,-136.75,0,0,FALSE,Y,TRUE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-REDIRECT TO SDR: 1 total accounts,,,,,,,,,,,
-================================================================================,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1001088,Gicor Lodging Projects Ltd. (Canada),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1743.4,0.0,3,0,FALSE,Y,FALSE,TRUE,N
-,,,,,,,,,,,
-================================================================================,,,,,,,,,,,
-ZERO REVENUE: 722 accounts (12 are new 2025 customers),,,,,,,,,,
+ZERO REVENUE: 723 accounts (12 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1000648,Elte Carpets Limited dba Elte and Gingers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1000682,H Lalonde And Frere (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001088,Gicor Lodging Projects Ltd. (Canada),DESIGN,DESIGN_FIRM,Group 3 Low Potential,1743.4,0.0,3,0,FALSE,Y,TRUE,FALSE,N
 1001275,Muskoka Living Interiors (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,526.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
 1001630,Peaks And Rafters,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1001696,Lipman Carpet (Canada),RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
