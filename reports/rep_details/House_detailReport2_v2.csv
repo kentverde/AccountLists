@@ -5,7 +5,7 @@
 SUMMARY METRICS,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
-0,0.0,0.0,38,74540.85,38," $74,540.85 ",,,,,
+0,0.0,0.0,36,74540.85,36," $74,540.85 ",,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -14,8 +14,8 @@ BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
 ,Accounts,Revenue,,,,,,,,,
 Group 1,0,0.0,,,,,,,,,
 Group 2,9,67327.85,,,,,,,,,
-Group 3,29,7213.0,,,,,,,,,
-Totals,38,74540.85,,,,,,,,,
+Group 3,27,7213.0,,,,,,,,,
+Totals,36,74540.85,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 9 accounts | $67327.85 revenue,,,,,,,,,,,
@@ -32,7 +32,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026476,Maeve Design Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2821.0,0,3,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-GROUP 3 (LOW REVENUE) - KEEPING: 29 accounts | $7213.00 revenue,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 27 accounts | $7213.00 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
 1026358,"Key Interiors Design, LLC",DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,2220.0,0,2,TRUE,N,FALSE
@@ -45,8 +45,6 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 1026486,Sketch Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,782.0,0.0,1,0,FALSE,Y,FALSE
-1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE
-1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 1026467,Elements Corporation,DESIGN,DESIGN_FIRM,Group 3 Low Potential,6016.0,0.0,1,0,FALSE,Y,FALSE
 1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
@@ -66,12 +64,10 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026508,Fusion Architectural Interior Design/FAID Procurmt,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-ZERO REVENUE: 22 accounts (3 are new 2025 customers),,,,,,,,,,
+ZERO REVENUE: 20 accounts (3 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1026486,Sketch Design Co.,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,782.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N

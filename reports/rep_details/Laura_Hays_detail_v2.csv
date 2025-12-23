@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Laura Hays,,,,,,,,,,,,,,,
-Generated: 2025-12-22 16:14:36,,,,,,,,,,,,,,,
+Generated: 2025-12-23 08:23:10,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
-192,92,199987.48,234117.19,0,45,-45,-23.44,0.0,2800.0,-2800.0,-1.2,147,231317.19,91,993.0,92,108,12,0,0.0,45,2800.0,0,0.0
+192,92,199987.48,234117.19,0,0,0,0.0,0.0,0.0,0.0,0.0,192,234117.19,136,3793.0,92,151,12,0,0.0,0,0.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -16,9 +16,9 @@ Group 1 High Potential: ,1,20033.83,0,0,,,,,,,,,,
 Group 2 High Potential: ,11,81758.14,0,0,,,,,,,,,,
 Group 2 Medium Potential: ,19,119541.87,0,0,,,,,,,,,,
 Group 3 High Potential: ,111,8990.35,87,0,,,,,,,,,,
-Group 3 Medium Potential: ,1,993.0,1,0,,,,,,,,,,
-Group 3 Low Potential: ,4,0.0,3,0,,,,,,,,,,
-Totals,147,231317.19,91,0,,,,,,,,,,
+Group 3 Medium Potential: ,3,3793.0,3,0,,,,,,,,,,
+Group 3 Low Potential: ,47,0.0,46,0,,,,,,,,,,
+Totals,192,234117.19,136,0,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $20033.83 revenue,,,,,,,,,,,,,,,
@@ -93,14 +93,59 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038182,"ACS Flooring Group, Inc.",Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 91 accounts | $993.00 revenue,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 136 accounts | $3793.00 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1027601,Ritter Maher Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,670.0,1915.0,2,1,FALSE,Y,TRUE,FALSE,N
 1017951,Ellie Aiello Interiors,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,17780.8,993.0,11,2,FALSE,Y,TRUE,FALSE,N
+1026938,Holm Design LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,0.0,885.0,0,3,FALSE,Y,TRUE,FALSE,N
+1000770,Neil Locke and Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1012488,Ginger Blu Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1025798,"Surfaces One Eighty, LLC",DESIGN,HOSPITALITY,Group 3 Low Potential,7758.33,0.0,0,1,FALSE,Y,TRUE,FALSE,N
+1003196,Millennium Designs Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,480.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1008415,Studio B Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016797,Interprise Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1012935,"Arc-Tec, Inc",DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1012728,Ink and Oro dba 5G Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016909,WRG,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1020599,Studio 11 Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1021795,Playa Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1019000,5G Interiors LLC DBA Ink and Oro,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016936,Jordan Michael Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,986.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1023152,GAS LAMP DESIGN BUILD(DALLAS),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023760,Rhode Partners,DESIGN,DESIGN_FIRM,Group 3 Low Potential,204.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1023892,"Page Southerland Page, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023973,Brewer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1860.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1024059,Sohe Studio,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024114,Hilda Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1021861,Gensler (TX),DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1019517,Unhinged Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,665.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1024992,Reform Interior Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024490,United by Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1026559,"Heritage Floors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,16710.78,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1025016,"FMG(PLANO,TX)",DESIGN,HOSPITALITY,Group 3 Low Potential,4205.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026238,Jenkins Design Build,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026248,SWA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1896.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026294,"SS Laura Hays (TX, OK, AR, & LA)",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025390,LFI,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026325,"BOKA Powell, LLC (DALLAS)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1026483,Corgan (Dallas),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026714,Vitek McIver Homes,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026724,Entos Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026947,IdGroup,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026990,IdGroup,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027421,Winchester Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,2242.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1021967,Ivory Moore Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027550,"Interior Architects (Austin, TX)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027749,SENGER DESIGN GROUP,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027782,Gensler - Austin,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027789,Regent Properties,DESIGN,DESIGN_FIRM,Group 3 Low Potential,7377.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027894,Harrison Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027991,Perkins&Will (Austin),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1028111,Word and Carr Design Group,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1034940,Paige Atelier,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1034998,Polaris Procurement,DESIGN,HOSPITALITY,Group 3 Low Potential,1638.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
 1005665,ClubCorp,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1006017,"Fertitta Hospitality, LLC",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1006953,Richmond American Homes,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
@@ -288,68 +333,61 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038716,PTY Lighting,Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-REDIRECTED - SUMMARY: 45 total accounts,,,,,,,,,,,,,,,
-================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1027601,Ritter Maher Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,Floor Removal - Active,670.0,1915.0,2,1,FALSE,Y,FALSE,TRUE,N
-1026938,Holm Design LLC,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,885.0,0,3,FALSE,Y,FALSE,TRUE,N
-1008415,Studio B Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1003196,Millennium Designs Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,480.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-1000770,Neil Locke and Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1012935,"Arc-Tec, Inc",DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1016797,Interprise Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1016909,WRG,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1016936,Jordan Michael Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,986.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1019000,5G Interiors LLC DBA Ink and Oro,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1019517,Unhinged Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,665.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1012488,Ginger Blu Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1012728,Ink and Oro dba 5G Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1021795,Playa Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1020599,Studio 11 Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1021861,Gensler (TX),DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1021967,Ivory Moore Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1023892,"Page Southerland Page, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1023973,Brewer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1860.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1023152,GAS LAMP DESIGN BUILD(DALLAS),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1023760,Rhode Partners,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,204.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1024490,United by Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1024992,Reform Interior Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1025016,"FMG(PLANO,TX)",DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,4205.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1025390,LFI,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026238,Jenkins Design Build,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026248,SWA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,1896.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1024059,Sohe Studio,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1024114,Hilda Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026325,"BOKA Powell, LLC (DALLAS)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026294,"SS Laura Hays (TX, OK, AR, & LA)",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026724,Entos Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026714,Vitek McIver Homes,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026947,IdGroup,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026990,IdGroup,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1027421,Winchester Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,2242.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027550,"Interior Architects (Austin, TX)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1027749,SENGER DESIGN GROUP,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1027782,Gensler - Austin,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1027789,Regent Properties,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,7377.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027894,Harrison Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1027991,Perkins&Will (Austin),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1028111,Word and Carr Design Group,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1034940,Paige Atelier,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1034998,Polaris Procurement,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,1638.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-,,,,,,,,,,,,,,,
-================================================================================,,,,,,,,,,,,,,,
-ZERO REVENUE ACCOUNTS: 108 accounts (12 are new 2025 customers),,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 151 accounts (12 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1026559,"Heritage Floors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,16710.78,0.0,1,0,FALSE,Y,TRUE,FALSE,N
 1025798,"Surfaces One Eighty, LLC",DESIGN,HOSPITALITY,Group 3 Low Potential,7758.33,0.0,0,1,FALSE,Y,TRUE,FALSE,N
-1018047,Spencer + Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027789,Regent Properties,DESIGN,DESIGN_FIRM,Group 3 Low Potential,7377.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1025016,"FMG(PLANO,TX)",DESIGN,HOSPITALITY,Group 3 Low Potential,4205.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027421,Winchester Architects,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,2242.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026248,SWA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1896.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1023973,Brewer Design Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1860.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1034998,Polaris Procurement,DESIGN,HOSPITALITY,Group 3 Low Potential,1638.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1016936,Jordan Michael Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,986.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1019517,Unhinged Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,665.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1003196,Millennium Designs Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,480.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1023760,Rhode Partners,DESIGN,DESIGN_FIRM,Group 3 Low Potential,204.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1012488,Ginger Blu Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1012728,Ink and Oro dba 5G Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1012935,"Arc-Tec, Inc",DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1020599,Studio 11 Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1019000,5G Interiors LLC DBA Ink and Oro,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1010099,"Waldrop+Nichols Studio, LLC",DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1008415,Studio B Design Group,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016909,WRG,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1018047,Spencer + Company,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016797,Interprise Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1000770,Neil Locke and Associates,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023892,"Page Southerland Page, Inc.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023152,GAS LAMP DESIGN BUILD(DALLAS),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1021861,Gensler (TX),DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1021967,Ivory Moore Design Group,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1021795,Playa Design Studio,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1021451,Portfolio Associates,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1024992,Reform Interior Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024059,Sohe Studio,DESIGN,DESIGNER_NO_SHOWROOM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026238,Jenkins Design Build,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026294,"SS Laura Hays (TX, OK, AR, & LA)",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026325,"BOKA Powell, LLC (DALLAS)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1026483,Corgan (Dallas),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026714,Vitek McIver Homes,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024490,United by Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025390,LFI,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024114,Hilda Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026990,IdGroup,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026947,IdGroup,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026724,Entos Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027749,SENGER DESIGN GROUP,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027782,Gensler - Austin,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1027866,Anaiyva Designs,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027894,Harrison Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027550,"Interior Architects (Austin, TX)",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1027897,Lake | Flato,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1027924,Looney & Associates (DALLAS),DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1028111,Word and Carr Design Group,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1027991,Perkins&Will (Austin),DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1034940,Paige Atelier,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1035878,Moore Design Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1036103,wilsonbauhaus Interiors,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1037017,KKDW Studios,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N

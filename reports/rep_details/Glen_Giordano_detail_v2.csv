@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Glen Giordano,,,,,,,,,,,,,,,
-Generated: 2025-12-22 16:14:36,,,,,,,,,,,,,,,
+Generated: 2025-12-23 08:23:09,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
-41,0,8506168.79,8864631.59,0,1,-1,-2.44,0.0,0.0,0.0,0.0,40,8864631.59,0,0.0,0,19,0,0,0.0,1,0.0,0,0.0
+41,0,8506168.79,8864631.59,0,0,0,0.0,0.0,0.0,0.0,0.0,41,8864631.59,1,0.0,0,20,0,0,0.0,0,0.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -16,8 +16,8 @@ Group 1 High Potential: ,7,2126102.46,0,0,,,,,,,,,,
 Group 1 Medium Potential: ,9,6692727.97,0,0,,,,,,,,,,
 Group 1 Low Potential: ,1,42979.0,0,0,,,,,,,,,,
 Group 2 Medium Potential: ,3,16704.86,0,0,,,,,,,,,,
-Group 3 Low Potential: ,20,-13882.7,0,0,,,,,,,,,,
-Totals,40,8864631.59,0,0,,,,,,,,,,
+Group 3 Low Potential: ,21,-13882.7,1,0,,,,,,,,,,
+Totals,41,8864631.59,1,0,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | $8861809.43 revenue,,,,,,,,,,,,,,,
@@ -76,30 +76,32 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1001691,Tj Maxx-Marshalls,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,-13882.7,0,2,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-REDIRECTED - SUMMARY: 1 total accounts,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 1 accounts | $0.00 revenue,,,,,,,,,,,,,,,
+(BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1018117,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1018117,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ZERO REVENUE ACCOUNTS: 19 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 20 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1005707,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1019109,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
 1000429,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1000524,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1000676,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1003912,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
 1003921,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1003928,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
 1005347,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1008087,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1009864,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018117,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1018683,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1020006,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 1021236,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N

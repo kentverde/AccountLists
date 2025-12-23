@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: House,,,,,,,,,,,,,,,
-Generated: 2025-12-22 16:14:36,,,,,,,,,,,,,,,
+Generated: 2025-12-23 08:23:09,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
-0,0,0.0,0.0,38,0,38,0,74540.85,0.0,74540.85,0,38,74540.85,0,0.0,0,22,3,0,0.0,0,0.0,0,0.0
+0,0,0.0,0.0,36,0,36,0,74540.85,0.0,74540.85,0,36,74540.85,0,0.0,0,20,3,0,0.0,0,0.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -16,8 +16,8 @@ Group 2 High Potential: ,2,14360.0,0,0,,,,,,,,,,
 Group 2 Medium Potential: ,7,52967.85,0,0,,,,,,,,,,
 Group 3 High Potential: ,5,2437.0,0,0,,,,,,,,,,
 Group 3 Medium Potential: ,2,2630.0,0,2,,,,,,,,,,
-Group 3 Low Potential: ,22,2146.0,0,20,,,,,,,,,,
-Totals,38,74540.85,0,0,,,,,,,,,,
+Group 3 Low Potential: ,20,2146.0,0,19,,,,,,,,,,
+Totals,36,74540.85,0,0,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 9 accounts | $67327.85 revenue,,,,,,,,,,,,,,,
@@ -34,7 +34,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026476,Maeve Design Collective,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,0.0,2821.0,0,3,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-GROUP 3 (LOW REVENUE) - KEEPING: 7 accounts | $3789.00 revenue,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 6 accounts | $3789.00 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
@@ -42,12 +42,11 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026493,Seachange Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,11227.7,1352.0,7,2,FALSE,N,FALSE,FALSE,N
 1026496,Kelly Colquitt Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,217.0,0,2,TRUE,N,FALSE,FALSE,N
 1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
-1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
 1026506,Cumberland Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1026510,The Sturgeon House Work Room,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-ZERO REVENUE ACCOUNTS: 22 accounts (3 are new 2025 customers),,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 20 accounts (3 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1026467,Elements Corporation,DESIGN,DESIGN_FIRM,Group 3 Low Potential,6016.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
@@ -60,10 +59,8 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1026456,CCV INteriors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,730.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
 1026461,Design & Dwell Homes LLC,DESIGN,DESIGN_FIRM,Group 3 Low Potential,130.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
 1026389,Ryan Miller Builders,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026470,AMERICAN LEATHER,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026291,MIX + MUSE Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026473,Brit Nelson Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
+1026360,Sea squared design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026471,"Design Etc,",DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
 1026464,Benson Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1026451,Sara Fant Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N

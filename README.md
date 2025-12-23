@@ -27,9 +27,12 @@ python generate_reports_v2.py [input_file] [output_directory]
 - `input_file`: `Account_Segmentation_V3_3_Final_SOT_12-21-25.csv`
 - `output_directory`: `./reports`
 
-**Example:**
+**Examples:**
 ```bash
 python generate_reports_v2.py Account_Segmentation_V3_3_Final_SOT_12-21-25.csv ./reports
+```
+```bash
+python generate_reports_v3.py Account_Segmentation_V3_3_Final_SOT_12-21-25.csv ./reports
 ```
 
 ## Notes

@@ -1,11 +1,11 @@
 ﻿Rep Detail Report V2: Cynthia Guthrie,,,,,,,,,,,,,,,
-Generated: 2025-12-22 16:14:35,,,,,,,,,,,,,,,
+Generated: 2025-12-23 08:23:09,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Before_Accounts,Before_SF_Ex_BI,Before_Rev_2024,Before_Rev_2025,Accounts_Moved_In,Accounts_Moved_Out,Net_Account_Change,Account_Change_Pct,Rev_Moved_In,Rev_Moved_Out,Net_Rev_Change,Revenue_Change_Pct,After_Accounts,After_Rev_2025,Floor_Exception_Accounts,Floor_Exception_Rev,SF_Ex_BI_Accounts,Zero_Rev_Accounts,Zero_Rev_New_2025,Accounts_Redirected_Territory,Rev_Redirected_Territory,Accounts_Redirected_Floor_Active,Rev_Redirected_Floor_Active,Accounts_Redirected_Floor_Dormant,Rev_Redirected_Floor_Dormant
-136,64,228969.92,166075.99,0,30,-30,-22.06,0.0,4864.55,-4864.55,-2.93,106,161211.44,67,1657.5,64,78,8,0,0.0,30,4864.55,0,0.0
+136,64,228969.92,166075.99,0,0,0,0.0,0.0,0.0,0.0,0.0,136,166075.99,97,6522.05,64,103,8,0,0.0,0,0.0,0,0.0
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
@@ -17,9 +17,9 @@ Group 2 High Potential: ,6,60852.4,0,0,,,,,,,,,,
 Group 2 Medium Potential: ,11,59800.64,0,0,,,,,,,,,,
 Group 2 Low Potential: ,1,3933.0,0,0,,,,,,,,,,
 Group 3 High Potential: ,80,8701.9,61,0,,,,,,,,,,
-Group 3 Medium Potential: ,1,1657.5,1,0,,,,,,,,,,
-Group 3 Low Potential: ,6,0.0,5,0,,,,,,,,,,
-Totals,106,161211.44,67,0,,,,,,,,,,
+Group 3 Medium Potential: ,5,6372.05,5,0,,,,,,,,,,
+Group 3 Low Potential: ,32,150.0,31,0,,,,,,,,,,
+Totals,136,166075.99,97,0,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $26266.00 revenue,,,,,,,,,,,,,,,
@@ -77,15 +77,45 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1037702,Smart Finishes Florida CORP,Retail,Single location,Group 3 High Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 67 accounts | $1657.50 revenue,,,,,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 97 accounts | $6522.05 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1024380,Higney International LLC,DESIGN,HOSPITALITY,Group 3 Medium Potential,355.8,2185.0,1,3,FALSE,Y,TRUE,FALSE,N
+1019317,Sena Hospitality Design Inc.,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,960.0,2160.0,1,1,FALSE,Y,TRUE,FALSE,N
 1004799,Patience Purchasing Agency LLC MIVASA,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,14066.7,1657.5,6,3,FALSE,Y,TRUE,FALSE,N
-1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
+1026218,SS Cynthia Guthrie(FL),DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,100.0,271.55,1,2,FALSE,Y,TRUE,FALSE,N
+1027432,GDP Designbuild,DESIGN,DESIGN_FIRM,Group 3 Low Potential,200.0,150.0,0,0,FALSE,Y,TRUE,FALSE,N
+1014282,"The Nexus Luxury Collection US, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,0.0,98.0,0,1,FALSE,Y,TRUE,FALSE,N
 1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
 1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
+1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,5135.0,0.0,6,0,FALSE,Y,TRUE,FALSE,N
+1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1017662,Empire Office,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
+1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,Group 3 Low Potential,1892.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
 1023302,ITG Export & Design,DESIGN,HOSPITALITY,Group 3 Low Potential,13745.26,0.0,5,0,FALSE,Y,TRUE,FALSE,N
+1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025764,RGR Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,Group 3 Low Potential,5200.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026308,Redfern HRD,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026395,Peacock + Lewis,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
+1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,Group 3 Low Potential,734.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,120.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,4868.0,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+1027084,Beach Blue,DESIGN,HOSPITALITY,Group 3 Low Potential,5630.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,Group 3 Low Potential,243.8,0.0,2,1,FALSE,Y,TRUE,FALSE,N
+1027415,Shivam Propreties,DESIGN,HOSPITALITY,Group 3 Low Potential,1600.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027430,Green Banana Ventures,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
 1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1003238,"Sisler Johnston Interior Design, Inc.",Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 1003261,"Cvc Hospitality, Inc.",Design,Hospitality,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
@@ -220,42 +250,7 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1038724,Modea Signature Procurement,Design,Design Firm,Group 3 High Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
-REDIRECTED - SUMMARY: 30 total accounts,,,,,,,,,,,,,,,
-================================================================================,,,,,,,,,,,,,,,
-Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024380,Higney International LLC,DESIGN,HOSPITALITY,Group 3 Medium Potential,Floor Removal - Active,355.8,2185.0,1,3,FALSE,Y,FALSE,TRUE,N
-1019317,Sena Hospitality Design Inc.,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,960.0,2160.0,1,1,FALSE,Y,FALSE,TRUE,N
-1026218,SS Cynthia Guthrie(FL),DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,Floor Removal - Active,100.0,271.55,1,2,FALSE,Y,FALSE,TRUE,N
-1027432,GDP Designbuild,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,200.0,150.0,0,0,FALSE,Y,FALSE,TRUE,N
-1014282,"The Nexus Luxury Collection US, LLC",DESIGN,DESIGN_FIRM,Group 3 Medium Potential,Floor Removal - Active,0.0,98.0,0,1,FALSE,Y,FALSE,TRUE,N
-1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1017662,Empire Office,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,1892.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,5135.0,0.0,6,0,FALSE,Y,FALSE,TRUE,N
-1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1025764,RGR Design,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026308,Redfern HRD,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,0,FALSE,Y,FALSE,TRUE,N
-1026395,Peacock + Lewis,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,0,1,FALSE,Y,FALSE,TRUE,N
-1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,734.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,5200.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,4868.0,0.0,4,0,FALSE,Y,FALSE,TRUE,N
-1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,120.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,243.8,0.0,2,1,FALSE,Y,FALSE,TRUE,N
-1027084,Beach Blue,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,5630.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027415,Shivam Propreties,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,1600.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027430,Green Banana Ventures,DESIGN,HOSPITALITY,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
-1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,2,0,FALSE,Y,FALSE,TRUE,N
-,,,,,,,,,,,,,,,
-================================================================================,,,,,,,,,,,,,,,
-ZERO REVENUE ACCOUNTS: 78 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
+ZERO REVENUE ACCOUNTS: 103 accounts (8 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
 1023658,PROFFETIONAL DESIGN HOTEL USA LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,80960.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
@@ -263,9 +258,34 @@ Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total
 1006878,"Hospitality Purveyors, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,9559.0,0.0,7,0,FALSE,Y,TRUE,FALSE,N
 1025939,Rebecca Davisson Interior Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,8444.36,0.0,1,1,FALSE,Y,TRUE,FALSE,N
 1027582,Sandestin Golf and Beach Resort,DESIGN,HOSPITALITY,Group 3 Low Potential,7970.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027084,Beach Blue,DESIGN,HOSPITALITY,Group 3 Low Potential,5630.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026225,Clear ph Design-USE 1036179,DESIGN,DESIGN_FIRM,Group 3 Low Potential,5200.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1005714,"Atlantic Purchasing, Inc.",DESIGN,HOSPITALITY,Group 3 Low Potential,5135.0,0.0,6,0,FALSE,Y,TRUE,FALSE,N
+1026710,Victoria Strange Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,4868.0,0.0,4,0,FALSE,Y,TRUE,FALSE,N
+1022770,CHS DESIGN STUDIO LLC.,DESIGN,HOSPITALITY,Group 3 Low Potential,1892.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027415,Shivam Propreties,DESIGN,HOSPITALITY,Group 3 Low Potential,1600.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026448,Corporate Interior Systems,DESIGN,DESIGN_FIRM,Group 3 Low Potential,734.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1027122,The Carroll Adams Group,DESIGN,HOSPITALITY,Group 3 Low Potential,243.8,0.0,2,1,FALSE,Y,TRUE,FALSE,N
+1026815,Anda Andrei Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,120.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1009349,ASD Procurement LLC (USE 1018139),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016528,Spina O'Rourke Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1014384,Zurich Lloyds Corporation,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1019689,"Lake Nona Land Comany, LLC /Tavistock Development",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1020934,Concept Interiors LLC,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024169,SWEET SPARKMAN ARCHITECTS & INTERIORS,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1023585,"Driftwood Hospitality Management, LLC",DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1016540,Adache Group Architects,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1017662,Empire Office,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026395,Peacock + Lewis,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
+1025166,VPA Interior Design Inc,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025764,RGR Design,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1026308,Redfern HRD,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
 1027443,The Cormia Group,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027452,Dyanmic Architectural Interiors (DAI),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
 1027454,Perdue Office Interiors,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027430,Green Banana Ventures,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
 1027558,Sena Hospitality,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1027711,BRPH(Orlando),DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
 1036443,Urbanica Hotels,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 1036607,Joanna Kerr Design,DESIGN,HOSPITALITY,Group 3 High Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
 1037352,Design Poole Inc.,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
