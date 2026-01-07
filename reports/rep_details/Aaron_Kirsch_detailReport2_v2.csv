@@ -5,7 +5,7 @@
 SUMMARY METRICS,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
-151,795662.5,512684.85,0,0.0,151," $512,684.85 ",,,,,
+189,795662.5,512684.85,0,0.0,189," $512,684.85 ",,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -15,279 +15,317 @@ BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
 Group 1,10,327938.83,,,,,,,,,
 Group 2,20,170740.62,,,,,,,,,
 Group 3,121,14005.4,,,,,,,,,
-Totals,151,512684.85,,,,,,,,,
+Totals,189,512684.85,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 10 accounts | $327938.83 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1012604,"Hislop Windows and Doors, Ltd",RETAIL,DESIGNER_INDEPENDENT,Group 1 High Potential,88047.9,82038.55,18,18,FALSE,N,FALSE
-1008666,Monnry Lighting and Home Accents S.A.,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,36602.7,46804.3,13,3,FALSE,N,FALSE
-1004939,"Home Design HD, LLC",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,46710.0,39647.5,2,5,FALSE,N,FALSE
-1006314,Design Studio,DESIGN,SINGLE_LOCATION,Group 1 Low Potential,22167.72,26113.8,27,22,FALSE,N,FALSE
-1001768,"Framale Design, SA de CV",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,30896.8,25919.5,23,20,FALSE,N,FALSE
-1002667,Ar Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,6530.0,24026.19,6,12,FALSE,N,FALSE
-1001422,Deacero S.A. De C.V.,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,28604.1,23569.66,20,15,FALSE,N,FALSE
-1025687,PCG DESIGN,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,16454.91,23141.69,12,7,FALSE,N,FALSE
-1008376,Marcor Masters,DESIGN,ARCHITECT_BUILDER,Group 1 Medium Potential,7609.44,18670.0,3,6,FALSE,N,FALSE
-1019217,IDG - International Design Group,RETAIL,SINGLE_LOCATION,Group 1 High Potential,13683.5,18007.64,4,10,FALSE,N,FALSE
+1012604.0,"Hislop Windows and Doors, Ltd",RETAIL,DESIGNER_INDEPENDENT,Group 1 High Potential,88047.9,82038.55,18,18,FALSE,N,FALSE
+1008666.0,Monnry Lighting and Home Accents S.A.,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,36602.7,46804.3,13,3,FALSE,N,FALSE
+1004939.0,"Home Design HD, LLC",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,46710.0,39647.5,2,5,FALSE,N,FALSE
+1006314.0,Design Studio,DESIGN,SINGLE_LOCATION,Group 1 Low Potential,22167.72,26113.8,27,22,FALSE,N,FALSE
+1001768.0,"Framale Design, SA de CV",RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,30896.8,25919.5,23,20,FALSE,N,FALSE
+1002667.0,Ar Furniture,RETAIL,SINGLE_LOCATION,Group 1 High Potential,6530.0,24026.19,6,12,FALSE,N,FALSE
+1001422.0,Deacero S.A. De C.V.,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,28604.1,23569.66,20,15,FALSE,N,FALSE
+1025687.0,PCG DESIGN,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,16454.91,23141.69,12,7,FALSE,N,FALSE
+1008376.0,Marcor Masters,DESIGN,ARCHITECT_BUILDER,Group 1 Medium Potential,7609.44,18670.0,3,6,FALSE,N,FALSE
+1019217.0,IDG - International Design Group,RETAIL,SINGLE_LOCATION,Group 1 High Potential,13683.5,18007.64,4,10,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 20 accounts | $170740.62 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1019432,Hana Waxman Design,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,3680.0,16475.92,1,16,FALSE,N,FALSE
-1023935,CONCEPT DESIGN,DESIGN,DESIGN_FIRM,Group 2 High Potential,1765.0,15565.0,1,5,FALSE,N,FALSE
-1038424,Koper Furniture,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,14133.6,0,6,TRUE,N,FALSE
-1038096,Whittingham Design Consultants Ltd,DESIGN,DESIGN_FIRM,Group 2 Low Potential,0.0,13627.0,0,4,TRUE,N,FALSE
-1001559,Caducus Folium Consultores,DESIGN,DESIGN_FIRM,Group 2 Low Potential,8668.52,13557.6,3,6,FALSE,N,FALSE
-1009365,Lagnappe,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,14523.0,12387.05,17,21,FALSE,N,FALSE
-1012418,Triques y Tilichis SA de CV,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,11866.0,0,6,FALSE,N,FALSE
-1009407,"Simone Regalos, SA de CV",RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,1525.0,11745.0,3,4,FALSE,N,FALSE
-1019898,Benilde Hernandez,DESIGN,DESIGN_FIRM,Group 2 High Potential,823.0,10625.0,4,11,FALSE,N,FALSE
-1006382,Centro de Diseno Studio NOA Cia Ltda,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11400.0,8081.0,7,6,FALSE,N,FALSE
-1011598,Sara Chiriboga,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11804.6,7890.0,6,5,FALSE,N,FALSE
-1012087,Yakarta,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5805.0,5514.0,3,5,FALSE,N,FALSE
-1024708,WR Arquitectura,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,19221.4,5073.4,5,1,FALSE,N,FALSE
-1011756,Decor8,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,3525.0,4335.85,1,2,FALSE,N,FALSE
-1008094,Marianna Falcon,RETAIL,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1910.0,4050.0,1,3,FALSE,N,FALSE
-1010158,NU Espacios,E-TAILER,NICHE,Group 2 High Potential,6316.39,3891.3,10,22,FALSE,N,FALSE
-1003934,Casa Y Estilo Sociedad Anonima,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,2795.0,3832.0,3,3,FALSE,N,FALSE
-1007289,Cordelia Cortes,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2892.4,0,6,FALSE,N,FALSE
-1004863,Sweet Lime Furnishings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9160.72,2690.0,4,3,FALSE,N,FALSE
-1005116,Guillermo Gerzabek,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,25370.0,2508.5,8,5,FALSE,N,FALSE
+1019432.0,Hana Waxman Design,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,3680.0,16475.92,1,16,FALSE,N,FALSE
+1023935.0,CONCEPT DESIGN,DESIGN,DESIGN_FIRM,Group 2 High Potential,1765.0,15565.0,1,5,FALSE,N,FALSE
+1038424.0,Koper Furniture,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,14133.6,0,6,TRUE,N,FALSE
+1038096.0,Whittingham Design Consultants Ltd,DESIGN,DESIGN_FIRM,Group 2 Low Potential,0.0,13627.0,0,4,TRUE,N,FALSE
+1001559.0,Caducus Folium Consultores,DESIGN,DESIGN_FIRM,Group 2 Low Potential,8668.52,13557.6,3,6,FALSE,N,FALSE
+1009365.0,Lagnappe,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,14523.0,12387.05,17,21,FALSE,N,FALSE
+1012418.0,Triques y Tilichis SA de CV,RETAIL,SINGLE_LOCATION,Group 2 High Potential,0.0,11866.0,0,6,FALSE,N,FALSE
+1009407.0,"Simone Regalos, SA de CV",RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,1525.0,11745.0,3,4,FALSE,N,FALSE
+1019898.0,Benilde Hernandez,DESIGN,DESIGN_FIRM,Group 2 High Potential,823.0,10625.0,4,11,FALSE,N,FALSE
+1006382.0,Centro de Diseno Studio NOA Cia Ltda,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11400.0,8081.0,7,6,FALSE,N,FALSE
+1011598.0,Sara Chiriboga,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,11804.6,7890.0,6,5,FALSE,N,FALSE
+1012087.0,Yakarta,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,5805.0,5514.0,3,5,FALSE,N,FALSE
+1024708.0,WR Arquitectura,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,19221.4,5073.4,5,1,FALSE,N,FALSE
+1011756.0,Decor8,DESIGN,SINGLE_LOCATION,Group 2 Medium Potential,3525.0,4335.85,1,2,FALSE,N,FALSE
+1008094.0,Marianna Falcon,RETAIL,DESIGNER_INDEPENDENT,Group 2 Medium Potential,1910.0,4050.0,1,3,FALSE,N,FALSE
+1010158.0,NU Espacios,E-TAILER,NICHE,Group 2 High Potential,6316.39,3891.3,10,22,FALSE,N,FALSE
+1003934.0,Casa Y Estilo Sociedad Anonima,RETAIL,MULTIPLE_LOCATIONS,Group 2 Medium Potential,2795.0,3832.0,3,3,FALSE,N,FALSE
+1007289.0,Cordelia Cortes,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,0.0,2892.4,0,6,FALSE,N,FALSE
+1004863.0,Sweet Lime Furnishings,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,9160.72,2690.0,4,3,FALSE,N,FALSE
+1005116.0,Guillermo Gerzabek,RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,25370.0,2508.5,8,5,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 121 accounts | $14005.40 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1013690,Studio Design By SMF SRL,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,3703.2,2332.0,3,3,FALSE,Y,TRUE
-1027326,Gomez padilla design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,2754.0,2149.0,3,3,FALSE,N,FALSE
-1015296,Label C Designs Ltd.,INTERNAL,DESIGNER_INDEPENDENT,Group 3 Medium Potential,243.0,1470.0,1,1,FALSE,N,FALSE
-1038192,Inside by Vilma,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1170.0,0,2,TRUE,N,FALSE
-1026187,Dos Aguas Arquitectura,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,465.0,965.0,1,2,FALSE,Y,TRUE
-1027560,CTX Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,665.0,750.0,2,1,FALSE,Y,TRUE
-1037477,"Grupo Commercial Atlas, SA de CV",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,680.0,0,1,TRUE,N,FALSE
-1018384,By Design Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,-2238.0,600.0,5,2,FALSE,Y,TRUE
-1014407,Estrategias En Espacio AD,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,0.0,583.0,0,2,FALSE,Y,TRUE
-1038071,Studio 88,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,551.0,0,2,TRUE,N,FALSE
-1014124,GC Interior Design SA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,9651.5,474.4,4,1,FALSE,Y,TRUE
-1008632,Design Studio - Provo,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1597.0,468.0,2,2,FALSE,Y,TRUE
-1008980,OG Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,2743.5,440.0,4,3,FALSE,Y,TRUE
-1022546,Island House Ltd,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,3984.5,405.0,2,2,FALSE,Y,TRUE
-1024480,DANIELA CAVAZOS MOELLER CAMD850628EE5,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2090.0,335.0,3,0,FALSE,N,FALSE
-1004936,Arquitectura De Interiores,DESIGN,DESIGN_FIRM,Group 3 Low Potential,7609.0,234.0,5,1,FALSE,Y,TRUE
-1020117,Kate- Ashley Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3060.0,203.0,3,1,FALSE,Y,TRUE
-1037804,Dcora,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,196.0,0,1,TRUE,N,FALSE
-1003607,Life Home And Office,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003962,Charo Decoraciones,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003493,Casa Y Estilo Sociedad Anonima DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,144328.34,0.0,1,0,FALSE,N,FALSE
-1005773,El Armario,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1006071,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1005102,Arte San Ramon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13941.0,0.0,2,0,FALSE,N,FALSE
-1004211,Brenda Machado Orrantia,RETAIL,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1008976,Comercializadora Grupo Bahmoz SA de CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,127690.76,0.0,3,0,FALSE,N,FALSE
-1008683,Andani Imports S.A.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1007737,Grupo E2X. SA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1008185,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1007565,"Levy and Company, SA",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1007367,Muebles E Interiores FL Sde RLCV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1009364,Giralinea Sac,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1009568,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1011070,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1011648,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1295.0,0.0,2,0,FALSE,Y,TRUE
-1009836,Metropolitan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1009883,Maria Virginia Alanis Cantu,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1010144,Beds and Feathers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,18430.0,0.0,7,0,FALSE,N,FALSE
-1010147,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1010402,Jarp Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1010915,"Home Collection Panama, S.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,445.0,0.0,1,0,FALSE,N,FALSE
-1013460,Dekorahora,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1013364,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,276.5,0.0,2,0,FALSE,Y,TRUE
-1013349,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1013307,"QUERENCIA REAL ESTATE, S DE RL DE CV",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1012183,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1012082,Arte En Decoracion de Interiores SA DE CV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1014753,"Corporacion Patio 2013, C.A",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1005470,Abu Naba'a,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1006205,"Innovaciones Pitic, S.A. De C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1006084,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
-1000570,Epocas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1280.0,0.0,1,0,FALSE,N,FALSE
-1000713,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1090.0,0.0,2,0,FALSE,Y,TRUE
-1002589,Contemporani Sa De Cv,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1002893,Silk Greenery Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1002134,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1000875,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1022208,Diane Eden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE
-1022174,Lula & Luke Baby-Child,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1020421,Zona E Home (FL),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1020227,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1017117,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1014757,"Linea M Muebles, C.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1014809,DT Industries,RETAIL,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1015215,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1014350,Twinkle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1025008,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1024504,"Decorarte, S.A. de C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1022354,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1022953,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3374.0,0.0,5,0,FALSE,Y,TRUE
-1023981,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1024118,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1022341,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1026958,Antonio P. Hache & Co.,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,6469.0,0.0,1,0,FALSE,N,FALSE
-1026711,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,3610.0,0.0,2,0,FALSE,Y,TRUE
-1026207,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1085.0,0.0,1,0,FALSE,Y,TRUE
-1025809,Casa Bonita de Guaymas,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1025011,FERRETERIA OCHOA SA,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1025755,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1028080,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
-1027396,Francisco Guzman Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9369.5,0.0,1,0,FALSE,N,FALSE
-1035235,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,554.6,0.0,1,0,FALSE,Y,TRUE
-1035150,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
-1035057,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,41.4,0.0,2,0,FALSE,Y,TRUE
-1037608,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE
-1005235,AHCorp Ecuador CIA LTDA,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1005246,Joel Valenzuela,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1018774,Prodecor S.A. de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1019614,Arte y Decoracion,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1020132,TAJ Designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1020782,IHO Espacios,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1021629,Spice islands dream properties ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1021774,Sevilla Home,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1021908,Studio Armin,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1022887,Burbeck Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1023650,Dominican Interior Designers,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1024584,Eclectique Home,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1024883,Afalconi-Design,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1024885,Farte decoracion,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1025270,mov art studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1025425,Casa Tropikana,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1025905,Salvador Perez Rangel,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1026015,Veciiin Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1026098,Ana Basalo Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1027060,Branco interiorismo,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1027062,Island Nest Ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1027241,Norma Redo,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1027264,Boutique designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1027479,Abstracto S.A de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1035129,WRT WORLD ENTERPRISES,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1035224,Collignon living,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1036084,ORBITARQ,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1036578,Arquit Cover,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1037494,ALIADESIGNSTUDIO S.A.S.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1037892,dELACRUZ PROJECTS,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1038126,Marsala Haus,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1038413,Souk Decoration,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1038466,IDesign Studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1038470,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1038587,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1013690.0,Studio Design By SMF SRL,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,3703.2,2332.0,3,3,FALSE,Y,TRUE
+1027326.0,Gomez padilla design,RETAIL,MULTIPLE_LOCATIONS,Group 3 Medium Potential,2754.0,2149.0,3,3,FALSE,N,FALSE
+1015296.0,Label C Designs Ltd.,INTERNAL,DESIGNER_INDEPENDENT,Group 3 Medium Potential,243.0,1470.0,1,1,FALSE,N,FALSE
+1038192.0,Inside by Vilma,DESIGN,DESIGNER_INDEPENDENT,Group 3 High Potential,0.0,1170.0,0,2,TRUE,N,FALSE
+1026187.0,Dos Aguas Arquitectura,DESIGN,ARCHITECT_BUILDER,Group 3 Medium Potential,465.0,965.0,1,2,FALSE,Y,TRUE
+1027560.0,CTX Design Group,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,665.0,750.0,2,1,FALSE,Y,TRUE
+1037477.0,"Grupo Commercial Atlas, SA de CV",RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,680.0,0,1,TRUE,N,FALSE
+1018384.0,By Design Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,-2238.0,600.0,5,2,FALSE,Y,TRUE
+1014407.0,Estrategias En Espacio AD,DESIGN,DESIGNER_INDEPENDENT,Group 3 Medium Potential,0.0,583.0,0,2,FALSE,Y,TRUE
+1038071.0,Studio 88,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,551.0,0,2,TRUE,N,FALSE
+1014124.0,GC Interior Design SA,DESIGN,DESIGN_FIRM,Group 3 Low Potential,9651.5,474.4,4,1,FALSE,Y,TRUE
+1008632.0,Design Studio - Provo,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1597.0,468.0,2,2,FALSE,Y,TRUE
+1008980.0,OG Design,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,2743.5,440.0,4,3,FALSE,Y,TRUE
+1022546.0,Island House Ltd,DESIGN,DESIGN_FIRM,Group 3 Medium Potential,3984.5,405.0,2,2,FALSE,Y,TRUE
+1024480.0,DANIELA CAVAZOS MOELLER CAMD850628EE5,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,2090.0,335.0,3,0,FALSE,N,FALSE
+1004936.0,Arquitectura De Interiores,DESIGN,DESIGN_FIRM,Group 3 Low Potential,7609.0,234.0,5,1,FALSE,Y,TRUE
+1020117.0,Kate- Ashley Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3060.0,203.0,3,1,FALSE,Y,TRUE
+1037804.0,Dcora,DESIGN,DESIGN_FIRM,Group 3 High Potential,0.0,196.0,0,1,TRUE,N,FALSE
+1003962.0,Charo Decoraciones,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005102.0,Arte San Ramon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13941.0,0.0,2,0,FALSE,N,FALSE
+1003607.0,Life Home And Office,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005246.0,Joel Valenzuela,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1005470.0,Abu Naba'a,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005773.0,El Armario,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1004211.0,Brenda Machado Orrantia,RETAIL,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1008683.0,Andani Imports S.A.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1008185.0,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1007737.0,Grupo E2X. SA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1007565.0,"Levy and Company, SA",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006205.0,"Innovaciones Pitic, S.A. De C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1007367.0,Muebles E Interiores FL Sde RLCV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006084.0,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
+1008976.0,Comercializadora Grupo Bahmoz SA de CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,127690.76,0.0,3,0,FALSE,N,FALSE
+1010402.0,Jarp Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010915.0,"Home Collection Panama, S.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,445.0,0.0,1,0,FALSE,N,FALSE
+1009364.0,Giralinea Sac,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009568.0,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1009836.0,Metropolitan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1009883.0,Maria Virginia Alanis Cantu,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1010144.0,Beds and Feathers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,18430.0,0.0,7,0,FALSE,N,FALSE
+1010147.0,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1013349.0,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1013307.0,"QUERENCIA REAL ESTATE, S DE RL DE CV",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1012183.0,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1012082.0,Arte En Decoracion de Interiores SA DE CV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1011648.0,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1295.0,0.0,2,0,FALSE,Y,TRUE
+1011070.0,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013364.0,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,276.5,0.0,2,0,FALSE,Y,TRUE
+1005235.0,AHCorp Ecuador CIA LTDA,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1006071.0,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1000875.0,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1000713.0,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1090.0,0.0,2,0,FALSE,Y,TRUE
+1002589.0,Contemporani Sa De Cv,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002893.0,Silk Greenery Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003493.0,Casa Y Estilo Sociedad Anonima DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,144328.34,0.0,1,0,FALSE,N,FALSE
+1002134.0,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1000570.0,Epocas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1280.0,0.0,1,0,FALSE,N,FALSE
+1019614.0,Arte y Decoracion,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1018774.0,Prodecor S.A. de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1015215.0,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1017117.0,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1014809.0,DT Industries,RETAIL,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1014350.0,Twinkle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1014753.0,"Corporacion Patio 2013, C.A",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1014757.0,"Linea M Muebles, C.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1013460.0,Dekorahora,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1022208.0,Diane Eden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE
+1022174.0,Lula & Luke Baby-Child,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020132.0,TAJ Designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1021629.0,Spice islands dream properties ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021774.0,Sevilla Home,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020421.0,Zona E Home (FL),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020227.0,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1023981.0,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1023650.0,Dominican Interior Designers,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024504.0,"Decorarte, S.A. de C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024118.0,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024883.0,Afalconi-Design,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1024885.0,Farte decoracion,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025008.0,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1024584.0,Eclectique Home,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025011.0,FERRETERIA OCHOA SA,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025270.0,mov art studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1022341.0,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1022354.0,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1022887.0,Burbeck Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1022953.0,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3374.0,0.0,5,0,FALSE,Y,TRUE
+1021908.0,Studio Armin,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1020782.0,IHO Espacios,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1026098.0,Ana Basalo Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1026015.0,Veciiin Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025905.0,Salvador Perez Rangel,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025809.0,Casa Bonita de Guaymas,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1025425.0,Casa Tropikana,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025755.0,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1026958.0,Antonio P. Hache & Co.,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,6469.0,0.0,1,0,FALSE,N,FALSE
+1026207.0,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1085.0,0.0,1,0,FALSE,Y,TRUE
+1027264.0,Boutique designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1027396.0,Francisco Guzman Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9369.5,0.0,1,0,FALSE,N,FALSE
+1027479.0,Abstracto S.A de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1028080.0,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
+1027060.0,Branco interiorismo,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027062.0,Island Nest Ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027241.0,Norma Redo,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1026711.0,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,3610.0,0.0,2,0,FALSE,Y,TRUE
+1035224.0,Collignon living,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035150.0,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE
+1035129.0,WRT WORLD ENTERPRISES,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1035057.0,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,41.4,0.0,2,0,FALSE,Y,TRUE
+1036578.0,Arquit Cover,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1037494.0,ALIADESIGNSTUDIO S.A.S.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1036084.0,ORBITARQ,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1035235.0,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,554.6,0.0,1,0,FALSE,Y,TRUE
+1037892.0,dELACRUZ PROJECTS,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1037608.0,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE
+1038126.0,Marsala Haus,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1038413.0,Souk Decoration,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1038466.0,IDesign Studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038470.0,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1038587.0,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1038743.0,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-ZERO REVENUE: 103 accounts (1 are new 2025 customers),,,,,,,,,,
+ZERO REVENUE: 141 accounts (2 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000570,Epocas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1280.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1000713,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1090.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1000875,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1002134,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1002589,Contemporani Sa De Cv,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002893,Silk Greenery Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003493,Casa Y Estilo Sociedad Anonima DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,144328.34,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003607,Life Home And Office,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003962,Charo Decoraciones,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1004211,Brenda Machado Orrantia,RETAIL,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005102,Arte San Ramon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13941.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1005470,Abu Naba'a,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005773,El Armario,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1006071,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1006084,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1006205,"Innovaciones Pitic, S.A. De C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007367,Muebles E Interiores FL Sde RLCV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007565,"Levy and Company, SA",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1007737,Grupo E2X. SA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008185,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1008683,Andani Imports S.A.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008976,Comercializadora Grupo Bahmoz SA de CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,127690.76,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1009364,Giralinea Sac,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009568,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1009836,Metropolitan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009883,Maria Virginia Alanis Cantu,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010144,Beds and Feathers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,18430.0,0.0,7,0,FALSE,N,FALSE,FALSE,N
-1010147,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1010402,Jarp Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1010915,"Home Collection Panama, S.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,445.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1011070,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1011648,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1295.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1012082,Arte En Decoracion de Interiores SA DE CV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1012183,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1013307,"QUERENCIA REAL ESTATE, S DE RL DE CV",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1013349,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1013364,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,276.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1013460,Dekorahora,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014350,Twinkle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014753,"Corporacion Patio 2013, C.A",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014757,"Linea M Muebles, C.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1014809,DT Industries,RETAIL,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1015215,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1017117,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1020227,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1020421,Zona E Home (FL),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022174,Lula & Luke Baby-Child,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022208,Diane Eden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1022341,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1022354,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1022953,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3374.0,0.0,5,0,FALSE,Y,TRUE,FALSE,N
-1023981,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1024118,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1024504,"Decorarte, S.A. de C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025008,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1025011,FERRETERIA OCHOA SA,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1025755,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1025809,Casa Bonita de Guaymas,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1026207,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1085.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1026711,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,3610.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1026958,Antonio P. Hache & Co.,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,6469.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1027396,Francisco Guzman Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9369.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1028080,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1035057,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,41.4,0.0,2,0,FALSE,Y,TRUE,FALSE,N
-1035150,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1035235,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,554.6,0.0,1,0,FALSE,Y,TRUE,FALSE,N
-1037608,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
-1005235,AHCorp Ecuador CIA LTDA,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1005246,Joel Valenzuela,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1018774,Prodecor S.A. de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1019614,Arte y Decoracion,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1020132,TAJ Designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1020782,IHO Espacios,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1021629,Spice islands dream properties ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1021774,Sevilla Home,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1021908,Studio Armin,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1022887,Burbeck Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1023650,Dominican Interior Designers,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1024584,Eclectique Home,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1024883,Afalconi-Design,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1024885,Farte decoracion,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1025270,mov art studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1025425,Casa Tropikana,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1025905,Salvador Perez Rangel,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1026015,Veciiin Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1026098,Ana Basalo Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027060,Branco interiorismo,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1027062,Island Nest Ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1027241,Norma Redo,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027264,Boutique designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1027479,Abstracto S.A de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1035129,WRT WORLD ENTERPRISES,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1035224,Collignon living,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036084,ORBITARQ,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1036578,Arquit Cover,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1037494,ALIADESIGNSTUDIO S.A.S.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1037892,dELACRUZ PROJECTS,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1038126,Marsala Haus,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1038413,Souk Decoration,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1038466,IDesign Studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038470,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
-1038587,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
-1038743,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1000570.0,Epocas,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,1280.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1000713.0,"Mika, Inc",DESIGN,SINGLE_LOCATION,Group 3 Low Potential,1090.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1000875.0,Diseno Interiors,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1002134.0,Fay Parker Interior Designs,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1002589.0,Contemporani Sa De Cv,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002893.0,Silk Greenery Home,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003493.0,Casa Y Estilo Sociedad Anonima DI,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,144328.34,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003607.0,Life Home And Office,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003962.0,Charo Decoraciones,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004211.0,Brenda Machado Orrantia,RETAIL,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005102.0,Arte San Ramon,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,13941.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1005235.0,AHCorp Ecuador CIA LTDA,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1005246.0,Joel Valenzuela,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1005470.0,Abu Naba'a,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005773.0,El Armario,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006071.0,Carla Gutierrez,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1006084.0,Palmira Chavez SA de CV,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1006205.0,"Innovaciones Pitic, S.A. De C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007367.0,Muebles E Interiores FL Sde RLCV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007565.0,"Levy and Company, SA",RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007737.0,Grupo E2X. SA,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008185.0,"Insideout, Ltd.",DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1008683.0,Andani Imports S.A.,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008976.0,Comercializadora Grupo Bahmoz SA de CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,127690.76,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1009364.0,Giralinea Sac,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009568.0,Edna Campos Guadalupe Encines,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1009836.0,Metropolitan Furniture,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009883.0,Maria Virginia Alanis Cantu,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010144.0,Beds and Feathers,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,18430.0,0.0,7,0,FALSE,N,FALSE,FALSE,N
+1010147.0,Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1010402.0,Jarp Studio,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010915.0,"Home Collection Panama, S.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,445.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1011070.0,Vendoorento Inmuebles SA DE CV,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011648.0,Cacique International,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1295.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1012082.0,Arte En Decoracion de Interiores SA DE CV,RETAIL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012183.0,Valle Arquitectura Interior,DESIGN,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1013307.0,"QUERENCIA REAL ESTATE, S DE RL DE CV",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013349.0,Simplify Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1013364.0,Taller De Grabado Cuak SA DE CV,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,276.5,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1013460.0,Dekorahora,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014350.0,Twinkle,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014753.0,"Corporacion Patio 2013, C.A",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014757.0,"Linea M Muebles, C.A.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014809.0,DT Industries,RETAIL,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015215.0,OH STUDIO,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1017117.0,AlÃº - GUA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1018774.0,Prodecor S.A. de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1019614.0,Arte y Decoracion,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020132.0,TAJ Designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1020227.0,Casa Limited Casa Cayman,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1020421.0,Zona E Home (FL),RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1020782.0,IHO Espacios,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021629.0,Spice islands dream properties ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021774.0,Sevilla Home,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1021908.0,Studio Armin,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022174.0,Lula & Luke Baby-Child,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022208.0,Diane Eden Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,455.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1022341.0,AMURETO,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1022354.0,Ancira Architecture Firm,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1022887.0,Burbeck Interiors,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1022953.0,CASA FÃ‰NIX / SERGIO BARRAZA,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,3374.0,0.0,5,0,FALSE,Y,TRUE,FALSE,N
+1023650.0,Dominican Interior Designers,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1023981.0,VASTET,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024118.0,Laurel Departamento de Diseno,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1024504.0,"Decorarte, S.A. de C.V.",RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024584.0,Eclectique Home,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1024883.0,Afalconi-Design,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1024885.0,Farte decoracion,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1025008.0,Prava Design Firm,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025011.0,FERRETERIA OCHOA SA,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025270.0,mov art studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025425.0,Casa Tropikana,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1025755.0,MN,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025809.0,Casa Bonita de Guaymas,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025905.0,Salvador Perez Rangel,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1026015.0,Veciiin Design Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026098.0,Ana Basalo Studio,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1026207.0,Esenza Studio,DESIGN,DESIGN_FIRM,Group 3 Low Potential,1085.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1026711.0,Ana Paula Garza Interiors,DESIGN,DESIGN_FIRM,Group 3 Low Potential,3610.0,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1026958.0,Antonio P. Hache & Co.,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,6469.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027060.0,Branco interiorismo,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027062.0,Island Nest Ltd,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1027241.0,Norma Redo,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027264.0,Boutique designs,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1027396.0,Francisco Guzman Interior Design,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,9369.5,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1027479.0,Abstracto S.A de C.V.,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1028080.0,Diamante Cabo San Lucas,DESIGN,ARCHITECT_BUILDER,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1035057.0,Artsmiths Design,DESIGN,DESIGN_FIRM,Group 3 Low Potential,41.4,0.0,2,0,FALSE,Y,TRUE,FALSE,N
+1035129.0,WRT WORLD ENTERPRISES,Retail,Multiple locations,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1035150.0,Design Archive,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1035224.0,Collignon living,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1035235.0,RIMA CONSTRUCTION COMPANY,DESIGN,DESIGN_FIRM,Group 3 Low Potential,554.6,0.0,1,0,FALSE,Y,TRUE,FALSE,N
+1036084.0,ORBITARQ,Design,Architect/Builder,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1036578.0,Arquit Cover,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1037494.0,ALIADESIGNSTUDIO S.A.S.,Design,Design Firm,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1037608.0,A2 DESIGN,DESIGN,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,1,TRUE,N,FALSE,FALSE,N
+1037892.0,dELACRUZ PROJECTS,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038126.0,Marsala Haus,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038413.0,Souk Decoration,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038466.0,IDesign Studio,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038470.0,Filamento,Retail,Single location,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,Y
+1038587.0,Segunda Etapa,Design,Independent Designer,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1038743.0,AI Arquitectura de Interiores,Design,Hospitality,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+1000054.0,Marco Delarte,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1001080.0,Dwellings (Barbados),Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002348.0,Odeco Sa De Cv,Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002564.0,Abrash Arte En Tapetes S.A. De C.V.,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002693.0,Manifiesto Design Center,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002935.0,Designers Warehouse,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003483.0,"Addison House, Inc.",Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003903.0,Colineal Corp.,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1004327.0,Proyectos SA de CV Coordinatika e Integracion de,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005106.0,Thel Arte,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005952.0,Terra,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006035.0,Sampson House,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006332.0,Anticuario Veranda,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006789.0,Centro Mueblero Placencia SA de CV,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007568.0,Muebleria Standard,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007592.0,Anna Loyd Cuadra Wickline,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007946.0,Oller and Villanueva,Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008136.0,Bahamas Design Centre,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008154.0,Poppy Pereira,Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008853.0,"Importaciones PH, SA DE CV",Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008981.0,Consorcio Linares SA De CV,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009018.0,The Phoenix Group,Design,Architect/Builder,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009758.0,Armida SA de CV,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010138.0,Lindroth Design Corp,Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010346.0,Alfombras Wool,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010492.0,"Sears Operadora Mexico, SA de CV",Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010829.0,Decoraciones Con Karacter SA DE CV,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011071.0,Tendenzias,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1011519.0,Industrias Freg SA de CV,Design,Hospitality,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012417.0,Administraciones FC SAS,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014095.0,Vendoorento Inmuebles SA DE CV DI,Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014096.0,Etna com Mov Art P Decoracao,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014368.0,Santdeco Cia Ltda,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014408.0,Patricia Josefina Garza Orta,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1015633.0,NATALIA VELEZ,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1016152.0,CASA PAULINA,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1025289.0,MY WAY TOO,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1038743.0,AI Arquitectura de Interiores,Design,Hospitality,Unknown Unknown,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

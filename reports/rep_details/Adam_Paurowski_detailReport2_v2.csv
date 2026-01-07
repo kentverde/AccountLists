@@ -5,7 +5,7 @@
 SUMMARY METRICS,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
-3,23659.0,121755.02,0,0.0,3," $121,755.02 ",,,,,
+5,23659.0,121755.02,0,0.0,5," $121,755.02 ",,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -15,24 +15,26 @@ BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
 Group 1,1,123132.02,,,,,,,,,
 Group 2,0,0.0,,,,,,,,,
 Group 3,2,-1377.0,,,,,,,,,
-Totals,3,121755.02,,,,,,,,,
+Totals,5,121755.02,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $123132.02 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1035206,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,23659.0,123132.02,7,8,FALSE,N,FALSE
+1035206.0,Aurora Wholesale LLC-Mazel Company,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,23659.0,123132.02,7,8,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 2 accounts | $-1377.00 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
-1035790,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,-1377.0,0,0,TRUE,N,FALSE
+1035791.0,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE
+1035790.0,Nebraska Furniture Mart - Omaha,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,-1377.0,0,0,TRUE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-ZERO REVENUE: 1 accounts (1 are new 2025 customers),,,,,,,,,,
+ZERO REVENUE: 3 accounts (2 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035791,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1035791.0,Nebraska Furniture Mart - KC,RETAIL,MULTIPLE_LOCATIONS,Group 3 High Potential,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
+1009035.0,serenaandlily.com,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1035821.0,Nebraska Furniture Mart - TX,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

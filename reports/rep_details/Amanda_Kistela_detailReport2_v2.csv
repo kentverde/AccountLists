@@ -1,0 +1,75 @@
+﻿Amanda Kistela,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+SUMMARY METRICS,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
+31,843001.29,757542.45,0,0.0,31," $757,542.45 ",,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+,Accounts,Revenue,,,,,,,,,
+Group 1,13,638216.64,,,,,,,,,
+Group 2,12,118554.11,,,,,,,,,
+Group 3,6,771.7,,,,,,,,,
+Totals,31,757542.45,,,,,,,,,
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 1 (HIGH REVENUE) - KEEPING: 13 accounts | $638216.64 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1000248.0,Island Imports Dba Vineyard Decorators,RETAIL,SINGLE_LOCATION,Group 1 High Potential,111843.81,154584.73,65,59,FALSE,N,FALSE
+1014941.0,Angeline Guido Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,45777.0,75303.14,17,24,FALSE,N,FALSE
+1011466.0,MAK and Co.,DESIGN,DESIGN_FIRM,Group 1 High Potential,83275.13,66873.29,89,66,FALSE,N,FALSE
+1012416.0,Art of Design,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,63480.7,64199.5,54,56,FALSE,N,FALSE
+1006681.0,The Beehive,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,66739.64,46962.85,20,15,FALSE,N,FALSE
+1011888.0,Margarita Bravo Interior Design,DESIGN,DESIGN_FIRM,Group 1 Medium Potential,21724.72,42097.34,19,15,FALSE,N,FALSE
+1010454.0,Gina Baran Interiors + Design,DESIGN,DESIGN_FIRM,Group 1 High Potential,39055.19,39946.1,24,26,FALSE,N,FALSE
+1011146.0,Cecilia Casagrande Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,29081.4,29042.1,14,10,FALSE,N,FALSE
+1023486.0,Gabriela Eisenhart Interiors,DESIGN,DESIGNER_INDEPENDENT,Group 1 High Potential,13365.4,27993.4,51,53,FALSE,N,FALSE
+1001960.0,Tammara Stroud Design LLC,DESIGN,DESIGN_FIRM,Group 1 High Potential,26164.5,26253.79,22,14,FALSE,N,FALSE
+1000278.0,Aspire Furniture,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,36088.0,25586.1,30,21,FALSE,N,FALSE
+1004830.0,Cindy Proffitt,DESIGN,DESIGNER_INDEPENDENT,Group 1 Medium Potential,37229.1,21373.0,19,29,FALSE,N,FALSE
+1003720.0,Hue Interior Design,RETAIL,SINGLE_LOCATION,Group 1 High Potential,37664.42,18001.3,32,22,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 2 (MID REVENUE) - KEEPING: 12 accounts | $118554.11 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1007274.0,"oBJEKTS, LLC",DESIGN,HOSPITALITY,Group 2 Medium Potential,16098.76,17515.0,12,7,FALSE,N,FALSE
+1026193.0,KCD Interiors,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,30584.18,16354.0,11,14,FALSE,N,FALSE
+1009664.0,"M Grace at Home, Inc.",DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,30709.32,15302.0,20,17,FALSE,N,FALSE
+1013956.0,Oliver Falder design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,15504.5,13535.21,5,11,FALSE,N,FALSE
+1035705.0,Reno Grossi Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 High Potential,0.0,12868.0,0,6,TRUE,N,FALSE
+1006452.0,"Swan Interiors, LLC",RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,23971.92,8973.0,7,6,FALSE,N,FALSE
+1012826.0,Lynda Cherry Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,11533.92,8236.0,7,4,FALSE,N,FALSE
+1020384.0,Amanda Beard Home and Event Styling LLC,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,23513.4,6936.0,6,2,FALSE,N,FALSE
+1018444.0,Nikki Chu Home,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,13842.3,6554.5,5,2,FALSE,N,FALSE
+1025671.0,Susan Lin Design Inc,DESIGN,DESIGN_FIRM,Group 2 Medium Potential,29026.5,5055.0,6,2,FALSE,N,FALSE
+1009944.0,Jessy Krol Interior Design,DESIGN,DESIGNER_INDEPENDENT,Group 2 Medium Potential,9503.2,4029.4,7,3,FALSE,N,FALSE
+1022537.0,NGI Develpment Corp,DESIGN,ARCHITECT_BUILDER,Group 2 Medium Potential,5941.78,3196.0,4,4,FALSE,N,FALSE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+GROUP 3 (LOW REVENUE) - KEEPING: 6 accounts | $771.70 revenue,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
+1014852.0,Waverly Staging & Design,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,15398.7,771.7,16,3,FALSE,Y,TRUE
+1001988.0,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3928.8,0.0,3,0,FALSE,N,FALSE
+1011463.0,Ss Amanda Kistela,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021141.0,DRN Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1025718.0,Heja Home,E-TAILER,SPECIALTY,Group 3 Low Potential,1955.0,0.0,1,0,FALSE,N,FALSE
+1037624.0,West End Interiors,Design,Designer with No Showroom,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+,,,,,,,,,,,
+================================================================================,,,,,,,,,,,
+ZERO REVENUE: 5 accounts (0 are new 2025 customers),,,,,,,,,,
+================================================================================,,,,,,,,,,,
+Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
+1001988.0,Aladdin Rugs And DÃ©cor,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,3928.8,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1011463.0,Ss Amanda Kistela,INTERNAL,SALES_REP,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021141.0,DRN Ltd,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1025718.0,Heja Home,E-TAILER,SPECIALTY,Group 3 Low Potential,1955.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1037624.0,West End Interiors,Design,Designer with No Showroom,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,Y
+,,,,,,,,,,,

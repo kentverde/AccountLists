@@ -5,7 +5,7 @@
 SUMMARY METRICS,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 2025 Acct Total,Rev_2024,Rev_2025,Net_Account_Change for 2026,Net_Rev_Change,2026 Acct Total, Rev_2025 after Acct Change ,,,,,
-41,8506168.79,8864631.59,0,0.0,41," $8,864,631.59 ",,,,,
+75,8506168.79,8864631.59,0,0.0,75," $8,864,631.59 ",,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
@@ -15,86 +15,120 @@ BREAKDOWN BY SEGMENT/GROUP,,,,,,,,,,,
 Group 1,17,8861809.43,,,,,,,,,
 Group 2,3,16704.86,,,,,,,,,
 Group 3,21,-13882.7,,,,,,,,,
-Totals,41,8864631.59,,,,,,,,,
+Totals,75,8864631.59,,,,,,,,,
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 17 accounts | $8861809.43 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1003922,Home Goods DI,RETAIL,OFF-PRICE,Group 1 Medium Potential,3729019.6,3119737.03,397,289,FALSE,N,FALSE
-1000067,Home Goods,RETAIL,OFF-PRICE,Group 1 Medium Potential,2111582.24,2198597.1,351,315,FALSE,N,FALSE
-1023671,Quince DBA Last Brand,E-TAILER,MULTIPLE_LOCATIONS,Group 1 High Potential,345482.5,1112300.0,1502,5879,FALSE,N,FALSE
-1019110,Mathis Brothers Furniture - Ontario,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,237837.45,354821.98,88,97,FALSE,N,FALSE
-1000431,Nebraska Furniture Mart,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,147253.84,279125.99,249,374,FALSE,N,FALSE
-1000084,Furniture Land South,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,350970.8,255503.0,369,360,FALSE,N,FALSE
-1002188,"Pottery Barn, Inc",RETAIL,NATIONAL,Group 1 Medium Potential,302091.47,204627.0,1186,1057,FALSE,N,FALSE
-1019111,Mathis Brothers Furniture - Indio,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,139795.35,201249.3,81,72,FALSE,N,FALSE
-1024031,Whitestone Home Furnishings dba SAATVA Mattress,E-TAILER,SINGLE_LOCATION,Group 1 Medium Potential,188831.0,167894.0,529,466,FALSE,N,FALSE
-1005627,"West Elm, Inc.",RETAIL,NATIONAL,Group 1 Medium Potential,233187.36,161621.13,1074,842,FALSE,N,FALSE
-1013053,Mathis Brothers ECOMM,RETAIL,NATIONAL,Group 1 High Potential,36732.4,161491.5,113,286,FALSE,N,FALSE
-1019112,Mathis Brothers Furniture - Tulsa,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,103972.29,154951.2,54,80,FALSE,N,FALSE
-1012587,Mathis Brothers Furniture - OKC,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,192148.22,150062.09,92,82,FALSE,N,FALSE
-1012222,TJ Maxx Ecomm,E-TAILER,OFF-PRICE,Group 1 Medium Potential,72170.75,141519.1,12,23,FALSE,N,FALSE
-1014406,Summer Classics WJ,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,259370.07,88407.63,13,10,FALSE,N,FALSE
-1000564,Dump-Haynes,RETAIL,OFF-PRICE,Group 1 High Potential,24362.95,66922.38,131,192,FALSE,N,FALSE
-1006400,Al Tayer Insignia LLC,RETAIL,NATIONAL,Group 1 Low Potential,14532.0,42979.0,3,2,FALSE,N,FALSE
+1003922.0,Home Goods DI,RETAIL,OFF-PRICE,Group 1 Medium Potential,3729019.6,3119737.03,397,289,FALSE,N,FALSE
+1000067.0,Home Goods,RETAIL,OFF-PRICE,Group 1 Medium Potential,2111582.24,2198597.1,351,315,FALSE,N,FALSE
+1023671.0,Quince DBA Last Brand,E-TAILER,MULTIPLE_LOCATIONS,Group 1 High Potential,345482.5,1112300.0,1502,5879,FALSE,N,FALSE
+1019110.0,Mathis Brothers Furniture - Ontario,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,237837.45,354821.98,88,97,FALSE,N,FALSE
+1000431.0,Nebraska Furniture Mart,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,147253.84,279125.99,249,374,FALSE,N,FALSE
+1000084.0,Furniture Land South,RETAIL,SINGLE_LOCATION,Group 1 Medium Potential,350970.8,255503.0,369,360,FALSE,N,FALSE
+1002188.0,"Pottery Barn, Inc",RETAIL,NATIONAL,Group 1 Medium Potential,302091.47,204627.0,1186,1057,FALSE,N,FALSE
+1019111.0,Mathis Brothers Furniture - Indio,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,139795.35,201249.3,81,72,FALSE,N,FALSE
+1024031.0,Whitestone Home Furnishings dba SAATVA Mattress,E-TAILER,SINGLE_LOCATION,Group 1 Medium Potential,188831.0,167894.0,529,466,FALSE,N,FALSE
+1005627.0,"West Elm, Inc.",RETAIL,NATIONAL,Group 1 Medium Potential,233187.36,161621.13,1074,842,FALSE,N,FALSE
+1013053.0,Mathis Brothers ECOMM,RETAIL,NATIONAL,Group 1 High Potential,36732.4,161491.5,113,286,FALSE,N,FALSE
+1019112.0,Mathis Brothers Furniture - Tulsa,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,103972.29,154951.2,54,80,FALSE,N,FALSE
+1012587.0,Mathis Brothers Furniture - OKC,RETAIL,MULTIPLE_LOCATIONS,Group 1 High Potential,192148.22,150062.09,92,82,FALSE,N,FALSE
+1012222.0,TJ Maxx Ecomm,E-TAILER,OFF-PRICE,Group 1 Medium Potential,72170.75,141519.1,12,23,FALSE,N,FALSE
+1014406.0,Summer Classics WJ,RETAIL,MULTIPLE_LOCATIONS,Group 1 Medium Potential,259370.07,88407.63,13,10,FALSE,N,FALSE
+1000564.0,Dump-Haynes,RETAIL,OFF-PRICE,Group 1 High Potential,24362.95,66922.38,131,192,FALSE,N,FALSE
+1006400.0,Al Tayer Insignia LLC,RETAIL,NATIONAL,Group 1 Low Potential,14532.0,42979.0,3,2,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 3 accounts | $16704.86 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1009275,Kelaty Rugs Isreal (515007284),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,392.5,7895.0,1,4,FALSE,N,FALSE
-1000034,Oriental Rug Weavers Inc,INTERNAL,SINGLE_LOCATION,Group 2 Medium Potential,5114.0,4671.66,4,7,FALSE,N,FALSE
-1007779,Rooms To Go Outdoor,RETAIL,NATIONAL,Group 2 Medium Potential,0.0,4138.2,0,3,FALSE,N,FALSE
+1009275.0,Kelaty Rugs Isreal (515007284),RETAIL,SINGLE_LOCATION,Group 2 Medium Potential,392.5,7895.0,1,4,FALSE,N,FALSE
+1000034.0,Oriental Rug Weavers Inc,INTERNAL,SINGLE_LOCATION,Group 2 Medium Potential,5114.0,4671.66,4,7,FALSE,N,FALSE
+1007779.0,Rooms To Go Outdoor,RETAIL,NATIONAL,Group 2 Medium Potential,0.0,4138.2,0,3,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 21 accounts | $-13882.70 revenue,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception
-1000429,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1000524,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1000676,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
-1009864,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003912,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003921,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1003928,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1005347,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1005707,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE
-1008087,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1019109,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE
-1018117,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
-1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1018683,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1021236,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1020006,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1027946,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
-1001691,Tj Maxx-Marshalls,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,-13882.7,0,2,FALSE,N,FALSE
+1000429.0,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000524.0,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000650.0,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1000676.0,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1002140.0,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE
+1009864.0,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003736.0,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003912.0,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003921.0,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1003928.0,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005347.0,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1005707.0,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE
+1008087.0,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1019109.0,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE
+1018117.0,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE
+1018267.0,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1018683.0,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1021236.0,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1020006.0,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1027946.0,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE
+1001691.0,Tj Maxx-Marshalls,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,-13882.7,0,2,FALSE,N,FALSE
 ,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,
-ZERO REVENUE: 20 accounts (0 are new 2025 customers),,,,,,,,,,
+ZERO REVENUE: 54 accounts (1 are new 2025 customers),,,,,,,,,,
 ================================================================================,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000429,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000524,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000650,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1000676,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1002140,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003736,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003912,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003921,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1003928,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005347,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1005707,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1008087,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1009864,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018117,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
-1018267,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1018683,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1019109,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
-1020006,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1021236,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1027946,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000429.0,Tuesday Morning,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000524.0,Grant Collaborative,INTERNAL,DESIGN_FIRM,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000650.0,Touch Of Class (IN),E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000676.0,Frontgate Dba Grandin Roads.Com,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002140.0,Winner Merchants International-Homesense,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003736.0,Garnet Hill,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003912.0,Tuesday Morning DI,RETAIL,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003921.0,Woven Arts Inc Dormant,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003928.0,Winners Merchants International-Homesense DI,MASS,OFF-PRICE,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005347.0,Samples - Key Accounts,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005707.0,"Markor Chain Stores dba MHF Co, Ltd.",RETAIL,NATIONAL,Group 3 Low Potential,6006.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008087.0,"Jennifer Adams Manufacturing, Inc.",INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009864.0,"QVC, Inc.",RETAIL,MASS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018117.0,Starwood Capital,DESIGN,HOSPITALITY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,Y,TRUE,FALSE,N
+1018267.0,ALBONIAN TRADING AND CONTRACTING,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1018683.0,Jerome's Furniture Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1019109.0,Mathis Brothers Furniture - Irvine,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,5316.0,0.0,2,0,FALSE,N,FALSE,FALSE,N
+1020006.0,"Etsy, Inc",E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1021236.0,Home Goods ECOMM,E-TAILER,SPECIALTY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027946.0,Mathis Home - Midwest City,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000548.0,Costco,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000639.0,Restoration Hardware,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1000794.0,American Furniture Warehouse,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002916.0,Cornerstone,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1002998.0,Williams Sonoma,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003006.0,"Ethan Allen Global, Inc",Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003172.0,Uttermost (VA),Design,Design Firm,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003735.0,Smartbargains.Com-Retail Convergence,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003739.0,Neiman Marcus Direct,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003915.0,Jordans Rugs (Canada) DI,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003918.0,American Furniture Warehouse DI,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003924.0,Restoration Hardware DI,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003931.0,Pottery Barn DI,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1003933.0,Uttermost (VA) DI,Retail,Private label,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005655.0,"Bloomingdales, Inc.",E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005758.0,"Design Within Reach, Inc.",Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1005931.0,Tj Maxx-Marshalls DI,Retail,Off-price,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006444.0,Cost Plus World Market DI,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1006833.0,Kohl's Department Stores (kohls.com) DI,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007572.0,"Nordstrom Canada Retail, Inc.",E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1007620.0,Nordstrom.com,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1008389.0,TJX Europe,Mass,Off-price,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1009596.0,Nordstrom,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010368.0,"Dillard's, Inc.",Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1010786.0,Dillards.com,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012190.0,John Lewis PLC,Mass,Off-price,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012223.0,"Sierra Trading Post, Inc.",Mass,Off-price,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1012362.0,Cost Plus World Market Closeouts,Mass,Off-price,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013614.0,R. H. Macy Company,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013615.0,The Rug Truck - Mink,E-tailer,Specialty,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1013630.0,QVC Direct Import,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1014863.0,Steinhafel's Furniture,Retail,Multiple locations,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1027514.0,FLS - Consignment,Retail,National,Unknown Unknown,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1038841.0,Ocean State Job Lot,Retail,Single location,Unknown Unknown,0.0,0.0,0,0,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,

@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Rico Berrios,,,,,,,,,,,,,,,
-Generated: 2025-12-23 14:01:36,,,,,,,,,,,,,,,
+Generated: 2026-01-07 14:11:41,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -21,26 +21,26 @@ Totals,3,8564.0,1,0,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 1 accounts | $8564.00 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1000640,Designer Rug Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,516.0,8564.0,2,4,FALSE,N,FALSE,FALSE,N
+1000640.0,Designer Rug Warehouse,RETAIL,MULTIPLE_LOCATIONS,Group 2 High Potential,516.0,8564.0,2,4,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 1 accounts | $0.00 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1038010,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1038010.0,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - FLOOR EXCEPTIONS: 1 accounts | $0.00 revenue,,,,,,,,,,,,,,,
 (BTF='Y' but account stayed with original rep - EXCEPTION MADE),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1017439,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
+1017439.0,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 2 accounts (1 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1017439,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
-1038010,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
+1017439.0,TEST CC customer,DESIGN,DESIGNER_INDEPENDENT,Group 3 Low Potential,0.0,0.0,0,1,FALSE,Y,TRUE,FALSE,N
+1038010.0,Donations - Jaipur Internal use only,RETAIL,SINGLE_LOCATION,Group 3 High Potential,0.0,0.0,0,2,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,

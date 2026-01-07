@@ -1,5 +1,5 @@
 ﻿Rep Detail Report V2: Archana Chaudhary,,,,,,,,,,,,,,,
-Generated: 2025-12-23 14:01:34,,,,,,,,,,,,,,,
+Generated: 2026-01-07 14:11:39,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 SUMMARY METRICS,,,,,,,,,,,,,,,
@@ -21,39 +21,39 @@ Totals,8,240890.58,0,0,,,,,,,,,,
 GROUP 1 (HIGH REVENUE) - KEEPING: 1 accounts | $240018.20 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1020083,Enkay,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,1311352.25,240018.2,2347,325,FALSE,N,FALSE,FALSE,N
+1020083.0,Enkay,RETAIL,SINGLE_LOCATION,Group 1 Low Potential,1311352.25,240018.2,2347,325,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 2 (MID REVENUE) - KEEPING: 1 accounts | $17941.56 revenue,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1035916,Econo,INTERNAL,UNKNOWN,Group 2 Low Potential,0.0,17941.56,0,1,TRUE,N,FALSE,FALSE,N
+1035916.0,Econo,INTERNAL,UNKNOWN,Group 2 Low Potential,0.0,17941.56,0,1,TRUE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 GROUP 3 (LOW REVENUE) - KEEPING: 6 accounts | $-17069.18 revenue,,,,,,,,,,,,,,,
 (Protected accounts - not flagged for floor removal),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1003829,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1019727,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022843,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1006160,Sample - Media,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,5188.5,-17069.18,72,76,FALSE,N,FALSE,FALSE,N
+1003829.0,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1019727.0,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022843.0,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022190.0,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024347.0,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1006160.0,Sample - Media,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,5188.5,-17069.18,72,76,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 REDIRECTED - SUMMARY: 1 total accounts,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Redirect_Category,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1014393,TestAccountDoNotUse 1014393,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
+1014393.0,TestAccountDoNotUse 1014393,DESIGN,DESIGN_FIRM,Group 3 Low Potential,Floor Removal - Active,0.0,0.0,1,0,FALSE,Y,FALSE,TRUE,N
 ,,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 ZERO REVENUE ACCOUNTS: 5 accounts (0 are new 2025 customers),,,,,,,,,,,,,,,
 ================================================================================,,,,,,,,,,,,,,,
 Customer No.,Account_Name,Segment,Sub_Segment,Segment_Label,Total_Rev_2024,Total_Rev_2025,Orders_2024,Orders_2025,Is_New_2025,BTF,Floor_Exception,Floor_Removed,In SF ex BI
-1024347,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
-1003829,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
-1019727,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022190,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
-1022843,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1024347.0,APEX LANDMARK,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,61008.42,0.0,1,0,FALSE,N,FALSE,FALSE,N
+1003829.0,Jaipur Rugs Co. Pvt. Ltd,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,13456.73,0.0,3,0,FALSE,N,FALSE,FALSE,N
+1019727.0,M.M International,INTERNAL,EMPLOYEEFRIENDFAMILY,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022190.0,B-Stock,RETAIL,MULTIPLE_LOCATIONS,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
+1022843.0,Harshul Handicraft,RETAIL,SINGLE_LOCATION,Group 3 Low Potential,0.0,0.0,0,0,FALSE,N,FALSE,FALSE,N
 ,,,,,,,,,,,,,,,
